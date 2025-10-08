@@ -1,17 +1,206 @@
 [
   {
+    "title": "This NYSE-Listed Food Company Aims to Stack $1.2 Billion in Bitcoin",
+    "link": "https://decrypt.co/343383/this-nyse-listed-food-company-aims-to-stack-1-2-billion-in-bitcoin",
+    "pubDate": "Wed, 08 Oct 2025 18:12:45 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "DDC's share price was up nearly 7% after announcing that it had raised an additional $124 million for Bitcoin purchases."
+  },
+  {
+    "title": "Price predictions 10/8: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, HYPE, LINK, SUI",
+    "link": "https://cointelegraph.com/news/price-predictions-10-8-btc-eth-bnb-xrp-sol-doge-ada-hype-link-sui?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 08 Oct 2025 19:06:17 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "Bitcoin’s brief pullback from its all-time high has not altered the bullish longer-term view, but bulls will have to swiftly push the price above $126,200 to retain the advantage."
+  },
+  {
+    "title": "Solana DeFi Exchange Jupiter to Launch Native Stablecoin",
+    "link": "https://decrypt.co/343416/solana-defi-jupiter-ethena-stablecoin-jupusd",
+    "pubDate": "Wed, 08 Oct 2025 17:57:47 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Solana DEX and DeFi protocol Jupiter is expanding its feature set with the launch of its own stablecoin, JupUSD, on Solana."
+  },
+  {
+    "title": "Poll shows crypto-focused candidates could sway voters in US midterms",
+    "link": "https://cointelegraph.com/news/poll-crypto-candidates-sway-voters-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 08 Oct 2025 18:48:26 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "With more than a year until US elections to determine control of Congress, a new poll suggested some crypto-minded Democratic voters could be swayed to vote Republican."
+  },
+  {
+    "title": "Stablecoins: The Revolution in Global Money Transfers",
+    "link": "https://www.coindesk.com/coindesk-indices/2025/10/08/stablecoins-the-revolution-in-global-money-transfers",
+    "pubDate": "Wed, 08 Oct 2025 17:03:27 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Stablecoins are no longer just a bridge between crypto and fiat — they are becoming the rails of global commerce, writes Nonco CEO Fernando Martinez."
+  },
+  {
+    "title": "North Dakota to Issue Stablecoin With Fiserv as Digital Dollar Trend Expands",
+    "link": "https://www.coindesk.com/business/2025/10/08/north-dakota-to-issue-stablecoin-with-fiserv-as-digital-dollar-trend-expands",
+    "pubDate": "Wed, 08 Oct 2025 16:41:37 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "The Fiserv-powered U.S. dollar stablecoin will be available to local banks and credit unions, joining crypto experiments by U.S. states."
+  },
+  {
+    "title": "The State of DeFi Exploit Risk ",
+    "link": "https://www.coindesk.com/coindesk-indices/2025/10/08/the-state-of-defi-exploit-risk",
+    "pubDate": "Wed, 08 Oct 2025 16:38:36 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "DeFi protocols can rival or surpass traditional financial security standards and introduce frameworks to better assess risks in real-world asset applications for smarter capital allocation, says Cicad"
+  },
+  {
+    "title": "3 reasons XRP’s time spent under $3 could be short-lived",
+    "link": "https://cointelegraph.com/news/3-reasons-why-xrp-s-time-spent-under-dollar3-could-be-short-lived?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 08 Oct 2025 17:35:34 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "Despite XRP’s dip below $3, strong whale accumulation, ETF optimism and bullish technicals suggest a rebound is brewing."
+  },
+  {
+    "title": "Tezos Shooter ‘Reaper Actual’ From EverQuest Co-Creator Enters Alpha Playtesting",
+    "link": "https://decrypt.co/343396/tezos-shooter-reaper-actual-from-everquest-co-creator-enters-alpha-playtesting",
+    "pubDate": "Wed, 08 Oct 2025 16:29:46 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "John Smedley, the man behind EverQuest, H1Z1, and PlanetSide, has debuted his crypto shooter into an alpha playtesting phase."
+  },
+  {
+    "title": "MetaMask Adds Support for Hyperliquid Swaps, Eyes Polymarket Integration",
+    "link": "https://decrypt.co/343399/metamask-support-hyperliquid-swaps-eyes-polymarket-integration",
+    "pubDate": "Wed, 08 Oct 2025 16:19:07 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "MetaMask also unveiled a rewards system."
+  },
+  {
+    "title": "Square offers Bitcoin payments for merchants as crypto adoption accelerates",
+    "link": "https://cointelegraph.com/news/square-bitcoin-payments-merchants-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 08 Oct 2025 17:18:41 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "Square’s new Bitcoin service lets US merchants accept BTC at checkout, hold it in a built-in wallet and get zero fees on transactions."
+  },
+  {
+    "title": "The Protocol: 77% of Bitcoin Holders Have Never Used BTCFi, Survey Reveals",
+    "link": "https://www.coindesk.com/tech/2025/10/08/the-protocol-77-of-bitcoin-holders-have-never-used-btcfi-survey-reveals",
+    "pubDate": "Wed, 08 Oct 2025 16:13:58 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Also: Ethereum Fusaka Upgrade on Holesky, DoubleZero Goes Live and Bee Maps Raises $42M."
+  },
+  {
+    "title": "CZ Family Office Kickstarts $1 Billion Builder Fund on BNB",
+    "link": "https://decrypt.co/343392/cz-family-office-kickstarts-1-billion-fund-bnb",
+    "pubDate": "Wed, 08 Oct 2025 16:13:03 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Binance co-founder Changpeng Zhao's family office is setting aside $1 billion for long-term builders on BNB Chain."
+  },
+  {
+    "title": "Satoshi’s $100B+ dormant Bitcoin stash: What happens if it finally moves",
+    "link": "https://cointelegraph.com/explained/satoshi-s-100b-dormant-bitcoin-stash-what-happens-if-it-finally-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 08 Oct 2025 17:12:34 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "Satoshi’s $100-billion Bitcoin hoard remains untouched. In case it enters the market, it might have unexpected outcomes."
+  },
+  {
+    "title": "Stellar (XLM) Rebounds Sharply as Institutional Interest Fuels Recovery Momentum",
+    "link": "https://www.coindesk.com/markets/2025/10/08/stellar-xlm-rebounds-sharply-as-institutional-interest-fuels-recovery-momentum",
+    "pubDate": "Wed, 08 Oct 2025 16:08:11 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "XLM climbed back above $0.39 after a brief sell-off, with rising open interest signaling renewed institutional confidence."
+  },
+  {
+    "title": "Coinbase Debuts Crypto Staking in New York, Citing Deal With State Regulators",
+    "link": "https://decrypt.co/343394/coinbase-crypto-staking-new-york-state-regulators",
+    "pubDate": "Wed, 08 Oct 2025 15:54:11 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "After years of restrictions, the company now allows customers in the state to earn yield on ETH, SOL, and other crypto tokens."
+  },
+  {
+    "title": "Solana's Jupiter to Develop JupUSD Stablecoin With Backing From Ethena Labs",
+    "link": "https://www.coindesk.com/web3/2025/10/08/solana-s-jupiter-to-develop-jupusd-stablecoin-with-backing-from-ethena-labs",
+    "pubDate": "Wed, 08 Oct 2025 15:49:10 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "JupUSD will be developed in partnership with Ethana Labs and initially be fully collateralized by Ethana's USDtb stablecoin."
+  },
+  {
+    "title": "Bitcoin’s On-Chain Profitability Has Surged With 97% of Supply Now in Profit: Glassnode",
+    "link": "https://www.coindesk.com/markets/2025/10/08/bitcoin-s-on-chain-profitability-has-surged-with-97-of-supply-now-in-profit-glassnode",
+    "pubDate": "Wed, 08 Oct 2025 15:47:13 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Glassnode says bitcoin’s breakout to record highs came on the back of $2.2 billion in ETF inflows and steady accumulation from smaller holders, not speculative hype."
+  },
+  {
+    "title": "This Trend Has Marked Local Tops in Bitcoin, but This Time May Be Different",
+    "link": "https://www.coindesk.com/markets/2025/10/08/this-trend-has-marked-local-tops-in-bitcoin-but-this-time-may-be-different",
+    "pubDate": "Wed, 08 Oct 2025 15:45:04 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Despite increasing by 450,000 BTC since July, short-term holders remain below prior highs, signaling tempered market sentiment."
+  },
+  {
+    "title": " Ethereum’s Fusaka Upgrade Could Cut Node Costs, Ease Adoption",
+    "link": "https://www.coindesk.com/tech/2025/10/08/ethereum-s-fusaka-upgrade-could-cut-node-costs-ease-adoption",
+    "pubDate": "Wed, 08 Oct 2025 15:33:36 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Fusaka – a blend of the names Fulu and Osaka – consists of two simultaneous upgrades to Ethereum’s consensus and execution layers, respectively."
+  },
+  {
+    "title": "HBAR Breaks Out of Consolidation as ETF Hopes and Investor Interest Rise",
+    "link": "https://www.coindesk.com/markets/2025/10/08/hbar-breaks-out-of-consolidation-as-etf-hopes-and-investor-interest-rise",
+    "pubDate": "Wed, 08 Oct 2025 15:29:17 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Hedera’s native token climbed 2% in a steady 24-hour advance, capped by a late-session breakout fueled by renewed volume."
+  },
+  {
+    "title": "Why Is BNB So Resilient Amid the Crypto Market Pullback?",
+    "link": "https://decrypt.co/343377/bnb-resilient-crypto-market-pullback",
+    "pubDate": "Wed, 08 Oct 2025 15:18:26 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "BNB sits just 2% from record high while other major cryptos have fallen."
+  },
+  {
+    "title": "Pump.Fun rival FORM eyes 40% rally after CZ declares ‘BNB meme szn’",
+    "link": "https://cointelegraph.com/news/pump-fun-rival-form-eyes-40percent-rally-after-cz-declares-bnb-meme-szn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 08 Oct 2025 16:07:07 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "Four.Meme has surpassed rival Pump.Fun’s daily revenue in the past 24 hours was $1.4 million, compared to the latter’s $885,000."
+  },
+  {
+    "title": "Coinbase enables staking for NY residents after regulatory approval",
+    "link": "https://cointelegraph.com/news/coinbase-staking-new-york-residents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 08 Oct 2025 15:37:34 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "Coinbase has launched crypto staking in New York, allowing residents to earn rewards on assets such as ETH and SOL following state regulatory approval."
+  },
+  {
+    "title": "DOGE price gained 445% the last time this indicator flashed green",
+    "link": "https://cointelegraph.com/news/doge-price-gained-445-percent-last-time-this-indicator-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 08 Oct 2025 15:10:00 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "The last two times Dogecoin price rallied 300% and 445% after its monthly RSI produced a bullish cross, and the same signal has now flashed again."
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 08 Oct 2025 14:47:44 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
+  },
+  {
+    "title": "Dubai’s crypto grand strategy aims to challenge Asian crown",
+    "link": "https://cointelegraph.com/news/dubai-crypto-grand-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 08 Oct 2025 14:30:00 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "Dubai deploys oil wealth and Islamic finance to challenge Asian crypto dominance, but Hong Kong’s liquidity firepower and Beijing backing maintain supremacy."
+  },
+  {
+    "title": "Morning Minute: Polymarket Raises $2B at $9B Valuation from NYSE Parent",
+    "link": "https://decrypt.co/343372/morning-minute-polymarket-raises-2b-at-9b-valuation-from-nyse-parent",
+    "pubDate": "Wed, 08 Oct 2025 12:33:42 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The bigger part of the announcement is the new integration and distribution Polymarket gains via this partnership."
+  },
+  {
     "title": "Over $489M in Crypto Longs Liquidated as Bitcoin, Ethereum Extend Losses",
     "link": "https://decrypt.co/343371/over-489m-in-crypto-longs-liquidated-as-bitcoin-ethereum-extend-losses",
     "pubDate": "Wed, 08 Oct 2025 12:19:58 +0000",
     "source": "Decrypt",
     "contentSnippet": "Bitcoin's drop triggered $641 million in liquidations, but analysts see a healthy correction with a path to $135K if ETF inflows resume."
-  },
-  {
-    "title": " Ethereum DATs are the next Berkshire Hathaway: Consensys founder ",
-    "link": "https://cointelegraph.com/news/ethereum-dats-the-next-berkshire-hathaway-consensys-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 08 Oct 2025 13:07:33 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "Ethereum co-founder Joseph Lubin believes ETH-based digital asset treasuries will become a “Berkshire Hathaway-style” vehicle for the decentralized economy."
   },
   {
     "title": "British Duo On Trial for Planning to Steal $23m in Crypto—From Behind Bars",
@@ -21,109 +210,11 @@
     "contentSnippet": "The pair are accused of planning robberies that targeted holders of “significant amounts of cryptocurrency assets” from jail."
   },
   {
-    "title": "US Labor Union Federation Slams Senate Crypto Bill as 'Facade of Regulation'",
-    "link": "https://decrypt.co/343366/us-labor-union-federation-slams-senate-crypto-bill-as-facade-of-regulation",
-    "pubDate": "Wed, 08 Oct 2025 11:15:39 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "AFL-CIO's opposition comes as the Senate rushes toward a year-end vote on legislation that would let banks trade crypto with FDIC backing."
-  },
-  {
-    "title": "Gold's Historic Run Dwarfs BTC But Analyst Remains Positive: Crypto Daybook Americas",
-    "link": "https://www.coindesk.com/daybook-us/2025/10/08/gold-s-historic-run-dwarfs-btc-but-analyst-remain-positive-crypto-daybook-americas",
-    "pubDate": "Wed, 08 Oct 2025 11:00:55 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Your day-ahead look for Oct. 8, 2025"
-  },
-  {
-    "title": "Survey Says: Crypto Voters May Skew Liberal But Favor What Trump's Done for Industry",
-    "link": "https://www.coindesk.com/policy/2025/10/07/survey-says-crypto-voters-may-skew-liberal-but-favor-what-trump-s-done-for-industry",
-    "pubDate": "Wed, 08 Oct 2025 11:00:00 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "The diverse, young crowd of crypto investors may remain one of the few electoral sweet spots for President Donald Trump, according to an industry-funded poll."
-  },
-  {
-    "title": " BNB Chain memecoins mint new millionaires in wild trading week ",
-    "link": "https://cointelegraph.com/news/bnb-chain-memecoin-traders-make-millions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 08 Oct 2025 11:56:29 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "BNB Chain traders made millions on new memecoins going parabolic, with one turning $3,500 into $7.9 million amid a surge in onchain trading activity."
-  },
-  {
-    "title": " From TerraUSD to YU: Why stablecoins fail to hold $1 and the risks investors can’t ignore ",
-    "link": "https://cointelegraph.com/news/from-terrausd-to-yu-why-stablecoins-fail-to-hold-1-and-the-risks-investors-can-t-ignore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 08 Oct 2025 11:33:25 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "From TerraUSD’s crash to Yala’s YU, several stablecoins have failed to hold their peg. Here’s why depegging happens and the risks you can’t afford to ignore."
-  },
-  {
-    "title": " Forward Industries launches Solana validator, almost $1.7B SOL staked ",
-    "link": "https://cointelegraph.com/news/forward-industries-solana-validator-commission?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 08 Oct 2025 11:03:54 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "Forward Industries staked its entire Solana treasury into a new validator, immediately joining the network’s top 10."
-  },
-  {
-    "title": " $10B in Ethereum awaits exit as validator withdrawals surge ",
-    "link": "https://cointelegraph.com/news/ethereum-exit-queue-10b-record-selling-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 08 Oct 2025 10:36:59 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "Ethereum’s validator exit queue has increased to a record $10 billion, but institutional participants, such as Grayscale, are stepping in to replace the exodus."
-  },
-  {
-    "title": "YZi Labs Introduces $1B Fund for BNB Chain Projects",
-    "link": "https://www.coindesk.com/business/2025/10/08/yzi-labs-introduces-usd1b-fund-for-bnb-chain-projects",
-    "pubDate": "Wed, 08 Oct 2025 09:29:26 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "YZI Labs says it wants the BNB ecosystem to form a backbone of \"democratized access and ownership\""
-  },
-  {
-    "title": " CZ’s YZi Labs launches $1B BNB fund as token hits new highs ",
-    "link": "https://cointelegraph.com/news/yzi-labs-cz-1-billion-bnb-builder-fund-token-new-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 08 Oct 2025 10:22:52 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "The Changpeng Zhao-founded YZi Labs is launching a $1 billion fund targeting builders in the BNB ecosystem as BNB skyrockets to all-time highs above $1,300."
-  },
-  {
-    "title": " XRP as Wall Street’s dark horse: Why some funds see it like Bitcoin ",
-    "link": "https://cointelegraph.com/explained/xrp-as-wall-streets-dark-horse-why-some-funds-see-it-like-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 08 Oct 2025 10:22:24 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "Seven spot XRP ETF rulings and Ripple’s bank charter decision hit in October 2025. Discover why funds see XRP as Wall Street’s dark horse."
-  },
-  {
-    "title": "Bitcoin Under Pressure as Japanese Bond Yield Hits 17-Year High, Yen Depreciates ",
-    "link": "https://www.coindesk.com/markets/2025/10/08/bitcoin-under-pressure-as-japanese-bond-yield-hits-17-year-high-yen-depreciates",
-    "pubDate": "Wed, 08 Oct 2025 09:22:18 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "The hardening of Japanese government bond yields could spillover into other sovereign bond markets, capping upside in risk assets, including BTC."
-  },
-  {
-    "title": "Wealth App Stratiphy Partners With 21Shares to Offer Crypto ETNs Under New UK Rules",
-    "link": "https://www.coindesk.com/business/2025/10/08/wealth-management-app-stratiphy-and-21shares-partner-for-uk-access-to-crypto-etns",
-    "pubDate": "Wed, 08 Oct 2025 09:15:01 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "The partnership launches as FCA rules change to allow UK retail investors to buy crypto Exchange Traded Notes."
-  },
-  {
-    "title": " TRUMP memecoin issuer seeks $200M treasury as token plunges 90% ",
-    "link": "https://cointelegraph.com/news/trump-memecoin-issuer-raises-200m-to-build-buyback-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 08 Oct 2025 09:50:27 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "The company behind President Donald Trump’s memecoin is seeking $200 million to build a treasury aimed at supporting the token’s price, which has plunged 90% from its peak."
-  },
-  {
     "title": "ビットフライヤー、「スカイ（SKY）」の取扱い開始　メイカーダオ後継トークン",
     "link": "https://coinpost.jp/?p=656295",
     "pubDate": "Wed, 08 Oct 2025 17:12:42 +0900",
     "source": "CoinPost",
     "contentSnippet": "bitFlyerは、メイカーダオ（MakerDAO）の後継トークン「スカイ（SKY）」の取扱いを開始。取扱記念キャンペーンも実施し、販売所での購入が可能となった。"
-  },
-  {
-    "title": " Bitcoin risks plunge to $114K as &#039;predatory&#039; traders squeeze BTC longs ",
-    "link": "https://cointelegraph.com/news/bitcoin-risks-new-114k-plunge-predatory-traders-squeeze-btc-longs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 08 Oct 2025 09:01:32 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "Bitcoin price analysis gave a new $114,000 bottom target for BTC after a 4% drop from all-time highs, while traders added fresh liquidity."
   },
   {
     "title": "IG証券、ビットコインETF・イーサリアムETFのCFD取引を提供開始",
@@ -133,53 +224,11 @@
     "contentSnippet": "IG証券がビットコインETF・イーサリアムETFのCFD取引を開始。制度化が進む日本市場で、税区分や課税扱いを巡る動向にも注目が集まる。"
   },
   {
-    "title": " How to spot coins before they get listed on Binance or Coinbase ",
-    "link": "https://cointelegraph.com/news/how-to-spot-coins-before-they-get-listed-on-binance-or-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 08 Oct 2025 08:05:34 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "AI tools, onchain data and community signals are influencing how traders spot tokens before they hit major exchanges."
-  },
-  {
-    "title": "PancakeSwap’s Chinese X Account Hacked to Push Scam Coin, Native Token Defies Drop",
-    "link": "https://decrypt.co/343362/pancakeswaps-chinese-x-account-hacked-native-token-defies-drop",
-    "pubDate": "Wed, 08 Oct 2025 06:11:48 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The price of PancakeSwap's native token remains mostly unaffected as experts blame the attack on phishing and weak security."
-  },
-  {
-    "title": "Bitcoin to $140K by Month End? Bullish Hopes Remain Even as Tuesday Drop Sends ETH, XRP, SOL Down 5%",
-    "link": "https://www.coindesk.com/markets/2025/10/08/bitcoin-to-usd140k-by-month-end-bullish-hopes-remain-even-as-tuesday-drop-sends-eth-xrp-sol-down-5",
-    "pubDate": "Wed, 08 Oct 2025 05:54:48 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "With no payrolls or inflation prints on the calendar until Washington reopens, the market is running on positioning and flows rather than fresh catalysts."
-  },
-  {
-    "title": "XRP Crash Brewing? Prices Continue to Print 'Lower Highs' Alongside New Highs in Bitcoin",
-    "link": "https://www.coindesk.com/markets/2025/10/08/xrp-crash-brewing-prices-continue-to-print-lower-highs-alongside-new-highs-in-bitcoin",
-    "pubDate": "Wed, 08 Oct 2025 05:31:49 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "The pattern makes XRP vulnerable to sharp downside volatility."
-  },
-  {
     "title": "「ビットコインは金に比べ著しく過小評価」ライトスパークCEO語る",
     "link": "https://coinpost.jp/?p=656211",
     "pubDate": "Wed, 08 Oct 2025 14:00:14 +0900",
     "source": "CoinPost",
     "contentSnippet": "ライトスパークCEOのデービッド・マーカス氏が、ビットコインは金と比較して著しく過小評価されており、金と同等の価値なら1BTC=130万ドルに達すると主張した。金価格が史上最高値の4000ドルを突破する中、JPモルガンもビットコインが過小評価されていると指摘し、16.5万ドルの価格予測を発表している。"
-  },
-  {
-    "title": "Kazakhstan Tightens Crypto Rules After Seizing $16.7M From Unlicensed Exchanges",
-    "link": "https://decrypt.co/343359/kazakhstan-tightens-crypto-rules-seizing-16-7m-illegal-exchanges",
-    "pubDate": "Wed, 08 Oct 2025 04:56:16 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The country's plans represent \"one of the boldest experiments in tying physical identity to financial transparency,\" Decrypt was told."
-  },
-  {
-    "title": "Dogecoin Plunges 8% Before Whale Buying Stabilizes at DOGE Prices $0.25",
-    "link": "https://www.coindesk.com/markets/2025/10/08/dogecoin-plunges-8-before-whale-buying-stabilizes-at-doge-prices-usd0-25",
-    "pubDate": "Wed, 08 Oct 2025 04:30:36 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Institutional interest remains with ETF filings, while mining investments signal long-term confidence in DOGE."
   },
   {
     "title": "トランプミームコイン発行企業、2億ドル調達でトレジャリー企業設立へ＝報道",
@@ -189,39 +238,11 @@
     "contentSnippet": "TRUMPミームコイン発行企業が最低2億ドルの資金調達を計画中とブルームバーグが報道。低迷するトークン蓄積のためデジタル資産トレジャリー企業設立を目指す。"
   },
   {
-    "title": "Gold Skyrockets Past $4K, Bitcoin Looks South as Dollar Index Hits 2-Month High",
-    "link": "https://www.coindesk.com/markets/2025/10/08/gold-skyrockets-past-usd4k-bitcoin-looks-south-as-dollar-index-hits-2-month",
-    "pubDate": "Wed, 08 Oct 2025 04:19:05 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Bitcoin and gold have diverged over the past 24 hours amid a strengthening dollar index."
-  },
-  {
     "title": "米金融大手BNYメロン、トークン化預金を検討＝報道",
     "link": "https://coinpost.jp/?p=656195",
     "pubDate": "Wed, 08 Oct 2025 13:10:22 +0900",
     "source": "CoinPost",
     "contentSnippet": "BNYメロンがトークン化預金の導入検討をブルームバーグが報道。1日2.5兆ドルの決済を処理する同行がブロックチェーン活用でインフラ近代化を推進。"
-  },
-  {
-    "title": "Bitcoin’s Short-Term Whales Now Hold $10.1B in Paper Gains. Is a Cash Out Next?",
-    "link": "https://www.coindesk.com/markets/2025/10/08/bitcoin-s-short-term-whales-now-hold-usd10-1b-in-paper-gains-is-a-cash-out-next",
-    "pubDate": "Wed, 08 Oct 2025 04:00:31 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Exchange inflow data already showed $5.7 billion moving from STH wallets into exchanges earlier this week, marking an early sign that profit-taking is not a theoretical risk, but an active one."
-  },
-  {
-    "title": "Why Altcoins Are Dragging Their Feet as Bitcoin, Ethereum Soar",
-    "link": "https://decrypt.co/343356/why-altcoins-are-dragging-their-feet-as-bitcoin-ethereum-soar",
-    "pubDate": "Wed, 08 Oct 2025 03:47:46 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Experts say altcoins lag as capital favors Bitcoin and Ethereum's liquidity, with any future rally being highly selective toward utility."
-  },
-  {
-    "title": "SEC to Formalize Crypto 'Innovation' Exemptions: Here's Why That Matters",
-    "link": "https://decrypt.co/343353/sec-formalize-crypto-innovation-exemptions",
-    "pubDate": "Wed, 08 Oct 2025 03:36:02 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The regulator is developing a framework that could let crypto projects experiment under supervision instead of facing enforcement."
   },
   {
     "title": "「仮想通貨への投資は今でも遅すぎない」パンテラ幹部が見解",
@@ -252,31 +273,10 @@
     "contentSnippet": "企業とETFによる仮想通貨イーサリアムの保有額が供給の10%を突破した。ビットマインやシャープリンクが大量蓄積を続ける一方、過熱へ注意を呼びかける論者も。最新動向を解説する。"
   },
   {
-    "title": "Crypto’s Retail Era Is Over: Institutions Now Set the Market’s Pace, Experts Say",
-    "link": "https://decrypt.co/343350/cryptos-retail-era-over-institutions-set-markets-pace-experts",
-    "pubDate": "Tue, 07 Oct 2025 23:56:48 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Executives from Bitwise and Aspen Digital say long-term institutional capital now drives crypto as ETFs and wealth managers bring stability."
-  },
-  {
     "title": "ビットコイン史上最高値圏で急落、デリバティブ市場は強気継続を示唆｜仮想NISHI",
     "link": "https://coinpost.jp/?p=656149",
     "pubDate": "Wed, 08 Oct 2025 08:10:43 +0900",
     "source": "CoinPost",
     "contentSnippet": "仮想通貨ビットコインは7〜8日にかけて、史上最高値付近まで上昇したのち急落するという激しい値動きを見せた。最高値圏では流動性が極めて薄く、ボラティリティが急拡大しやすい局面にある。"
-  },
-  {
-    "title": "Bitcoin Cools but Analysts Remain Upbeat. Why?",
-    "link": "https://decrypt.co/343265/bitcoin-cools-but-analysts-remain-upbeat-why",
-    "pubDate": "Tue, 07 Oct 2025 22:25:05 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "One observer said that BTC could surpass $140,000 by year's end."
-  },
-  {
-    "title": "Uptober in Full Swing as Crypto Market Tops $4.3 Trillion: Here's What to Expect",
-    "link": "https://decrypt.co/343319/uptober-full-swing-crypto-market-what-to-expect",
-    "pubDate": "Tue, 07 Oct 2025 21:21:11 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The crypto market hit an all-time high this week as Bitcoin again shattered records. But can bulls sustain the momentum throughout the entire month of Uptober?"
   }
 ]
