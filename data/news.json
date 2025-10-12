@@ -1,5 +1,82 @@
 [
   {
+    "title": "Friday’s $20B Crypto Market Meltdown: A Bitwise Portfolio Manager’s Postmortem Analysis",
+    "link": "https://www.coindesk.com/markets/2025/10/12/friday-s-usd20b-crypto-market-meltdown-a-bitwise-portfolio-manager-s-postmortem-analysis",
+    "pubDate": "Sat, 11 Oct 2025 23:57:30 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Jonathan Man outlines a $20 billion liquidation day, long-tail air pockets and a positioning reset that left markets on different footing by Saturday."
+  },
+  {
+    "title": "Relax, Bitcoin is going to be ok, even if BTC lost 13% in 8 hours: The proof is in the data",
+    "link": "https://cointelegraph.com/news/relax-bitcoin-is-going-to-be-ok-even-if-btc-lost-13-in-8-hours-the-proof-s-in-the-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 11 Oct 2025 23:41:45 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "Bitcoin’s $16,700 drop on Friday triggered $5B in futures liquidations, exposing a fragile market structure and renewed volatility despite this year’s spot BTC ETF-driven optimism."
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 11 Oct 2025 23:04:16 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
+  },
+  {
+    "title": "How Auto-Deleveraging on Crypto Perp Trading Platforms Can Shock and Anger Even Advanced Traders",
+    "link": "https://www.coindesk.com/markets/2025/10/11/how-adl-on-crypto-perp-trading-platforms-can-shock-and-anger-even-advanced-traders",
+    "pubDate": "Sat, 11 Oct 2025 21:58:55 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Doug Colkitt’s explainer details a backstop that trims winners, ranks accounts by profit leverage and size, and keeps zero-sum markets solvent under stress."
+  },
+  {
+    "title": "Market crash 'does not have long-term fundamental implications' — Analyst",
+    "link": "https://cointelegraph.com/news/market-crash-no-long-term-fundamental-implications?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 11 Oct 2025 22:47:02 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "The crash was caused by a perfect storm of short-term factors, causing $20 billion in liquidations — the worst 24-hour drain in crypto history."
+  },
+  {
+    "title": "Bitcoin, altcoin market sell off continues: What was the cause and when will it end?",
+    "link": "https://cointelegraph.com/news/bitcoin-altcoin-market-sell-off-continues-what-was-the-cause-and-when-will-it-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 11 Oct 2025 22:09:39 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "The selling in Bitcoin and altcoin is not over yet, but data suggests that the nature of the CME Bitcoin and equities futures market open on Sunday will determine the direction BTC price takes."
+  },
+  {
+    "title": "The Latest Nobel Peace Prize Winner Is a Bitcoin Supporter",
+    "link": "https://decrypt.co/343891/latest-nobel-peace-prize-winner-bitcoin-supporter",
+    "pubDate": "Sat, 11 Oct 2025 20:31:04 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "This year's Nobel Peace Prize winner, Venezuelan opposition leader María Corina Machado, previously spoke about Bitcoin as resistance money."
+  },
+  {
+    "title": "ETH down 6.7% after crypto ‘Black Monday,’ showing more resilience than alts",
+    "link": "https://cointelegraph.com/news/eth-down-6-after-crypto-black-monday-resilience-alts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 11 Oct 2025 20:44:34 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "Some altcoins lost over 95% of their value during Friday’s crash, which triggered the most severe and rapid liquidations in crypto history."
+  },
+  {
+    "title": "When You Tell AI Models to Act Like Women, Most Become More Risk-Averse: Study",
+    "link": "https://decrypt.co/343871/tell-ai-models-act-like-women-most-become-more-risk-averse-study",
+    "pubDate": "Sat, 11 Oct 2025 19:01:03 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "New research shows language models mirror human gender patterns in decision-making, with some AIs dramatically changing their risk tolerance based on whether they're prompted to think as male or femal"
+  },
+  {
+    "title": "Coinbase’s Upcoming Amex Card With BTC Cashback: Everything We Know So Far",
+    "link": "https://www.coindesk.com/markets/2025/10/11/coinbase-s-upcoming-amex-card-with-btc-cashback-everything-we-know-so-far",
+    "pubDate": "Sat, 11 Oct 2025 18:57:55 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Coinbase is planning to launch an Amex card whose design and rewards program are aimed squarely at bitcoiners — or those who want to become one."
+  },
+  {
+    "title": "Ethena's USDe Briefly Loses Peg During $19B Crypto Liquidation Cascade",
+    "link": "https://www.coindesk.com/markets/2025/10/11/ethena-s-usde-briefly-loses-peg-during-usd19b-crypto-liquidation-cascade",
+    "pubDate": "Sat, 11 Oct 2025 18:18:10 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "USDe recovered quickly, and Ethena Labs confirmed that the mint and redeem functionality remained operational, with the stablecoin remaining overcollateralized."
+  },
+  {
     "title": "US Senate passes GAIN Act, prioritizing domestic AI and HPC chip sales",
     "link": "https://cointelegraph.com/news/senate-passes-gain-act-prioritizing-domestic-hpc-ai-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sat, 11 Oct 2025 18:38:47 +0100",
@@ -84,20 +161,6 @@
     "contentSnippet": "Hargreaves Lansdown says bitcoin lacks intrinsic value and shouldn’t be part of portfolios, even as it prepares to launch crypto ETN trading for clients early next year."
   },
   {
-    "title": "Norwegian Officials Probe Major Polymarket Bets on Nobel Peace Winner",
-    "link": "https://www.coindesk.com/markets/2025/10/11/norwegian-officials-probe-major-polymarket-bets-on-nobel-peace-winner",
-    "pubDate": "Sat, 11 Oct 2025 14:27:14 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "A trader with a new account and no prior betting history placed a $70,000 bet on Venezuelan opposition leader Maria Corina Machado winning the prize."
-  },
-  {
-    "title": "State of Crypto: Market Structure Negotiations?",
-    "link": "https://www.coindesk.com/policy/2025/10/11/state-of-crypto-market-structure-negotiations",
-    "pubDate": "Sat, 11 Oct 2025 14:00:00 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "A proposed regulatory framework for DeFi has the industry up in arms."
-  },
-  {
     "title": "AI-powered wearables will force our privacy norms to change",
     "link": "https://cointelegraph.com/news/ai-wearables-privacy-expectations-to-change?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sat, 11 Oct 2025 14:30:00 +0100",
@@ -105,60 +168,11 @@
     "contentSnippet": "AI wearables will harvest our most intimate data while we pretend privacy still exists. Cryptography could enable us to keep our privacy."
   },
   {
-    "title": "DOGE Suffers 50% Flash Crash Before Stabilizing Near $0.19",
-    "link": "https://www.coindesk.com/markets/2025/10/11/doge-suffers-50-flash-crash-before-stabilizing-near-usd0-19",
-    "pubDate": "Sat, 11 Oct 2025 13:17:47 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "The move wiped out billions in nominal value, triggered cascading liquidations."
-  },
-  {
     "title": "Six global policy changes that affected crypto this week",
     "link": "https://cointelegraph.com/news/six-global-policy-changes-affected-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sat, 11 Oct 2025 14:15:00 +0100",
     "source": "Cointelegraph",
     "contentSnippet": "Major policy changes worldwide are shaping how the crypto industry will operate."
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 11 Oct 2025 14:13:28 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
-  },
-  {
-    "title": "Crypto.com CEO calls for probe into exchanges after $20B liquidations",
-    "link": "https://cointelegraph.com/news/crypto-com-ceo-regulatory-probe-exchanges-20b-liquidations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 11 Oct 2025 14:07:11 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "Crypto.com CEO Kris Marszalek has urged regulators to probe exchanges after $20 billion in liquidations, far outpacing any previous market crash, including FTX."
-  },
-  {
-    "title": "Three Bitcoin charts to watch after BTC price’s flash crash to $103K",
-    "link": "https://cointelegraph.com/news/three-bitcoin-charts-to-watch-after-btc-price-s-flash-crash-to-103k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 11 Oct 2025 13:44:49 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "BTC’s price decline is relatively less severe than what occurred before significant reversals in the past, suggesting that Bitcoin may continue its uptrend."
-  },
-  {
-    "title": "Gold-Backed Tokens Hold Firm in $19B Crypto Rout, but Rally May Be Near Exhaustion",
-    "link": "https://www.coindesk.com/markets/2025/10/11/gold-backed-tokens-hold-firm-in-usd19b-crypto-rout-but-rally-may-be-near-exhaustion",
-    "pubDate": "Sat, 11 Oct 2025 11:36:05 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Gold-backed tokens have been a refuge for crypto investors, with year-to-date gains of over 50%, mirroring gold's historic rally."
-  },
-  {
-    "title": "Galaxy Digital raises $460M to transform Texas Bitcoin mine into AI data center",
-    "link": "https://cointelegraph.com/news/galaxy-digital-460m-ai-data-center-texas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 11 Oct 2025 11:13:53 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "Mike Novogratz’s Galaxy Digital has secured a $460 million investment to convert its former Bitcoin mining site in Texas into a large-scale AI data center."
-  },
-  {
-    "title": "Bitcoin wobbles at $110K as trader says $20B liquidation rout not 'bottom'",
-    "link": "https://cointelegraph.com/news/bitcoin-wobbles-110k-trader-says-20b-liquidation-rout-not-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 11 Oct 2025 10:13:30 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "Bitcoin stayed near three-week lows after a giant $20 billion liquidation cascade, but crypto market predictions warned that the bottom was not yet in."
   },
   {
     "title": "ビットコイン200万円幅急落、トランプ関税発言でロスカット3兆円と史上最大規模に｜仮想NISHI",
@@ -264,19 +278,5 @@
     "pubDate": "Fri, 10 Oct 2025 19:01:36 +0000",
     "source": "Decrypt",
     "contentSnippet": "Polymarket is focused on re-entering the U.S. market before the prediction market attempts to launch a token."
-  },
-  {
-    "title": "Hyperliquid User Loses $21 Million Due to Private Key Compromise, Experts Say",
-    "link": "https://decrypt.co/343849/hyperliquid-user-loses-21-million-private-key-compromise",
-    "pubDate": "Fri, 10 Oct 2025 18:16:14 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "After having their private key leaked, a Hyperliquid user lost $21 million—a painful reminder of the importance of personal security."
-  },
-  {
-    "title": "Don't Buy Bitcoin, Warns UK Investment Giant Hargreaves Lansdown—Here's Why",
-    "link": "https://decrypt.co/343837/dont-buy-bitcoin-warns-uk-investment-giant-hargreaves-lansdown",
-    "pubDate": "Fri, 10 Oct 2025 17:58:01 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "British investment platform Hargreaves Lansdown has warned users to stay away from Bitcoin, saying crypto has \"no intrinsic value.\""
   }
 ]
