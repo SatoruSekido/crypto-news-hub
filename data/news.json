@@ -1,5 +1,47 @@
 [
   {
+    "title": "'Very high chance' this is the start of the crypto bull market: Trader",
+    "link": "https://cointelegraph.com/news/crypto-market-bull-run-start-trader-forecasts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 12 Oct 2025 06:22:22 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "The crypto market plunge on Friday was partly due to crypto traders reaching an “all-time impatience” with the market,” says crypto trader Alex Becker."
+  },
+  {
+    "title": "今週の主要仮想通貨材料まとめ、ETH1万ドル到達の可能性やBNBの過去最高値更新など",
+    "link": "https://coinpost.jp/?p=656757",
+    "pubDate": "Sun, 12 Oct 2025 14:00:14 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "前週比で振り返る仮想通貨市場の最新動向。ビットコインやイーサリアム、BNB、ソラナといった主要銘柄の騰落率や注目材料を一挙紹介。市場トレンドと関連ニュースを詳しく解説する。"
+  },
+  {
+    "title": "IG証券のビットコインETF「IBIT」CFD取引の始め方｜税制・手数料・リスクを徹底解説",
+    "link": "https://coinpost.jp/?p=657082",
+    "pubDate": "Sun, 12 Oct 2025 12:00:24 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "IG証券のビットコインETF「IBIT」CFD取引を徹底解説。申告分離課税適用で税率20.315%の可能性、24時間365日取引、レバレッジ5倍など特徴を詳しく紹介。口座開設から注文方法、手数料、ファンディングコスト、リスク管理まで初心者にもわかりやすく説明します。"
+  },
+  {
+    "title": "高値圏での日柄調整が続く可能性、半減期サイクルの節目に警戒感｜bitbankアナリスト寄稿",
+    "link": "https://coinpost.jp/?p=656897",
+    "pubDate": "Sun, 12 Oct 2025 11:30:03 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "BTC円は1900万円トライに失敗し1860万円台で推移。米政府閉鎖による指標発表延期で方向感欠く展開が続く中、10月18日に半減期サイクルの重要な節目を迎える。過去のサイクルを意識した売り圧力とETF資金流入の綱引きに注目。"
+  },
+  {
+    "title": "週刊ニュース｜トランプ関税によるBTC暴落やBinance JapanとPayPayの提携に高い関心",
+    "link": "https://coinpost.jp/?p=657033",
+    "pubDate": "Sun, 12 Oct 2025 11:00:48 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "今週はメタプラネットの仮想通貨ビットコインの含み益、休眠クジラの6000億円BTC移動やトランプ関税などによるビットコイン急落、Binance JapanとPayPayの提携に関する記事が関心を集めた。"
+  },
+  {
+    "title": "Crypto traders blame Trump’s tariffs in search of ‘singular event’: Santiment",
+    "link": "https://cointelegraph.com/news/crypto-traders-us-donald-trump-tariffs-market-decline-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 12 Oct 2025 02:10:19 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "The US-China talks will “be central” to crypto traders’ market moves in the short-term, sentiment platform Santiment said."
+  },
+  {
     "title": "Friday’s $20B Crypto Market Meltdown: A Bitwise Portfolio Manager’s Postmortem Analysis",
     "link": "https://www.coindesk.com/markets/2025/10/12/friday-s-usd20b-crypto-market-meltdown-a-bitwise-portfolio-manager-s-postmortem-analysis",
     "pubDate": "Sat, 11 Oct 2025 23:57:30 +0000",
@@ -161,20 +203,6 @@
     "contentSnippet": "Hargreaves Lansdown says bitcoin lacks intrinsic value and shouldn’t be part of portfolios, even as it prepares to launch crypto ETN trading for clients early next year."
   },
   {
-    "title": "AI-powered wearables will force our privacy norms to change",
-    "link": "https://cointelegraph.com/news/ai-wearables-privacy-expectations-to-change?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 11 Oct 2025 14:30:00 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "AI wearables will harvest our most intimate data while we pretend privacy still exists. Cryptography could enable us to keep our privacy."
-  },
-  {
-    "title": "Six global policy changes that affected crypto this week",
-    "link": "https://cointelegraph.com/news/six-global-policy-changes-affected-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 11 Oct 2025 14:15:00 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "Major policy changes worldwide are shaping how the crypto industry will operate."
-  },
-  {
     "title": "ビットコイン200万円幅急落、トランプ関税発言でロスカット3兆円と史上最大規模に｜仮想NISHI",
     "link": "https://coinpost.jp/?p=657148",
     "pubDate": "Sat, 11 Oct 2025 14:30:51 +0900",
@@ -215,34 +243,6 @@
     "pubDate": "Sat, 11 Oct 2025 09:45:00 +0900",
     "source": "CoinPost",
     "contentSnippet": "米予測市場カルシが3億ドルの資金調達を完了し評価額50億ドルに到達。セコイアやアンドリーセン・ホロウィッツが参加し事業を140カ国に拡大する計画を発表した。"
-  },
-  {
-    "title": "世界大手銀行10行、G7通貨のステーブルコイン発行を共同検討",
-    "link": "https://coinpost.jp/?p=657026",
-    "pubDate": "Sat, 11 Oct 2025 08:10:19 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "バンカメやゴールドマン・サックスなど世界大手銀行10行がG7通貨連動ステーブルコイン発行の共同検討を開始とBNPパリバが発表した。"
-  },
-  {
-    "title": "32億円相当の仮想通貨を盗難か　Hyperliquidのユーザーが被害者に＝Peckshield",
-    "link": "https://coinpost.jp/?p=656989",
-    "pubDate": "Sat, 11 Oct 2025 07:30:11 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "Peckshieldは、Hyperliquidのユーザーが32億円相当の仮想通貨を盗難されたことを報告。原因は秘密鍵の漏洩であると分析している。"
-  },
-  {
-    "title": "キャナリー、XRPとソラナETFの申請を更新も長引く政府閉鎖が影響",
-    "link": "https://coinpost.jp/?p=656981",
-    "pubDate": "Sat, 11 Oct 2025 07:00:49 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "米キャナリー・キャピタルがXRPとソラナETFの登録届出書を更新し手数料を0.50%に設定。SEC承認に向け前進するも政府閉鎖で承認プロセスが不透明な状況にとどまる。"
-  },
-  {
-    "title": "モルガン・スタンレー、仮想通貨ファンドの顧客制限を撤廃＝報道",
-    "link": "https://coinpost.jp/?p=656962",
-    "pubDate": "Sat, 11 Oct 2025 06:30:06 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "モルガン・スタンレーが仮想通貨ファンドへのアクセス制限を撤廃し全顧客が投資可能にとCNBCが報道。10月15日から退職金口座を含むあらゆる口座で利用可能になる。"
   },
   {
     "title": "Public Keys: BlackRock Bitcoin Fee Frenzy, S&#038;P Catchall and New York Stakes",
