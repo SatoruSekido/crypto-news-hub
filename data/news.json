@@ -1,5 +1,96 @@
 [
   {
+    "title": "US gov shutdown enters 3rd week with ETF ‘floodgates’ ready to burst",
+    "link": "https://cointelegraph.com/news/us-government-shutdown-delays-crypto-etf-approvals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 13 Oct 2025 07:04:40 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "The crypto industry is awaiting a final decision on 16 crypto exchange-traded funds this month, including funds tracking Solana, XRP, Litecoin and Dogecoin."
+  },
+  {
+    "title": "Trader who made $192M shorting the crypto crash is doing it again",
+    "link": "https://cointelegraph.com/news/mystery-insider-whale-opens-massive-new-bitcoin-short-after-bagging-192m-profits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 13 Oct 2025 06:41:26 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "The Hyperliquid trader made millions from short positions placed just minutes before Trump’s tariff announcement, sparking wild theories."
+  },
+  {
+    "title": "MARA Holdings Buys $46 Million in Bitcoin Post-Crypto Market Tumble",
+    "link": "https://decrypt.co/343979/mara-holdings-46-million-bitcoin-historic-market-crash",
+    "pubDate": "Mon, 13 Oct 2025 05:21:19 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "MARA has bought $46 million BTC after Friday's event, with one analyst saying the firm is \"taking a call\" that Bitcoin has more room to run."
+  },
+  {
+    "title": "Steak ‘n Shake quickly U-turns as Ether poll angers Bitcoiners",
+    "link": "https://cointelegraph.com/news/steak-n-shake-u-turns-eth-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 13 Oct 2025 05:30:14 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "Steak ‘n Shake quickly retracted the idea of accepting Ether as a payment after Bitcoiners slammed its poll asking the community if it should."
+  },
+  {
+    "title": "Bitcoin May Tank to $100K as Friday’s BTC Crash Reinforced 2017–21 Trendline Resistance",
+    "link": "https://www.coindesk.com/markets/2025/10/13/bitcoin-may-tank-to-usd100k-after-friday-s-btc-crash-reinforced-2017-21-bull-run-trendline-as-major-resistance",
+    "pubDate": "Mon, 13 Oct 2025 04:26:05 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Bitcoin's recent crash marks the third failure to maintain gains above a critical trendline from 2017 and 2021 highs."
+  },
+  {
+    "title": "How Crypto Traders Are Positioning Following 'Black-Friday's' Crash",
+    "link": "https://decrypt.co/343977/how-crypto-traders-positioning-black-fridays-crash",
+    "pubDate": "Mon, 13 Oct 2025 03:58:23 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Experts are downplaying the weekend rebound, citing structural risks as traders resort to put-buying for downside protection."
+  },
+  {
+    "title": "Crypto derivatives funding rates drop to 3-year lows: A bullish sign?",
+    "link": "https://cointelegraph.com/news/derivatives-funding-rates-hit-bear-market-low-amid-historic-liquidations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 13 Oct 2025 04:44:11 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "Crypto derivatives funding rates have fallen to levels last seen in the 2022 bear market, as billions in leveraged positions were liquidated."
+  },
+  {
+    "title": "430億円規模に、バイナンスが「異例の補償」実施　トランプ・ショックに関する価格異変で",
+    "link": "https://coinpost.jp/?p=657352",
+    "pubDate": "Mon, 13 Oct 2025 12:25:27 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "仮想通貨取引所バイナンスがトランプ関税による市場下落時の不具合で損失補償を発表した。USDe、BNSOLなどのディペッグで強制清算が発生した背景がある。"
+  },
+  {
+    "title": "Bitcoin Core v30 goes live with controversial OP_RETURN change",
+    "link": "https://cointelegraph.com/news/bitcoin-core-v30-controversial-op-return-function-now-live?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 13 Oct 2025 04:05:31 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "Bitcoin Core launched its major v30 update on Saturday, with the community split over its drastic increase to the OP_RETURN data limit."
+  },
+  {
+    "title": "White House reportedly mulling pardon for Binance founder CZ",
+    "link": "https://cointelegraph.com/news/trump-white-house-mulls-cz-pardon-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 13 Oct 2025 03:42:48 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "Binance co-founder Changpeng Zhao said that being considered for a presidential pardon from Trump would be “great news if true.”"
+  },
+  {
+    "title": "Asia Morning Briefing: Ethereum Leads Recovery After $20B Liquidation Shock",
+    "link": "https://www.coindesk.com/markets/2025/10/13/asia-morning-briefing-ethereum-leads-recovery-after-usd20b-liquidation-shock",
+    "pubDate": "Mon, 13 Oct 2025 02:04:37 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "ETH’s rebound is outpacing BTC's as markets stabilize, with high-beta plays like Solana and Bittensor joining the bounce. One working theory suggests Friday’s meltdown wasn’t about stablecoin fragilit"
+  },
+  {
+    "title": "Crypto Community Mourns Passing of RTFKT Co-Founder Benoit Pagotto",
+    "link": "https://decrypt.co/343969/crypto-community-mourns-passing-rtfkt-co-founder",
+    "pubDate": "Mon, 13 Oct 2025 01:43:52 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The 41-year-old behind Nike’s digital fashion arm has died, colleagues confirmed Sunday, with tributes coming from the crypto industry."
+  },
+  {
+    "title": "トム・リー氏「イーサリアム下落は一時的」、相場を支える3要因とは",
+    "link": "https://coinpost.jp/?p=657340",
+    "pubDate": "Mon, 13 Oct 2025 10:15:59 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "ビットマインが市場下落時に730億円相当のイーサリアムを買い増したとみられる。トム・リー会長は3つの構造的要因が変化しない限り市場の追い風になると強気の見解を示している。"
+  },
+  {
     "title": "Bitcoin, Ethereum Rebound Following 'Largest Single-Day Wipeout in Crypto History'",
     "link": "https://decrypt.co/343967/bitcoin-ethereum-rebound-largest-single-day-wipeout-crypto-history",
     "pubDate": "Mon, 13 Oct 2025 00:44:45 +0000",
@@ -32,7 +123,7 @@
     "link": "https://cointelegraph.com/news/binance-tokens-not-crash-0-display-issue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sun, 12 Oct 2025 22:52:41 +0100",
     "source": "Cointelegraph",
-    "contentSnippet": "The tokens did not actually crash to $0, but users saw tokens drop to nearly $0 due to a 'display' issue, the Binance exchange said."
+    "contentSnippet": "The tokens did not actually crash to $0; users saw tokens plummet so dramatically due to a \"display\" issue, the Binance exchange said."
   },
   {
     "title": "Tether CEO Paolo Ardoino: ‘Bitcoin and Gold Will Outlast Any Other Currency’",
@@ -49,25 +140,11 @@
     "contentSnippet": "Researchers found that the closer robots get to looking human, the less people want them to."
   },
   {
-    "title": "US and China soften trade rhetoric, giving analysts hope of market rebound",
-    "link": "https://cointelegraph.com/news/us-china-soften-trade-rhetoric-market-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 12 Oct 2025 20:56:52 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "Tensions between the two countries appear to have cooled off on Sunday, as representatives from both sides signal a willingness to negotiate."
-  },
-  {
     "title": "'Eve Frontier' Jumps Ship from Ethereum to Sui—Here’s Why",
     "link": "https://decrypt.co/343962/eve-frontier-jumps-ship-ethereum-sui-heres-why",
     "pubDate": "Sun, 12 Oct 2025 19:01:25 +0000",
     "source": "Decrypt",
     "contentSnippet": "The Eve Online spinoff is moving to Sui due to a “deep philosophical” alignment on the future of the game."
-  },
-  {
-    "title": "Explanations of USDe 'depeg' on Binance focus on coordinated attack, oracles",
-    "link": "https://cointelegraph.com/news/usde-depeg-oracle-issues-ethena-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 12 Oct 2025 18:44:55 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "Ethena founder Guy Young said the USDe depegging event on Binance that sent the token to $0.65 was an isolated issue not tied to fundamentals."
   },
   {
     "title": "Altcoins Cratered in Oct. 10 Crypto Flash Crash as Bitcoin Held Up, Wiston Capital Says",
@@ -98,13 +175,6 @@
     "contentSnippet": "A new study shows large language models can mirror human purchase intent with near-survey accuracy—hinting at a future where synthetic shoppers replace real ones in market research."
   },
   {
-    "title": "Why did some altcoins on Binance crash to zero?",
-    "link": "https://cointelegraph.com/news/why-did-some-altcoins-on-binance-crash-to-zero?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 12 Oct 2025 15:20:00 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "Several altcoins, including ATOM and IOTX, briefly hit zero on Binance during Friday’s crypto crash but stayed afloat elsewhere."
-  },
-  {
     "title": "European Banking Authority Warns of Risks During Transitional Period",
     "link": "https://decrypt.co/343846/european-banking-authority-warns-of-risks-during-transitional-period",
     "pubDate": "Sun, 12 Oct 2025 14:01:03 +0000",
@@ -119,32 +189,11 @@
     "contentSnippet": "With interest rates at a 3-year low and $18 billion in ETF inflows, CoinDesk Indices sees a strong setup for continued gains in BTC and altcoins."
   },
   {
-    "title": "Put equity lending onchain, or get out of the way",
-    "link": "https://cointelegraph.com/news/equity-lending-onchain-or-get-out-of-the-way?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 12 Oct 2025 14:30:00 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "Equity lending’s outdated batch settlements and manual reconciliations are failing markets. Onchain infrastructure offers real-time, programmable solutions."
-  },
-  {
-    "title": "BNB is the ‘most overlooked blue-chip,’ CEA Industries CEO says as token hits ATH",
-    "link": "https://cointelegraph.com/news/bnb-overlooked-blue-chip-cea-industries-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 12 Oct 2025 14:12:35 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "CEA Industries CEO David Namdar calls BNB “the most overlooked blue-chip,” as the token hits new highs and its ecosystem shows rising usage."
-  },
-  {
     "title": "There Is Too Much Friction in Web3 For Newcomers. Here’s How We Fix it.",
     "link": "https://www.coindesk.com/opinion/2025/10/11/there-is-too-much-friction-in-web3-for-newcomers-here-s-how-we-fix-it",
     "pubDate": "Sun, 12 Oct 2025 13:00:00 +0000",
     "source": "CoinDesk",
     "contentSnippet": "The promise of a seamless digital economy is being sabotaged by a simple, recurring nightmare: network switching, says ZetaChain core contributor Jonathan Covey."
-  },
-  {
-    "title": "Bitcoin eyes $114K liquidity grab as traders bet on BTC price rebound",
-    "link": "https://cointelegraph.com/news/bitcoin-eyes-114k-liquidity-grab-as-traders-bet-on-btc-price-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 12 Oct 2025 13:30:53 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "BTC price action stabilized at around $112,000 ahead of fresh volatility into the weekly close and Bitcoin futures market open."
   },
   {
     "title": "China’s Commerce Ministry to Trump: Rare-Earth Export Curbs Are Not Bans",
@@ -189,13 +238,6 @@
     "contentSnippet": "Jonathan Man outlines a $20 billion liquidation day, long-tail air pockets and a positioning reset that left markets on different footing by Saturday."
   },
   {
-    "title": "How Auto-Deleveraging on Crypto Perp Trading Platforms Can Shock and Anger Even Advanced Traders",
-    "link": "https://www.coindesk.com/markets/2025/10/11/how-adl-on-crypto-perp-trading-platforms-can-shock-and-anger-even-advanced-traders",
-    "pubDate": "Sat, 11 Oct 2025 21:58:55 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Doug Colkitt’s explainer details a backstop that trims winners, ranks accounts by profit leverage and size, and keeps zero-sum markets solvent under stress."
-  },
-  {
     "title": "The Latest Nobel Peace Prize Winner Is a Bitcoin Supporter",
     "link": "https://decrypt.co/343891/latest-nobel-peace-prize-winner-bitcoin-supporter",
     "pubDate": "Sat, 11 Oct 2025 20:31:04 +0000",
@@ -208,34 +250,6 @@
     "pubDate": "Sat, 11 Oct 2025 19:01:03 +0000",
     "source": "Decrypt",
     "contentSnippet": "New research shows language models mirror human gender patterns in decision-making, with some AIs dramatically changing their risk tolerance based on whether they're prompted to think as male or femal"
-  },
-  {
-    "title": "Coinbase’s Upcoming Amex Card With BTC Cashback: Everything We Know So Far",
-    "link": "https://www.coindesk.com/markets/2025/10/11/coinbase-s-upcoming-amex-card-with-btc-cashback-everything-we-know-so-far",
-    "pubDate": "Sat, 11 Oct 2025 18:57:55 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Coinbase is planning to launch an Amex card whose design and rewards program are aimed squarely at bitcoiners — or those who want to become one."
-  },
-  {
-    "title": "Astaroth Banking Trojan Harnessing GitHub to Steal Crypto Credentials",
-    "link": "https://decrypt.co/343833/astaroth-banking-trojan-harnessing-github-steal-crypto-credentials",
-    "pubDate": "Sat, 11 Oct 2025 17:31:03 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The keylogging malware is capable of using GitHub to redirect itself to new servers whenever existing servers go offline."
-  },
-  {
-    "title": "Is a Presidential Pardon in the Works for Binance Founder CZ?",
-    "link": "https://decrypt.co/343896/presidential-pardon-binance-founder-cz-report",
-    "pubDate": "Sat, 11 Oct 2025 16:03:45 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The Trump administration is reportedly weighing a pardon for Binance founder Changpeng “CZ” Zhao, who served prison time after pleading guilty to a money laundering violation."
-  },
-  {
-    "title": "Bitcoin, Ethereum, Dogecoin Down Bad Amid Record $19 Billion in Crypto Liquidations",
-    "link": "https://decrypt.co/343941/bitcoin-ethereum-dogecoin-down-record-19-billion-crypto-liquidations",
-    "pubDate": "Sat, 11 Oct 2025 15:04:01 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Bitcoin fell and altcoins crated Friday after President Trump ratcheted up his threats against China, fueling record crypto liquidations."
   },
   {
     "title": "ビットコイン200万円幅急落、トランプ関税発言でロスカット3兆円と史上最大規模に｜仮想NISHI",
@@ -264,19 +278,5 @@
     "pubDate": "Sat, 11 Oct 2025 10:45:53 +0900",
     "source": "CoinPost",
     "contentSnippet": "トランプ大統領の対中関税警告で一部アルトコインがバイナンスなどで異常急落。ATOMは0.001ドルまで暴落しSUIは85%下落。過去24時間の清算総額は約3兆円に達した。"
-  },
-  {
-    "title": "ノーベル平和賞めぐる情報漏洩か、ノルウェー当局が米賭けサイトのトレーダーに関する調査＝報道",
-    "link": "https://coinpost.jp/?p=657057",
-    "pubDate": "Sat, 11 Oct 2025 10:00:48 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "ノルウェー当局が2025年ノーベル平和賞の結果についてポリマーケットでの情報漏洩を調査している。受賞者マチャド氏は仮想通貨ビットコインの支持者として知られている。"
-  },
-  {
-    "title": "米賭けサイト「カルシ」、3億ドル調達で評価額50億ドルに　140カ国展開へ",
-    "link": "https://coinpost.jp/?p=657056",
-    "pubDate": "Sat, 11 Oct 2025 09:45:00 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "米予測市場カルシが3億ドルの資金調達を完了し評価額50億ドルに到達。セコイアやアンドリーセン・ホロウィッツが参加し事業を140カ国に拡大する計画を発表した。"
   }
 ]
