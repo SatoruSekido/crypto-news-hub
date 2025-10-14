@@ -1,5 +1,208 @@
 [
   {
+    "title": "S&P Global taps Chainlink to rate stablecoins’ ability to retain peg",
+    "link": "https://cointelegraph.com/news/s-p-global-taps-chainlink-rate-stablecoins-ability-to-retain-peg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 14 Oct 2025 13:30:00 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "S&P Global Ratings and Chainlink have partnered to provide onchain stablecoin risk profiles for TradFi players looking to enter or expand into the $300 billion market."
+  },
+  {
+    "title": "Bitcoin mining in 2025, explained: From hashrate to rewards",
+    "link": "https://cointelegraph.com/explained/bitcoin-mining-in-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 14 Oct 2025 13:21:34 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "Discover how Bitcoin mining runs in 2025: From halving rewards and ASIC rigs to mining pools, hashprice shifts and power use."
+  },
+  {
+    "title": "BNB Chain sees record user activity, transactions up 151% in 30 days",
+    "link": "https://cointelegraph.com/news/bnb-chain-sees-record-user-activity-transactions-up-151-in-30-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 14 Oct 2025 13:08:06 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "Nansen data revealed that in the last 30 days, BNB Chain transactions surpassed 500 million, ranking second only to Solana in transaction count."
+  },
+  {
+    "title": "Bitcoin-gold correlation increases as BTC follows gold’s path to store of value",
+    "link": "https://cointelegraph.com/news/bitcoin-gold-correlation-hits-new-high-as-both-assets-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 14 Oct 2025 12:56:28 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "Bitcoin’s correlation with gold has climbed above 0.85 as both assets attract investors seeking stability amid inflation and global uncertainty."
+  },
+  {
+    "title": "Frozen $200K Binance donation for cancer patients in Malta now worth $37M",
+    "link": "https://cointelegraph.com/news/frozen-200k-binance-donation-for-cancer-patients-in-malta-now-worth-37m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 14 Oct 2025 12:53:57 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "Binance’s $200,000 crypto donation to a Maltese cancer charity in 2018 has grown to $37 million but remains unclaimed due to a verification dispute."
+  },
+  {
+    "title": "Morning Minute: Citi Sets Sights on 2026 for Crypto Custody",
+    "link": "https://decrypt.co/344184/morning-minute-citi-sets-sights-on-2026-for-crypto-custody",
+    "pubDate": "Tue, 14 Oct 2025 11:41:57 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The third-biggest bank in the U.S. is finally embracing crypto. And it doesn't look like it's stopping at custody…"
+  },
+  {
+    "title": "Was $500B Value destruction Just a blip?: Crypto Daybook Americas",
+    "link": "https://www.coindesk.com/daybook-us/2025/10/14/was-usd500b-value-destruction-just-a-blip-crypto-daybook-americas",
+    "pubDate": "Tue, 14 Oct 2025 11:15:49 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Your day-ahead look for Oct. 14, 2025"
+  },
+  {
+    "title": "BNB price drops 12% from all-time highs: Is the bull run over?",
+    "link": "https://cointelegraph.com/news/bnb-price-drops-12-percent-all-time-highs-is-the-bull-run-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 14 Oct 2025 12:10:17 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "The oversold RSI and bearish patterns indicate a short-term pullback before another rally, with downside targets ranging from $800 to $1,000."
+  },
+  {
+    "title": "Crypto Markets Slide as Key Bitcoin Support Weakens and ETF Flows Reverse",
+    "link": "https://decrypt.co/344173/crypto-markets-slide-as-key-bitcoin-support-weakens-and-etf-flows-reverse",
+    "pubDate": "Tue, 14 Oct 2025 11:03:43 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Analysts warn Bitcoin could fall toward $103,000 as it struggles to hold a critical support level amid major ETF outflows."
+  },
+  {
+    "title": "WisdomTree Launches Physically Backed Stellar Lumens ETP Across Europe",
+    "link": "https://www.coindesk.com/markets/2025/10/14/wisdomtree-launches-physically-backed-stellar-lumens-etp-across-europe",
+    "pubDate": "Tue, 14 Oct 2025 11:00:22 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "WisdomTree launched a physically backed stellar lumens ETP with a 0.50% fee on SIX and Euronext, saying it will add a Xetra listing on Oct. 15."
+  },
+  {
+    "title": "Metaplanet Trades Below 1x mNAV for First Time Since Starting Bitcoin Treasury Plan",
+    "link": "https://www.coindesk.com/markets/2025/10/14/metaplanet-trades-below-1x-mnav-for-first-time-since-starting-bitcoin-treasury-plan",
+    "pubDate": "Tue, 14 Oct 2025 10:28:50 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Falling share prices push bitcoin treasury firms below key valuation threshold."
+  },
+  {
+    "title": "Ethereum ETFs Bleed $429M in Largest Single-Day Outflow Since Early September",
+    "link": "https://decrypt.co/344170/ethereum-etfs-bleed-429m-in-largest-single-day-outflow-since-early-september",
+    "pubDate": "Tue, 14 Oct 2025 10:02:31 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Analysts call the exodus a \"macro reflex\" triggered by tariff-driven volatility and liquidations, not a structural retreat from ETH exposure."
+  },
+  {
+    "title": "Hyperliquidの大口投資家、トランプ一族との関与を否定　再びビットコインを大規模ショート",
+    "link": "https://coinpost.jp/?p=657570",
+    "pubDate": "Tue, 14 Oct 2025 18:47:11 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "トランプ関税発表直前にビットコイン7億ドルをショートし約2億ドルの利益を得た大口投資家が、再び3億4千万ドル規模のBTCショートポジションを構築。インサイダー取引疑惑が浮上するも本人は否定。市場では1.3兆円規模の強制清算が発生し史上最大級の暴落に。"
+  },
+  {
+    "title": "$19B crypto market crash was ‘controlled deleveraging,’ not cascade: Analyst",
+    "link": "https://cointelegraph.com/news/19b-crypto-market-crash-controlled-deleveraging-cascade-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 14 Oct 2025 10:28:56 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "Analysts said most of the record $19 billion crypto liquidation was organic deleveraging, but other traders accused market makers of deepening the crash."
+  },
+  {
+    "title": "JPモルガンがビットコイン取引サービス参入へ　カストディは外部委託で対応",
+    "link": "https://coinpost.jp/?p=657769",
+    "pubDate": "Tue, 14 Oct 2025 18:24:09 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "JPモルガンのデジタル資産部門責任者が、顧客向けビットコイン取引サービスの提供を正式に確認した。カストディ業務は外部委託を検討し、コインベースとの提携も強化。大手金融機関の暗号資産市場参入が本格化する中、JPモルガンの戦略的アプローチとは。"
+  },
+  {
+    "title": "シティバンク、2026年に仮想通貨カストディ事業参入へ",
+    "link": "https://coinpost.jp/?p=657770",
+    "pubDate": "Tue, 14 Oct 2025 18:04:20 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "米大手金融機関シティバンクが2026年に暗号資産のカストディサービスを開始する計画を発表。ビットコインやイーサリアムなどを機関投資家向けに保管する。トランプ政権下での規制整備を背景に、JPモルガンやバンク・オブ・アメリカとともにステーブルコイン事業への参入も本格検討中。ウォール街の暗号資産市場への本格進出が加速している。"
+  },
+  {
+    "title": "Monad co-founder flags Telegram ad scam in official channel ahead of airdrop",
+    "link": "https://cointelegraph.com/news/telegram-ads-fake-monad-claim-portal-airdrop-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 14 Oct 2025 10:03:17 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "Monad co-founder Keone Hon warned users to stay vigilant after fake links appeared as Telegram ads in its official announcements channel."
+  },
+  {
+    "title": "BlackRock's IBIT Bucks the Trend with Continued Inflows Despite Weak Bitcoin Price Action",
+    "link": "https://www.coindesk.com/markets/2025/10/14/blackrock-s-ibit-bucks-the-trend-with-continued-inflows-despite-weak-bitcoin-price-action",
+    "pubDate": "Tue, 14 Oct 2025 09:02:05 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Despite the largest ETF outflow in weeks and a sharp bitcoin price drop, IBIT continues to attract capital."
+  },
+  {
+    "title": "「Bitcoin Core v30.0」リリース、データ制限の引き上げでコミュニティの意見が対立",
+    "link": "https://coinpost.jp/?p=657614",
+    "pubDate": "Tue, 14 Oct 2025 18:00:55 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "ビットコインソフトのアップデートであるBitcoin Core v30.0が2025年10月12日にリリースされた。OP_RETURNの上限が80バイトから10万バイトへ大幅に引き上げられ、コミュニティで賛否が分かれている。ビットコイン本来の目的との整合性やノード運営リスクが議論されている。"
+  },
+  {
+    "title": "Ethereum’s Fusaka Rolls Out on Sepolia; Hoodi Testnet Up Next",
+    "link": "https://www.coindesk.com/business/2025/10/14/ethereum-s-fusaka-rolls-out-on-sepolia-hoodi-testnet-up-next",
+    "pubDate": "Tue, 14 Oct 2025 08:50:18 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "The test follows a successful rollout on the Holesky testnet two weeks ago."
+  },
+  {
+    "title": "欧州最大手アムンディ、ビットコインETN市場参入を準備",
+    "link": "https://coinpost.jp/?p=657656",
+    "pubDate": "Tue, 14 Oct 2025 17:26:59 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "欧州最大の資産運用会社アムンディ（運用資産2.3兆ユーロ）が2026年初頭にビットコインETNを発行予定。MiCA施行で規制環境が整備される中、機関投資家の暗号資産投資が本格化。米国ブラックロックのIBIT（971億ドル）に続く動きとして注目される。"
+  },
+  {
+    "title": "Bitcoin treasury company Metaplanet now valued below BTC holdings",
+    "link": "https://cointelegraph.com/news/metaplanet-enterprise-value-below-bitcoin-holdings-mnav?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 14 Oct 2025 09:24:19 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "Japan Bitcoin treasury company Metaplanet paused Bitcoin purchases for two weeks, only to see its enterprise value slip below the value of its BTC holdings."
+  },
+  {
+    "title": "ハイパーリキッド、HIP-3実装で永久先物市場の自由構築が可能に",
+    "link": "https://coinpost.jp/?p=657599",
+    "pubDate": "Tue, 14 Oct 2025 17:22:36 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "ハイパーリキッドがHIP-3を実装し、開発者が許可なしで独自の永久先物市場を構築することを可能にする。仮想通貨HYPEを一定以上ステーキングすることなどが条件だ。"
+  },
+  {
+    "title": "コインチェックでIEO「Fanpla（FPL）」10月21日開始　音楽事務所10社以上が協力",
+    "link": "https://coinpost.jp/?p=657710",
+    "pubDate": "Tue, 14 Oct 2025 16:56:29 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "音楽ファンクラブ大手Fanplus協業のIEO「Fanpla（FPL）」詳細。10月21日申込開始、11月11日上場予定。700超のファンクラブと400万人基盤という既存インフラを持つ点で過去IEO案件と一線を画す。コインチェック過去実績は抽選倍率24倍・最高23倍に急騰。投資判断に必要な情報を網羅。"
+  },
+  {
+    "title": "US spot Bitcoin, Ether ETFs shed $755M after crypto market crash",
+    "link": "https://cointelegraph.com/news/bitcoin-ether-etfs-see-750m-outflows-after-market-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 14 Oct 2025 08:56:00 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "Spot Bitcoin and Ether ETFs faced heavy outflows on Monday as investors grew cautious following a record $20 billion weekend liquidation."
+  },
+  {
+    "title": "三菱UFJモルガン・スタンレー証券、デジタルアセット事業を開始",
+    "link": "https://coinpost.jp/?p=657716",
+    "pubDate": "Tue, 14 Oct 2025 16:55:16 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "三菱UFJモルガン・スタンレー証券が14日、デジタルアセット事業を開始。債券型セキュリティトークンの取り扱いとデジタル証券取引サービス「ASTOMO」をリリース。不動産STを10万円から投資可能に。"
+  },
+  {
+    "title": "イオレ、仮想通貨とAI融合のスーパーアプリ「Neo Crypto Bank」の詳細を発表",
+    "link": "https://coinpost.jp/?p=657619",
+    "pubDate": "Tue, 14 Oct 2025 16:30:18 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "イオレが暗号資産金融事業戦略を発表。2027年にWeb3.0スーパーアプリを公開し、キャッシュレス決済市場1%・年間1.2兆円を目指す。AI統合で次世代金融インフラを構築。"
+  },
+  {
+    "title": "Bitcoin Slips Under $112K, ETH, DOGE Drop 6% as China Hits Back on U.S. Tariffs",
+    "link": "https://www.coindesk.com/markets/2025/10/14/bitcoin-slips-under-usd112k-eth-doge-drop-6-as-china-hits-back-on-u-s-tariffs",
+    "pubDate": "Tue, 14 Oct 2025 07:19:56 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Total liquidations hit $630 million, with long positions making up two-thirds of the wipeout, according to CoinGlass."
+  },
+  {
+    "title": " Societe Generale-FORGE and Bitpanda Expand Partnership to Bring Regulated Stablecoins to DeFi",
+    "link": "https://www.coindesk.com/business/2025/10/14/societe-generale-forge-and-bitpanda-expand-partnership-to-bring-regulated-stablecoins-to-defi",
+    "pubDate": "Tue, 14 Oct 2025 07:01:07 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "The move makes SG-FORGE’s euro and dollar stablecoins available to retail users across Europe through Bitpanda’s DeFi wallet"
+  },
+  {
     "title": "Class Action Alleges Microsoft Choked AI Supply to Lift ChatGPT Costs",
     "link": "https://decrypt.co/344168/class-action-microsoft-choked-ai-supply-lift-chatgpt-costs",
     "pubDate": "Tue, 14 Oct 2025 06:19:47 +0000",
@@ -7,18 +210,11 @@
     "contentSnippet": "Microsoft is being accused of using cloud dominance to restrict AI compute, keeping ChatGPT costs artificially high for nearly three years."
   },
   {
-    "title": "Mysterious Hyperliquid trader is doubling down on their Bitcoin short",
-    "link": "https://cointelegraph.com/news/mysterious-hyperliquid-trader-doubling-down-bitcoin-short?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 14 Oct 2025 07:02:35 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "The Hyperliquid “insider whale” has now put down almost half a billion on a new Bitcoin short at 10x leverage, as the community continues to speculate who they are."
-  },
-  {
-    "title": "Satellites are leaking your data worse than coffee shop WiFi: Researchers",
-    "link": "https://cointelegraph.com/news/geo-satellites-leaking-sensitive-data-unencrypted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 14 Oct 2025 07:00:24 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "Researchers were able to read text messages and even traffic for military systems and infrastructure with just a few hundred dollars’ worth of equipment."
+    "title": "Bullish Bitcoin Traders Eye Chart Patterns From 2020 and 2024 After Weekend’s $20B Liquidations",
+    "link": "https://www.coindesk.com/markets/2025/10/14/bullish-bitcoin-traders-eye-chart-patterns-from-2020-and-2024-after-weekend-s-usd19b-liquidations",
+    "pubDate": "Tue, 14 Oct 2025 06:12:27 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Similar washouts in 2020, 2021, and 2024 reset leverage and paved the way for recoveries in the weeks that followed, giving similar hopes to some market participants."
   },
   {
     "title": "XRP Fades Below $2.60 as $63M Whale Sales Hit Binance",
@@ -26,13 +222,6 @@
     "pubDate": "Tue, 14 Oct 2025 05:46:04 +0000",
     "source": "CoinDesk",
     "contentSnippet": "raders are monitoring the $2.55 support and $2.65–$2.66 resistance zones for potential market shifts."
-  },
-  {
-    "title": "Altcoins typically dump hard before altseason. Will history repeat?",
-    "link": "https://cointelegraph.com/news/weekend-crypto-flush-could-signal-altseason-based-on-historical-patterns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 14 Oct 2025 06:33:51 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "Crypto analysts identified historical patterns showing that major market dumps preceded altcoin rallies, suggesting altseason could be just ahead."
   },
   {
     "title": "DOGE Faces Rejection at $0.22 as Dogecoin Treasury Firm Eyes Public Listing",
@@ -56,25 +245,11 @@
     "contentSnippet": "The legislation ensures crypto remains in its native form rather than being converted to cash before transfer to state custody."
   },
   {
-    "title": "SEAL team develops ‘verifiable phishing reports’ to fight scammers",
-    "link": "https://cointelegraph.com/news/security-alliance-anti-phishing-tool-verify-malicious-links?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 14 Oct 2025 05:11:39 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "Security Alliance has developed TLS Attestations to cryptographically verify phishing reports, solving the problem of scammers cloaking malicious content."
-  },
-  {
     "title": "Why Bitcoin's Upside May Be Capped",
     "link": "https://decrypt.co/344162/why-bitcoins-upside-may-be-capped",
     "pubDate": "Tue, 14 Oct 2025 03:45:04 +0000",
     "source": "Decrypt",
     "contentSnippet": "Some see Bitcoin's upside capped as options data and market maker activity suppress rallies, though the long-term outlook remains bullish."
-  },
-  {
-    "title": "TradFi giant JPMorgan is planning to offer crypto trading for clients",
-    "link": "https://cointelegraph.com/news/jp-morgan-offer-crypto-trading-for-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 14 Oct 2025 04:03:38 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "JPMorgan executive Scott Lucas confirms crypto trading services are in development, but his firm is hesitant to handle crypto custody at the moment."
   },
   {
     "title": "ソラナのリキッドステーキングの稼ぎ方｜JitoSOLの仕組みと手順【初心者向け】",
@@ -84,60 +259,11 @@
     "contentSnippet": "ソラナのリキッドステーキングについて、仕組みから始め方まで徹底解説。JitoやMarinadeなど主要プラットフォームの始め方、年利5-7%の運用方法まで完全ガイド。"
   },
   {
-    "title": "史上最大フラッシュクラッシュ後の仮想通貨市場、トランプ大統領の発言受け乱高下続く",
-    "link": "https://coinpost.jp/?p=657535",
-    "pubDate": "Tue, 14 Oct 2025 11:58:14 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "トランプ米大統領による突然の関税発表で、仮想通貨市場は190億ドル超の強制清算という史上最大のフラッシュクラッシュを経験した。しかし週明けには114,000ドル台に回復。機関投資家の押し目買いと過剰レバレッジ解消の両面から市場を分析。イーサリアムL2 Baseのトークン発行検討など、実用化への動きも紹介。"
-  },
-  {
-    "title": "‘Crowd FUD’ is the best signal for when to buy Bitcoin: Analyst",
-    "link": "https://cointelegraph.com/news/bitcoin-fud-retail-selloff-trump-tariffs-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 14 Oct 2025 03:44:50 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "Santiment analyst Brian Q said emotional trading tied to political news is dominating short-term market behavior more than ever."
-  },
-  {
-    "title": "チャイナルネッサンス、910億円超の資金調達を協議　BNB財務企業の米上場を計画＝ブルームバーグ",
-    "link": "https://coinpost.jp/?p=657534",
-    "pubDate": "Tue, 14 Oct 2025 11:18:26 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "チャイナルネッサンスは、仮想通貨BNBの財務企業を創設するために910億円超の資金調達に向けた協議を行っていることがわかった。この財務企業は米国で上場する計画である。"
-  },
-  {
-    "title": "Asia Morning Briefing: China Renaissance’s BNB Treasury Highlights a Shift in Asia’s Crypto Playbook",
-    "link": "https://www.coindesk.com/markets/2025/10/14/asia-morning-briefing-china-renaissance-s-bnb-treasury-highlights-a-shift-in-asia-s-crypto-playbook",
-    "pubDate": "Tue, 14 Oct 2025 01:48:37 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Enflux says the $600 million plan reflects a new wave of Asian capital favoring infrastructure tokens that power transaction flow over store-of-value assets."
-  },
-  {
     "title": "Canaan Stock Swells on Canadian Gas-to-Compute Pilot Plans",
     "link": "https://decrypt.co/344159/canaan-stock-swells-on-canadian-gas-to-compute-pilot-plans",
     "pubDate": "Tue, 14 Oct 2025 01:44:22 +0000",
     "source": "Decrypt",
     "contentSnippet": "Shares in Canaan jumped more than 40% after unveiling a pilot project in Alberta that converts stranded natural gas into power."
-  },
-  {
-    "title": "「仮想通貨ETFへの流入、トランプ関税ショックの影響は軽微＝CoinShares」",
-    "link": "https://coinpost.jp/?p=657528",
-    "pubDate": "Tue, 14 Oct 2025 10:38:40 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "トランプ大統領の対中関税発言による市場急落にもかかわらず、ビットコインETFなど仮想通貨投資商品への影響は軽微で流入は週間4,830億円に達した。CoinSharesが分析する。"
-  },
-  {
-    "title": "Bhutan migrates its national ID system to Ethereum",
-    "link": "https://cointelegraph.com/news/bhutan-migrates-ethereum-national-id?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 14 Oct 2025 01:11:13 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "The Kingdom of Bhutan has tapped Ethereum to store the national identities of its roughly 800,000 citizens, leveraging the network’s immutability and decentralization."
-  },
-  {
-    "title": "BNBチェーン、68億円相当のBNBをエアドロップへ　ミームコイントレーダーを支援",
-    "link": "https://coinpost.jp/?p=657523",
-    "pubDate": "Tue, 14 Oct 2025 08:41:32 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "BNBチェーンは、仮想通貨市場が大荒れしたことを受け68億円相当のBNBをエアドロップする計画を発表。今回はミームコイントレーダーを支援すると説明した。"
   },
   {
     "title": "Steak ‘n Shake Dumps Ethereum Payments Plan After Pushback From Bitcoin Maxis",
@@ -147,136 +273,10 @@
     "contentSnippet": "Restaurant franchise Steak 'n Shake scrapped plans to accept Ethereum for its burgers and shakes, sticking to Bitcoin following blowback."
   },
   {
-    "title": "3 reasons why a Bitcoin rally to $125K could be delayed",
-    "link": "https://cointelegraph.com/news/3-reasons-why-a-bitcoin-rally-to-dollar125k-could-be-delayed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 13 Oct 2025 23:12:04 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "Friday’s flash crash reduced short-term risk appetite; it didn’t affect Bitcoin’s long-term potential, though it may have delayed a new all-time high by weeks or months."
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 13 Oct 2025 23:02:05 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
-  },
-  {
-    "title": "Alleged Hyperliquid whale denies insider trading with Trumps",
-    "link": "https://cointelegraph.com/news/garrett-jin-whale-denies-allegations-shorting-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 13 Oct 2025 22:58:30 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "A massive Bitcoin short placed minutes before US President Donald Trump announced tariffs with China on Friday has raised questions about insider trading."
-  },
-  {
     "title": "Explaining the Bitcoin Crash: What Are Liquidations and Leverage?",
     "link": "https://decrypt.co/344141/explaining-bitcoin-crash-liquidations-leverage",
     "pubDate": "Mon, 13 Oct 2025 21:52:40 +0000",
     "source": "Decrypt",
     "contentSnippet": "Here's why Trump's China tariff announcement on Friday was so devastating for leveraged traders."
-  },
-  {
-    "title": "Alleged 'Trump Insider Whale' Denies Insider Trading, Opens New $340 Million Bitcoin Short",
-    "link": "https://decrypt.co/344137/alleged-trump-insider-whale-denies-insider-trading-opens-340-million-bitcoin-short",
-    "pubDate": "Mon, 13 Oct 2025 21:13:26 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "A whale that earned millions shorting Bitcoin and Ethereum right before Friday's crash is back at it—and denies being a Trump insider."
-  },
-  {
-    "title": "Ripple Is Offering $200K to 'Attack' XRP Ledger Lending Protocol",
-    "link": "https://decrypt.co/344136/ripple-offering-200k-attack-xrp-ledger-lending-protocol",
-    "pubDate": "Mon, 13 Oct 2025 20:51:56 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Ripple is partnering with Immunefi to host a $200,000 \"attackathon\" that searches for bugs in the XRP Ledger lending protocol."
-  },
-  {
-    "title": "Citi Plans to Launch Crypto Custody Services in 2026: CNBC",
-    "link": "https://decrypt.co/344140/citi-plans-launch-crypto-custody-services-2026-cnbc",
-    "pubDate": "Mon, 13 Oct 2025 20:42:42 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Citi will offer crypto custody services in 2026, becoming the latest mainstream financial entity to delve deeper into crypto, CNBC reported."
-  },
-  {
-    "title": "Bitcoin Miners Lead Crypto Stock Bounce as OpenAI-Broadcom Deal Fuels AI Trade",
-    "link": "https://www.coindesk.com/markets/2025/10/13/bitcoin-miners-lead-crypto-stock-bounce-as-openai-broadcom-deal-fuels-ai-trade",
-    "pubDate": "Mon, 13 Oct 2025 19:31:28 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Bitfarms, Cipher Mining and Bitdeer posted double-digit gains on Monday as miners keep benefitting from artificial intelligence's surging demand for computing power."
-  },
-  {
-    "title": "Citi Eyes 2026 Crypto Custody Launch After Years of Quiet Development: CNBC",
-    "link": "https://www.coindesk.com/markets/2025/10/13/citi-eyes-2026-crypto-custody-launch-after-years-of-quiet-development-cnbc",
-    "pubDate": "Mon, 13 Oct 2025 19:23:46 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "The bank’s digital asset head says Citi is aiming for a \"credible custody solution\" in the coming quarters to serve asset managers and other clients."
-  },
-  {
-    "title": "XLM Rises 6% to Recover From Weekend Plunge",
-    "link": "https://www.coindesk.com/markets/2025/10/13/xlm-rises-6-to-recover-from-weekend-plunge",
-    "pubDate": "Mon, 13 Oct 2025 16:32:58 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Stellar posts dramatic intraday recovery from $0.33 support to $0.35 resistance as institutional money flows in."
-  },
-  {
-    "title": "Strategy Bought $27M in Bitcoin at $123K Before Crypto Crash",
-    "link": "https://www.coindesk.com/business/2025/10/13/strategy-bought-usd27m-in-bitcoin-at-usd123k-before-crypto-crash",
-    "pubDate": "Mon, 13 Oct 2025 16:17:09 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "The firm acquired BTC at an average price of over $123,000, while the crypto was trading well below $110,000 during last week's carnage."
-  },
-  {
-    "title": "HBAR Rises Past Key Resistance After Explosive Decline",
-    "link": "https://www.coindesk.com/markets/2025/10/13/hbar-rises-past-key-resistance-after-explosive-decline",
-    "pubDate": "Mon, 13 Oct 2025 16:11:52 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "HBAR surged past key resistance at $0.19 amid a dramatic volume spike, signaling renewed institutional interest and reinforcing bullish momentum after a 9% recovery stretch."
-  },
-  {
-    "title": "Crypto Markets Today: Bitcoin and Altcoins Recover After $500B Crash",
-    "link": "https://www.coindesk.com/markets/2025/10/13/crypto-markets-today-bitcoin-and-altcoins-recover-after-usd500b-crash",
-    "pubDate": "Mon, 13 Oct 2025 15:55:29 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Bitcoin derivatives show renewed optimism after a leverage flush, with open interest and basis rebounding, while options traders tilt bullish as funding rates diverge across exchanges."
-  },
-  {
-    "title": "Investment Bank China Renaissance Plans $600M BNB Treasury With YZi Labs: Bloomberg",
-    "link": "https://www.coindesk.com/business/2025/10/13/investment-bank-china-renaissance-plans-usd600m-bnb-treasury-with-yzi-labs-bloomberg",
-    "pubDate": "Mon, 13 Oct 2025 14:30:58 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "The proposed investment vehicle would be a publicly traded US company designed to buy and hold BNB, marking one of the largest single bets on BNB by a publicly listed entity."
-  },
-  {
-    "title": "430億円規模に、バイナンスが「異例の補償」実施　トランプ・ショックに関する価格異変で",
-    "link": "https://coinpost.jp/?p=657352",
-    "pubDate": "Mon, 13 Oct 2025 12:25:27 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "仮想通貨取引所バイナンスがトランプ関税による市場下落時の不具合で損失補償を発表した。USDe、BNSOLなどのディペッグで強制清算が発生した背景がある。"
-  },
-  {
-    "title": "トム・リー氏「イーサリアム下落は一時的」、相場を支える3要因とは",
-    "link": "https://coinpost.jp/?p=657340",
-    "pubDate": "Mon, 13 Oct 2025 10:15:59 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "ビットマインが市場下落時に730億円相当のイーサリアムを買い増したとみられる。トム・リー会長は3つの構造的要因が変化しない限り市場の追い風になると強気の見解を示している。"
-  },
-  {
-    "title": "今週の主要仮想通貨材料まとめ、ETH1万ドル到達の可能性やBNBの過去最高値更新など",
-    "link": "https://coinpost.jp/?p=656757",
-    "pubDate": "Sun, 12 Oct 2025 14:00:14 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "前週比で振り返る仮想通貨市場の最新動向。ビットコインやイーサリアム、BNB、ソラナといった主要銘柄の騰落率や注目材料を一挙紹介。市場トレンドと関連ニュースを詳しく解説する。"
-  },
-  {
-    "title": "IG証券のビットコインETF「IBIT」CFD取引の始め方｜税制・手数料・リスクを徹底解説",
-    "link": "https://coinpost.jp/?p=657082",
-    "pubDate": "Sun, 12 Oct 2025 12:00:24 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "IG証券のビットコインETF「IBIT」CFD取引を徹底解説。申告分離課税適用で税率20.315%の可能性、24時間365日取引、レバレッジ5倍など特徴を詳しく紹介。口座開設から注文方法、手数料、ファンディングコスト、リスク管理まで初心者にもわかりやすく説明します。"
-  },
-  {
-    "title": "高値圏での日柄調整が続く可能性、半減期サイクルの節目に警戒感｜bitbankアナリスト寄稿",
-    "link": "https://coinpost.jp/?p=656897",
-    "pubDate": "Sun, 12 Oct 2025 11:30:03 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "BTC円は1900万円トライに失敗し1860万円台で推移。米政府閉鎖による指標発表延期で方向感欠く展開が続く中、10月18日に半減期サイクルの重要な節目を迎える。過去のサイクルを意識した売り圧力とETF資金流入の綱引きに注目。"
   }
 ]
