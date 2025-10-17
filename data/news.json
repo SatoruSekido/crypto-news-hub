@@ -1,52 +1,192 @@
 [
   {
-    "title": "Japanese mega banks to jointly issue yen-pegged stablecoins: Report",
+    "title": "Why Wintermute and Other Market Makers Stopped Trading During Bitcoin Crash, $19B Liquidation",
+    "link": "https://decrypt.co/344796/why-wintermute-market-makers-stopped-trading-bitcoin-crash-liquidations",
+    "pubDate": "Fri, 17 Oct 2025 18:00:22 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Market makers paused trading during last week's flash crash, potentially adding to the volatility. Here’s what happened."
+  },
+  {
+    "title": "Your Company's Balance Sheet is Doomed Without Bitcoin",
+    "link": "https://www.coindesk.com/opinion/2025/10/17/your-company-s-balance-sheet-is-doomed-without-bitcoin",
+    "pubDate": "Fri, 17 Oct 2025 18:00:00 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "The traditional corporate playbook risks not only underperformance, but a breach of fiduciary duty as cash reserves bleed away on the altar of money-printing, argues Musqet founder David Parkinson."
+  },
+  {
+    "title": "Babylon claims breakthrough in using native Bitcoin collateral in DeFi: Finance Redefined",
+    "link": "https://cointelegraph.com/news/finance-redefined-oct-10-17-babylon-bitcoin-defi-breakthrough?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 17 Oct 2025 19:00:00 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "Babylon unveils a proof-of-concept for using native Bitcoin in DeFi lending, as BNB Chain and Hyperliquid post major updates."
+  },
+  {
+    "title": "Chainlink's LINK Plunges 9% as Intense Selling Overpowers Caliber's $2M Accumulation ",
+    "link": "https://www.coindesk.com/markets/2025/10/17/chainlink-s-link-plunges-9-as-intense-selling-overpowers-caliber-s-usd2m-accumulation",
+    "pubDate": "Fri, 17 Oct 2025 17:56:43 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Nasdaq-listed Caliber purchased $2 million LINK while the Chainlink Reserve added nearly 60,000 tokens, but bears remain in control."
+  },
+  {
+    "title": "Here's When to Expect the SEA Token as OpenSea Trading Volume Spikes",
+    "link": "https://decrypt.co/344798/when-expect-sea-token-opensea-trading-volume-spikes",
+    "pubDate": "Fri, 17 Oct 2025 17:36:37 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "NFT marketplace and token trading platform OpenSea will launch its SEA token in Q1 2026, with 50% allocated for its community of users."
+  },
+  {
+    "title": "Price predictions 10/17: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, HYPE, LINK, XLM",
+    "link": "https://cointelegraph.com/news/price-predictions-10-17-btc-eth-bnb-xrp-sol-doge-ada-hype-link-xlm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 17 Oct 2025 18:34:50 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "The odds for the resumption of ‘Uptober’ dwindle as Bitcoin, Ether and most altcoins continue to drop toward new lows. Will next week’s US economic calendar events help restore the uptrend?"
+  },
+  {
+    "title": "Swiss regulator GESPA takes aim at FIFA’s NFT platform in formal complaint",
+    "link": "https://cointelegraph.com/news/swiss-regulator-gespa-fifa-nft-platform-complaint?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 17 Oct 2025 18:12:40 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "Switzerland's nationwide gambling authority said that user rewards on the platform feature the element of chance, categorizing them as gambling."
+  },
+  {
+    "title": "9 Biggest Bitcoin Crashes in History",
+    "link": "https://decrypt.co/344676/9-biggest-bitcoin-crashes-history",
+    "pubDate": "Fri, 17 Oct 2025 16:56:17 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Mt. Gox hacks, China bans, COVID panic, and the FTX implosion: Here’s a brief history of the biggest price crashes in Bitcoin history."
+  },
+  {
+    "title": "Huobi Founder Li Lin to Lead $1B Ether Treasury Firm: Bloomberg",
+    "link": "https://www.coindesk.com/business/2025/10/17/huobi-founder-li-lin-to-lead-usd1b-ether-treasury-firm-backed-by-asia-s-crypto-pioneers-bloomberg",
+    "pubDate": "Fri, 17 Oct 2025 16:35:25 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Li Lin’s Avenir Capital is said to be teaming up with Asia's crypto pioneers to build a regulated vehicle focused on ether accumulation."
+  },
+  {
+    "title": "Gold's Record Frenzy Spurs Tokenized Gold’s $1B Daily Volume",
+    "link": "https://www.coindesk.com/markets/2025/10/17/gold-s-record-frenzy-spurs-tokenized-gold-s-usd1b-daily-volume",
+    "pubDate": "Fri, 17 Oct 2025 16:25:33 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Investors are increasingly tapping gold-backed crypto tokens for active trading and hedging, a CEX.io report said."
+  },
+  {
+    "title": "Here's What Bitcoin Traders Should Watch Out for This Weekend",
+    "link": "https://decrypt.co/344767/what-bitcoin-traders-should-watch-weekend",
+    "pubDate": "Fri, 17 Oct 2025 16:04:25 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Bitcoin fell early Friday as tariff tensions and banking concerns weigh on markets. Analysts are monitoring the key $103,000 support level."
+  },
+  {
+    "title": "Stellar Lumen's XLM Token Down 6% Amid Heavy Sell Pressure",
+    "link": "https://www.coindesk.com/markets/2025/10/17/stellar-lumen-s-xlm-token-down-6-amid-heavy-sell-pressure",
+    "pubDate": "Fri, 17 Oct 2025 15:52:39 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Stellar Lumens (XLM) slid 6.25% amid heavy institutional liquidation, even as the network’s latest protocol upgrade strengthened its enterprise-grade transaction capabilities."
+  },
+  {
+    "title": "FIFA Hit With Swiss Criminal Complaint Over NFT World Cup Ticket Vouchers",
+    "link": "https://decrypt.co/344775/fifa-swiss-criminal-complaint-nft-world-cup-ticket-vouchers",
+    "pubDate": "Fri, 17 Oct 2025 15:48:53 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "FIFA's Avalanche-based NFT collectibles platform is now the subject of a formal criminal complaint filed by Switzerland's gambling authority."
+  },
+  {
+    "title": "Hedera's HBAR Slides 11% as Selling Pressure Deepens",
+    "link": "https://www.coindesk.com/markets/2025/10/17/hedera-s-hbar-slides-11-as-selling-pressure-deepens",
+    "pubDate": "Fri, 17 Oct 2025 15:36:30 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Hedera’s native token faced sustained downward momentum over the past 24 hours, testing key support near $0.16 amid heightened trading activity and persistent bearish sentiment."
+  },
+  {
+    "title": "Arthur Hayes’ Maelstrom Seeks $250M Private Equity Fund to Acquire Crypto Firms: Bloomberg",
+    "link": "https://www.coindesk.com/business/2025/10/17/arthur-hayes-maelstrom-seeks-usd250m-private-equity-fund-to-acquire-crypto-service-firms-bloomberg",
+    "pubDate": "Fri, 17 Oct 2025 15:23:53 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Arthur Hayes’ Maelstrom family office is launching a private equity fund targeting infrastructure and analytics firms in crypto, aiming for $250 million in capital."
+  },
+  {
+    "title": "Coinbase, Binance Among Exchanges Targeted for Widened AML Checks by French Regulator: Bloomberg",
+    "link": "https://www.coindesk.com/policy/2025/10/17/coinbase-binance-among-exchanges-targeted-for-widened-aml-checks-by-french-regulator-bloomberg",
+    "pubDate": "Fri, 17 Oct 2025 15:01:38 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Failure to meet the requirements set by ACPR could compromise an exchange's ability to get a MiCA license from France."
+  },
+  {
+    "title": "From South Park to Wall Street: Are prediction markets going mainstream?",
+    "link": "https://cointelegraph.com/news/from-south-park-to-wall-street-are-prediction-markets-going-mainstream?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 17 Oct 2025 15:48:10 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "Prediction markets are rapidly going mainstream, and one expert argues that their simplicity could make them the first DeFi tool to achieve mass adoption."
+  },
+  {
+    "title": "Recent Fedspeak Confirms Intentions for Rate Cuts to Contiue: BofA",
+    "link": "https://www.coindesk.com/markets/2025/10/17/fed-governors-waller-williams-show-signs-of-pivoting-toward-rate-cuts-bofa-says",
+    "pubDate": "Fri, 17 Oct 2025 14:41:31 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "There appeared to be consensus around growing labor market risks even as sticky inflation remains an issue."
+  },
+  {
+    "title": "Morning Minute: Bitcoin Falls Again as JPMorgan Blames Crypto Natives for Selloff",
+    "link": "https://decrypt.co/344749/morning-minute-bitcoin-falls-jpmorgan-blames-crypto-natives-sell-off",
+    "pubDate": "Fri, 17 Oct 2025 14:30:26 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "And sell off they have, as Bitcoin hit a new four-month low overnight—turning crypto markets deep red."
+  },
+  {
+    "title": "Bitcoin 'bull run is over,' traders say, with 50% BTC price crash warning",
+    "link": "https://cointelegraph.com/news/bitcoin-bull-run-over-traders-50-percent-btc-price-crash-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 17 Oct 2025 14:56:30 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "Bitcoin’s drop below key support levels today could be a sign that the 2025 bull run is over, as a trader sets $52,000 as the bear market target."
+  },
+  {
+    "title": "Here’s why Russia ranks highest in Europe for crypto adoption: Chainalysis",
+    "link": "https://cointelegraph.com/news/here-s-why-russia-ranks-highest-in-europe-for-crypto-adoption-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 17 Oct 2025 14:44:27 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "Russia’s rapid DeFi expansion and increase in large-value transfers indicate growing adoption of crypto for financial services, according to Chainalysis."
+  },
+  {
+    "title": "Japan's Top Banks Plan Joint Stablecoin Launch: Nikkei",
+    "link": "https://www.coindesk.com/business/2025/10/17/japan-s-top-banks-plan-joint-stablecoin-launch-nikkei",
+    "pubDate": "Fri, 17 Oct 2025 13:43:04 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Mitsubishi UFJ, Sumitomo Mitsui and Mizuho Financial Groups aim to create a shared framework for stablecoin issuance and transfer, according to a story in Nikkei."
+  },
+  {
+    "title": "The ghost of Mt. Gox will stop haunting Bitcoin this Halloween",
+    "link": "https://cointelegraph.com/news/ghost-mt-gox-stop-haunting-bitcoin-halloween?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 17 Oct 2025 14:30:00 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "From Tokyo Whale to the Halloween deadline, Mt. Gox’s long journey through Bitcoin history is nearing its end."
+  },
+  {
+    "title": "Decentralized compute networks will democratize global AI access",
+    "link": "https://cointelegraph.com/news/decentralized-compute-networks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 17 Oct 2025 14:30:00 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "AI compute remains centralized in developed nations. Decentralized blockchain networks can unlock idle GPUs to democratize access."
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 17 Oct 2025 14:10:19 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
+  },
+  {
+    "title": "Is Smart Money Exiting? Whales Dump Solana, Aave, and Aster",
+    "link": "https://decrypt.co/344750/is-smart-money-exiting-whales-dump-solana-aave-and-aster",
+    "pubDate": "Fri, 17 Oct 2025 12:40:01 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "A broad altcoin sell-off is seeing whales de-risking, according to analysts, citing fears of a black swan event."
+  },
+  {
+    "title": "Japanese mega banks to jointly issue yen-pegged stablecoin: Report",
     "link": "https://cointelegraph.com/news/japan-mega-banks-stablecoin-mitsubishi-progmat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 17 Oct 2025 13:27:38 +0100",
     "source": "Cointelegraph",
     "contentSnippet": "Japan’s top banks plan to launch a joint yen-based stablecoin using MUFG’s Progmat platform to modernize payments and corporate settlements."
-  },
-  {
-    "title": "How to catch market manipulation in altcoins before they crash",
-    "link": "https://cointelegraph.com/news/how-to-catch-market-manipulation-in-altcoins-before-they-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 17 Oct 2025 13:20:13 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "Crypto market manipulation involves organized efforts to artificially move altcoin prices and mislead traders about their true value."
-  },
-  {
-    "title": "Crypto Markets Today: BTC, Altcoins Plunge as Liquidity Tightens and Gold Demand Soars",
-    "link": "https://www.coindesk.com/markets/2025/10/17/crypto-markets-today-btc-altcoins-plunge-as-liquidity-tightens-and-gold-demand-soars",
-    "pubDate": "Fri, 17 Oct 2025 12:00:44 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Bitcoin drops below its 200-day average to near $104,500 amid broad sell-off; $1.2B in liquidations signal mounting stress as traders brace for further downside."
-  },
-  {
-    "title": "Ethereum-Based Uniswap Adds Solana Support in Win for Tackling DeFi Fragmentation",
-    "link": "https://www.coindesk.com/tech/2025/10/17/ethereum-based-uniswap-adds-solana-support-in-win-for-tackling-fragmentation-in-defi",
-    "pubDate": "Fri, 17 Oct 2025 11:27:45 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "This could simplify the user experience,  removing the need to use complex bridges or switch between different wallets and applications"
-  },
-  {
-    "title": "Credit Market's 'Cockroach' Problem Hits BTC as $1.2B Gets Liquidated: Crypto Daybook Americas",
-    "link": "https://www.coindesk.com/daybook-us/2025/10/17/credit-market-s-cockroach-problem-hits-btc-as-usd1-2b-gets-liquidated-crypto-daybook-americas",
-    "pubDate": "Fri, 17 Oct 2025 11:15:00 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Your day-ahead look for Oct. 17, 2025"
-  },
-  {
-    "title": "Citizens Sees Ether Primed for $10K as Supply Tightens and Institutional Demand Surges",
-    "link": "https://www.coindesk.com/markets/2025/10/17/citizens-sees-ether-primed-for-usd10k-as-supply-tightens-and-institutional-demand-surges",
-    "pubDate": "Fri, 17 Oct 2025 11:02:18 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "The bank sees growing adoption, tighter supply and rising institutional inflows driving a sharp ether rally within two years."
-  },
-  {
-    "title": "Fear returns to the crypto market as $230B vanishes overnight",
-    "link": "https://cointelegraph.com/news/crypto-fear-greed-index-falls-to-april-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 17 Oct 2025 11:55:35 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "Investor sentiment turned sharply bearish as crypto’s fear index plunged to 28, and $230 billion in value evaporated in a single day."
   },
   {
     "title": "ARK 21Shares Bitcoin ETF Records Highest Outflows Since August",
@@ -54,34 +194,6 @@
     "pubDate": "Fri, 17 Oct 2025 10:52:23 +0000",
     "source": "Decrypt",
     "contentSnippet": "Analysts cited fallout from tariffs and last week's $19B liquidation event as driving institutional investors to defensive positioning."
-  },
-  {
-    "title": "France turns up heat on Binance and rivals amid EU power struggle",
-    "link": "https://cointelegraph.com/news/france-turns-up-the-heat-on-binance-and-rivals-amid-eu-power-struggle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 17 Oct 2025 11:44:02 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "French regulator ACPR is auditing Binance and other exchanges as Paris seeks a greater role in enforcing MiCA rules across Europe."
-  },
-  {
-    "title": "Gold Tests Key Resistance Level That Could Signal the Next Bullish Phase",
-    "link": "https://www.coindesk.com/markets/2025/10/17/gold-tests-key-resistance-level-that-could-signal-the-next-bullish-phase",
-    "pubDate": "Fri, 17 Oct 2025 10:31:29 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Bitcoin is now just 7% of gold’s total market value as it nears a $2 trillion market cap."
-  },
-  {
-    "title": "Bitcoin Hits Most Oversold Level Against Gold in 3 Years as BTC Risks Falling Below $100K",
-    "link": "https://www.coindesk.com/markets/2025/10/17/bitcoin-hits-most-oversold-level-against-gold-in-3-years-as-btc-eyes-sub-usd100k",
-    "pubDate": "Fri, 17 Oct 2025 10:26:15 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "The BTC/Gold ratio looks most oversold since November 2022, according to the RSI indicator."
-  },
-  {
-    "title": "Top five Ethereum block explorers for tracking transactions in 2025",
-    "link": "https://cointelegraph.com/news/top-five-ethereum-block-explorers-for-tracking-transactions-in-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 17 Oct 2025 11:19:14 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "The best Ethereum block explorers in 2025, from Etherscan to TokenView, each offer unique tools, strengths and limitations."
   },
   {
     "title": "Bitcoin's Plunge Below $105,000 Sends Crypto Market Cap to Lowest Level Since July",
@@ -98,27 +210,6 @@
     "contentSnippet": "三菱UFJ、三井住友、みずほの3メガバンクが円建てステーブルコインを共同発行。信託型により高い安全性を実現し、クロスボーダー送金のコスト削減を目指す。プログマのシステムを活用し今年度内に実用化予定。"
   },
   {
-    "title": "Privacy laws hinder cross-border crypto regulation: G20 risk watchdog",
-    "link": "https://cointelegraph.com/news/privacy-hinder-crypto-regulation-financial-stability-board?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 17 Oct 2025 10:53:52 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "Sixteen years after Bitcoin’s debut, regulators continue to face hurdles in accessing reliable crypto data, with privacy laws complicating efforts."
-  },
-  {
-    "title": "How low will Bitcoin go? Regional US ‘bank stress’ pushes BTC toward $100K",
-    "link": "https://cointelegraph.com/news/how-low-will-bitcoin-go-regional-us-bank-stress-btc-100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 17 Oct 2025 10:51:03 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "Bitcoin plunged to $104,500 in the spot market as signs of credit strain in US regional banks reignited fears of a broader market sell-off."
-  },
-  {
-    "title": "Record Surplus in September Highlights U.S. Fiscal Momentum as Bitcoin Struggles",
-    "link": "https://www.coindesk.com/markets/2025/10/17/record-surplus-in-september-highlights-u-s-fiscal-momentum-as-bitcoin-struggles",
-    "pubDate": "Fri, 17 Oct 2025 09:29:55 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "While bitcoin hovers near $105,000, stronger government revenues and a record September surplus point to improving fiscal conditions."
-  },
-  {
     "title": "Salesforce Faces Class Action Over Alleged Illegal AI Training Data",
     "link": "https://decrypt.co/344727/salesforce-faces-class-action-over-alleged-illegal-ai-training-data",
     "pubDate": "Fri, 17 Oct 2025 09:26:20 +0000",
@@ -133,60 +224,11 @@
     "contentSnippet": "音楽ファンクラブ運営大手Fanplusと協業するFanplaは14日、暗号資産「Fanpla（FPL）」のIEO（InitialExchangeOffering）をコインチェックで実施すると発表した。購入申し込みは10月21日に開始され、1..."
   },
   {
-    "title": "Bitcoin Loses $106K as Bullish Crypto Bets Rack up $800M in Liquidations",
-    "link": "https://www.coindesk.com/markets/2025/10/17/bitcoin-loses-usd106k-as-bullish-crypto-bets-rack-up-usd800m-in-liquidations",
-    "pubDate": "Fri, 17 Oct 2025 08:37:18 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Bitcoin accounted for roughly $344 million in losses, followed by Ether at $201 million, and Solana (SOL) at $97 million."
-  },
-  {
-    "title": "Bitcoin hits 15-week low under $105K as US regional bank woes echo 2023",
-    "link": "https://cointelegraph.com/news/bitcoin-hits-15-week-low-under-105k-regional-bank-woes-echo-2023?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 17 Oct 2025 09:18:07 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "Bitcoin price strength collapsed as US regional bank stress spilled over into crypto as it did in 2023, while traders focused on $100,000."
-  },
-  {
     "title": "メタプラネット、ビットコイン複利モデルで反転狙う　サイモンCEOが方針説明",
     "link": "https://coinpost.jp/?p=658748",
     "pubDate": "Fri, 17 Oct 2025 17:12:27 +0900",
     "source": "CoinPost",
     "contentSnippet": "メタプラネット株が400円台まで下落しmNAVは0.89に。サイモンCEOは「優先株で希薄化せずBTCを買い増す」方針を再確認。複利モデルの理論と背景を解説。"
-  },
-  {
-    "title": "Bitcoin Drops Below $107K, XRP, ADA Down 17% on Week as Traders Await Risk-Taking Mode",
-    "link": "https://www.coindesk.com/markets/2025/10/17/bitcoin-drops-below-usd107k-xrp-ada-down-17-on-week-as-traders-await-risk-taking-mode",
-    "pubDate": "Fri, 17 Oct 2025 07:16:44 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "The tone in risk markets soured again overnight as traders rotated back to stablecoins, avoiding bitcoin and smaller tokens ahead of key Federal Reserve and geopolitical catalysts."
-  },
-  {
-    "title": "Bitcoin Slips Below 200-day SMA as 10-Year Treasury Yield Hits Lowest Since April",
-    "link": "https://www.coindesk.com/markets/2025/10/17/bitcoin-slips-below-200-day-sma-as-10-year-treasury-yield-hits-lowest-since-april",
-    "pubDate": "Fri, 17 Oct 2025 07:10:02 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Futures tied to the S&P 500 continue to signal risk-off, bolstering haven demand for bonds."
-  },
-  {
-    "title": "Uniswap adds Solana support on web app in $140B opportunity",
-    "link": "https://cointelegraph.com/news/uniswap-adds-support-solana-web-app?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 17 Oct 2025 07:32:12 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "Decentralized exchange Uniswap has integrated with Jupiter’s Ultra API, making over a million Solana tokens available on its web app."
-  },
-  {
-    "title": "Ripple seeks to buy $1 billion XRP tokens for new treasury: Report",
-    "link": "https://cointelegraph.com/news/ripple-1b-xrp-buy-digital-asset-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 17 Oct 2025 07:18:56 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "Ripple Labs is already a significant XRP holder, with its market report from earlier this year revealing it had 4.5 billion tokens in its stash, with another 37 billion locked in escrow."
-  },
-  {
-    "title": "Binance Cleared to Acquire Korean Crypto Exchange GOPAX",
-    "link": "https://decrypt.co/344719/binance-cleared-acquire-korean-crypto-exchange-gopax",
-    "pubDate": "Fri, 17 Oct 2025 05:27:39 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "South Korea has approved Binance’s acquisition of GOPAX, ending a two-year review and clearing the exchange to re-enter the Korean market."
   },
   {
     "title": "コインベース、ステーブルコイン決済プラットフォームを開始　USDC保有で年利4.1%",
@@ -201,13 +243,6 @@
     "pubDate": "Fri, 17 Oct 2025 13:20:41 +0900",
     "source": "CoinPost",
     "contentSnippet": "ユニスワップが非EVMネットワークとして初めてソラナに対応し、ウェブアプリでSOLトークンの直接スワップが可能になった。100万以上のトークンにアクセスでき、今後はブリッジングやクロスチェーン機能も予定している。"
-  },
-  {
-    "title": "Bitcoin Falls as Short Sellers Pile In, Even as Spot Buyers Step Up",
-    "link": "https://decrypt.co/344717/bitcoin-falls-as-short-sellers-pile-in-even-as-spot-buyers-step-up",
-    "pubDate": "Fri, 17 Oct 2025 04:19:13 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Analysts see continued volatility for Bitcoin as short sellers dominate derivatives while spot buyers provide fragile support."
   },
   {
     "title": "ビットコイン価格モメンタム弱まるも、クジラの買いは堅調＝CryptoQuant",
@@ -243,40 +278,5 @@
     "pubDate": "Fri, 17 Oct 2025 11:00:03 +0900",
     "source": "CoinPost",
     "contentSnippet": "暗号資産（仮想通貨）投資で公募価格の数倍もの高値付けることもある国内外のIEO事例ですが、初値で公募割れしたケースもあるなどリスクも付き物です。今後の注目IEOにはナナメウエ社の「YAY」、NOT A HOTELの「NAC」をbitFlyerやGMOコインが販売検討しており、口座開設がおすすめです。国内外のIEO成功事例、参加方法まで解説。"
-  },
-  {
-    "title": "How Japan’s Crypto Insider Trading Ban Could Reshape Global Policy",
-    "link": "https://decrypt.co/344714/how-japans-crypto-insider-trading-ban-could-reshape-global-policy",
-    "pubDate": "Fri, 17 Oct 2025 01:05:51 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Tokyo’s legislative-first model creates a gravitational pull across Asia and beyond in a bid to clamp down on insider trading, observers say."
-  },
-  {
-    "title": "Nasdaq-Listed Zeta Network Raises $231M via Bitcoin-Backed Private Placement",
-    "link": "https://decrypt.co/344712/nasdaq-listed-zeta-network-231m-bitcoin-backed-private-placement",
-    "pubDate": "Thu, 16 Oct 2025 23:39:59 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Zeta's private placement funded in Bitcoin or SolvBTC, a wrapped Bitcoin token, is being touted as a means to strengthen its balance sheet."
-  },
-  {
-    "title": "Newsmax Reveals Bitcoin, Trump Meme Coin Treasury",
-    "link": "https://decrypt.co/344707/newsmax-reveals-bitcoin-trump-meme-coin-treasury",
-    "pubDate": "Thu, 16 Oct 2025 21:21:55 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Publicly traded media outlet Newsmax is building a digital assets treasury centered on Bitcoin and the president's official meme coin."
-  },
-  {
-    "title": "Moon or Doom: Does Bitcoin Hit $100K or $120K Next?",
-    "link": "https://decrypt.co/344679/moon-doom-bitcoin-price-100k-or-120k-next",
-    "pubDate": "Thu, 16 Oct 2025 20:59:54 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "As Bitcoin hovers around $108K, prediction markets flip bearish while short-term indicators confirm what bulls don't want to hear."
-  },
-  {
-    "title": "Why Is Dogecoin Down So Much Worse Than Bitcoin and Ethereum?",
-    "link": "https://decrypt.co/344674/why-dogecoin-down-worse-bitcoin-ethereum",
-    "pubDate": "Thu, 16 Oct 2025 19:51:53 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Dogecoin remains the biggest loser among major crypto coins this week, shedding nearly a quarter of its value. Why's it down so bad?"
   }
 ]
