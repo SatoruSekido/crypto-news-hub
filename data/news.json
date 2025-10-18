@@ -1,5 +1,40 @@
 [
   {
+    "title": "OpenSea rejects pivot from NFTs, says it’s evolving to ‘trade everything’",
+    "link": "https://cointelegraph.com/news/opensea-rejects-pivot-from-nfts-trade-everything-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 18 Oct 2025 12:47:45 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "OpenSea CEO Devin Finzer says the platform isn’t abandoning NFTs but expanding into a universal onchain trading hub."
+  },
+  {
+    "title": "Ripple’s $1B buy-back plan fails to lift price: Can XRP still rebound?",
+    "link": "https://cointelegraph.com/news/ripple-1b-buy-back-fails-lift-price-can-xrp-still-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 18 Oct 2025 12:37:26 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "Holding above $2 increases XRP's potential to retest $3 in the coming weeks, while also maintaining a record high target of around $7.75."
+  },
+  {
+    "title": "UK tax authority doubles crypto warning letters in crackdown on unpaid gains",
+    "link": "https://cointelegraph.com/news/uk-tax-authority-doubles-crypto-warning-letters-hmrc-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 18 Oct 2025 08:47:57 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "HMRC sent nearly 65,000 warning letters to crypto investors last year, more than double the previous year, as the UK steps up efforts to trace undeclared capital gains."
+  },
+  {
+    "title": "DOGE Finds Support After Tariff-Led Selloff, Market Awaits Next Catalyst",
+    "link": "https://www.coindesk.com/markets/2025/10/18/doge-finds-support-after-tariff-led-selloff-market-awaits-next-catalyst",
+    "pubDate": "Sat, 18 Oct 2025 06:32:10 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "The session’s 7% swing came amid renewed macro jitters and reports of large whale liquidations totaling over $74 million."
+  },
+  {
+    "title": "XRP Stabilizes After Early Dip, Traders Eye $2.40 Breakout",
+    "link": "https://www.coindesk.com/markets/2025/10/18/xrp-stabilizes-after-early-dip-traders-eye-usd2-40-breakout",
+    "pubDate": "Sat, 18 Oct 2025 06:19:32 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "The move came amid renewed U.S.–China tariff fears and cautious positioning ahead of next week’s SEC deadlines for spot XRP ETFs."
+  },
+  {
     "title": "Bitcoin ETFs shed $1.2B in red week, but Schwab remains bullish",
     "link": "https://cointelegraph.com/news/bitcoin-etfs-shed-1-2b-in-red-week-but-schwab-remains-bullish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sat, 18 Oct 2025 06:27:08 +0100",
@@ -119,32 +154,11 @@
     "contentSnippet": "The founder of the Chinese cryptocurrency exchange plans to announce the trust within a few weeks, with the backing of Ether supporters."
   },
   {
-    "title": "Ethereum Foundation veteran Dankrad Feist joins Stripe’s Tempo team",
-    "link": "https://cointelegraph.com/news/ethereum-foundation-veteran-dankrad-feist-join-tempo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 17 Oct 2025 22:15:36 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "Feist, who is one of the Ethereum Foundation's key researchers, said that Tempo and Ethereum share similar values and \"complement\" each other."
-  },
-  {
-    "title": "Public companies hold $110B BTC, but which are profiting from the Bitcoin standard?",
-    "link": "https://cointelegraph.com/news/public-companies-hold-dollar110b-btc-but-which-are-profiting-from-the-bitcoin-standard?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 17 Oct 2025 21:30:00 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "Public companies now hold over 1 million Bitcoin worth $110 billion on their balance sheets, but only early adopters with disciplined strategies have seen major gains."
-  },
-  {
     "title": "Relax, That's Not a Stranger in Your House—It's Just an AI Prank",
     "link": "https://decrypt.co/344783/relax-not-stranger-your-house-ai-prank",
     "pubDate": "Fri, 17 Oct 2025 19:58:23 +0000",
     "source": "Decrypt",
     "contentSnippet": "A viral prank using AI-generated photos of a “homeless man” inside people’s homes has led to 911 calls, police warnings, and backlash over its cruelty."
-  },
-  {
-    "title": "BitMEX co-founder’s family office seeking $250M for private equity fund: Report",
-    "link": "https://cointelegraph.com/news/bitmex-raising-private-equity-fund-crypto-investments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 17 Oct 2025 20:35:00 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "The fund, to be run by Arthur Hayes and two associates, reportedly plans to use $40 million to $75 million for each acquisition of up to six crypto companies."
   },
   {
     "title": "Stripe's Tempo Blockchain Raises $500 Million, Poaches Prominent Ethereum Dev",
@@ -257,20 +271,6 @@
     "pubDate": "Fri, 17 Oct 2025 15:23:53 +0000",
     "source": "CoinDesk",
     "contentSnippet": "Arthur Hayes’ Maelstrom family office is launching a private equity fund targeting infrastructure and analytics firms in crypto, aiming for $250 million in capital."
-  },
-  {
-    "title": "Coinbase, Binance Among Exchanges Targeted for Widened AML Checks by French Regulator: Bloomberg",
-    "link": "https://www.coindesk.com/policy/2025/10/17/coinbase-binance-among-exchanges-targeted-for-widened-aml-checks-by-french-regulator-bloomberg",
-    "pubDate": "Fri, 17 Oct 2025 15:01:38 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Failure to meet the requirements set by ACPR could compromise an exchange's ability to get a MiCA license from France."
-  },
-  {
-    "title": "Recent Fedspeak Confirms Intentions for Rate Cuts to Contiue: BofA",
-    "link": "https://www.coindesk.com/markets/2025/10/17/fed-governors-waller-williams-show-signs-of-pivoting-toward-rate-cuts-bofa-says",
-    "pubDate": "Fri, 17 Oct 2025 14:41:31 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "There appeared to be consensus around growing labor market risks even as sticky inflation remains an issue."
   },
   {
     "title": "Morning Minute: Bitcoin Falls Again as JPMorgan Blames Crypto Natives for Selloff",
