@@ -1,5 +1,96 @@
 [
   {
+    "title": "Bitcoin ETFs shed $1.2B in red week, but Schwab remains bullish",
+    "link": "https://cointelegraph.com/news/bitcoin-etfs-shed-1-2b-in-red-week-but-schwab-remains-bullish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 18 Oct 2025 06:27:08 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "Bitcoin ETFs lost $1.22 billion this week as BTC fell, but Schwab reported its clients now own 20% of all US crypto ETPs."
+  },
+  {
+    "title": "OneKeyが12万件のビットコイン秘密鍵脆弱性を報告、トラストウォレットに影響か",
+    "link": "https://coinpost.jp/?p=658988",
+    "pubDate": "Sat, 18 Oct 2025 13:55:05 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "ワンキーがリブビットコイン・エクスプローラー3.xの脆弱性により約12万件のビットコイン秘密鍵がクラッキング可能になると報告した。トラストウォレットなど複数の製品が影響を受けている模様。"
+  },
+  {
+    "title": "オープンシーが2026年1QにSEAトークン発行予定、供給量の50%をコミュニティへ配布",
+    "link": "https://coinpost.jp/?p=658983",
+    "pubDate": "Sat, 18 Oct 2025 13:50:38 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "オープンシーCEOが2026年第1四半期のSEAトークン発行を発表した。総供給量の50%がコミュニティに配分され、収益の50%が買い戻しに使用される。ステーキング機能も実装予定だ。"
+  },
+  {
+    "title": "Bitcoin Coinbase Premium weakens but RSI mirrors April bottom zone",
+    "link": "https://cointelegraph.com/news/bitcoin-coinbase-premium-weakens-but-rsi-mirrors-april-bottom-zone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 18 Oct 2025 05:06:02 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "The Bitcoin Coinbase Premium Index turned negative as BTC’s RSI hit its lowest level since April, but it could also mark the beginning of a slow recovery."
+  },
+  {
+    "title": "G20、グローバルな仮想通貨規制の不足を指摘　ステーブルコインの課題も",
+    "link": "https://coinpost.jp/?p=658972",
+    "pubDate": "Sat, 18 Oct 2025 13:05:44 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "国際的な金融監督機関FSBが、ビットコインなど仮想通貨の規制実施状況を評価する報告書を発表。各国規制の断片化と一貫性の欠如を指摘し、ステーブルコイン監督の課題も述べた。"
+  },
+  {
+    "title": "NAV Collapse Creates Rare Opportunity in Bitcoin Treasurys: 10x Research",
+    "link": "https://cointelegraph.com/news/nav-collapse-creates-rare-buying-opportunity-in-bitcoin-treasuries-10x-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 18 Oct 2025 05:04:37 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "Bitcoin treasury firms saw NAV premiums collapse as retail lost billions, but the reset created entry points for a new era of skilled asset managers, say researchers."
+  },
+  {
+    "title": "‘Bitcoin smells trouble’ as banks are stressed and ‘yields are puking’ - Strike CEO",
+    "link": "https://cointelegraph.com/news/bitcoin-smells-trouble-as-banks-are-stressed-and-yields-are-puking-strike-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 18 Oct 2025 03:00:06 +0100",
+    "source": "Cointelegraph",
+    "contentSnippet": "Regional banks faced renewed stress despite 2023 crisis reforms, with Zions and Western Alliance stocks plunging as Bitcoin fell to a four-month low."
+  },
+  {
+    "title": "著名ユーチューバー「ミスタービースト」、仮想通貨取引所商標を申請",
+    "link": "https://coinpost.jp/?p=658970",
+    "pubDate": "Sat, 18 Oct 2025 10:55:47 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "登録者4億4600万人のユーチューバー、ミスタービーストが仮想通貨取引やDEX運営を含む金融プラットフォームの商標を申請した。バンキングや投資サービスも提供する計画だ。"
+  },
+  {
+    "title": "決済大手ストライプ支援のL1チェーン「テンポ」、750億円を調達　イーサリアムOBが参画",
+    "link": "https://coinpost.jp/?p=658923",
+    "pubDate": "Sat, 18 Oct 2025 10:05:44 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "ストライプとパラダイムが支援する決済特化型L1ブロックチェーン「テンポ」が750億円を調達した。評価額は7,500億円に達し、著名イーサリアム開発者も参画する。"
+  },
+  {
+    "title": "スイス当局、FIFAのNFTプラットフォームを違法賭博として刑事告発",
+    "link": "https://coinpost.jp/?p=658922",
+    "pubDate": "Sat, 18 Oct 2025 09:30:01 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "スイス賭博監督局がFIFAのブロックチェーン型NFTプラットフォームを違法な賭博サービスとして刑事告発した。参加に金銭的賭け金が必要で、賞金獲得が抽選で決まる仕組みが宝くじやスポーツベッティングに該当すると判断された。"
+  },
+  {
+    "title": "オープンシーがNFT特化から事業転換、22チェーン対応の仮想通貨取引所に＝報道",
+    "link": "https://coinpost.jp/?p=658918",
+    "pubDate": "Sat, 18 Oct 2025 08:35:12 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "NFT市場の崩壊を経たオープンシーが、22ブロックチェーン対応のマルチチェーン仮想通貨取引アグリゲーターに転換すると報じられた。"
+  },
+  {
+    "title": "アーサー・ヘイズのMaelstrom、仮想通貨企業の買収ファンドを計画　370億円超規模",
+    "link": "https://coinpost.jp/?p=658900",
+    "pubDate": "Sat, 18 Oct 2025 07:45:18 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "アーサー・ヘイズ氏は、仮想通貨企業をターゲットにした企業買収ファンドの構想があることを明かした。ファンドの規模は370億円超で、投資インフラや分析プラットフォームなどのサービスプロバイダーに特化する。"
+  },
+  {
+    "title": "Huobi創設者が1500億円規模のイーサリアム保有企業設立へ、アジア投資家が参画",
+    "link": "https://coinpost.jp/?p=658898",
+    "pubDate": "Sat, 18 Oct 2025 07:02:21 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "中国の仮想通貨取引所Huobi創設者リー・リン氏が、アジアの初期イーサリアム支援者らと10億ドル規模のデジタル資産信託を立ち上げる。ナスダック上場企業買収を交渉中で、2-3週間以内に発表予定だ。"
+  },
+  {
     "title": "Tempo, Stripe’s new blockchain, hits $5B valuation in $500M funding round",
     "link": "https://cointelegraph.com/news/tempo-stripe-blockchain-5b-valuation-funding-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 17 Oct 2025 22:58:00 +0100",
@@ -12,6 +103,13 @@
     "pubDate": "Fri, 17 Oct 2025 22:52:36 +0100",
     "source": "Cointelegraph",
     "contentSnippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
+  },
+  {
+    "title": "米地方銀行の不良債権増加で金が大幅続伸、2023年破綻危機の再来懸念か",
+    "link": "https://coinpost.jp/?p=658884",
+    "pubDate": "Sat, 18 Oct 2025 06:40:16 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "米地方銀行が不良債権を償却し株価が急落する中、金価格は今週7.34%上昇した。JPモルガンCEOが更なる問題発生を警告し、投資家は2023年の銀行危機再来を懸念している。"
   },
   {
     "title": "Huobi founder raises $1B as part of Ether trust strategy: Report",
@@ -56,13 +154,6 @@
     "contentSnippet": "Dankrad Feist has left the Ethereum Foundation to help build Stripe's Tempo blockchain, which Fortune reports is now valued at $5 billion."
   },
   {
-    "title": "ETH bulls unmoved by surprise sell-off below $3.7K: Here’s why",
-    "link": "https://cointelegraph.com/news/eth-bulls-unmoved-by-surprise-sell-off-below-3-7k-here-s-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 17 Oct 2025 20:30:00 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "Ether’s price rebound potential hinges on improving US credit and labor data, as traders show caution after recent liquidations and volatility in derivatives markets."
-  },
-  {
     "title": "YouTube Star MrBeast Files Trademark for Crypto Exchange and Payments Service",
     "link": "https://decrypt.co/344809/youtube-star-mrbeast-trademark-crypto-exchange",
     "pubDate": "Fri, 17 Oct 2025 19:11:14 +0000",
@@ -70,32 +161,11 @@
     "contentSnippet": "MrBeast trademarks crypto exchange app, but regulatory hurdles remain before the YouTube star can launch MrBeast Financial."
   },
   {
-    "title": "Ondo Finance to SEC: Hold off on Nasdaq’s tokenized securities plan",
-    "link": "https://cointelegraph.com/news/ondo-finance-sec-hold-off-nasdaq-tokenized-securities-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 17 Oct 2025 20:09:48 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "In a letter to the US regulator, Ondo argued that Nasdaq’s plan relies on undisclosed settlement details that could favor big players."
-  },
-  {
     "title": "Bitcoin, Ethereum and XRP Bleed as Traders Weigh End of 4-Year Cycle",
     "link": "https://decrypt.co/344818/bitcoin-ethereum-xrp-bleed-traders-weigh-end-4-year-cycle",
     "pubDate": "Fri, 17 Oct 2025 18:55:25 +0000",
     "source": "Decrypt",
     "contentSnippet": "Experts believe that some retail traders still follow the four-year Bitcoin cycle rulebook, accounting for part of crypto’s recent decline."
-  },
-  {
-    "title": "What is EtherHiding? Google flags malware with crypto-stealing code in smart contracts",
-    "link": "https://cointelegraph.com/news/north-korea-hackers-etherhiding-exploit-google?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 17 Oct 2025 19:34:29 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "\"EtherHiding\" deploys in two phases by compromising a website, which then communicates with malicious code embedded in a smart contract."
-  },
-  {
-    "title": "Bitcoin holds $105K as US bank stocks recover, Trump truce lifts sentiment",
-    "link": "https://cointelegraph.com/news/bitcoin-holds-105k-as-us-bank-stocks-recover-trump-truce-lifts-sentiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 17 Oct 2025 19:30:00 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "Bitcoin fell below $105,000 as US banking stress rattled risk markets, but stronger-than-expected regional bank earnings helped ease investor fears. Will the BTC uptrend resume any time soon?"
   },
   {
     "title": "Astra Nova Raises $48.3M to Grow Web3, AI Entertainment Ecosystem",
