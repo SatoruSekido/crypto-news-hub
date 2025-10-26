@@ -1,10 +1,52 @@
 [
   {
+    "title": "今週の主要仮想通貨材料まとめ、ビットマインの大規模なETH押し目買いやSOL現物ETFが香港初承認など",
+    "link": "https://coinpost.jp/?p=660486",
+    "pubDate": "Sun, 26 Oct 2025 14:00:51 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "前週比で振り返る仮想通貨市場の最新動向。ビットコインやイーサリアム、XRP、BNB、ソラナといった主要銘柄の騰落率や注目材料を一挙紹介。市場トレンドと関連ニュースを詳しく解説する。"
+  },
+  {
+    "title": "Coinbase’s x402 transactions explode over 10,000% in a month",
+    "link": "https://cointelegraph.com/news/coinbases-x402-transactions-rise-10000-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 26 Oct 2025 04:20:02 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Coinbase’s x402 protocol, which enables AI agents to transact autonomously over the internet, has seen a 10,000% rise in transaction activity over a month."
+  },
+  {
+    "title": "米中首脳会談が焦点、関係改善なら相場に追い風も｜bitbankアナリスト寄稿",
+    "link": "https://coinpost.jp/?p=660636",
+    "pubDate": "Sun, 26 Oct 2025 11:30:20 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "今週のビットコイン対円相場は1700万円周辺で方向感に欠ける展開。30日の米中首脳会談や来週のFOMCでの利下げ・QT停止観測が注目される中、24日のCPIや25日の通商協議を控え、相場に方向感が出る可能性を指摘。半減期サイクルの節目を過ぎたものの、金融緩和環境は2021年と大きく異なる状況。"
+  },
+  {
+    "title": "週刊ニュース｜金価格の2020年以来の下落幅や金融庁による銀行の仮想通貨投資解禁の正式検討に高い関心",
+    "link": "https://coinpost.jp/?p=660808",
+    "pubDate": "Sun, 26 Oct 2025 11:00:40 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "今週は、金価格下落からのビットコインへの資金移動の可能性、金融庁による銀行の仮想通貨投資解禁の正式検討、量子コンピュータのリスクに関する記事が最も関心を集めた。"
+  },
+  {
+    "title": "Kyrgyzstan launches stablecoin on BNB Chain, confirms future CBDC rollout",
+    "link": "https://cointelegraph.com/news/kyrgyzstan-rolls-out-stablecoin-and-confirms-future-cbdc-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 26 Oct 2025 01:38:59 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "A stablecoin is now live in Kyrgyzstan, which confirmed plans to launch a CBDC and explore a national crypto reserve after meeting with strategic adviser Changpeng Zhao."
+  },
+  {
     "title": "Trump Names SEC Crypto Task Force Head Selig as Next Nominee to Run U.S. CFTC",
     "link": "https://www.coindesk.com/policy/2025/10/25/frame-trump-names-sec-crypto-task-force-head-selig-as-next-nominee-to-run-u-s-cftc",
     "pubDate": "Sat, 25 Oct 2025 20:53:07 +0000",
     "source": "CoinDesk",
     "contentSnippet": "If confirmed, current SEC official Mike Selig would take over the U.S. commodities watchdog as it's poised to be given wide authority over crypto."
+  },
+  {
+    "title": "仮想通貨取引所ランキング｜実績・ユーザー評判・プロ分析で徹底比較",
+    "link": "https://coinpost.jp/?p=217357",
+    "pubDate": "Sun, 26 Oct 2025 05:01:39 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "投資のプロが選ぶ仮想通貨取引所おすすめランキング最新版。IEO投資、ビットコイン（BTC）、イーサリアム（ETH）、XRP（リップル）、ソラナ（SOL）など人気銘柄の取扱いやユーザー評判を初心者目線で徹底比較。"
   },
   {
     "title": "Here’s what happened in crypto today",
@@ -140,20 +182,6 @@
     "contentSnippet": "Mysten Labs’ chief cryptographer warns that artificial intelligence, not quantum computing, poses the real near-term threat to blockchain security."
   },
   {
-    "title": "Ferrari to launch digital token to let fans bid on its Le Mans-winning race car",
-    "link": "https://cointelegraph.com/news/ferrari-digital-token-lets-fans-bid-on-le-mans-winning-car?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 25 Oct 2025 11:33:20 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "Ferrari is deepening its crypto push with a new digital token for its top clients, letting them bid on the Le Mans-winning 499P as part of a limited auction set to launch in 2027."
-  },
-  {
-    "title": "Spot Ether ETFs see outflows for second consecutive week amid ‘cooling demand’",
-    "link": "https://cointelegraph.com/news/ethereum-etfs-outflows-bitcoin-inflows-october-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 25 Oct 2025 08:33:44 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "Spot Bitcoin ETFs attracted $446 million in weekly inflows, signaling renewed institutional confidence in BTC as Ether funds faced a second straight week of outflows."
-  },
-  {
     "title": "テザー社、AI事業に本腰　大規模公開データセットとAIアプリをリリース",
     "link": "https://coinpost.jp/?p=660849",
     "pubDate": "Sat, 25 Oct 2025 13:25:29 +0900",
@@ -203,20 +231,6 @@
     "contentSnippet": "Elon Musk's space exploration firm, SpaceX, moved $133 million worth of Bitcoin on Friday after transferring funds earlier this week."
   },
   {
-    "title": "CZのバイナンス復帰確率高騰、トランプ大統領の恩赦を受け",
-    "link": "https://coinpost.jp/?p=660591",
-    "pubDate": "Sat, 25 Oct 2025 07:00:48 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "トランプ大統領がバイナンス創設者CZを恩赦したことを受け、ポリマーケットでバイナンス経営復帰予測が活発化。確率は一時82%まで急騰後30%付近で推移。トレーダーGarrett Jin氏は恩赦を予測し2倍リターンを達成した。"
-  },
-  {
-    "title": "リップル、Hidden Road買収完了でプライムブローカー事業参入",
-    "link": "https://coinpost.jp/?p=660726",
-    "pubDate": "Sat, 25 Oct 2025 06:50:06 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "リップルがヒドゥン・ロードの買収を完了し、仮想通貨企業初のグローバル・プライム・ブローカー運営企業となった。"
-  },
-  {
     "title": "Trump Picks SEC Crypto Task Force’s Mike Selig to Run CFTC: Report",
     "link": "https://decrypt.co/345957/trump-sec-crypto-task-forces-mike-selig-cftc-report",
     "pubDate": "Fri, 24 Oct 2025 21:47:12 +0000",
@@ -238,25 +252,11 @@
     "contentSnippet": "The two banks have moved from pilot to production with a platform that lets U.S. lenders issue interoperable tokenized deposits compliant with the GENIUS Act."
   },
   {
-    "title": "ポリマーケット、独自トークン「POLY」発行とエアドロップ実施を正式表明",
-    "link": "https://coinpost.jp/?p=660715",
-    "pubDate": "Sat, 25 Oct 2025 06:15:37 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "人気イベント賭けサイトのポリマーケットがPOLYトークンの発行とエアドロップを正式に表明した。米国市場再進出後になる見込みだ。"
-  },
-  {
     "title": "YouTube Rival Rumble Teams With Tether to Add Bitcoin Tipping for Creators",
     "link": "https://decrypt.co/345945/youtube-rival-rumble-teams-tether-add-bitcoin-tipping",
     "pubDate": "Fri, 24 Oct 2025 21:02:59 +0000",
     "source": "Decrypt",
     "contentSnippet": "Publicly traded video sharing and livestream platform Rumble is adding Bitcoin tipping for its creator base."
-  },
-  {
-    "title": "スペースX、今週2度目のビットコイン大量移動　ウォレット再編成か",
-    "link": "https://coinpost.jp/?p=660703",
-    "pubDate": "Sat, 25 Oct 2025 05:50:40 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "スペースXが24日に約204億円相当のビットコインを移動したとアーカム・インテリジェンスが報告した。"
   },
   {
     "title": "Gold vs Ethereum: Which Hits $5K First? Here’s What the Charts Say",
