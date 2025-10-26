@@ -1,10 +1,45 @@
 [
   {
-    "title": "今週の主要仮想通貨材料まとめ、ビットマインの大規模なETH押し目買いやSOL現物ETFが香港初承認など",
-    "link": "https://coinpost.jp/?p=660486",
-    "pubDate": "Sun, 26 Oct 2025 14:00:51 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "前週比で振り返る仮想通貨市場の最新動向。ビットコインやイーサリアム、XRP、BNB、ソラナといった主要銘柄の騰落率や注目材料を一挙紹介。市場トレンドと関連ニュースを詳しく解説する。"
+    "title": "Bitcoin Shines as a 'Liquidity Barometer,' Not an Inflation Hedge, NYDIG Says",
+    "link": "https://www.coindesk.com/markets/2025/10/26/bitcoin-shines-as-a-liquidity-barometer-not-an-inflation-hedge-nydig-says",
+    "pubDate": "Sun, 26 Oct 2025 12:00:00 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Gold, traditionally seen as an inflation hedge, also shows inconsistent and often negative correlations with inflation, the data shows."
+  },
+  {
+    "title": "‘House is fine, but door is jammed’: AWS outage shows crypto’s weak spot",
+    "link": "https://cointelegraph.com/news/aws-outage-shows-crypto-decentralization-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 26 Oct 2025 11:53:24 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "The 15-hour Amazon Web Services outage that halted Coinbase, Robinhood and MetaMask revealed how much of Web3 still relies on centralized servers."
+  },
+  {
+    "title": "Bitcoin price starts $112K breakout as Fed rate-cut odds pass 98%",
+    "link": "https://cointelegraph.com/news/bitcoin-price-starts-112k-breakout-fed-rate-cut-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 26 Oct 2025 09:38:39 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Bitcoin price action favored bulls as the weekly close neared, with BTC nearing $113,000 ahead of a key week for the Federal Reserve."
+  },
+  {
+    "title": "CZ’s pardon came after costly Binance lobbying push in Washington: Politico",
+    "link": "https://cointelegraph.com/news/cz-pardon-binance-lobbying-trump-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 26 Oct 2025 09:37:20 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "CZ’s pardon by Trump followed a lobbying push that included $450,000 to Trump-linked lobbyists and $290,000 to former SEC chair contender Teresa Goody Guillén."
+  },
+  {
+    "title": "Kyrgyzstan launches stablecoin on BNB Chain, confirms future CBDC rollout",
+    "link": "https://cointelegraph.com/news/kyrgyzstan-rolls-out-stablecoin-confirms-future-cbdc-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 26 Oct 2025 09:20:06 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "A stablecoin is now live in Kyrgyzstan, which confirmed plans to launch a CBDC and explore a national crypto reserve after meeting with strategic adviser Changpeng Zhao."
+  },
+  {
+    "title": "Coinbase wants to bring the entire startup lifecycle onchain, CEO Armstrong says",
+    "link": "https://cointelegraph.com/news/coinbase-startup-lifecycle-onchain-armstrong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 26 Oct 2025 07:08:25 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Coinbase CEO Brian Armstrong said onchain fundraising could make capital formation “more efficient, fair, and transparent.”"
   },
   {
     "title": "Coinbase’s x402 transactions explode over 10,000% in a month",
@@ -12,20 +47,6 @@
     "pubDate": "Sun, 26 Oct 2025 04:20:02 +0000",
     "source": "Cointelegraph",
     "contentSnippet": "Coinbase’s x402 protocol, which enables AI agents to transact autonomously over the internet, has seen a 10,000% rise in transaction activity over a month."
-  },
-  {
-    "title": "米中首脳会談が焦点、関係改善なら相場に追い風も｜bitbankアナリスト寄稿",
-    "link": "https://coinpost.jp/?p=660636",
-    "pubDate": "Sun, 26 Oct 2025 11:30:20 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "今週のビットコイン対円相場は1700万円周辺で方向感に欠ける展開。30日の米中首脳会談や来週のFOMCでの利下げ・QT停止観測が注目される中、24日のCPIや25日の通商協議を控え、相場に方向感が出る可能性を指摘。半減期サイクルの節目を過ぎたものの、金融緩和環境は2021年と大きく異なる状況。"
-  },
-  {
-    "title": "週刊ニュース｜金価格の2020年以来の下落幅や金融庁による銀行の仮想通貨投資解禁の正式検討に高い関心",
-    "link": "https://coinpost.jp/?p=660808",
-    "pubDate": "Sun, 26 Oct 2025 11:00:40 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "今週は、金価格下落からのビットコインへの資金移動の可能性、金融庁による銀行の仮想通貨投資解禁の正式検討、量子コンピュータのリスクに関する記事が最も関心を集めた。"
   },
   {
     "title": "Kyrgyzstan launches stablecoin on BNB Chain, confirms future CBDC rollout",
@@ -42,13 +63,6 @@
     "contentSnippet": "If confirmed, current SEC official Mike Selig would take over the U.S. commodities watchdog as it's poised to be given wide authority over crypto."
   },
   {
-    "title": "仮想通貨取引所ランキング｜実績・ユーザー評判・プロ分析で徹底比較",
-    "link": "https://coinpost.jp/?p=217357",
-    "pubDate": "Sun, 26 Oct 2025 05:01:39 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "投資のプロが選ぶ仮想通貨取引所おすすめランキング最新版。IEO投資、ビットコイン（BTC）、イーサリアム（ETH）、XRP（リップル）、ソラナ（SOL）など人気銘柄の取扱いやユーザー評判を初心者目線で徹底比較。"
-  },
-  {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sat, 25 Oct 2025 21:00:58 +0100",
@@ -56,11 +70,11 @@
     "contentSnippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
   },
   {
-    "title": "First U.S. Spot XRP ETF Surpasses $100M in Assets Under Management",
+    "title": "REX-Osprey XRP ETF (XRPR) Surpasses $100M in Assets Under Management",
     "link": "https://www.coindesk.com/markets/2025/10/25/first-u-s-spot-xrp-etf-surpasses-usd100m-in-assets-under-management",
     "pubDate": "Sat, 25 Oct 2025 20:00:03 +0000",
     "source": "CoinDesk",
-    "contentSnippet": "In Brazil, the Hashdex Nasdaq XRP (XRPH11) has accumulated around $52 million in assets, despite launching first."
+    "contentSnippet": "The ETF has managed this milestone in just over five weeks."
   },
   {
     "title": "ISM Manufacturing PMI suggests Bitcoin cycle may extend beyond historical norm",
@@ -91,13 +105,6 @@
     "contentSnippet": "Smaller Bitcoin miners surge in hashrate and debt as competition intensifies post-halving, reshaping the industry’s balance of power."
   },
   {
-    "title": "Ledger’s new multisig interface sparks backlash over 'cash cow' fees",
-    "link": "https://cointelegraph.com/news/ledger-multisig-fees-user-backlash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 25 Oct 2025 17:34:43 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "Ledger’s new multisig app earns praise for tech upgrades but sparks backlash over added transaction fees."
-  },
-  {
     "title": "Bitcoin Treasury Firms Now Valued at Less Than Their BTC Holdings Amid Crumbled Sentiment",
     "link": "https://www.coindesk.com/markets/2025/10/23/collapse-of-bitcoin-treasury-bubble-leaves-nearly-all-trading-below-value-of-their-btc-holdings",
     "pubDate": "Sat, 25 Oct 2025 16:00:00 +0000",
@@ -119,13 +126,6 @@
     "contentSnippet": "Analysts on X outlined five-digit targets for ether while Santiment said larger wallets have started adding again, framing a longer path higher if resistance gives way."
   },
   {
-    "title": "XRP price eyes rally to $3.45 after Ripple CEO tells investors to ‘lock in’",
-    "link": "https://cointelegraph.com/news/xrp-price-3-45-dollars-ripple-ceo-tells-investors-lock-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 25 Oct 2025 15:57:14 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "XRP eyes a breakout toward $3–$3.45 as strong technical support and Ripple’s expanding institutional push fuel renewed bullish momentum."
-  },
-  {
     "title": "State of Crypto: Skinny Master Accounts and Stablecoins",
     "link": "https://www.coindesk.com/policy/2025/10/25/state-of-crypto-skinny-master-accounts-and-stablecoins",
     "pubDate": "Sat, 25 Oct 2025 14:00:00 +0000",
@@ -140,13 +140,6 @@
     "contentSnippet": "The country has also legally recognized its central bank digital currency (CBDC), the digital som, with plans to pilot government-related payments with it."
   },
   {
-    "title": "Don’t just tokenize assets, build the institutions to back them",
-    "link": "https://cointelegraph.com/news/tokenization-institutions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 25 Oct 2025 14:30:00 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "RWA tokenization faces criticism, but regulatory clarity and institutional adoption prove it’s building the foundation for finance’s future."
-  },
-  {
     "title": "Bitmine’s Tom Lee Sees Crypto Rally Into Year-End, Says S&P 500 Could Climb Another 10%",
     "link": "https://www.coindesk.com/markets/2025/10/25/bitmine-s-tom-lee-sees-crypto-rally-into-year-end-says-s-and-p-500-could-climb-another-10",
     "pubDate": "Sat, 25 Oct 2025 13:05:14 +0000",
@@ -159,69 +152,6 @@
     "pubDate": "Sat, 25 Oct 2025 13:00:03 +0000",
     "source": "Decrypt",
     "contentSnippet": "Beyond Meat bull Dimitri \"Capybara Stocks\" Semenikhin helped pump the latest meme stock, but said he'll feel relieved once the chaos cools."
-  },
-  {
-    "title": "Countries across Africa approve new crypto laws as adoption grows",
-    "link": "https://cointelegraph.com/news/countries-africa-approve-crypto-laws-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 25 Oct 2025 14:00:00 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "Crypto laws are popping up across Africa as countries race to offer favorable conditions to the crypto industry and balance consumer safety concerns."
-  },
-  {
-    "title": "No HMRC letter? UK crypto investors may still owe taxes, expert warns",
-    "link": "https://cointelegraph.com/news/uk-crypto-investors-tax-hmrc-warning-letters-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 25 Oct 2025 13:45:16 +0100",
-    "source": "Cointelegraph",
-    "contentSnippet": "HMRC has issued 65,000 crypto tax warning letters, but experts say UK investors who haven’t been contacted could still owe taxes."
-  },
-  {
-    "title": "North Korea’s AI-Powered Hackers Are Redefining Crypto Crime",
-    "link": "https://www.coindesk.com/business/2025/10/25/north-korea-s-ai-powered-hackers-are-redefining-crypto-crime",
-    "pubDate": "Sat, 25 Oct 2025 12:00:00 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Mysten Labs’ chief cryptographer warns that artificial intelligence, not quantum computing, poses the real near-term threat to blockchain security."
-  },
-  {
-    "title": "テザー社、AI事業に本腰　大規模公開データセットとAIアプリをリリース",
-    "link": "https://coinpost.jp/?p=660849",
-    "pubDate": "Sat, 25 Oct 2025 13:25:29 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "テザー社がSTEM分野特化の大規模AIデータセット「QVACジェネシスI」とプライバシー重視アプリ「QVACワークベンチ」をリリースした。AI事業を本格始動させている。"
-  },
-  {
-    "title": "テザー　今年2.3兆円の利益見込む、米国向け「USAT」は1億米国ユーザーへのリーチ目指す",
-    "link": "https://coinpost.jp/?p=660842",
-    "pubDate": "Sat, 25 Oct 2025 11:15:04 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "テザーは今年の利益が2.3兆円に達する見込みだ。米国向けのステーブルコインはUSATは12月にローンチ予定。"
-  },
-  {
-    "title": "大口投資家、4日間で74億円相当のソラナを購入　ビットコインの大口購入も",
-    "link": "https://coinpost.jp/?p=660838",
-    "pubDate": "Sat, 25 Oct 2025 10:40:14 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "オンチェーンアナリストの報告によると、大口投資家が直近4日間で約25万ソラナ（SOL）を購入したことが明らかになった。"
-  },
-  {
-    "title": "中規模保有者（ドルフィン）の需要がビットコイン市場を牽引＝CryptoQuantレポート",
-    "link": "https://coinpost.jp/?p=660830",
-    "pubDate": "Sat, 25 Oct 2025 10:00:30 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "CryptoQuantが仮想通貨市場の最新レポートで、中規模保有者「ドルフィン」がビットコインの蓄積を続けていると指摘した。重要な価格水準や動向を解説している。"
-  },
-  {
-    "title": "米民主党議員、トランプ大統領によるCZ氏恩赦を批判",
-    "link": "https://coinpost.jp/?p=660769",
-    "pubDate": "Sat, 25 Oct 2025 09:05:17 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "米下院金融サービス委員会のランキングメンバーである民主党議員は公式声明で、トランプ米大統領が仮想通貨取引所バイナンスの共同創設者CZ氏に恩赦を与えたことを批判。恩赦の背景などを説明している。"
-  },
-  {
-    "title": "JPモルガン、コインベースのBaseトークン発行で最大5兆円の価値創出を予測",
-    "link": "https://coinpost.jp/?p=660773",
-    "pubDate": "Sat, 25 Oct 2025 07:55:59 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "JPモルガンがコインベースのBaseトークン発行により最大340億ドルの価値が創出される可能性があると分析した。"
   },
   {
     "title": "Elon Musk's SpaceX Moves $133 Million Worth of Bitcoin",
