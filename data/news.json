@@ -1,10 +1,136 @@
 [
   {
-    "title": "新設のXRPトレジャリー企業「エバーノース」がXRP市場に与える影響は？",
-    "link": "https://coinpost.jp/?p=660962",
-    "pubDate": "Mon, 27 Oct 2025 09:53:38 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "ナスダック上場予定のエバーノースが仮想通貨XRP市場に与える影響をリサーチャーが分析。ストラテジー社のビットコイン戦略との類似性や機関投資家需要の高まりを解説している。"
+    "title": "Restoring Privacy to ZEC on Solana via Encifher",
+    "link": "https://www.coindesk.com/markets/2025/10/27/restoring-privacy-to-zec-on-solana-via-encifher",
+    "pubDate": "Mon, 27 Oct 2025 06:23:40 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "ZEC's price has surged by 380% this month."
+  },
+  {
+    "title": "Japan sees launch of its first yen-backed stablecoin, JPYC",
+    "link": "https://cointelegraph.com/news/yen-backed-stablecoin-launches-in-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 27 Oct 2025 06:03:23 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "JPYC President Noriyoshi Okabe said that the stablecoin has already garnered interest from seven companies that are looking to incorporate it into their services."
+  },
+  {
+    "title": "WazirX Barred from Redistributing XRP as Indian Court Affirms Crypto as Property",
+    "link": "https://decrypt.co/346030/wazirx-barred-redistributing-xrp-indian-court-affirms-crypto-property",
+    "pubDate": "Mon, 27 Oct 2025 06:02:28 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The ruling defines crypto as property with fiduciary protections, preventing WazirX from diluting user holdings after a $234 million hack."
+  },
+  {
+    "title": "Australian crypto firms back draft laws, but ‘critical questions’ remain",
+    "link": "https://cointelegraph.com/news/australia-crypto-industry-backs-draft-laws-critical-questions-remain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 27 Oct 2025 05:52:10 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Australia’s crypto exchanges have been largely positive about the government’s proposed crypto laws, but have told the Treasury that further clarity is needed."
+  },
+  {
+    "title": "Bitcoin finally escapes ‘fear’ as confidence tiptoes back into crypto",
+    "link": "https://cointelegraph.com/news/bitcoin-fear-and-greed-out-of-fear-first-time-since-crypto-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 27 Oct 2025 05:37:27 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "The Crypto Fear & Greed Index has flipped to neutral, leaving “fear” behind for the first time since the mid-October market crash sparked by Trump’s China tariffs."
+  },
+  {
+    "title": "Japan's New Yen Stablecoin is Asia’s Only Truly Global Fiat-Pegged Token",
+    "link": "https://www.coindesk.com/markets/2025/10/27/japan-s-new-yen-pegged-stablecoin-is-asia-s-only-truly-global-token",
+    "pubDate": "Mon, 27 Oct 2025 05:31:38 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "With the yen freely convertible and backed by Japan’s deep government bond market, JPYC’s launch stands apart from the region’s onshore-only experiments in Korea, Taiwan, and beyond."
+  },
+  {
+    "title": "Dogecoin Breaks Multi-Month Range as $0.21 Resistance Flips to Support",
+    "link": "https://www.coindesk.com/markets/2025/10/27/dogecoin-breaks-multi-month-range-as-usd0-21-resistance-flips-to-support",
+    "pubDate": "Mon, 27 Oct 2025 05:00:38 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "DOGE outperforms broader crypto markets as volume climbs nearly 10% above weekly averages, signaling early accumulation within breakout structure."
+  },
+  {
+    "title": "XRP’s Clean Technical Break Repositions Bulls for $2.80 Push",
+    "link": "https://www.coindesk.com/markets/2025/10/27/xrp-s-clean-technical-break-repositions-bulls-for-usd2-80-push",
+    "pubDate": "Mon, 27 Oct 2025 04:48:40 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "XRP surged 3% to $2.68 during Sunday’s session, breaking above the critical resistance level at $2.63 on a dramatic volume spike — one of the largest of the month."
+  },
+  {
+    "title": "Javier Milei’s crypto-friendly party wins Argentine midterm",
+    "link": "https://cointelegraph.com/news/javier-mileis-party-wins-argentinas-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 27 Oct 2025 04:39:40 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Argentina’s La Libertad Avanza party, led by President Javier Milei, has won the midterms, positioning Milei as the frontrunner for the 2027 elections."
+  },
+  {
+    "title": "‘Attack on Bitcoin’ — Bitcoiners slam ‘legal threats’ in soft fork proposal",
+    "link": "https://cointelegraph.com/news/bitcoin-soft-fork-luke-dashjr-legal-threat-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 27 Oct 2025 04:37:36 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "A new Bitcoin improvement proposal calls for a one-year soft fork for Bitcoin while developers resolve the transaction filtering debate, but the language within it has sparked controversy."
+  },
+  {
+    "title": "Bitcoin Surpasses 50-Day Average, but CoinDesk BTC Trend Indicator Remains Bearish",
+    "link": "https://www.coindesk.com/markets/2025/10/27/bitcoin-surpasses-50-day-average-but-coindesk-btc-trend-indicator-remains-bearish",
+    "pubDate": "Mon, 27 Oct 2025 04:17:33 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "BTC looks north as Fed rate cut looms. But one key resistance is yet to be cleared."
+  },
+  {
+    "title": "Mt. Gox’s security flaws cost millions. Could AI have spotted them?",
+    "link": "https://cointelegraph.com/news/mt-gox-s-security-flaws-cost-millions-could-ai-have-spotted-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 27 Oct 2025 04:08:07 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Could AI have prevented the collapse of Mt. Gox had it been around then? Mt. Gox’s former CEO's AI-powered post-mortem raises an interesting “what if.”"
+  },
+  {
+    "title": "Bitcoin Reclaims $115,000 as US–China Trade Hopes Lift Markets",
+    "link": "https://decrypt.co/346027/bitcoin-reclaims-115000-as-us-china-trade-hopes-lift-markets",
+    "pubDate": "Mon, 27 Oct 2025 03:45:03 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Bitcoin climbed over the weekend as signs of progress in U.S.–China trade talks lifted risk appetite across global markets."
+  },
+  {
+    "title": "Bitcoin Set for Massive Surge as Bank Reserves Near 'Danger Zone,' Says Adam Livingston",
+    "link": "https://www.coindesk.com/markets/2025/10/27/bitcoin-set-for-massive-surge-as-bank-reserves-near-danger-zone-says-adam-livingston",
+    "pubDate": "Mon, 27 Oct 2025 03:03:12 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "The Kobeissi Letter reported bank cash at the Federal Reserve fell to about $2.93 trillion; Adam Livingston says that level signals a shift that would favor bitcoin."
+  },
+  {
+    "title": "Korean Public Company Bitplanet Kicks Off Treasury Plan, Buys Bitcoin as Market Rebounds",
+    "link": "https://decrypt.co/346024/korean-public-company-bitplanet-treasury-plan-buys-bitcoin",
+    "pubDate": "Mon, 27 Oct 2025 02:22:23 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Bitplanet, a publicly-listed firm backed by Metaplanet’s Simon Gerovich and Sora Ventures, has begun its daily Bitcoin purchases."
+  },
+  {
+    "title": "Major Iranian private bank goes bankrupt, roiling 42M customers",
+    "link": "https://cointelegraph.com/news/iranian-bank-bankruptcy-affecting-42-million-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 27 Oct 2025 02:19:01 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "After accumulating around $8 billion worth of losses and debt, Iran’s Ayandeh Bank has been dissolved, with customer assets absorbed by the state-owned Bank Melli."
+  },
+  {
+    "title": "Bitcoin is no inflation hedge but thrives when the dollar wobbles: NYDIG",
+    "link": "https://cointelegraph.com/news/bitcoin-no-inflation-hedge-but-weak-dollar-pushes-it-up-nydig?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 27 Oct 2025 02:13:58 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Bitcoin doesn’t consistently act as a hedge against inflation, but it has instead “evolved into a liquidity barometer,” says NYDIG’s Greg Cipolaro."
+  },
+  {
+    "title": "Asia Morning Briefing: Bitcoin Holds Above $114K as Whales Absorb Supply and Shorts Rebalance",
+    "link": "https://www.coindesk.com/markets/2025/10/27/asia-morning-briefing-bitcoin-holds-above-usd114k-as-whales-absorb-supply-and-shorts-rebalance",
+    "pubDate": "Mon, 27 Oct 2025 01:54:46 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "On-chain data shows roughly 62,000 BTC have moved out of long-term storage since mid-October, softening one of this cycle’s strongest tailwinds. But steady whale accumulation and a moderate short-side"
+  },
+  {
+    "title": "Zcash pumps 30% after Arthur Hayes’ ‘vibe check’ tips $10K target",
+    "link": "https://cointelegraph.com/news/zcash-surges-arthur-hayes-prediction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 27 Oct 2025 01:31:13 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Zcash rallied over 490% in the last 30 days and also crossed the $5 billion market capitalization threshold for the first time on Sunday."
   },
   {
     "title": "Bitcoin Rebounds as $319M in Shorts Are Liquidated While Traders Eye U.S.-China Talks",
@@ -21,27 +147,6 @@
     "contentSnippet": "Western Union CEO said there are “significant opportunities” to utilize stablecoins for sending and receiving money across borders."
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 26 Oct 2025 22:10:48 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
-  },
-  {
-    "title": "‘The claim that L2s inherit ETH security is erroneous’ — Solana co-founder",
-    "link": "https://cointelegraph.com/news/claim-l2s-inherit-eth-security-erroneous-solana-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 26 Oct 2025 21:52:50 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Ethereum layer-2 networks have glaring security and centralization issues, according to Anatoly Yakovenko, co-founder of the Solana blockchain."
-  },
-  {
-    "title": "Investors should be 'cautious' when using BTC stock-to-flow model: Analyst",
-    "link": "https://cointelegraph.com/news/investors-cautious-using-btc-stock-to-flow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 26 Oct 2025 20:16:17 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "The stock-to-flow model may not be the best framework to forecast Bitcoin prices, Bitwise investment analyst André Dragosch said."
-  },
-  {
     "title": "North Korea Has Stolen Billions in Crypto, But the Ability to 'Fight Back Is Growing': Chainalysis",
     "link": "https://decrypt.co/346010/north-korea-stolen-billions-crypto-ability-fight-back-growing-chainalysis",
     "pubDate": "Sun, 26 Oct 2025 20:01:03 +0000",
@@ -54,13 +159,6 @@
     "pubDate": "Sun, 26 Oct 2025 18:01:03 +0000",
     "source": "Decrypt",
     "contentSnippet": "From New York to Antarctica, Justin Aversano's latest work is a journey across continents, cultures, and the human heartbeat."
-  },
-  {
-    "title": "US Treasury chief Bessent says 'substantial' trade framework with China reached",
-    "link": "https://cointelegraph.com/news/bessent-substantial-trade-framework-china?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 26 Oct 2025 17:28:39 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Secretary Scott Bessent said the negotiations alleviate the need for the 100% additional tariffs announced by US president Trump in October."
   },
   {
     "title": "Alibaba’s Qwen Deep Research Creates Live Webpages, Podcasts in Seconds",
@@ -84,137 +182,11 @@
     "contentSnippet": "Major cryptocurrencies are trading higher ahead of a busy week featuring key Federal Reserve and Bank of Japan rate decisions alongside earnings reports from influential Mag 7 stocks."
   },
   {
-    "title": "The next era of crypto belongs to decentralized markets",
-    "link": "https://cointelegraph.com/news/crypto-belongs-to-decentralized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 26 Oct 2025 14:30:00 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "DeFi trading volumes hit record ratios against CEXs as matured infrastructure and regulatory clarity shift power to transparent, code-driven platforms."
-  },
-  {
     "title": "Betting Scandals Are Rocking Sports. Will Prediction Markets Help or Hurt?",
     "link": "https://decrypt.co/345961/sports-betting-scandals-nba-prediction-markets",
     "pubDate": "Sun, 26 Oct 2025 14:01:03 +0000",
     "source": "Decrypt",
     "contentSnippet": "Government regulators and legal experts warn that insider trading could proliferate in professional sports as wagers migrate to prediction markets."
-  },
-  {
-    "title": "Gold’s Pause is Bitcoin’s Pulse as Risk Appetite Returns Ahead of the Fed Week",
-    "link": "https://www.coindesk.com/markets/2025/10/26/gold-s-pause-is-bitcoin-s-pulse-as-risk-appetite-returns-ahead-of-the-fed-week",
-    "pubDate": "Sun, 26 Oct 2025 14:00:17 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "The move comes as the BTC/gold ratio — a measure of Bitcoin’s relative value against the yellow metal — flashed its most oversold reading in nearly three years last week."
-  },
-  {
-    "title": "Solana's Marinade Labs CEO Eyes Lower Barrier to Entry for Validators After 'Alpenglow' Upgrade",
-    "link": "https://www.coindesk.com/tech/2025/10/26/solana-s-marinade-labs-ceo-eyes-lower-barrier-to-entry-for-validators-after-alpenglow-upgrade",
-    "pubDate": "Sun, 26 Oct 2025 14:00:00 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "In a conversation with CoinDesk, Marinade Labs' Michael Repetny gives an overview of the Solana staking ecosystem and the upcoming Alpenglow upgrade."
-  },
-  {
-    "title": "Teucrium CEO: 'Enormous Interest' in XRP, 'Extraordinary’ Success for Firm's XRP ETF",
-    "link": "https://www.coindesk.com/markets/2025/10/26/teucrium-ceo-enormous-interest-in-xrp-extraordinary-success-for-firm-s-xrp-etf",
-    "pubDate": "Sun, 26 Oct 2025 13:11:52 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Sal Gilbertie says hundreds of millions of dollars arrived in about 16 weeks, credits the XRP Army for fast traction and forecasts a broad crypto ETF wave."
-  },
-  {
-    "title": "Bitcoin Tops $113K, SOL, ADA, ETH Jump as US–China Trade Progress Lifts Risk Appetite",
-    "link": "https://www.coindesk.com/markets/2025/10/26/bitcoin-tops-usd113k-sol-ada-eth-jump-as-us-china-trade-progress-lifts-risk-appetite",
-    "pubDate": "Sun, 26 Oct 2025 12:55:22 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "That risk sentiment across global markets. US and Asian equity futures advanced, and gold pulled back slightly from recent highs as traders rotated back into risk assets."
-  },
-  {
-    "title": "Bitcoin Shines as a 'Liquidity Barometer,' Not an Inflation Hedge, NYDIG Says",
-    "link": "https://www.coindesk.com/markets/2025/10/26/bitcoin-shines-as-a-liquidity-barometer-not-an-inflation-hedge-nydig-says",
-    "pubDate": "Sun, 26 Oct 2025 12:00:00 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Gold, traditionally seen as an inflation hedge, also shows inconsistent and often negative correlations with inflation, the data shows."
-  },
-  {
-    "title": "‘House is fine, but door is jammed’: AWS outage shows crypto’s weak spot",
-    "link": "https://cointelegraph.com/news/aws-outage-shows-crypto-decentralization-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 26 Oct 2025 11:53:24 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "The 15-hour Amazon Web Services outage that halted Coinbase, Robinhood and MetaMask revealed how much of Web3 still relies on centralized servers."
-  },
-  {
-    "title": "Bitcoin price starts $112K breakout as Fed rate-cut odds pass 98%",
-    "link": "https://cointelegraph.com/news/bitcoin-price-starts-112k-breakout-fed-rate-cut-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 26 Oct 2025 09:38:39 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Bitcoin price action favored bulls as the weekly close neared, with BTC nearing $113,000 ahead of a key week for the Federal Reserve."
-  },
-  {
-    "title": "CZ’s pardon came after costly Binance lobbying push in Washington: Politico",
-    "link": "https://cointelegraph.com/news/cz-pardon-binance-lobbying-trump-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 26 Oct 2025 09:37:20 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "CZ’s pardon by Trump followed a lobbying push that included $450,000 to Trump-linked lobbyists and $290,000 to former SEC chair contender Teresa Goody Guillén."
-  },
-  {
-    "title": "仮想通貨ニアー（NEAR）の買い方、おすすめ取引所比較　AI関連銘柄として注目",
-    "link": "https://coinpost.jp/?p=563155",
-    "pubDate": "Sun, 26 Oct 2025 18:30:18 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "AIとブロックチェーンの融合を目指すニアー(NEAR)の特徴と投資方法を解説。注目のAI銘柄を取り扱う暗号資産（仮想通貨）国内取引所を比較し、おすすめサービスをご紹介します。"
-  },
-  {
-    "title": "Coinbase wants to bring the entire startup lifecycle onchain, CEO Armstrong says",
-    "link": "https://cointelegraph.com/news/coinbase-startup-lifecycle-onchain-armstrong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 26 Oct 2025 07:08:25 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Coinbase CEO Brian Armstrong said onchain fundraising could make capital formation “more efficient, fair, and transparent.”"
-  },
-  {
-    "title": "今週の主要仮想通貨材料まとめ、ビットマインの大規模なETH押し目買いやSOL現物ETFが香港初承認など",
-    "link": "https://coinpost.jp/?p=660486",
-    "pubDate": "Sun, 26 Oct 2025 14:00:51 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "前週比で振り返る仮想通貨市場の最新動向。ビットコインやイーサリアム、XRP、BNB、ソラナといった主要銘柄の騰落率や注目材料を一挙紹介。市場トレンドと関連ニュースを詳しく解説する。"
-  },
-  {
-    "title": "米中首脳会談が焦点、関係改善なら相場に追い風も｜bitbankアナリスト寄稿",
-    "link": "https://coinpost.jp/?p=660636",
-    "pubDate": "Sun, 26 Oct 2025 11:30:20 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "今週のビットコイン対円相場は1700万円周辺で方向感に欠ける展開。30日の米中首脳会談や来週のFOMCでの利下げ・QT停止観測が注目される中、24日のCPIや25日の通商協議を控え、相場に方向感が出る可能性を指摘。半減期サイクルの節目を過ぎたものの、金融緩和環境は2021年と大きく異なる状況。"
-  },
-  {
-    "title": "週刊ニュース｜金価格の2020年以来の下落幅や金融庁による銀行の仮想通貨投資解禁の正式検討に高い関心",
-    "link": "https://coinpost.jp/?p=660808",
-    "pubDate": "Sun, 26 Oct 2025 11:00:40 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "今週は、金価格下落からのビットコインへの資金移動の可能性、金融庁による銀行の仮想通貨投資解禁の正式検討、量子コンピュータのリスクに関する記事が最も関心を集めた。"
-  },
-  {
-    "title": "Plasma（プラズマ）とは？手数料ゼロのステーブルコイン送金とXPL報酬の仕組みを解説",
-    "link": "https://coinpost.jp/?p=658298",
-    "pubDate": "Sun, 26 Oct 2025 08:51:56 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "Plasmaのインセンティブプログラムについて、XPL報酬の獲得方法をわかりやすく解説。ブリッジからAave運用、クレームまでの手順とリスクを紹介します。"
-  },
-  {
-    "title": "Trump Names SEC Crypto Task Force Head Selig as Next Nominee to Run U.S. CFTC",
-    "link": "https://www.coindesk.com/policy/2025/10/25/frame-trump-names-sec-crypto-task-force-head-selig-as-next-nominee-to-run-u-s-cftc",
-    "pubDate": "Sat, 25 Oct 2025 20:53:07 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "If confirmed, current SEC official Mike Selig would take over the U.S. commodities watchdog as it's poised to be given wide authority over crypto."
-  },
-  {
-    "title": "仮想通貨取引所ランキング｜実績・ユーザー評判・プロ分析で徹底比較",
-    "link": "https://coinpost.jp/?p=217357",
-    "pubDate": "Sun, 26 Oct 2025 05:01:39 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "投資のプロが選ぶ仮想通貨取引所おすすめランキング最新版。IEO投資、ビットコイン（BTC）、イーサリアム（ETH）、XRP（リップル）、ソラナ（SOL）など人気銘柄の取扱いやユーザー評判を初心者目線で徹底比較。"
-  },
-  {
-    "title": "REX-Osprey XRP ETF (XRPR) Surpasses $100M in Assets Under Management",
-    "link": "https://www.coindesk.com/markets/2025/10/25/first-u-s-spot-xrp-etf-surpasses-usd100m-in-assets-under-management",
-    "pubDate": "Sat, 25 Oct 2025 20:00:03 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "The ETF has managed this milestone in just over five weeks."
   },
   {
     "title": "AI Biodefense Startup Valthos Launches With $30 Million, OpenAI Backing",
@@ -231,52 +203,10 @@
     "contentSnippet": "Beyond Meat bull Dimitri \"Capybara Stocks\" Semenikhin helped pump the latest meme stock, but said he'll feel relieved once the chaos cools."
   },
   {
-    "title": "テザー社、AI事業に本腰　大規模公開データセットとAIアプリをリリース",
-    "link": "https://coinpost.jp/?p=660849",
-    "pubDate": "Sat, 25 Oct 2025 13:25:29 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "テザー社がSTEM分野特化の大規模AIデータセット「QVACジェネシスI」とプライバシー重視アプリ「QVACワークベンチ」をリリースした。AI事業を本格始動させている。"
-  },
-  {
-    "title": "テザー　今年2.3兆円の利益見込む、米国向け「USAT」は1億米国ユーザーへのリーチ目指す",
-    "link": "https://coinpost.jp/?p=660842",
-    "pubDate": "Sat, 25 Oct 2025 11:15:04 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "テザーは今年の利益が2.3兆円に達する見込みだ。米国向けのステーブルコインはUSATは12月にローンチ予定。"
-  },
-  {
-    "title": "大口投資家、4日間で74億円相当のソラナを購入　ビットコインの大口購入も",
-    "link": "https://coinpost.jp/?p=660838",
-    "pubDate": "Sat, 25 Oct 2025 10:40:14 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "オンチェーンアナリストの報告によると、大口投資家が直近4日間で約25万ソラナ（SOL）を購入したことが明らかになった。"
-  },
-  {
     "title": "Elon Musk's SpaceX Moves $133 Million Worth of Bitcoin",
     "link": "https://decrypt.co/345904/elon-musk-spacex-moves-133-million-worth-bitcoin",
     "pubDate": "Fri, 24 Oct 2025 22:31:02 +0000",
     "source": "Decrypt",
     "contentSnippet": "Elon Musk's space exploration firm, SpaceX, moved $133 million worth of Bitcoin on Friday after transferring funds earlier this week."
-  },
-  {
-    "title": "Trump Picks SEC Crypto Task Force’s Mike Selig to Run CFTC: Report",
-    "link": "https://decrypt.co/345957/trump-sec-crypto-task-forces-mike-selig-cftc-report",
-    "pubDate": "Fri, 24 Oct 2025 21:47:12 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Selig, chief counsel for the SEC’s pro-crypto task force, is the president’s latest choice to run the CFTC, according to a Bloomberg report."
-  },
-  {
-    "title": "Public Keys: DraftKings Gets Predictable, Canaan Turns Around and Zelle Likes Stables",
-    "link": "https://decrypt.co/345947/public-keys-draftkings-canaan-zelle-stablecoins",
-    "pubDate": "Fri, 24 Oct 2025 21:31:22 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "DraftKings buys Railbird, Canaan rebounds from near-delisting, and Zelle embraces stablecoins in this week's Public Keys."
-  },
-  {
-    "title": "Custodia, Vantage Expand Pilot Into Live Tokenized Deposit Network for US Banks",
-    "link": "https://decrypt.co/345909/custodia-vantage-pilot-live-tokenized-deposit-network-us-banks",
-    "pubDate": "Fri, 24 Oct 2025 21:28:09 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The two banks have moved from pilot to production with a platform that lets U.S. lenders issue interoperable tokenized deposits compliant with the GENIUS Act."
   }
 ]
