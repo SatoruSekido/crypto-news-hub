@@ -1,10 +1,122 @@
 [
   {
-    "title": "DeFi開発企業Secured Finance、ステーブルコイン「JPYC」の新プロダクト群を発表",
-    "link": "https://coinpost.jp/?p=661550",
-    "pubDate": "Wed, 29 Oct 2025 10:05:13 +0900",
+    "title": "トム・リー率いるビットマイン、170億円相当のETHを新規購入か＝Lookonchain報告",
+    "link": "https://coinpost.jp/?p=661763",
+    "pubDate": "Wed, 29 Oct 2025 14:45:51 +0900",
     "source": "CoinPost",
-    "contentSnippet": "DeFi開発企業Secured Financeは、ステーブルコインJPYCのプロダクトを発表。日本円市場の金利構造をブロックチェーンで再現して、世界の投資家が日本円金利にアクセスできるようにする。"
+    "contentSnippet": "トム・リー氏率いるビットマインが約173億円相当のイーサリアムを新規購入かと報告。保有額は2兆円超え、世界最大のETH保有企業として総供給量の2.8%を保有。株式の流動性も米国46位にランクイン。"
+  },
+  {
+    "title": "XRP and SOL Futures Open Interest on CME Hits Record High",
+    "link": "https://www.coindesk.com/markets/2025/10/29/xrp-and-sol-futures-open-interest-on-cme-hits-record-high",
+    "pubDate": "Wed, 29 Oct 2025 05:35:06 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Record XRP and Solana futures activity pushed open interest on the derivatives giant’s platform to roughly $3 billion, signaling renewed retail and institutional appetite for altcoin exposure."
+  },
+  {
+    "title": "XRP Trades Higher on Big Flows, Yet Technical Setup Signals Caution",
+    "link": "https://www.coindesk.com/markets/2025/10/29/xrp-trades-higher-on-big-flows-yet-technical-setup-signals-caution",
+    "pubDate": "Wed, 29 Oct 2025 05:24:32 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Traders should watch for XRP to maintain support around $2.60-$2.63, as a sustained rise above $2.65 could shift the bias bullish."
+  },
+  {
+    "title": "バイナンス、3銘柄を11月上場廃止予定",
+    "link": "https://coinpost.jp/?p=661741",
+    "pubDate": "Wed, 29 Oct 2025 14:00:41 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "大手仮想通貨取引所バイナンスがフラミンゴ、カデナ、パーペチュアルプロトコルの現物取引ペアを11月12日に上場廃止すると発表した。定期審査の結果、業界基準を満たさないと判断された。"
+  },
+  {
+    "title": "Microsoft Values $135 Billion Stake in OpenAI as Firms Face Legal Pressure",
+    "link": "https://decrypt.co/346554/microsoft-135-billion-stake-openai-legal-pressure",
+    "pubDate": "Wed, 29 Oct 2025 04:59:18 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The recapitalization gives OpenAI freedom to partner with competitors and release open-weight models, even as both firms face legal pressure."
+  },
+  {
+    "title": "【2026年度】仮想通貨（暗号資産）の最新税制要望から読み解く今後の法改正シナリオ｜Aerial Partners寄稿",
+    "link": "https://coinpost.jp/?p=661610",
+    "pubDate": "Wed, 29 Oct 2025 13:40:39 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "JVCEAと金融庁が2025年に提出した仮想通貨税制の最新要望を解説。ETF導入、申告分離課税、株式等同等扱いの3つの改正シナリオと、今後の制度変更に向けて準備すべきことを整理する。"
+  },
+  {
+    "title": "Bitcoin Dip Looks Standard Pre-FOMC and $120K Would Open Path to $143K, Analysts Say",
+    "link": "https://www.coindesk.com/markets/2025/10/29/bitcoin-dip-looks-standard-pre-fomc-and-usd120k-would-open-path-to-usd143k-analysts-say",
+    "pubDate": "Wed, 29 Oct 2025 04:38:28 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "After a quick jump toward $116,094 faded, buyers showed up near $112,500 while analysts watched $120,000 as the level that could clear the way toward $143,000."
+  },
+  {
+    "title": "RWAトークン化企業セキュリタイズ、SPAC上場決定　評価額は約1900億円",
+    "link": "https://coinpost.jp/?p=661680",
+    "pubDate": "Wed, 29 Oct 2025 13:35:54 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "RWAトークン化大手のSecuritizeが、Cantor Equity Partners IIとのSPAC合併により株式上場を発表。企業価値12.5億ドル、ブラックロックなど既存投資家が全株保有。市場シェア20%を占める最大手プラットフォーム。"
+  },
+  {
+    "title": "米ビットコインETF、ブラックロック除外では年初来マイナスフローに",
+    "link": "https://coinpost.jp/?p=661681",
+    "pubDate": "Wed, 29 Oct 2025 13:25:48 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "K33のアナリストが、米国の仮想通貨ビットコイン現物ETFの年初来流入がIBITに集中していると指摘。ブラックロックの役割の大きさが示されている。"
+  },
+  {
+    "title": "Bitwise's Solana ETF Draws $69.5M on Debut, Outpacing Rival Fund's Launch",
+    "link": "https://decrypt.co/346552/bitwise-solana-etf-draws-69m-debut-outpacing-rival-funds-launch",
+    "pubDate": "Wed, 29 Oct 2025 04:25:44 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The strong early inflows suggest institutions are favoring Bitwise’s direct staking model as Solana ETFs start gaining traction."
+  },
+  {
+    "title": "リップルやSBI出資のエバーノース、すでに154億円相当のXRPを保有＝オンチェーンデータ",
+    "link": "https://coinpost.jp/?p=661719",
+    "pubDate": "Wed, 29 Oct 2025 13:20:56 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "エバーノースが約3.89億XRPを購入し、投資額は9.47億ドルに達したことが分かった。既に5000万ドル以上の含み益を得ている。"
+  },
+  {
+    "title": "Recent Bitcoin Crash Has Put $1B in sUSDe Loop Trades at Risk, Research Firm Says",
+    "link": "https://www.coindesk.com/markets/2025/10/29/recent-bitcoin-crash-has-put-usd1b-in-susde-loop-trades-at-risk-research-firm-says",
+    "pubDate": "Wed, 29 Oct 2025 04:05:03 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "looped positions that rely on borrowing stables to buy sUSDe are at risk, Sentora Research said."
+  },
+  {
+    "title": "万博提供のデジタルウォレット、約100万ダウンロード達成",
+    "link": "https://coinpost.jp/?p=661667",
+    "pubDate": "Wed, 29 Oct 2025 12:39:19 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "大阪・関西万博で提供された「EXPO2025デジタルウォレット」が約100万ダウンロードを達成。会期中に累計590万件の取引を処理した。10月31日より「HashPort Wallet」へリニューアルし、マルチチェーン対応やDEX機能を搭載する。"
+  },
+  {
+    "title": "Oasys、イーサリアムとのブリッジ対応を発表",
+    "link": "https://coinpost.jp/?p=661554",
+    "pubDate": "Wed, 29 Oct 2025 12:05:40 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "ゲーム特化型ブロックチェーンOasysが、イーサリアムとのブリッジに対応。異なるチェーン間での資産移動が可能に。分散型取引所での交換も開始し、IPトークン化への展開を加速。"
+  },
+  {
+    "title": "『甲虫王者ムシキング』のブロックチェーンゲーム　11月上旬にリリース予定",
+    "link": "https://coinpost.jp/?p=661092",
+    "pubDate": "Wed, 29 Oct 2025 12:05:09 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "Kyuzanがセガの人気IP『甲虫王者ムシキング』のブロックチェーンゲームを開発。MUSHIトークンを活用した期間限定カードバトルとして10月下旬にリリース予定。約90種類のムシカードが登場。"
+  },
+  {
+    "title": "トランプ一族関与のワールドリバティ、USD1ポイント参加者に1.8億円相当のWLFIトークンを配布",
+    "link": "https://coinpost.jp/?p=661664",
+    "pubDate": "Wed, 29 Oct 2025 11:35:00 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "トランプ一族関連のワールドリバティがUSD1ポイントプログラム参加者への報酬配布を発表した。提携取引所を通じて合計840万WLFIトークンが配られる予定だ。"
+  },
+  {
+    "title": "Asia Morning Briefing: Bitcoin Holds Ground as Traders Sit on Stablecoins Before Fed Decision",
+    "link": "https://www.coindesk.com/markets/2025/10/29/asia-morning-briefing-bitcoin-holds-ground-as-traders-sit-on-stablecoins-before-fed-decision",
+    "pubDate": "Wed, 29 Oct 2025 02:17:22 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "The market is confident that the Fed will cut rates. But crypto traders are still waiting for confirmation."
   },
   {
     "title": "OpenAI Reveals Over 1 Million ChatGPT Users Discuss Suicide Weekly",
@@ -28,53 +140,11 @@
     "contentSnippet": "The final guidance expands last year’s draft, adding new examples and custody rules as ASIC shifts from proposals to enforceable oversight."
   },
   {
-    "title": "シャープリンク、300億円相当のイーサリアムをLinearに展開　ステーキングで収益化",
-    "link": "https://coinpost.jp/?p=661543",
-    "pubDate": "Wed, 29 Oct 2025 08:15:00 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "仮想通貨ETH保有企業シャープリンクが300億円相当のETHをライネア上で展開。ステーキングとリステーキングで収益を最大化する戦略。"
-  },
-  {
     "title": "Sam Altman Confronts Backlash Over GPT-5 Rollout, Unveils Expanding Vision During AMA",
     "link": "https://decrypt.co/346501/sam-altman-confronts-backlash-gpt-5-rollout-vision-ama",
     "pubDate": "Tue, 28 Oct 2025 23:04:41 +0000",
     "source": "Decrypt",
     "contentSnippet": "The OpenAI CEO admitted the company mishandled the GPT-5 upgrade and said adults deserve freer tools."
-  },
-  {
-    "title": "トランプ氏のSNS「Truth Social」、予測市場をローンチへ　クリプトドットコムと協業",
-    "link": "https://coinpost.jp/?p=661537",
-    "pubDate": "Wed, 29 Oct 2025 07:30:49 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "トランプ米大統領のSNSと呼ばれるTruth Socialの運営企業は、予測市場をローンチすることを発表。仮想通貨取引所Crypto.comと協業し、近くベータ版をローンチする。"
-  },
-  {
-    "title": "NEIROとは？ドージコインの姉妹ミームコインの買い方・将来性まとめ",
-    "link": "https://coinpost.jp/?p=627249",
-    "pubDate": "Wed, 29 Oct 2025 07:14:04 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "ドージコインの妹分FirstNeiroOnEthereum（NEIRO）は、ドージコイン（DOGE）の後継的な位置づけのミームコインです。ドージコインのモチーフである柴犬「かぼすちゃん」の飼い主が、かぼすちゃんの死後に迎え入れた保護犬「ねい..."
-  },
-  {
-    "title": "ポリマーケットが米国で再開予定　11月末までにスポーツ予測市場開始か＝報道",
-    "link": "https://coinpost.jp/?p=661536",
-    "pubDate": "Wed, 29 Oct 2025 07:10:52 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "予測市場プラットフォームのポリマーケットが数週間以内に米国で事業を再開予定。スポーツ賭博を中心に11月末までの取引開始を目指している。"
-  },
-  {
-    "title": "CZとマイケル・セイラーが12月ドバイで登壇　バイナンス主催「Binance Blockchain Week 2025」",
-    "link": "https://coinpost.jp/?p=661363",
-    "pubDate": "Wed, 29 Oct 2025 06:45:36 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "バイナンスが12月3-4日にドバイで開催する2025年ブロックチェーン・ウィーク。セイラー氏のUAE初講演、CZ氏の登壇など業界著名人も集結。"
-  },
-  {
-    "title": "米上場のビットコイン保有企業セクアンス、166億円相当BTCをコインベースに入金　mNAV改善目的か",
-    "link": "https://coinpost.jp/?p=661527",
-    "pubDate": "Wed, 29 Oct 2025 06:45:29 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "米国の上場ビットコイン保有企業セクアンスは970BTCをコインベースに送金した。ビットコイン戦略的備蓄開始以来初めての大規模な送金となり売却の可能性が浮上。"
   },
   {
     "title": "AI Backlash Is Here: Even Sophisticated Users Are Getting Sick of Tech's Latest Obsession",
@@ -89,20 +159,6 @@
     "pubDate": "Tue, 28 Oct 2025 21:23:03 +0000",
     "source": "Decrypt",
     "contentSnippet": "Ethereum's Fusaka upgrade, set for December 3, will introduce a long-anticipated system for making layer-2 transactions even cheaper and more efficient."
-  },
-  {
-    "title": "イーサリアム「フサカ」、テストネット最終段階に　12月実装に向けて",
-    "link": "https://coinpost.jp/?p=661523",
-    "pubDate": "Wed, 29 Oct 2025 06:20:18 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "イーサリアムの次期ハードフォーク「フサカ」は29日にフーディテストネットで稼働を開始した。年内のメインネット実装に向けた最終段階で、12月3日の実装が予定される。"
-  },
-  {
-    "title": "フランスでビットコイン戦略的備蓄法案が提出、デジタルユーロ禁止も",
-    "link": "https://coinpost.jp/?p=661519",
-    "pubDate": "Wed, 29 Oct 2025 06:10:37 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "フランスの中道右派政党UDRは仮想通貨に関する包括的な法案を議会に提出した。国家ビットコイン戦略的備蓄の創設とデジタルユーロの禁止を求めている。"
   },
   {
     "title": "Bitcoin Miner TeraWulf's Stock Soars on Google-Backed AI Expansion Plans",
@@ -126,13 +182,6 @@
     "contentSnippet": "Volume spiked 180% over average as nearly 2.7M tokens traded in a single minute."
   },
   {
-    "title": "米送金大手ウエスタン・ユニオン、ソラナ上でUSDPT発行計画　来年上半期目処に",
-    "link": "https://coinpost.jp/?p=661514",
-    "pubDate": "Wed, 29 Oct 2025 05:45:09 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "米送金大手ウエスタン・ユニオンは2026年前半にソラナ基盤のステーブルコインUSDPTを発行する計画を発表した。"
-  },
-  {
     "title": "Tether Tokenized Gold Reserves Exceeded 11.6 Tons in Q3 Amid Yellow Metal's Rally",
     "link": "https://www.coindesk.com/markets/2025/10/28/tether-tokenized-gold-reserves-exceeded-11-6-tons-in-q3-amid-yellow-metal-s-rally",
     "pubDate": "Tue, 28 Oct 2025 20:34:05 +0000",
@@ -147,13 +196,6 @@
     "contentSnippet": "Nvidia closed in on a $4 trillion market cap amid CEO Jensen Huang's keynote speech at a tech conference, seemingly sucking capital out of crypto on Tuesday afternoon."
   },
   {
-    "title": "Bitcoin Uptober Cliffhanger: Will BTC Close the Month Green?",
-    "link": "https://decrypt.co/346463/bitcoin-uptober-will-btc-close-month-green",
-    "pubDate": "Tue, 28 Oct 2025 19:49:11 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "With just days left in Uptober, Bitcoin is in the green for the month—but just barely. Can it hold on and keep the seasonal trend alive?"
-  },
-  {
     "title": "Blockchain-Based Polymarket Eyes U.S. Comeback by November: BBG",
     "link": "https://www.coindesk.com/markets/2025/10/28/blockchain-based-polymarket-eyes-u-s-comeback-by-november-bbg",
     "pubDate": "Tue, 28 Oct 2025 19:40:57 +0000",
@@ -166,47 +208,5 @@
     "pubDate": "Tue, 28 Oct 2025 19:14:45 +0000",
     "source": "CoinDesk",
     "contentSnippet": "With all three tests done, developers will finalize the date that Fusaka will go live on mainnet, tentatively aiming for December 3."
-  },
-  {
-    "title": "Microsoft AI Chief Says No to 'Sex Robots' as Industry Booms",
-    "link": "https://decrypt.co/346449/microsoft-ai-chief-says-no-sex-robots-industry-booms",
-    "pubDate": "Tue, 28 Oct 2025 19:14:31 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Microsoft's AI boss Mustafa Suleyman nixes erotic development, setting the tech giant apart from rivals exploring romantic chatbots."
-  },
-  {
-    "title": "SharpLink Plans $200M ETH Deployment on Consensys’ Linea Over Multiple Years",
-    "link": "https://www.coindesk.com/markets/2025/10/28/sharplink-plans-usd200m-eth-deployment-on-consensys-linea-over-multiple-years",
-    "pubDate": "Tue, 28 Oct 2025 18:41:00 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "SharpLink said it will use Anchorage Digital to deploy ether on Linea, combining ether.fi staking and EigenCloud restaking to seek yield under institutional controls."
-  },
-  {
-    "title": "Chainlink Underpins Balcony's $240B Real Estate Tokenization Platform",
-    "link": "https://www.coindesk.com/markets/2025/10/28/chainlink-underpins-balcony-s-usd240b-real-estate-tokenization-platform",
-    "pubDate": "Tue, 28 Oct 2025 18:24:11 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Balcony will use Chainlink’s Runtime Environment (CRE) to bring over $240 billion worth of government-sourced property data onchain."
-  },
-  {
-    "title": "Western Union to Launch Stablecoin on Solana With Anchorage Digital",
-    "link": "https://www.coindesk.com/business/2025/10/28/western-union-to-launch-stablecoin-on-solana-with-anchorage-digital",
-    "pubDate": "Tue, 28 Oct 2025 18:16:06 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "The U.S. dollar-pegged token is expected to become available in the first half of 2026."
-  },
-  {
-    "title": "Bitcoin's Offshoot, BCH, Edges Up 1% to Challenge Downtrend",
-    "link": "https://www.coindesk.com/markets/2025/10/28/bitcoin-s-offshoot-bch-edges-up-1-16-to-usd56-challenges-dowtrend",
-    "pubDate": "Tue, 28 Oct 2025 18:01:58 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Minor gains accompanied by elevated volume suggest underlying accumulation despite muted price action."
-  },
-  {
-    "title": "55 Years of Financial Surveillance",
-    "link": "https://www.coindesk.com/opinion/2025/10/28/55-years-of-financial-surveillance",
-    "pubDate": "Tue, 28 Oct 2025 18:00:00 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Reform needs to happen before the Bank Secrecy Act gets to celebrate its next big milestone, argues Nicholas Anthony, a policy analyst at the Cato Institute."
   }
 ]
