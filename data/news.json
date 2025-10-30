@@ -1,80 +1,150 @@
 [
   {
+    "title": "How Solana and XRP Futures Became CME’s Fastest Growing Crypto Products",
+    "link": "https://decrypt.co/346840/how-solana-xrp-futures-cmes-fastest-growing-crypto-products",
+    "pubDate": "Thu, 30 Oct 2025 18:06:28 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "CME’s Solana and XRP futures hit record notional open interest on Monday."
+  },
+  {
+    "title": "Anthropic’s AI Models Show Glimmers of Self-Reflection",
+    "link": "https://decrypt.co/346787/anthropics-ai-models-show-glimmers-self-reflection",
+    "pubDate": "Thu, 30 Oct 2025 17:56:58 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Anthropic’s Claude models showed early signs of self-awareness, detecting “injected thoughts\" and both thrilling and unnerving researchers."
+  },
+  {
+    "title": "Western Union Files Trademark for ‘WUUSD’ a Day After USDPT Stablecoin Reveal",
+    "link": "https://decrypt.co/346785/western-union-files-trademark-wuusd-day-announcing-usdpt-stablecoin",
+    "pubDate": "Thu, 30 Oct 2025 17:51:44 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "An analyst told Decrypt that ‘WUUSD could be the public-facing ticker or symbol, while USDPT remains the regulatory and issuance name.’"
+  },
+  {
+    "title": "Bodega Cat Allegedly Killed by Self-Driving Car Gets Second Life via Meme Coins",
+    "link": "https://decrypt.co/346796/bodega-cat-allegedly-killed-self-driving-car-gets-second-life-meme-coins",
+    "pubDate": "Thu, 30 Oct 2025 17:27:12 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "A beloved liquor store cat named KitKat was allegedly killed by a Waymo—and meme coin traders are pumping Solana and BNB Chain tokens in its honor."
+  },
+  {
+    "title": "Stellar’s XLM Holds Steady at $0.2975 as Weak Volume Caps Rebound Momentum",
+    "link": "https://www.coindesk.com/markets/2025/10/30/stellar-s-xlm-holds-steady-at-usd0-2975-as-weak-volume-caps-rebound-momentum",
+    "pubDate": "Thu, 30 Oct 2025 17:22:10 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "XLM consolidated near $0.2975 after a volatile session, underperforming the broader crypto market despite signs of accumulation near key support."
+  },
+  {
+    "title": "SUI Slides as Token Unlock Concerns Trigger Breakdown to as Low as $2.27",
+    "link": "https://www.coindesk.com/markets/2025/10/30/sui-slides-as-token-unlock-concerns-trigger-breakdown-to-as-low-as-usd2-27",
+    "pubDate": "Thu, 30 Oct 2025 17:18:18 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "A 160% spike in trading volume and stop-loss cascades drove the plunge, with SUI stabilizing just above key support amid mounting November supply concerns."
+  },
+  {
+    "title": "HBAR Declines 4% Following ETF Debut as Initial Euphoria Fades",
+    "link": "https://www.coindesk.com/markets/2025/10/30/hbar-declines-4-following-etf-debut-as-initial-euphoria-fades",
+    "pubDate": "Thu, 30 Oct 2025 17:13:46 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Hedera retreated to $0.1925 despite historic spot ETF launch on Nasdaq as profit-taking offset institutional milestone."
+  },
+  {
+    "title": "Crypto Asset Manager Bitwise Makes Case for Solana’s Next Big Run",
+    "link": "https://www.coindesk.com/markets/2025/10/30/crypto-asset-manager-bitwise-makes-case-for-solana-s-next-big-run",
+    "pubDate": "Thu, 30 Oct 2025 16:53:04 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Solana is well-positioned to capture a growing share of the stablecoin and tokenization boom, the investment firm said."
+  },
+  {
+    "title": "BNB Slips Below Support as Broader Crypto Market Reacts to Fed Chair's Remarks",
+    "link": "https://www.coindesk.com/markets/2025/10/30/bnb-slips-below-support-as-broader-crypto-market-reacts-to-fed-chair-s-remarks",
+    "pubDate": "Thu, 30 Oct 2025 16:39:59 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "The Fed's 25 basis point rate cut and Chair Jerome Powell's cautious stance led to a wave of selling, with 24-hour liquidations surging to over $1.1 billion."
+  },
+  {
+    "title": "Drake, Adin Ross Sued Over 'Deeply Fraudulent' Promotion of Crypto Casino Stake",
+    "link": "https://decrypt.co/346794/drake-adin-ross-sued-promotion-crypto-casino-stake",
+    "pubDate": "Thu, 30 Oct 2025 16:26:28 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "A class-action lawsuit accuses Drake and Adin Ross of making millions off misleading ads for Stake, a social casino alleged to be an illegal gambling operation."
+  },
+  {
+    "title": "JPMorgan Completes First Blockchain-Based Private Fund Transaction Amid Tokenization Push",
+    "link": "https://www.coindesk.com/tech/2025/10/30/jpmorgan-completes-first-blockchain-based-private-fund-transaction-amid-tokenization-push",
+    "pubDate": "Thu, 30 Oct 2025 16:06:10 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Kinexys Fund Flow, developed by the bank's digital asset arm Kinexys, aims to streamline access to alternative funds."
+  },
+  {
+    "title": "The Graph Builders, Edge & Node, Unveil “ampersend” Dashboard to Manage AI Agent Payments ",
+    "link": "https://www.coindesk.com/tech/2025/10/30/the-graph-builders-edge-and-node-unveil-ampersend-dashboard-to-manage-ai-agent-payments",
+    "pubDate": "Thu, 30 Oct 2025 16:00:33 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "The founding team behind The Graph debuts a new platform to unify payments, policies, and visibility for autonomous agents."
+  },
+  {
+    "title": "Mythical Games Taps Sam Altman’s World to Keep Players Safe From Bots",
+    "link": "https://www.coindesk.com/tech/2025/10/30/mythical-games-taps-sam-altman-s-world-to-keep-players-safe-from-bots",
+    "pubDate": "Thu, 30 Oct 2025 16:00:00 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "As part of the partnership, Mythical will build Mythos Chain, the first layer-3 blockchain atop World Chain, the layer-2 network built on top of Ethereum."
+  },
+  {
+    "title": "Social Engineering Scams Top Crypto Threats in 2025: WhiteBit",
+    "link": "https://www.coindesk.com/web3/2025/10/30/social-engineering-scams-top-crypto-threats-in-2025-whitebit",
+    "pubDate": "Thu, 30 Oct 2025 15:54:59 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Technical wallet hacks, including phishing and malware, are the second most common threat, making up 33.7% of incidents."
+  },
+  {
+    "title": "Bernstein Initiates SharpLink Coverage With Outperform Rating for Ethereum Treasury",
+    "link": "https://decrypt.co/346789/bernstein-initiates-sharplink-coverage-outperform-ethereum-treasury",
+    "pubDate": "Thu, 30 Oct 2025 15:51:09 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The firm's share price could nearly double as the Federal Reserve lowers borrowing costs, analysts wrote."
+  },
+  {
+    "title": "1kx: Onchain Economy Hits $20B as Fees Signal Real Demand",
+    "link": "https://www.coindesk.com/business/2025/10/30/1kx-onchain-economy-hits-usd20b-as-fees-signal-real-demand",
+    "pubDate": "Thu, 30 Oct 2025 15:41:58 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "The firm’s Onchain Revenue Report (H1 2025) aggregates verified onchain data across more than 1,200 protocols, tracking how value actually moves through decentralized systems."
+  },
+  {
+    "title": "Bitcoin, Ethereum Bulls Get Rekt: Liquidations Top $1.1 Billion as Prices Fall After Trump Meets Xi",
+    "link": "https://decrypt.co/346788/bitcoin-ethereum-bulls-get-rekt-liquidations-1-1-billion-trump-meets-xi",
+    "pubDate": "Thu, 30 Oct 2025 15:30:13 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "President Trump hailed his meeting with China leader Xi Jinping as \"amazing\" and put a halt on tariffs. But markets aren't happy."
+  },
+  {
+    "title": "Elon Musk’s SpaceX Just Moved More of Its $894 Million in Bitcoin Holdings",
+    "link": "https://decrypt.co/346784/elon-musks-spacex-just-moved-more-894-million-bitcoin-stash",
+    "pubDate": "Thu, 30 Oct 2025 14:38:45 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Is SpaceX selling, or simply shaking up its security? Elon Musk’s company hasn’t said, but it continues to make Bitcoin moves."
+  },
+  {
+    "title": "Dare Me? This Solana Project Is Paying Out Crypto for Hilarious Stunts",
+    "link": "https://decrypt.co/344425/dare-me-solana-project-paying-crypto-hilarious-stunts",
+    "pubDate": "Thu, 30 Oct 2025 13:01:03 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Branded as “the most unhinged platform on the internet,” Dare Markets has raised $2 million in funding to fuel wild stunts with crypto."
+  },
+  {
+    "title": "Character.AI Halts Teen Chats After Tragedies: 'It's the Right Thing to Do'",
+    "link": "https://decrypt.co/346770/character-ai-halts-teen-chats-after-tragedies-its-the-right-thing-to-do",
+    "pubDate": "Thu, 30 Oct 2025 12:47:34 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Following months of lawsuits and regulatory heat, Character.AI will ban minors from its open-ended chat feature."
+  },
+  {
     "title": "海外大手仮想通貨取引所Bybit、日本人の新規登録を10月31日から停止へ",
     "link": "https://coinpost.jp/?p=662229",
     "pubDate": "Thu, 30 Oct 2025 21:12:32 +0900",
     "source": "CoinPost",
-    "contentSnippet": "新規登録停止大手暗号資産（仮想通貨）取引所のBybitは30日、日本における新規ユーザーのアカウント登録を一時停止すると発表した。Bybitは、バイナンスに次ぐ世界第2位の取引高であり、日本人ユーザーも多く抱える。日本の金融庁が定める規制ガ..."
-  },
-  {
-    "title": "Morning Minute: MetaMask Parent Consensys Files for IPO",
-    "link": "https://decrypt.co/346764/morning-minute-metamask-parent-consensys-files-for-ipo",
-    "pubDate": "Thu, 30 Oct 2025 12:11:56 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Just a day after rolling out its MetaMask rewards program, which now begs the question—how will they balance an IPO and a token launch?"
-  },
-  {
-    "title": "Crypto Markets Today: Bitcoin Tests $110K as Traders ‘Sell the News’ on Fed Cut, U.S.-China Deal",
-    "link": "https://www.coindesk.com/markets/2025/10/30/crypto-markets-today-bitcoin-tests-usd110k-as-traders-sell-the-news-on-fed-cut-u-s-china-deal",
-    "pubDate": "Thu, 30 Oct 2025 12:00:00 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Bitcoin slid to its $110,000 support as the broader crypto market shed $80 billion following the Federal Reserve’s interest-rate cut and a new U.S.-China trade agreement."
-  },
-  {
-    "title": "Circle’s USDC Overtakes Tether's USDT in Onchain Activity as Regulation Drives Shift: JPMorgan",
-    "link": "https://www.coindesk.com/markets/2025/10/30/circle-s-usdc-overtakes-tether-s-usdt-in-onchain-activity-as-regulation-drives-shift-jpmorgan",
-    "pubDate": "Thu, 30 Oct 2025 11:40:44 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "USDC leapfrogged USDT in onchain activity as regulatory clarity pushes investors toward transparent and compliant stablecoins."
-  },
-  {
-    "title": "Ethereum US Spot Demand Slips Amid Crypto Market Pressure",
-    "link": "https://decrypt.co/346765/ethereum-us-spot-demand-slips-amid-crypto-market-pressure",
-    "pubDate": "Thu, 30 Oct 2025 11:26:47 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "U.S. Ethereum demand cools as ETF inflows stall, but experts see this as a rotation, not a reversal, ahead of a utility-driven cycle."
-  },
-  {
-    "title": "Plasma’s XPL Token Crashes 80% as Hype Fades Amid Woeful Debut",
-    "link": "https://www.coindesk.com/business/2025/10/30/plasma-s-xpl-token-crashes-80-as-hype-fades-amid-woeful-debut",
-    "pubDate": "Thu, 30 Oct 2025 11:19:09 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Once billed as the “blockchain for stablecoins,” Plasma’s XPL token has plunged from its $1.67 peak to $0.31 amid low network activity and waning sentiment"
-  },
-  {
-    "title": "Market Stumbles on Fed Caution as Options Expiry Looms: Crypto Daybook Americas",
-    "link": "https://www.coindesk.com/daybook-us/2025/10/30/market-stumbles-on-fed-caution-as-options-expiry-looms-crypto-daybook-americas",
-    "pubDate": "Thu, 30 Oct 2025 11:15:00 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Your day-ahead look for Oct. 30, 2025"
-  },
-  {
-    "title": "DeFi Set to Challenge TradFi With $2T in Tokenized Assets by 2028: Standard Chartered",
-    "link": "https://www.coindesk.com/markets/2025/10/30/defi-set-to-challenge-tradfi-with-usd2t-in-tokenized-assets-by-2028-standard-chartered",
-    "pubDate": "Thu, 30 Oct 2025 11:12:51 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "The bank said the 2025 stablecoin boom is fueling a self-sustaining wave of DeFi growth, and it forecasted $2 trillion in tokenized real-world assets by 2028."
-  },
-  {
-    "title": "Australia's AUSTRAC Fines Cryptolink as Part of Crypto ATM Crackdown",
-    "link": "https://www.coindesk.com/policy/2025/10/30/australia-s-austrac-fines-cryptolink-as-part-of-crypto-atm-crackdown",
-    "pubDate": "Thu, 30 Oct 2025 11:02:23 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "AUSTRAC has fined Cryptolink 56,340 Australian dollars ($37,000) after identifying \"weaknesses\" in the company's AML/CTF compliance."
-  },
-  {
-    "title": "Australian Police Use 'Crypto Safe Cracker' to Access $6M Stash",
-    "link": "https://decrypt.co/346755/australian-police-use-crypto-safe-cracker-to-access-6m-stash",
-    "pubDate": "Thu, 30 Oct 2025 10:42:47 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The AFP Commissioner revealed how one analyst's intuition unlocked millions in crypto which a suspect tried to hide behind manipulated code."
-  },
-  {
-    "title": "Analysis: Prediction Market Bettors Miscalculated Dutch Election Results",
-    "link": "https://www.coindesk.com/markets/2025/10/30/analysis-prediction-market-bettors-miscalculated-dutch-election-results",
-    "pubDate": "Thu, 30 Oct 2025 09:20:21 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Both Polymarket and Kalshi traders ignored late polls showing D66 gaining ground, keeping Geert Wilders’ PVV priced as a sure thing until exit polls forced a repricing that erased millions in misplace"
+    "contentSnippet": "海外大手暗号資産（仮想通貨）取引所のBybitが、10月31日から日本の新規ユーザーの登録を停止することがわかった。既存ユーザーは継続利用可能だが、時間の問題と見る向きも。正式登録事業者としての認可取得に向け当局と協議中。"
   },
   {
     "title": "OKJ、仮想通貨「セイ（SEI）」ステーキングを開始へ【預けて増やす】",
@@ -98,13 +168,6 @@
     "contentSnippet": "オーストラリア証券投資委員会（ASIC）は29日、ステーブルコインやラップトークンを金融商品に分類し、事業者にライセンス取得を義務化すると発表。2026年6月まで執行猶予措置を設け、政府のデジタル資産改革と連携して段階的な移行を支援する。"
   },
   {
-    "title": "This Bitcoin Market Dynamic Commands Attention as Prices Surge Past $110K Ahead of $13B Options Expiry",
-    "link": "https://www.coindesk.com/markets/2025/10/30/this-bitcoin-market-dynamic-commands-attention-as-prices-surge-past-usd110k-ahead-of-usd13b-options-expiry",
-    "pubDate": "Thu, 30 Oct 2025 07:37:09 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Key market dynamic points to potential for heightened market volatility ahead of Friday's options expiry."
-  },
-  {
     "title": "オンド・ファイナンス、BNBチェーンでトークン化証券展開へ　米国株に24時間アクセス可能に",
     "link": "https://coinpost.jp/?p=662122",
     "pubDate": "Thu, 30 Oct 2025 16:35:55 +0900",
@@ -112,39 +175,11 @@
     "contentSnippet": "オンド・ファイナンスがトークン化証券プラットフォームをBNBチェーンに拡大。340万人のユーザーが100銘柄超の米国株式とETFに24時間アクセス可能に。トークン化証券市場は8月以降2倍以上成長。"
   },
   {
-    "title": "Crypto Traders Take On $800M Liquidations as Fed’s Caution Sparks ‘Sell-the-News’ Reversal",
-    "link": "https://www.coindesk.com/markets/2025/10/30/crypto-traders-take-on-usd800m-liquidations-as-fed-s-caution-sparks-sell-the-news-reversal",
-    "pubDate": "Thu, 30 Oct 2025 06:27:02 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Large clusters of long liquidations can signal capitulation and potential short-term bottoms, while heavy short wipeouts may precede local tops as momentum flips."
-  },
-  {
     "title": "メタマスク開発企業のコンセンシスがIPO検討か　JPモルガンらをアドバイザーに起用＝報道",
     "link": "https://coinpost.jp/?p=662061",
     "pubDate": "Thu, 30 Oct 2025 15:15:22 +0900",
     "source": "CoinPost",
     "contentSnippet": "イーサリアム系仮想通貨ウォレットで知られるコンセンシスがIPOを準備していると伝えられる。JPモルガンとゴールドマン・サックスをアドバイザーに起用した。"
-  },
-  {
-    "title": "XRP Rejects $2.67 Breakout in Risk of Deeper Pullback as Fed Cuts Cause Bitcoin Slide",
-    "link": "https://www.coindesk.com/markets/2025/10/30/xrp-rejects-usd2-67-breakout-in-risk-of-deeper-pullback-as-fed-cuts-cause-bitcoin-slide",
-    "pubDate": "Thu, 30 Oct 2025 05:53:51 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "XRP slid from $2.63 to $2.59 after a failed breakout above the $2.67 zone, with trading volume spiking to roughly 392.6 million tokens—about 658% above its recent average—during the rejection."
-  },
-  {
-    "title": "Chinese Man Arrested in Bangkok Over Alleged $14M Crypto Ponzi Scheme",
-    "link": "https://decrypt.co/346753/chinese-man-arrested-bangkok-alleged-14m-crypto-ponzi",
-    "pubDate": "Thu, 30 Oct 2025 05:27:08 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Thai police discovered an illegal firearm during the raid as they work to extradite the suspect back to China for trial."
-  },
-  {
-    "title": "Gold on a Steady Decline, Is it Bitcoin's Time to Shine?",
-    "link": "https://decrypt.co/346751/gold-on-a-steady-decline-is-it-bitcoins-time-to-shine",
-    "pubDate": "Thu, 30 Oct 2025 05:20:27 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "As gold cools, experts see a potential Bitcoin catch-up trade, but warn a major capital rotation is unlikely due to different investor bases."
   },
   {
     "title": "21シェアーズ、ハイパーリキッド（HYPE）ETFをSECに申請　DeFi資産の主流化進む",
@@ -173,40 +208,5 @@
     "pubDate": "Thu, 30 Oct 2025 11:54:03 +0900",
     "source": "CoinPost",
     "contentSnippet": "イーサリアムなどに対応する仮想通貨ウォレットのメタマスクは、報酬プログラムのシーズン1を開始。シーズン1では報酬として計46億円相当のLINEAトークンが割り当てられている。"
-  },
-  {
-    "title": "Bitchat Tops Jamaica App Charts as Hurricane Melissa Cuts Connectivity",
-    "link": "https://decrypt.co/346748/bitchat-tops-jamaica-app-charts-hurricane-melissa-cuts-connectivity",
-    "pubDate": "Thu, 30 Oct 2025 02:22:00 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Bitchat uses Bluetooth mesh networking for offline communication, turning each phone into a node that relays messages to nearby devices."
-  },
-  {
-    "title": "Mastercard in Talks to Acquire Stablecoin Tech Firm Zerohash for Around $2 Billion: Fortune",
-    "link": "https://decrypt.co/346720/mastercard-talks-acquire-stablecoin-tech-zerohash-2-billion-fortune",
-    "pubDate": "Thu, 30 Oct 2025 00:21:30 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The potential deal follows reports earlier this month that the credit card giant and Coinbase were each in late-stage talks to acquire stablecoin startup BVNK."
-  },
-  {
-    "title": "IBM’s Quantum ‘Cat’ Roars: 120-Qubit Breakthrough Pushes Bitcoin’s Encryption Risk Closer",
-    "link": "https://decrypt.co/346742/ibms-quantum-120-qubit-breakthrough-bitcoins-encryption-risk",
-    "pubDate": "Wed, 29 Oct 2025 23:57:57 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "IBM’s new 120-qubit experiment marks a leap forward, advancing technology that could one day crack Bitcoin’s encryption."
-  },
-  {
-    "title": "Why $71 Billion Bitcoin Behemoth Strategy Is Still Betting on BTC Hitting $150K This Year",
-    "link": "https://decrypt.co/346696/why-71-billion-bitcoin-behemoth-strategy-150k-price-prediction",
-    "pubDate": "Wed, 29 Oct 2025 23:01:03 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Strategy founder Michael Saylor thinks Bitcoin will grind its way to $150,000 this year, despite the dip from its recent all-time high."
-  },
-  {
-    "title": "MetaMask Maker Consensys Plans IPO With JPMorgan, Goldman: Axios",
-    "link": "https://decrypt.co/346732/metamask-maker-consensys-plans-ipo-with-jpmorgan-goldman-axios",
-    "pubDate": "Wed, 29 Oct 2025 22:48:45 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Consensys, the Ethereum software firm behind MetaMask, has reportedly hired JPMorgan and Goldman Sachs to prepare for a potential IPO"
   }
 ]
