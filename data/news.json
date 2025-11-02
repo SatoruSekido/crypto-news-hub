@@ -1,5 +1,47 @@
 [
   {
+    "title": "",
+    "link": "https://coinpost.jp/?p=662864",
+    "pubDate": "Sun, 02 Nov 2025 06:58:29 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "日本国内の大手暗号資産（仮想通貨）取引所・交換業者について、利用者の口コミ評価や上場して欲しい銘柄情報を集めたページです。暗号資産の取扱いを開始している1種会員（日本暗号資産取引業協会：JVCEA）には、2024年8月時点で32会員が登録さ..."
+  },
+  {
+    "title": "Is November the New October? Analyst Says It’s Bitcoin’s Strongest Month — Here’s the Data",
+    "link": "https://www.coindesk.com/markets/2025/11/01/is-november-the-new-october-analyst-says-it-s-bitcoin-s-strongest-month-here-s-the-data",
+    "pubDate": "Sat, 01 Nov 2025 21:36:09 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Lark Davis called November bitcoin’s strongest month with a 42.5% average gain; the median is far lower and a single outlier year does much of the lifting."
+  },
+  {
+    "title": "Criminal Crypto Use Is Becoming 'Increasingly Sophisticated', Says Europol",
+    "link": "https://decrypt.co/347078/criminal-crypto-use-becoming-increasingly-sophisticated-says-europol",
+    "pubDate": "Sat, 01 Nov 2025 21:01:03 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "EU law enforcement has pledged deeper cooperation and investment as criminals refine blockchain abuse tactics."
+  },
+  {
+    "title": "Public Keys: Coinbase Cashes In, IBIT Slips, and REX Spins Volatility Into Gold",
+    "link": "https://decrypt.co/347076/public-keys-coinbase-ibit-rex",
+    "pubDate": "Sat, 01 Nov 2025 18:57:48 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Coinbase soars past Q3 targets while Bitcoin ETFs face turbulence—plus a new fund betting on crypto stock volatility for income."
+  },
+  {
+    "title": "Circle CEO Jeremy Allaire Calls Arc ‘an Economic OS for the internet’",
+    "link": "https://www.coindesk.com/tech/2025/11/01/circle-ceo-jeremy-allaire-calls-arc-an-economic-os-for-the-internet",
+    "pubDate": "Sat, 01 Nov 2025 18:42:26 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "In a recent CNBC interview, Jeremy Allaire outlined dollar-priced fees, fast finality, and privacy for Arc, while pointing to rising USDC use in emerging markets."
+  },
+  {
+    "title": "Romanian Regulator Blacklists Polymarket as 'Gambling That Must Be Licensed'",
+    "link": "https://decrypt.co/347052/romanian-regulator-blacklists-polymarket-gambling",
+    "pubDate": "Sat, 01 Nov 2025 18:23:38 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The Romanian National Office for Gambling said that it would \"not allow the transformation of blockchain into a screen for illegal betting.\""
+  },
+  {
     "title": "Bitcoin: The Dawn of a New Monetary Era",
     "link": "https://www.coindesk.com/opinion/2025/10/31/bitcoin-the-dawn-of-a-new-monetary-era",
     "pubDate": "Sat, 01 Nov 2025 18:00:00 +0000",
@@ -68,13 +110,6 @@
     "pubDate": "Sat, 01 Nov 2025 12:01:41 +0000",
     "source": "CoinDesk",
     "contentSnippet": "The in-app Chat is in beta for Premium users with file sharing and media support, while a standalone X Chat app is slated to follow in the coming months."
-  },
-  {
-    "title": "‘Bitcoin Never Shuts Down’: U.S. Treasury Secretary Marks Anniversary, Needles Democrats",
-    "link": "https://www.coindesk.com/policy/2025/11/01/bitcoin-never-shuts-down-treasury-s-bessent-marks-anniversary-needles-democrats",
-    "pubDate": "Sat, 01 Nov 2025 09:04:51 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Scott Bessent marked the white paper’s anniversary by lauding bitcoin’s resilience and contrasting it with Washington gridlock, rekindling debate over Treasury’s crypto stance."
   },
   {
     "title": "ステーブルコイン覇権争い激化　テザーが過去最高益、USDCは機関投資家採用加速",
@@ -161,13 +196,6 @@
     "contentSnippet": "Brian Armstrong used Coinbase's Q3 earnings call to drop a few terms that prediction market users had bet on. The remarks got mixed reviews."
   },
   {
-    "title": "カナン、日本の電力会社と契約　ビットコインマイニングで送電網安定化図る",
-    "link": "https://coinpost.jp/?p=662708",
-    "pubDate": "Sat, 01 Nov 2025 05:45:06 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "BTC採掘機器メーカーカナンが日本の大手地域電力会社とマイニングサーバー販売契約を締結した。水冷式アバロンサーバーで送電網バランシングとエネルギー効率最適化を実現し、2025年末に稼働開始する予定だ。"
-  },
-  {
     "title": "Court Denies Crypto Bank Custodia's Bid to Pry Master Account From Unwilling Fed",
     "link": "https://decrypt.co/347022/court-denies-crypto-bank-custodia-bid-pry-master-account-fed",
     "pubDate": "Fri, 31 Oct 2025 19:36:41 +0000",
@@ -180,33 +208,5 @@
     "pubDate": "Fri, 31 Oct 2025 19:21:18 +0000",
     "source": "Decrypt",
     "contentSnippet": "Europe could see the digital euro issued continent-wide as early as 2029, after a potential CBDC pilot in mid-2027."
-  },
-  {
-    "title": "Analyst Says Ethereum Is the Best Ecosystem and Ether Is Poised to Top $5,000",
-    "link": "https://www.coindesk.com/markets/2025/10/31/analyst-says-ethereum-is-the-best-ecosystem-and-ether-is-poised-to-top-usd5-000",
-    "pubDate": "Fri, 31 Oct 2025 19:00:04 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Ether rose on heavier trading, then slipped after an upper-band rejection, leaving a tighter range and a clear set of checkpoints above and below."
-  },
-  {
-    "title": "California Regulator Fines Bitcoin ATM Operator Coinhub $675K for Violating Law",
-    "link": "https://decrypt.co/347010/california-regulator-fines-bitcoin-atm-operator-coinhub-765k",
-    "pubDate": "Fri, 31 Oct 2025 18:43:30 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "California's Department of Financial Protection and Innovation fined Bitcoin ATM operator Coinhub $675,000 for violating digital assets law."
-  },
-  {
-    "title": "Tether Reports $10 Billion Profit in 2025 So Far—Here's How That Compares to the Big Banks",
-    "link": "https://decrypt.co/347009/tether-reports-10-billion-profit-2025-so-far-compares-big-banks",
-    "pubDate": "Fri, 31 Oct 2025 18:26:46 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Stablecoin giant Tether is making billions on its US Treasury reserves, putting it in league with some of Wall Street’s top earners."
-  },
-  {
-    "title": "Steak 'n Shake Bitcoin Burger Comes With Actual BTC as Firm Creates 'Strategic Reserve'",
-    "link": "https://decrypt.co/346987/steak-shake-bitcoin-burger-comes-actual-btc-thanks-fold",
-    "pubDate": "Fri, 31 Oct 2025 18:15:07 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Buy a Bitcoin burger, get BTC: Fold is offering Stake 'n Shake customers $5 in BTC if they nab the restaurant chain's crypto-burger."
   }
 ]
