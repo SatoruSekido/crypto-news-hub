@@ -1,5 +1,40 @@
 [
   {
+    "title": "Sui DEX「Momentum」、11月上旬にTGE予定　累積取引量250億ドル超でエコシステム基盤化",
+    "link": "https://coinpost.jp/?p=661840",
+    "pubDate": "Mon, 03 Nov 2025 09:00:43 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "Sui最大のDEX「Momentum」、210万人のユーザーを獲得。投票型ガバナンスで投票者自身が報酬配分を決定し、プールの手数料を得る仕組みで流動性の安定化を目指す。"
+  },
+  {
+    "title": "JPYCの買い方・使い方まとめ｜何ができる？今後の活用法・注意点を徹底解説",
+    "link": "https://coinpost.jp/?p=643693",
+    "pubDate": "Mon, 03 Nov 2025 07:00:17 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "JPYCが資金移動業ライセンスを取得し、日本初の円建てステーブルコイン「JPYC EX」を発行へ。特徴や将来性を徹底解説。"
+  },
+  {
+    "title": "The Biggest Games Releasing in November 2025",
+    "link": "https://decrypt.co/347123/biggest-games-releasing-november-2025",
+    "pubDate": "Sun, 02 Nov 2025 21:01:03 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "It's a big month for gaming, thanks to the impending release of Call of Duty: Black Ops 7, Kirby Air Riders, and a new Zelda game on Switch 2."
+  },
+  {
+    "title": "The Complete Idiot's Guide to MCP: Giving Your AI Web Superpowers",
+    "link": "https://decrypt.co/346185/complete-idiots-guide-mcp-giving-your-ai-web-superpowers",
+    "pubDate": "Sun, 02 Nov 2025 20:01:12 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Tired of feeding data to OpenAI, Google, or Anthropic? A few open-source tools and the Model Context Protocol let you give any lightweight model real-time browsing powers."
+  },
+  {
+    "title": "What Is Tempo? The Payments and Stablecoin Blockchain Built by Stripe",
+    "link": "https://decrypt.co/resources/what-tempo-payments-stablecoin-blockchain-stripe",
+    "pubDate": "Sun, 02 Nov 2025 19:01:39 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Payments giant Stripe is helping build Tempo, a layer-1 blockchain focused on payments and stablecoins. Here's what you need to know."
+  },
+  {
     "title": "Quantum Threat to Bitcoin: How Panic Could Break Crypto Before Physics Does",
     "link": "https://decrypt.co/346256/quantum-threat-bitcoin-how-panic-could-break-crypto-before-physics-does",
     "pubDate": "Sun, 02 Nov 2025 16:01:43 +0000",
@@ -49,6 +84,13 @@
     "contentSnippet": "前週比で振り返る仮想通貨市場の最新動向。ビットコインやイーサリアム、XRP、ソラナといった主要銘柄の騰落率や注目材料を一挙紹介。市場トレンドと関連ニュースを詳しく解説する。"
   },
   {
+    "title": "メタマスクの使い方、仮想通貨の送金や交換：スワップ、便利機能を図解でわかりやすく",
+    "link": "https://coinpost.jp/?p=419065",
+    "pubDate": "Sun, 02 Nov 2025 12:00:27 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "MetaMaskのインストール方法から送金手順、暗号資産（仮想通貨）取引所への送金や取引所からの出庫方法、セキュリティ対策までを初心者向けに詳しく解説。自己管理型ウォレットの基本知識を身に付けましょう。"
+  },
+  {
     "title": "ビットコインは売られ過ぎ水準、来週の指標次第で利下げ期待強まるか｜bitbankアナリスト寄稿",
     "link": "https://coinpost.jp/?p=662527",
     "pubDate": "Sun, 02 Nov 2025 11:30:51 +0900",
@@ -61,13 +103,6 @@
     "pubDate": "Sun, 02 Nov 2025 11:00:08 +0900",
     "source": "CoinPost",
     "contentSnippet": "今週は、日本初のステーブルコインJPYC始動、SBIインシュアランスグループによる株主優待へのXRP導入、仮想通貨取引所Bybitによる日本人の新規登録停止に関する記事が関心を集めた。"
-  },
-  {
-    "title": "",
-    "link": "https://coinpost.jp/?p=662864",
-    "pubDate": "Sun, 02 Nov 2025 06:58:29 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "日本国内の大手暗号資産（仮想通貨）取引所・交換業者について、利用者の口コミ評価や上場して欲しい銘柄情報を集めたページです。暗号資産の取扱いを開始している1種会員（日本暗号資産取引業協会：JVCEA）には、2024年8月時点で32会員が登録さ..."
   },
   {
     "title": "Is November the New October? Here’s What Bitcoin Price Data Actually Shows",
@@ -168,45 +203,10 @@
     "contentSnippet": "チェンジホールディングスが日本円ステーブルコインJPYCを活用した地方創生に着手する。「ふるさとチョイス」での決済導入検討やインバウンド事業での実証実験を計画している。"
   },
   {
-    "title": "欧州中央銀行がデジタルユーロ開発加速、2029年導入目指す",
-    "link": "https://coinpost.jp/?p=662728",
-    "pubDate": "Sat, 01 Nov 2025 09:20:27 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "欧州中央銀行が中央銀行デジタル通貨（CBDC）デジタルユーロの開発を次段階に進めることを決定した。2027年にパイロット実験を開始し、2029年の正式導入を目指す。"
-  },
-  {
-    "title": "ビットコイン、サトシ・ナカモト執筆のホワイトペーパー公開から17周年に",
-    "link": "https://coinpost.jp/?p=662718",
-    "pubDate": "Sat, 01 Nov 2025 07:40:30 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "仮想通貨ビットコインは10月31日、ホワイトペーパー公開から17周年を迎えた。SNSでは祝福の声が投稿されており、コインベースのCEOは、1つのPDFが世界を変えたとコメントしている。"
-  },
-  {
     "title": "Elon Musk Tells Joe Rogan the Next Tesla Roadster Will Fly—And AI Is Coming for Everyone",
     "link": "https://decrypt.co/347050/elon-musk-joe-rogan-next-tesla-roadster-fly-ai-coming-everyone",
     "pubDate": "Fri, 31 Oct 2025 21:54:12 +0000",
     "source": "Decrypt",
     "contentSnippet": "Elon Musk covered AI bias, superintelligence, government waste, social media, and flying cars in marathon Joe Rogan interview."
-  },
-  {
-    "title": "'We Fucked Up': MEXC Exec Promises Changes After Blowup Over Frozen Crypto Millions",
-    "link": "https://decrypt.co/347043/mexc-exec-promises-changes-after-blowup-frozen-crypto-millions",
-    "pubDate": "Fri, 31 Oct 2025 21:34:50 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Crypto exchange MEXC says it's changing processes after an influencer's crusade to unlock his $3 million account."
-  },
-  {
-    "title": "Coinbase CEO Garners Praise, Pushback for Prediction Market Shoutouts in Earnings Call",
-    "link": "https://decrypt.co/347026/coinbase-ceo-garners-praise-pushback-prediction-market-shoutouts",
-    "pubDate": "Fri, 31 Oct 2025 20:50:19 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Brian Armstrong used Coinbase's Q3 earnings call to drop a few terms that prediction market users had bet on. The remarks got mixed reviews."
-  },
-  {
-    "title": "Court Denies Crypto Bank Custodia's Bid to Pry Master Account From Unwilling Fed",
-    "link": "https://decrypt.co/347022/court-denies-crypto-bank-custodia-bid-pry-master-account-fed",
-    "pubDate": "Fri, 31 Oct 2025 19:36:41 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Custodia said it may request a rehearing on the matter, after a panel of judges ruled 2-1 to affirm a district court’s prior ruling denying the crypto bank Fed access."
   }
 ]
