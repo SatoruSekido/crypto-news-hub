@@ -1,17 +1,101 @@
 [
   {
-    "title": " Price predictions 11/3: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE ",
-    "link": "https://cointelegraph.com/news/price-predictions-11-3-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-hype?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 03 Nov 2025 18:11:45 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Bitcoin and altcoin’s early November performance mirrors October, where the market ignored historicals and fell to new lows. Will bulls show any interest in buying the range lows?"
+    "title": "ビットコイン一時10万5千ドルまで下落、流動性不安再燃｜仮想NISHI",
+    "link": "https://coinpost.jp/?p=663142",
+    "pubDate": "Tue, 04 Nov 2025 10:02:07 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "*本レポートは、X-Bankクリプトアナリストである仮想NISHI（..."
   },
   {
-    "title": " Ripple launches crypto spot prime brokerage services ",
-    "link": "https://cointelegraph.com/news/ripple-digital-asset-spot-prime-brokerage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 03 Nov 2025 18:04:14 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "As Ripple’s Swell conference kicked off in New York this week, the company announced an expansion of OTC services following its October acquisition of a prime broker."
+    "title": "Web3大手アニモカ・ブランズ、ナスダック上場の計画　AIインフラのカレンクと合併で",
+    "link": "https://coinpost.jp/?p=663135",
+    "pubDate": "Tue, 04 Nov 2025 09:27:59 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "アニモカ・ブランズがAIインフラを手がけるカレンクと合併契約を締結。2026年にナスダック上場することを計画している。上場Web3・仮想通貨コングロマリットが誕生する見通しだ。"
+  },
+  {
+    "title": "Balancerの不正流出受けて、L1「ベラチェーン」ネットワークを停止",
+    "link": "https://coinpost.jp/?p=663129",
+    "pubDate": "Tue, 04 Nov 2025 07:56:45 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "仮想通貨イーサリアム互換のL1ベラチェーンは、バランサーへの攻撃を受け、エコシステムへの影響を抑えるために対策を講じたと発表。場合によってはハードフォークを行うと述べている。"
+  },
+  {
+    "title": "Solana's SOL Bleeds Nearly 20% Since ETF Debut Despite 'Very Solid' Inflows",
+    "link": "https://www.coindesk.com/markets/2025/11/03/solana-s-sol-bleeds-nearly-20-since-etf-debut-despite-very-solid-inflows",
+    "pubDate": "Mon, 03 Nov 2025 22:48:17 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "The weak action happened despite SOL exchange-traded products booking their second strongest weekly inflow on record driven by the new ETFs, CoinShares said."
+  },
+  {
+    "title": "Hollywood.com Reveals Crypto-Powered Prediction Market for Movies, TV and More",
+    "link": "https://decrypt.co/347220/hollywood-com-crypto-powered-prediction-market-movies-tv",
+    "pubDate": "Mon, 03 Nov 2025 22:44:51 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Fresh off its Trump Media deal for Truth Predict, Crypto.com reveals plans for entertainment prediction markets via Hollywood.com."
+  },
+  {
+    "title": "A Smarter Way to Talk to AI: Here's How to ‘Context Engineer’ Your Prompts",
+    "link": "https://decrypt.co/347209/smarter-way-talk-ai-heres-context-engineer-prompts",
+    "pubDate": "Mon, 03 Nov 2025 22:34:53 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "A team at Shanghai AI Lab says most AI errors stem not from bad models but from thin prompts. Their solution—“context engineering”—shows that giving language models richer background information leads"
+  },
+  {
+    "title": "Ripple Acquires Crypto Wallet and Custody Firm Palisade",
+    "link": "https://decrypt.co/347216/ripple-acquires-crypto-wallet-custody-palisade",
+    "pubDate": "Mon, 03 Nov 2025 22:16:29 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Fintech firm Ripple made another acquisition, this time snatching up wallet provider and custody firm Palisade on Monday."
+  },
+  {
+    "title": "Ripple Acquires Crypto Wallet Firm Palisade to Expand Institutional Payments Business",
+    "link": "https://www.coindesk.com/business/2025/11/03/ripple-acquires-crypto-wallet-firm-palisade-to-expand-institutional-payments-business",
+    "pubDate": "Mon, 03 Nov 2025 21:02:29 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "With the acquisition, Ripple aims to provide quickly-deployable wallets to boost fintech and corporate crypto payments, president Monica Long said in an interview."
+  },
+  {
+    "title": "AI Browsers Are Headed to Crypto—Donut Labs Just Raised $22 Million to Build It First",
+    "link": "https://decrypt.co/347204/ai-browsers-headed-crypto-donut-labs-22-million-build-first",
+    "pubDate": "Mon, 03 Nov 2025 21:00:40 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Donut Labs says its AI-powered browser can analyze markets and execute trades on its own."
+  },
+  {
+    "title": "ArXiv Blocks AI-Generated Survey Papers After 'Flood' of Trashy Submissions",
+    "link": "https://decrypt.co/347196/arxiv-blocks-ai-generated-survey-papers-flood-trashy-submissions",
+    "pubDate": "Mon, 03 Nov 2025 20:14:52 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Preprint repository ArXiv is cracking down on survey papers after AI tools make it easy to mass-produce low-quality submissions that overwhelm volunteer moderators."
+  },
+  {
+    "title": "Bitcoin Miners IREN, Cipher Rise After Multi-Billion-Dollar Microsoft, Amazon Deals",
+    "link": "https://decrypt.co/347193/bitcoin-miners-iren-cipher-rise-billion-dollar-microsoft-amazon",
+    "pubDate": "Mon, 03 Nov 2025 19:28:23 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The transactions are the latest between Magnificent Seven companies and Bitcoin miner and data center firms."
+  },
+  {
+    "title": "SUI Token Drops 9% as Institutional Selling Hits Harder Than Broader Crypto Market",
+    "link": "https://www.coindesk.com/markets/2025/11/03/sui-token-drops-9-as-institutional-selling-hits-harder-than-broader-crypto-market",
+    "pubDate": "Mon, 03 Nov 2025 19:08:48 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Volume jumped 628% as SUI sliced through key support, then bounced — without buyer conviction."
+  },
+  {
+    "title": "US Bitcoin ETFs Lost $946 Million After Hawkish Tone From Fed",
+    "link": "https://decrypt.co/347176/us-bitcoin-etfs-lost-946-million-hawkish-tone-fed",
+    "pubDate": "Mon, 03 Nov 2025 19:02:54 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Solana funds surged with $421 million in fresh capital. Overall, crypto ETFs shed $360 million in assets."
+  },
+  {
+    "title": "Balancer Exploited for $128 Million Across Ethereum Chains as Berachain Halts Network",
+    "link": "https://decrypt.co/347173/balancer-exploited-128-million-across-ethereum-chains-berachain-halts",
+    "pubDate": "Mon, 03 Nov 2025 18:47:12 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Some $128 million in crypto was stolen from Balancer liquidity pools on Ethereum and beyond, with Berachain halting its chain as a result."
   },
   {
     "title": "Nasdaq Reprimands TON Treasury for $558 Million Stock Sale, Crypto Buy",
@@ -35,27 +119,6 @@
     "contentSnippet": "Stablecoin giant Tether has tripled its USDT supply since 2023, and generating profits that would make major banks jealous."
   },
   {
-    "title": "Ripple Prime Clients Gain Access to Spot Crypto Trading",
-    "link": "https://decrypt.co/347164/ripple-prime-clients-access-spot-crypto-trading",
-    "pubDate": "Mon, 03 Nov 2025 17:40:11 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Ripple acquired prime brokerage Hidden Road for $1.25 billion in April."
-  },
-  {
-    "title": "BitMine Adds $294 Million in Ethereum as Tom Lee Makes Bullish Bitcoin, ETH Price Projections",
-    "link": "https://decrypt.co/347155/bitmine-294-million-ethereum-lee-bullish-bitcoin-eth-price",
-    "pubDate": "Mon, 03 Nov 2025 17:09:37 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "BitMine Immersion shares were trading more than 8% lower on Monday after the firm acquired over 82,000 ETH in the last week."
-  },
-  {
-    "title": " Hawkish Fed remarks drive $360M in crypto outflows but Solana ETFs shine ",
-    "link": "https://cointelegraph.com/news/hawkish-fed-outflows-360m-solana-etfs-shine?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 03 Nov 2025 17:09:03 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Investors trimmed exposure to Bitcoin funds amid US policy uncertainty, even as Bitwise’s new Solana staking ETF attracted strong debut inflows last week."
-  },
-  {
     "title": "Stellar Holds the Line at $0.277 as Buyers Defend Key Support Zone",
     "link": "https://www.coindesk.com/markets/2025/11/03/stellar-holds-the-line-at-usd0-277-as-buyers-defend-key-support-zone",
     "pubDate": "Mon, 03 Nov 2025 16:59:50 +0000",
@@ -70,20 +133,6 @@
     "contentSnippet": "The token climbed to nearly $4.30 late on Sunday, before tracking downward throughout Monday."
   },
   {
-    "title": "Strategy Snaps Up More Bitcoin Amid BTC Price Drop",
-    "link": "https://decrypt.co/347150/strategy-snaps-more-bitcoin-holdings-btc-drop",
-    "pubDate": "Mon, 03 Nov 2025 16:46:57 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Strategy's buy was among its smallest. Bitcoin's price has fallen more than 7% over the past week."
-  },
-  {
-    "title": " Ethereum’s price chart targets sub-$3K as spot ETF demand cools ",
-    "link": "https://cointelegraph.com/news/ethereum-price-chart-targets-sub-3k-spot-etf-demand-cools?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 03 Nov 2025 16:45:00 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Ethereum’s price risked a deeper correction toward $2,800 as institutional demand through ETH ETFs and treasury companies declined"
-  },
-  {
     "title": "Hedera’s HBAR Slides 5% as $0.19 Support Crumbles, Traders Eye Technical Reversal",
     "link": "https://www.coindesk.com/markets/2025/11/03/hedera-s-hbar-slides-5-as-usd0-19-support-crumbles-traders-eye-technical-reversal",
     "pubDate": "Mon, 03 Nov 2025 16:40:11 +0000",
@@ -91,39 +140,11 @@
     "contentSnippet": "Hedera token breaks key technical level amid volume surge, though late-session reversal signals emerge."
   },
   {
-    "title": "CZ Pumps Aster 25% with Tweet! Crypto Majors Selloff! Trump distances from CZ!",
-    "link": "https://decrypt.co/videos/interviews/a89XRwtQ/cz-pumps-aster-25-with-tweet-crypto-majors-selloff-trump-distances-from-cz",
-    "pubDate": "Mon, 03 Nov 2025 16:38:04 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Crypto majors fell between 2–5% following a Sunday night selloff, with Bitcoin down 2% at $108,100, Ethereum off 4% at $3,720, BNB down 6% at $1,020, and Solana dropping 5% to $176. Among top movers, "
-  },
-  {
-    "title": " How high can Dash price go if it copies Zcash in November? ",
-    "link": "https://cointelegraph.com/news/how-high-can-dash-go-if-it-copies-zcash-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 03 Nov 2025 16:22:10 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Dash’s setup mirrors Zcash’s pre-breakout phase, hinting at a possible 400% rally if it breaks above a multiyear technical resistance zone."
-  },
-  {
     "title": "BONK Tumbles as Meme Token Breaks Support, Tests Key Lows",
     "link": "https://www.coindesk.com/markets/2025/11/03/bonk-tumbles-as-meme-token-breaks-support-tests-key-lows",
     "pubDate": "Mon, 03 Nov 2025 16:21:02 +0000",
     "source": "CoinDesk",
     "contentSnippet": "BONK slid to $0.00001232, breaking through critical support as sales pressure swept through Solana-linked meme tokens."
-  },
-  {
-    "title": " BTC miner IREN lands $9.7B Microsoft deal, accelerating industry pivot to GPUs ",
-    "link": "https://cointelegraph.com/news/iren-microsoft-ai-cloud-deal-bitcoin-miners-pivot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 03 Nov 2025 16:20:31 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "IREN’s Microsoft partnership underscores how Bitcoin miners are reinventing themselves as AI infrastructure providers amid tightening margins."
-  },
-  {
-    "title": "Bitcoin, Ethereum and Dogecoin Plunge as Crypto Liquidations Top $1.1 Billion",
-    "link": "https://decrypt.co/347154/bitcoin-ethereum-dogecoin-plunge-crypto-liquidations-topping-1-1-billion",
-    "pubDate": "Mon, 03 Nov 2025 16:13:15 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Crypto liquidations are piling up as Bitcoin falls 4% and altcoins like Ethereum, XRP, and Dogecoin have been hit much harder."
   },
   {
     "title": "Polkadot Slumps as Bears Break Key Support at $2.87",
@@ -140,69 +161,6 @@
     "contentSnippet": "The downturn in prices rippled across derivatives markets, liquidating over $1 billion in leveraged trading positions across all digital assets Monday, CoinGlass data showed."
   },
   {
-    "title": "Crypto Giant Animoca Brands Eyes Nasdaq Debut via Reverse Merger",
-    "link": "https://decrypt.co/347151/crypto-giant-animoca-brands-eyes-nasdaq-debut-reverse-merger",
-    "pubDate": "Mon, 03 Nov 2025 15:55:37 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Investment firm and crypto game publisher Animoca Brands plans to go public via a reverse merger, the Hong Kong-based firm said Monday."
-  },
-  {
-    "title": "Strive Proposes High-Yield Preferred Stock to Expand Bitcoin Holdings",
-    "link": "https://www.coindesk.com/business/2025/11/03/strive-proposes-high-yield-preferred-stock-to-expand-bitcoin-holdings",
-    "pubDate": "Mon, 03 Nov 2025 15:43:31 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "The preferred shares, dubbed SATA, are set to carry an initial 12% annual dividend, payable monthly in cash."
-  },
-  {
-    "title": "Toncoin Falls as Nasdaq Flags Rule Violation in $273M Purchase by Major Holder",
-    "link": "https://www.coindesk.com/markets/2025/11/03/toncoin-falls-as-nasdaq-flags-rule-violation-in-usd273m-purchase-by-major-holder",
-    "pubDate": "Mon, 03 Nov 2025 15:34:14 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Nasdaq reprimanded TON Strategy, a major holder of TON, for failing to obtain shareholder approval before issuing stock to finance a $272.7 million purchase."
-  },
-  {
-    "title": " Tokenized Treasuries cross $8.6B as banks and exchanges push collateral use ",
-    "link": "https://cointelegraph.com/news/tokenized-treasuries-cross-8-6b-as-banks-and-exchanges-push-collateral-use?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 03 Nov 2025 15:30:20 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Tokenized Treasuries have climbed to a capitalization of $8.63 billion as traders and banks begin using them for repo market financing."
-  },
-  {
-    "title": "AI Payments Startup Kite Debuts Token With $263M Trading Volume in First Two Hours",
-    "link": "https://www.coindesk.com/business/2025/11/03/ai-payments-startup-kite-debuts-token-with-usd263m-trading-volume-in-first-two-hours",
-    "pubDate": "Mon, 03 Nov 2025 15:13:04 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "The blockchain firm’s native token debuted Monday with strong activity on Binance and Korean exchanges, following a $18 million Series A raise in September."
-  },
-  {
-    "title": " How the Trump family turned crypto into an $800M gold rush ",
-    "link": "https://cointelegraph.com/news/how-the-trump-family-turned-crypto-into-an-800m-gold-rush?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 03 Nov 2025 14:30:00 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "A clear guide to WLFI, the TRUMP memecoin and USD1, explaining how token sales, trading fees and treasury deals produced $802 million for Trump-linked ventures."
-  },
-  {
-    "title": " Nasdaq issues warning to TON Strategy over $272M Toncoin purchase ",
-    "link": "https://cointelegraph.com/news/nasdaq-ton-strategy-letter-reprimand-pipe-deal-rule-violations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 03 Nov 2025 14:18:23 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Nasdaq has reprimanded TON Strategy for its $272.7 million Toncoin purchase and PIPE deal, citing missed shareholder approval rules."
-  },
-  {
-    "title": " Crypto lobbying surges as industry gains political footing in Washington ",
-    "link": "https://cointelegraph.com/news/crypto-lobbying-surges-as-industry-gains-political-footing-in-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 03 Nov 2025 14:15:00 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Following a presidential pardon that sparked debate over influence and access, crypto companies and PACs are ramping up political spending as the sector matures into a Washington power player."
-  },
-  {
-    "title": "Trump Downplays Knowledge of Binance Chief After Pardon Linked to Family's Crypto Dealings",
-    "link": "https://decrypt.co/347140/trump-downplays-knowledge-binance-chief-pardon-familys-crypto",
-    "pubDate": "Mon, 03 Nov 2025 05:35:38 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "In a rare interview, Trump said he was told Changpeng Zhao was the victim of the Biden administration's “witch hunt” against crypto."
-  },
-  {
     "title": "欧州が仮想通貨・証券の統一監督機関設立を検討　米SECモデルに",
     "link": "https://coinpost.jp/?p=662984",
     "pubDate": "Mon, 03 Nov 2025 13:40:21 +0900",
@@ -215,13 +173,6 @@
     "pubDate": "Mon, 03 Nov 2025 13:36:21 +0900",
     "source": "CoinPost",
     "contentSnippet": "仮想通貨取引所FTXの債権者は破綻時の現金相当額で弁済されるため、債権者はビットコインなどの上昇分を受け取れないことになる。債権者代表は、実質回収率は9～46%と推算した。"
-  },
-  {
-    "title": "Crypto Prices Slip Ahead of US Jobs Data as Bessent Flags Rate Risks",
-    "link": "https://decrypt.co/347138/crypto-prices-slip-us-jobs-data-bessent-flags-rate-risks",
-    "pubDate": "Mon, 03 Nov 2025 03:50:36 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Crypto slipped in thin weekend trade as investors prepared for U.S. jobs data and weighed comments from Treasury Secretary Scott Bessent."
   },
   {
     "title": "仮想通貨Zcash、プライバシー取引機能をさらに強化へ　新ロードマップ公開",
@@ -257,26 +208,5 @@
     "pubDate": "Sun, 02 Nov 2025 12:00:27 +0900",
     "source": "CoinPost",
     "contentSnippet": "MetaMaskのインストール方法から送金手順、暗号資産（仮想通貨）取引所への送金や取引所からの出庫方法、セキュリティ対策までを初心者向けに詳しく解説。自己管理型ウォレットの基本知識を身に付けましょう。"
-  },
-  {
-    "title": "ビットコインは売られ過ぎ水準、来週の指標次第で利下げ期待強まるか｜bitbankアナリスト寄稿",
-    "link": "https://coinpost.jp/?p=662527",
-    "pubDate": "Sun, 02 Nov 2025 11:30:51 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "ビットコインは逆三尊形成中でギリギリの水準。来週のISM統計で景気減速が確認されれば12月利下げ期待が強まり、11.6万ドルのネックライン到達も。今後の展望を解説。"
-  },
-  {
-    "title": "週刊仮想通貨ニュース｜Bybitの日本人新規登録停止や日本初のステーブルコインJPYC始動に高い関心",
-    "link": "https://coinpost.jp/?p=662727",
-    "pubDate": "Sun, 02 Nov 2025 11:00:08 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "今週は、日本初のステーブルコインJPYC始動、SBIインシュアランスグループによる株主優待へのXRP導入、仮想通貨取引所Bybitによる日本人の新規登録停止に関する記事が関心を集めた。"
-  },
-  {
-    "title": "米国アルトコインETFの審査状況一覧　ソラナやXRP・ドージなど",
-    "link": "https://coinpost.jp/?p=601804",
-    "pubDate": "Sun, 02 Nov 2025 07:30:39 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "ビットコインやイーサリアムに続き、ソラナやリップルなど多数のアルトコインETF申請が進行中。2025年の米国規制環境で加速するETF審査状況を整理しました"
   }
 ]
