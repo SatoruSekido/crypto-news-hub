@@ -1,10 +1,73 @@
 [
   {
-    "title": "ビットコイン10万ドル割れ、MEXC不安とBalancerハッキングが相場を圧迫｜仮想NISHI",
-    "link": "https://coinpost.jp/?p=663544",
-    "pubDate": "Wed, 05 Nov 2025 09:30:21 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "仮想通貨ビットコインは一時10万ドルを下回り、円ベースでは24時間で約140万円下落した。MEXCやBalancerにおける信認性不安や米IT銘柄が失速したことが下落を後押しした。"
+    "title": "Bitcoin at Make or Break Level as China Suspends 24% Tariff on U.S. Goods",
+    "link": "https://www.coindesk.com/markets/2025/11/05/bitcoin-at-make-or-break-level-as-china-suspends-24-tariff-on-u-s-goods",
+    "pubDate": "Wed, 05 Nov 2025 05:59:00 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "U.S.-China trade tensions are easing, with China suspending additional tariffs on U.S. goods."
+  },
+  {
+    "title": "Biggest Loser of NYC Election Polymarket Contract is Down Almost $1M Betting Against Mamdani",
+    "link": "https://www.coindesk.com/markets/2025/11/05/biggest-loser-of-nyc-election-polymarket-contract-is-down-almost-usd1m-betting-against-mamdani",
+    "pubDate": "Wed, 05 Nov 2025 05:29:28 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "‘fuxfux007’ lost nearly $969,169 making a bold bet against New York City mayoral candidate Zohran Mandami."
+  },
+  {
+    "title": "Former Australian Rugby Star Arrested Over Alleged Crypto Theft",
+    "link": "https://decrypt.co/347357/former-australian-rugby-star-arrested-alleged-crypto-theft",
+    "pubDate": "Wed, 05 Nov 2025 05:26:37 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Police have raided the former NRL star’s home, seizing devices for forensic examination in connection to an alleged $91,000 crypto theft."
+  },
+  {
+    "title": "Crypto, Stocks Fall as Traders Pivot: How Low Can Bitcoin Go?",
+    "link": "https://decrypt.co/347358/crypto-stocks-fall-traders-pivot-how-low-can-bitcoin-go",
+    "pubDate": "Wed, 05 Nov 2025 04:28:44 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Analysts identify key Bitcoin support levels from $98,000 to $85,000 after a 21% market drop driven by dollar strength and tight liquidity."
+  },
+  {
+    "title": "Mamdani Wins NYC Mayor's Race: Here's What the Crypto Predictions Markets Foretold",
+    "link": "https://decrypt.co/347355/mamdani-wins-nyc-mayors-race-crypto-predictions-markets",
+    "pubDate": "Wed, 05 Nov 2025 03:57:04 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "With just over half the votes, Mamdani becomes NYC's next mayor after prediction markets and progressive groups rallied behind his campaign"
+  },
+  {
+    "title": "Animoca Brands' Public Market Ambition Aims at Providing Crypto Access to 'Billions' ",
+    "link": "https://www.coindesk.com/business/2025/11/05/animoca-s-public-market-ambition-aims-at-providing-crypto-access-to-billions",
+    "pubDate": "Wed, 05 Nov 2025 03:36:14 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "\"Most of the world still doesn't have crypto,\" said Animoca Brands' co-founder, adding that his company is planning to help change that through its public listing."
+  },
+  {
+    "title": "Gemini Moves Toward Prediction Markets in Bid to Broaden Its Business: Report",
+    "link": "https://decrypt.co/347353/gemini-prediction-markets-broaden-business",
+    "pubDate": "Wed, 05 Nov 2025 03:33:20 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The firm’s filing seeks approval to operate “Gemini Titan,” a designated contract market offering federally regulated event contracts."
+  },
+  {
+    "title": "Dogecoin Falls 5% as Lower-Lows Pattern Aids Bearish Outlook",
+    "link": "https://www.coindesk.com/markets/2025/11/05/dogecoin-falls-5-as-lower-lows-pattern-aids-bearish-outlook",
+    "pubDate": "Wed, 05 Nov 2025 03:29:09 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": ""
+  },
+  {
+    "title": "XRP Slides 6% as Bearish Bitcoin Sentiment Weighs Down Ripple-Linked Token",
+    "link": "https://www.coindesk.com/markets/2025/11/05/xrp-slides-6-as-bearish-bitcoin-sentiment-weighs-down-ripple-linked-token",
+    "pubDate": "Wed, 05 Nov 2025 03:17:16 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Traders are monitoring the $2.08 support level to prevent further declines toward $2.00."
+  },
+  {
+    "title": "Bitcoin Bounces Near $100K, ETH, SOL, XRP Drop 6-10% as Bulls See $1.6B Liquidations",
+    "link": "https://www.coindesk.com/markets/2025/11/05/bitcoin-bounces-near-usd100k-eth-sol-xrp-drop-6-10-as-bulls-see-usd1-6b-liquidations",
+    "pubDate": "Wed, 05 Nov 2025 02:42:27 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Traders can also keep track of where liquidation levels are concentrated, helping identify zones of forced activity that can act as near-term support or resistance."
   },
   {
     "title": "Inside the Deposition That Showed How OpenAI Nearly Destroyed Itself",
@@ -12,20 +75,6 @@
     "pubDate": "Tue, 04 Nov 2025 23:55:47 +0000",
     "source": "Decrypt",
     "contentSnippet": "A 10-hour sworn testimony from OpenAI co-founder Ilya Sutskever paints a picture of panic, unverified allegations, and governance failures."
-  },
-  {
-    "title": "米財務省、北朝鮮サイバー犯罪と仮想通貨洗浄で8人と2団体を制裁指定",
-    "link": "https://coinpost.jp/?p=663543",
-    "pubDate": "Wed, 05 Nov 2025 08:45:25 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "米財務省が北朝鮮によるサイバー犯罪とIT労働者詐欺から得た資金の洗浄に関与した8人と2団体を制裁指定した。過去3年間で北朝鮮関連サイバー犯罪者は主に仮想通貨で30億ドル以上を盗んでいる。"
-  },
-  {
-    "title": "ビットコイン価格、10万ドル維持できなければ72000ドルまで下落の可能性＝クリプトクアント分析",
-    "link": "https://coinpost.jp/?p=663540",
-    "pubDate": "Wed, 05 Nov 2025 08:02:48 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "クリプトクアントの責任者はビットコインが10万ドルの水準を維持できなければ今後1~2カ月で72000ドルまで下落する可能性があると警告。10月の清算イベント後、現物需要が縮小していると分析している。"
   },
   {
     "title": "US Treasury Sanctions Web of North Korean Bankers Tied to Global Crypto Crime Operation",
@@ -63,46 +112,11 @@
     "contentSnippet": "The French NYSE-listed firm started buying the largest cryptocurrency by market cap in July."
   },
   {
-    "title": "トム・リー率いるビットマイン、1週間で400億円相当のイーサリアムを買い増し",
-    "link": "https://coinpost.jp/?p=663528",
-    "pubDate": "Wed, 05 Nov 2025 07:15:33 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "トム・リー氏が率いるビットマインは、過去1週間で400億円相当の仮想通貨イーサリアムを買い増ししたことを発表。現金についても1週間で約598億円に増加したと説明した。"
-  },
-  {
-    "title": "ソラナ保有企業フォワード・インダストリーズ、10億ドルの自社株買いプログラム承認",
-    "link": "https://coinpost.jp/?p=663526",
-    "pubDate": "Wed, 05 Nov 2025 06:45:08 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "仮想通貨ソラナを財務資産とするフォワード・インダストリーズが10億ドル規模の自社株買いプログラムを承認した。2027年9月まで有効で、同社のSOL戦略への確信を示すものとしている。"
-  },
-  {
-    "title": "米上場セカンス、保有ビットコインから970BTC売却で債務削減　",
-    "link": "https://coinpost.jp/?p=663517",
-    "pubDate": "Wed, 05 Nov 2025 05:55:36 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "株価大幅安米ナスダック上場のIoT半導体メーカーのセカンス・コミュニケーションズは4日、保有ビットコインから970BTCを売却し転換社債の50%を償還したと発表した。7月7日に発行した転換社債の削減を目的とした戦略的資産再配分と位置づけてい..."
-  },
-  {
-    "title": "ビットコインが10万ドル割れ、2500億円以上のロスカット発生　6カ月ぶりの安値",
-    "link": "https://coinpost.jp/?p=663512",
-    "pubDate": "Wed, 05 Nov 2025 05:35:54 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "ビットコインが11月5日に6カ月ぶりに10万ドルを下回り、一時99,954ドルまで下落した。過去24時間で16億ドル超相当のポジションが清算され、イーサリアムも年初来上昇分を帳消しにした。"
-  },
-  {
     "title": "Sam Bankman-Fried Wants Another Trial, But His Lawyer Faces Skepticism",
     "link": "https://decrypt.co/347324/sam-bankman-fried-wants-another-trial-lawyer-skepticism",
     "pubDate": "Tue, 04 Nov 2025 20:29:29 +0000",
     "source": "Decrypt",
     "contentSnippet": "An appeals court did not appear to embrace arguments made by Sam Bankman-Fried's lawyer as to why his 25-year sentence should be overturned."
-  },
-  {
-    "title": "Zcash Surging on 'Cypherpunk Principles' as Bitcoin Alternative: Galaxy Digital",
-    "link": "https://decrypt.co/347322/zcash-surging-cypherpunk-principles-bitcoin-galaxy-digital",
-    "pubDate": "Tue, 04 Nov 2025 20:29:14 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Bitcoin’s creator was aware of its privacy limitations."
   },
   {
     "title": "Ripple's Stablecoin Hits $1B Milestone; Company President Discusses M&A Strategy to Fuel Growth",
@@ -112,13 +126,6 @@
     "contentSnippet": "The U.S. dollar stablecoin of the blockchain firm climbs the ranks faster than most, tapping into its global payments network to accelerate adoption."
   },
   {
-    "title": "Bitcoin Miner MARA Revenue Hit Record High in Q3",
-    "link": "https://decrypt.co/347314/bitcoin-miner-mara-revenue-record-high-q3",
-    "pubDate": "Tue, 04 Nov 2025 20:13:43 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The company’s CEO Fred Thiel said on an earnings call that it would be looking to expand its services in AI computing."
-  },
-  {
     "title": "XRP Ledger’s Dual Utility Could Make It a Breakout ETF Play, Experts Argue",
     "link": "https://www.coindesk.com/markets/2025/11/04/xrp-ledger-s-dual-utility-could-make-it-a-breakout-etf-play-experts-discuss",
     "pubDate": "Tue, 04 Nov 2025 20:11:00 +0000",
@@ -126,87 +133,10 @@
     "contentSnippet": "Ripple’s unified system for payments and wealth storage may give XRP an edge with institutions eyeing real-world utility beyond speculation, said Bitnomial CEO Luke Hoersten."
   },
   {
-    "title": "Esports Giant Ninjas in Pyjamas Expands Bitcoin Operation, Aims to Mine $16M in BTC Monthly",
-    "link": "https://decrypt.co/347309/esports-giant-ninjas-pyjamas-expands-bitcoin-operation",
-    "pubDate": "Tue, 04 Nov 2025 19:45:49 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Ninjas in Pyjamas parent company NIP Group hopes to produce $16 million worth of Bitcoin each month by expanding its mining operation."
-  },
-  {
     "title": "Bitcoin Plunges Below $100K for First Time Since June as Crypto Correction Worsens",
     "link": "https://www.coindesk.com/markets/2025/11/04/bitcoin-plunges-below-usd100k-for-first-time-since-june-as-crypto-correction-worsens",
     "pubDate": "Tue, 04 Nov 2025 19:07:33 +0000",
     "source": "CoinDesk",
     "contentSnippet": "The largest crypto has now tumbled more than 20% since hitting a record high above $126,000 only one month ago."
-  },
-  {
-    "title": "Appeals Court Seems Unmoved by Sam Bankman-Fried’s Claims of an Unfair Trial",
-    "link": "https://www.coindesk.com/policy/2025/11/04/appeals-court-seems-unmoved-by-sam-bankman-fried-s-claims-of-an-unfair-trial",
-    "pubDate": "Tue, 04 Nov 2025 19:06:28 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "The former FTX CEO, who is currently serving a 25-year sentence for fraud, has repeatedly claimed that the crypto exchange was solvent at the time of its bankruptcy."
-  },
-  {
-    "title": "Coinbase Faces Flak from Traditional Bankers on Its Push for Trust Bank Charter",
-    "link": "https://www.coindesk.com/policy/2025/11/04/coinbase-faces-flak-from-traditional-bankers-on-its-push-for-trust-bank-charter",
-    "pubDate": "Tue, 04 Nov 2025 19:02:59 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "One of the biggest advocacy groups for banking in the U.S. has asked the Office of the Comptroller of the Currency to dismiss Coinbase's licensing effort."
-  },
-  {
-    "title": "Bitcoin Crashes Under $100K for First Time Since May, Liquidations Hit $1.3 Billion",
-    "link": "https://decrypt.co/347305/bitcoin-crashes-under-100k-first-time-since-may-liquidations-hit-1-3-billion",
-    "pubDate": "Tue, 04 Nov 2025 18:57:33 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Bitcoin just dropped below the $100,000 mark for the first time since May, with Ethereum, XRP, and other hit harder. Is the bull run over?"
-  },
-  {
-    "title": "ZKsync Proposal Aims to Tie $ZK Token to Network Revenue",
-    "link": "https://www.coindesk.com/business/2025/11/04/zksync-proposal-aims-to-tie-usdzk-token-to-network-revenue",
-    "pubDate": "Tue, 04 Nov 2025 18:43:36 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "The creator behind the layer-2 has unveiled a proposal to transform its $ZK token from a governance instrument into a token with real economic utility."
-  },
-  {
-    "title": "Chainlink's LINK Tumbles 6% as Technical Breakdown Trumps UBS, FTSE Partnership",
-    "link": "https://www.coindesk.com/markets/2025/11/04/chainlink-s-link-tumbles-6-as-technical-breakdown-trumps-ubs-ftse-partnership",
-    "pubDate": "Tue, 04 Nov 2025 18:38:28 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "LINK risks falling to $14 as breakdown amid heavy volume confirmed the broader bearish structure."
-  },
-  {
-    "title": "DOGE Prints Lower-Low Sequence as $0.17 Resistance Locks In",
-    "link": "https://www.coindesk.com/markets/2025/11/05/doge-prints-lower-low-sequence-as-usd0-17-resistance-locks-in",
-    "pubDate": "Tue, 04 Nov 2025 17:53:48 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Trading volume surged 76% above the weekly average, indicating significant distribution rather than retail activity."
-  },
-  {
-    "title": "XRP Slips to $2.25; Death-Cross Risk Builds After Whale Selling",
-    "link": "https://www.coindesk.com/markets/2025/11/05/xrp-slips-to-usd2-25-death-cross-risk-builds-after-whale-selling",
-    "pubDate": "Tue, 04 Nov 2025 17:47:21 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "The move—paired with a 15% open-interest drop—keeps pressure on bulls ahead of a looming death-cross setup and a key $2.20 support retest."
-  },
-  {
-    "title": "リミックスポイント、ビットコイン追加取得　行使済み新株予約権の残存分は消却",
-    "link": "https://coinpost.jp/?p=663338",
-    "pubDate": "Tue, 04 Nov 2025 18:06:00 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "リミックスポイントは10月31日に約5億円分のビットコインを追加取得。累計1,411BTC・214億円規模に達し、第25回新株予約権を全て消却、希薄化型ファイナンスを終了した。"
-  },
-  {
-    "title": "エアドロップやCZ支持で注目集めるDEX「Aster」とは　特徴や使い方を解説",
-    "link": "https://coinpost.jp/?p=661641",
-    "pubDate": "Tue, 04 Nov 2025 17:02:11 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "エアドロップやバイナンス創業者CZ氏からの支持などで注目集めるAsterについて、DEXの特徴や使い方を解説。注目される理由、エアドロップの参加方法やリスクまで詳しく紹介します。"
-  },
-  {
-    "title": "OKJ、国内初の「MEME」取扱いを発表　",
-    "link": "https://coinpost.jp/?p=663251",
-    "pubDate": "Tue, 04 Nov 2025 17:00:26 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "OKJがWeb3スタジオMemeland発の暗号資産（仮想通貨）「MEME」を国内で初めて上場。11月11日17時より取引開始し、販売所・積立など4サービスに対応。"
   }
 ]
