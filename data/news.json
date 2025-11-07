@@ -1,5 +1,110 @@
 [
   {
+    "title": "Can Bitcoin End Q4 on a Positive Note? Here's What the Experts Think",
+    "link": "https://decrypt.co/347778/bitcoin-end-q4-positive-note-experts-think",
+    "pubDate": "Fri, 07 Nov 2025 05:54:26 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Bitcoin’s sideways drift has deepened concerns about year-end performance as macro risks weigh on sentiment and liquidity."
+  },
+  {
+    "title": "Ether Falls to $3,331 as Support Snaps Amid $1.37B Whale Accumulation",
+    "link": "https://www.coindesk.com/markets/2025/11/07/ether-falls-to-usd3-331-as-support-snaps-amid-usd1-37b-whale-accumulation",
+    "pubDate": "Fri, 07 Nov 2025 05:42:25 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "A sharp 3.3% decline pushed ether below a key support level, but institutional whales bought the dip, signaling long-term confidence despite technical breakdowns."
+  },
+  {
+    "title": "著名投資家ダリオ、FRBの量的緩和再開はバブル加速への引き金　更なるインフレリスクを警告",
+    "link": "https://coinpost.jp/?p=664268",
+    "pubDate": "Fri, 07 Nov 2025 14:05:41 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "ブリッジウォーター創設者レイ・ダリオ氏が、FRBの量的緩和再開は従来と異なり「バブルへの刺激」になると警告している。現在の状況下でのQE拡大は、実質金利の低下や株価収益率の上昇につながり、テック/AI/グロース株や、金などの価格を押し上げる可能性がある。"
+  },
+  {
+    "title": "Dogecoin ETF Could Go Live in U.S. Soon, But DOGE Technicals Draw Bearish Picture For Now",
+    "link": "https://www.coindesk.com/markets/2025/11/07/dogecoin-etf-could-go-live-in-u-s-soon-but-doge-technicals-draw-bearish-picture-for-now",
+    "pubDate": "Fri, 07 Nov 2025 04:45:23 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Technical indicators suggest bearish control, with traders watching key support levels and potential ETF-driven volatility."
+  },
+  {
+    "title": "Microsoft Apologizes to Australian 365 Users on AI Pricing, Offers Refund",
+    "link": "https://decrypt.co/347776/microsoft-apologize-australian-365-users-ai-pricing-offers-refund",
+    "pubDate": "Fri, 07 Nov 2025 04:44:49 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The apology arrives 10 days after Australia's competition watchdog sued the tech giant for allegedly concealing cheaper alternatives."
+  },
+  {
+    "title": "XRP Breakdown Sends Ripple-Linked Token Toward $2.20 Defense Zone",
+    "link": "https://www.coindesk.com/markets/2025/11/07/xrp-breakdown-sends-ripple-linked-token-toward-usd2-20-defense-zone",
+    "pubDate": "Fri, 07 Nov 2025 04:36:19 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "The breakdown unfolded alongside a surge in trading volume that reached 137.4 million, representing an 84% spike above the daily average."
+  },
+  {
+    "title": "ビットワイズ、ドージコインETFの20日以内上場を目指す動き＝ETF専門家",
+    "link": "https://coinpost.jp/?p=664244",
+    "pubDate": "Fri, 07 Nov 2025 13:35:27 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "ビットワイズがドージコインETFで「8(a)手続き」を採用。ブルームバーグアナリストによると、11月6日の予備目論見書提出から20日後の11月26日頃に自動承認される可能性。SECの介入がなければ上場実現へ。"
+  },
+  {
+    "title": "サークルとコインベース、ステーブルコイン規制「ジーニアス法」施行で重要な提言",
+    "link": "https://coinpost.jp/?p=664242",
+    "pubDate": "Fri, 07 Nov 2025 13:10:26 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "サークル社とコインベースが米財務省にジーニアス法施行に関する提言を提出した。ステーブルコインの公平な競争条件の確保や利回りをめぐる過剰規制の回避などを求めている。"
+  },
+  {
+    "title": "日本3メガバンク共同でステーブルコイン発行へ、金融庁が「FinTech実証実験ハブ・決済高度化プロジェクト」を支援　",
+    "link": "https://coinpost.jp/?p=664260",
+    "pubDate": "Fri, 07 Nov 2025 13:01:45 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "金融庁が決済分野に特化したプロジェクトを新設し、みずほ・三菱UFJ・三井住友の3メガバンクによる共同ステーブルコイン発行を初の支援案件として承認した。信託型の枠組みで100万円の送金上限が撤廃され、円建てに加え米ドル建ても視野に。片山財務相も支援を表明し、国を挙げた金融イノベーション推進が本格始動する。"
+  },
+  {
+    "title": "仮想通貨市場の投資家心理は最低水準、10万ドル節目の攻防続く",
+    "link": "https://coinpost.jp/?p=664210",
+    "pubDate": "Fri, 07 Nov 2025 11:41:18 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "ビットコインが6月以来初めて10万ドルを割り込み、10月高値から20%超の急落。長期保有者による416億ドルの大量売却と、ETFからの9億ドル流出で市場は動揺している。個人投資家のセンチメントは過去最悪レベルに落ち込む一方、Bitwise幹部は機関投資家の投資意欲は旺盛で、年末の最高値更新もあり得ると指摘した。"
+  },
+  {
+    "title": "Seoul Considers Sanctions on North Korea Following US Crypto Crackdown",
+    "link": "https://decrypt.co/347758/seoul-sanctions-north-korea-us-crypto-crackdown",
+    "pubDate": "Fri, 07 Nov 2025 02:18:04 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Vice Foreign Minister Kim Ji-na says South Korea could adjust its sanctions posture if needed, citing threats from North Korean crypto theft."
+  },
+  {
+    "title": "テザー、新たな提携でトークン化証券市場を加速",
+    "link": "https://coinpost.jp/?p=664171",
+    "pubDate": "Fri, 07 Nov 2025 11:05:16 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "ステーブルコイン大手テザーが資産運用会社クレインシェアーズ、ビットフィネックス・セキュリティーズと戦略提携。トークン化証券市場は2030年に約1500兆円規模へ急拡大の見込み。"
+  },
+  {
+    "title": "BTC Market Now 'Extremely Bearish,' Says CryptoQuant: Asia Morning Briefing",
+    "link": "https://www.coindesk.com/markets/2025/11/07/btc-market-now-extremely-bearish-says-qcp-asia-morning-briefing",
+    "pubDate": "Fri, 07 Nov 2025 02:02:33 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "On-chain metrics shows BTC entering an “extremely bearish” phase, with potential downside to $91K or even $72K if key support fails, though Glassnode sees it as a mid-cycle correction rather than full"
+  },
+  {
+    "title": "仮想通貨時価総額トップ100の内の72銘柄、最高値から50%超下落＝ギャラクシー",
+    "link": "https://coinpost.jp/?p=664173",
+    "pubDate": "Fri, 07 Nov 2025 10:50:17 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "ギャラクシーのリサーチ部門は、時価総額トップ100の仮想通貨の内72銘柄の価格が過去最高値から50%以上下落していると報告。今後の相場の見通しに注目が集まっている。"
+  },
+  {
+    "title": "「ビットコイン市場は脆弱な均衡状態に」Glassnodeが鍵となる価格水準を分析",
+    "link": "https://coinpost.jp/?p=664165",
+    "pubDate": "Fri, 07 Nov 2025 10:25:46 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "Glassnodeが最新市場分析を発表。仮想通貨ビットコインは軽度の弱気相場にあると指摘した。ビットコインの持続的な回復あるいは下落に必要な水準を分析している。"
+  },
+  {
     "title": "Man Clones Best Friend: Tom Brady’s New Pup Is a Copy of the Original",
     "link": "https://decrypt.co/347749/man-clones-best-friend-tom-bradys-new-pup-copy-original",
     "pubDate": "Fri, 07 Nov 2025 01:05:38 +0000",
@@ -7,11 +112,25 @@
     "contentSnippet": "Colossal Bioscience has cloned former NFL star Tom Brady's dog, drawing the ire from some who are calling for a moratorium on pet cloning."
   },
   {
+    "title": "JPモルガンのダイモンCEOがステーブルコイン事業参入を表明、他行との共同構築も検討",
+    "link": "https://coinpost.jp/?p=664164",
+    "pubDate": "Fri, 07 Nov 2025 10:05:07 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "JPモルガン・チェースのジェイミー・ダイモンCEOがステーブルコインの将来は不透明としながらも事業参入を表明した。他の銀行との共同構築も検討している。"
+  },
+  {
     "title": "Microsoft Gave AI Agents Fake Money to Buy Things Online. They Spent It All on Scams",
     "link": "https://decrypt.co/347709/microsoft-ai-agents-fake-money-buy-online-they-spent-scams",
     "pubDate": "Fri, 07 Nov 2025 00:02:32 +0000",
     "source": "Decrypt",
     "contentSnippet": "Microsoft built a simulated economy with hundreds of AI agents acting as buyers and sellers, then watched them fail at basic tasks."
+  },
+  {
+    "title": "アイルランド中銀がコインベース欧州法人に約36億円の罰金、3000万件超の取引監視を怠ったと指摘",
+    "link": "https://coinpost.jp/?p=664161",
+    "pubDate": "Fri, 07 Nov 2025 08:35:18 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "アイルランド中央銀行がコインベース欧州法人にマネーロンダリング対策違反で約38億円の罰金を科した。取引監視システムの設定ミスで総額31兆円相当の取引が未監視だった。"
   },
   {
     "title": "Your AI Trading Bot Might Have a Gambling Problem",
@@ -63,27 +182,6 @@
     "contentSnippet": "The Layer-1 token dropped 2.5% amid a sharp rise in trading volume, with a potential rebound forming after a double-bottom."
   },
   {
-    "title": "Will Robinhood Start a Bitcoin Treasury? Firm Says It's Weighing 'Pros and Cons'",
-    "link": "https://decrypt.co/347668/will-robinhood-start-bitcoin-treasury-weighing-pros-cons",
-    "pubDate": "Thu, 06 Nov 2025 21:22:05 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The firm's SVP of Finance and Strategy Shiv Verma said that the company's management is \"constantly\" discussing the possibility of a Bitcoin treasury."
-  },
-  {
-    "title": "Myriad Moves: Traders Flip Bearish on Bitcoin, But Bullish on Zcash",
-    "link": "https://decrypt.co/347673/myriad-moves-traders-flip-bearish-bitcoin-bullish-zcash",
-    "pubDate": "Thu, 06 Nov 2025 21:11:58 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Top markets on Myriad this week include predictions on whether Bitcoin can hit a new all-time high this year, and if Zcash can stay hot."
-  },
-  {
-    "title": "Trump Cuts Prices on Ozempic and Wegovy in Deal With GLP-1 Weight Loss Drug Makers",
-    "link": "https://decrypt.co/347669/trump-cuts-prices-ozempic-wegovy-deal-glp1-weight-loss-drug-makers",
-    "pubDate": "Thu, 06 Nov 2025 21:00:30 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "President Trump's plan drops the price of Ozempic and Wegovy for Americans, with plans for Medicare to cover the popular GLP-1 weight loss drugs."
-  },
-  {
     "title": "ICP Jumps 34% to $7.02 in Explosive Breakout Above Key Resistance",
     "link": "https://www.coindesk.com/markets/2025/11/06/icp-jumps-34-to-usd7-02-in-explosive-breakout-above-key-resistance",
     "pubDate": "Thu, 06 Nov 2025 18:44:02 +0000",
@@ -110,33 +208,5 @@
     "pubDate": "Thu, 06 Nov 2025 17:22:58 +0000",
     "source": "CoinDesk",
     "contentSnippet": "Using risk capital metrics, the bank says BTC should match two-thirds of gold's private investment base, up from $102K now."
-  },
-  {
-    "title": "Samourai Wallet Developer Sentenced to 5 Years in Prison for Unlicensed Money Transmitting ",
-    "link": "https://www.coindesk.com/policy/2025/11/06/samourai-wallet-developer-sentenced-to-5-years-in-prison-for-unlicensed-money-transmitting",
-    "pubDate": "Thu, 06 Nov 2025 17:08:30 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "District Judge Denise Cote sentenced Keonne Rodriguez to the statutory maximum. Fellow developer William Lonergan Hill will be sentenced later this month."
-  },
-  {
-    "title": "Crypto Shares Slammed, BTC Heads Back to $100K Alongside Thursday Stock Market Sell-Off",
-    "link": "https://www.coindesk.com/markets/2025/11/06/crypto-shares-slammed-thursday-alongside-stock-market-selloff",
-    "pubDate": "Thu, 06 Nov 2025 17:04:41 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Continuing a steep slide begun in July, Michael Saylor's Strategy has now turned lower on a year-over-year basis."
-  },
-  {
-    "title": " UK Stablecoin Rules Will Be in Place 'as Quickly as the U.S.,' BOE Says: Bloomberg",
-    "link": "https://www.coindesk.com/policy/2025/11/06/uk-stablecoin-rules-will-be-in-place-as-quickly-as-the-u-s-boe-says-bloomberg",
-    "pubDate": "Thu, 06 Nov 2025 16:28:30 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "BOE Deputy Governor Sarah Breeden tied the need to impose caps on stablecoin holdings to the U.K.'s mortgage market, which relies on commercial bank lending."
-  },
-  {
-    "title": "BONK Slides 4% as Support Break Sparks Renewed Technical Weakness",
-    "link": "https://www.coindesk.com/markets/2025/11/06/bonk-slides-4-as-support-break-sparks-renewed-technical-weakness",
-    "pubDate": "Thu, 06 Nov 2025 16:19:27 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "BONK declines 4.06% to $0.00001174 as failed resistance test triggers downside momentum amid rising volume."
   }
 ]
