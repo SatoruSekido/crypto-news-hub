@@ -1,31 +1,136 @@
 [
   {
+    "title": "JPMorgan Boosts Bitcoin ETF Holdings by 64% in Latest Filing",
+    "link": "https://www.coindesk.com/markets/2025/11/07/jpmorgan-boosts-bitcoin-etf-holdings-by-64-in-latest-filing",
+    "pubDate": "Fri, 07 Nov 2025 18:06:16 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "The bank disclosed a $343 million stake in iShares Bitcoin Trust, signaling continued institutional demand for bitcoin exposure"
+  },
+  {
+    "title": "Polymarket’s Trading Volume May Be 25% Fake, Columbia Study Finds",
+    "link": "https://www.coindesk.com/markets/2025/11/07/polymarket-s-trading-volume-may-be-25-fake-columbia-study-finds",
+    "pubDate": "Fri, 07 Nov 2025 18:05:01 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Nearly 60% of weekly trades in December 2024 were flagged as likely wash trading, with coordinated networks of 43,000 wallets detected."
+  },
+  {
+    "title": "Buying Billions in Bitcoin Couldn't Save Trump Media From Another Quarterly Loss",
+    "link": "https://decrypt.co/347833/buying-billions-bitcoin-couldnt-save-trump-media-another-quarterly-loss",
+    "pubDate": "Fri, 07 Nov 2025 18:04:45 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Trump Media & Technology Group fell to its lowest stock price in over a year following a Q3 loss, despite the firm's big Bitcoin push."
+  },
+  {
+    "title": "Cathie Wood's Ark Invest Buys BitMine Ethereum Treasury Shares After Cutting Bitcoin Price Target",
+    "link": "https://decrypt.co/347828/cathie-wood-ark-invest-buys-bitmine-ethereum-treasury-shares-cutting-bitcoin-price-target",
+    "pubDate": "Fri, 07 Nov 2025 17:40:17 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Ark Invest bought the BitMine dip, adding over $9 million worth of shares in the Ethereum treasury company chaired by Tom Lee."
+  },
+  {
+    "title": "ICP Jumps 7.9% to $7.77 as Breakout Rally Extends on Heavy Volume",
+    "link": "https://www.coindesk.com/markets/2025/11/07/icp-jumps-7-9-to-usd7-77-as-breakout-rally-extends-on-heavy-volume",
+    "pubDate": "Fri, 07 Nov 2025 17:37:54 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Internet Computer advances 7.88% to $7.77 as trading volume soars 261% above average, signaling sustained bullish momentum and trend continuation."
+  },
+  {
+    "title": "Strategy Raises $715 Million in Europe to Buy More Bitcoin",
+    "link": "https://decrypt.co/347825/strategy-raises-715-million-europe-buy-bitcoin",
+    "pubDate": "Fri, 07 Nov 2025 16:42:55 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The company’s latest preferred share is denominated in Euros."
+  },
+  {
+    "title": "ZEC Goes Higher! Google x Polymarket integration announced! Virtuals Protocol interview with EverythingEmpty!",
+    "link": "https://decrypt.co/videos/interviews/QbxzHhFh/zec-goes-higher-google-x-polymarket-integration-announced-virtuals-protocol-interview-with-everythingempty",
+    "pubDate": "Fri, 07 Nov 2025 16:30:57 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Crypto markets turned red, with major tokens falling sharply — Bitcoin dropped 3% to $99,800, Ethereum slipped 4% to $3,210, Binance Coin declined 1% to $933, and Solana fell 3% to $152. Among top mov"
+  },
+  {
+    "title": "HBAR Edges Lower 2.3% to $0.164 Amid Bearish Outlook",
+    "link": "https://www.coindesk.com/markets/2025/11/07/hbar-edges-lower-2-3-to-usd0-164-amid-bearish-outlook",
+    "pubDate": "Fri, 07 Nov 2025 16:21:40 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Hedera's native token shows range-bound trading with late-session recovery attempt before hitting resistance at key technical levels."
+  },
+  {
+    "title": "XLM Consolidates After Volatile Session Tests Key Support",
+    "link": "https://www.coindesk.com/markets/2025/11/07/xlm-consolidates-after-volatile-session-tests-key-support",
+    "pubDate": "Fri, 07 Nov 2025 15:49:40 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Recent price action shows institutional accumulation signals as volume surges 78% above average during resistance test."
+  },
+  {
+    "title": "BNB Drops to Key Support Level Above $930 as Markets React to Liquidity Pressures",
+    "link": "https://www.coindesk.com/markets/2025/11/07/bnb-drops-to-key-support-level-above-usd930-as-markets-react-to-liquidity-pressures",
+    "pubDate": "Fri, 07 Nov 2025 15:42:56 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "BNB's ability to stay above its key $930 support may reflect confidence in the network's adoption, but a break above $975 could be needed to reopen the path toward recent highs."
+  },
+  {
+    "title": "Bitcoin Defi Gets Another Institutional Boost Through Anchorage Digital Custody ",
+    "link": "https://www.coindesk.com/tech/2025/11/07/bitcoin-defi-gets-another-institutional-boost-through-anchorage-digital-custody",
+    "pubDate": "Fri, 07 Nov 2025 15:04:22 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Anchorage Digital is opening institutional pathways into Bitcoin-native DeFi, providing a regulated gateway to BOB’s hybrid Bitcoin–Ethereum ecosystem."
+  },
+  {
+    "title": "CoinDesk 20 Performance Update: AAVE Falls 3.5% as Index Trades Lower",
+    "link": "https://www.coindesk.com/coindesk-indices/2025/11/07/coindesk-20-performance-update-aave-falls-3-5-as-index-trades-lower",
+    "pubDate": "Fri, 07 Nov 2025 14:19:30 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Solana (SOL) was also among the underperformers, declining 2.4% from Thursday."
+  },
+  {
+    "title": "Strategy Adds Europe to Capital Raising Efforts, Securing $715M in Newest Preferred Offering",
+    "link": "https://www.coindesk.com/markets/2025/11/07/strategy-adds-europe-to-capital-raising-efforts-securing-usd715m-in-newest-preferred-offering",
+    "pubDate": "Fri, 07 Nov 2025 14:12:45 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Dubbed \"stream,\" STRE is the company's latest preferred series as Michael Saylor and team begin raising funds overseas for more bitcoin purchases."
+  },
+  {
+    "title": "Bitcoin Dips Below $100K in 'Mid-Cycle Shakeout' Amid Bond Market Volatility",
+    "link": "https://decrypt.co/347791/bitcoin-dips-below-100k-in-mid-cycle-shakeout-amid-bond-market-volatility",
+    "pubDate": "Fri, 07 Nov 2025 14:09:50 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Bitcoin dropped below $100K for the second time this week Friday morning, but analysts see it as rotation rather than capitulation."
+  },
+  {
+    "title": "Japan Regulator to Support Country's 3 Largest Banks in Stablecoin Issuance",
+    "link": "https://www.coindesk.com/policy/2025/11/07/japan-regulator-to-support-country-s-3-largest-banks-in-stablecoin-issuance",
+    "pubDate": "Fri, 07 Nov 2025 13:53:58 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Japan's financial regulator, FSA, said the venture will see MUFG, SMBC and Mizuho  explore the joint issuance of a stablecoin as an electronic payment instrument."
+  },
+  {
+    "title": "Bitcoin ETFs Snap Six-Day Negative Streak as Dip Buyers Return",
+    "link": "https://decrypt.co/347818/bitcoin-etfs-snap-six-day-negative-streak-as-dip-buyers-return",
+    "pubDate": "Fri, 07 Nov 2025 13:43:27 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The cryptocurrency looks like a \"more attractive buying opportunity again\" after sellers get flushed out, an analyst told Decrypt."
+  },
+  {
+    "title": "Morning Minute: Fomo's $17M Raise and The Rise of the 'Everything Apps'",
+    "link": "https://decrypt.co/347810/morning-minute-fomos-17m-raise-and-the-rise-of-the-everything-apps",
+    "pubDate": "Fri, 07 Nov 2025 13:30:49 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Fomo's raise highlights an important new trend in trading apps. Master UX, and then expand."
+  },
+  {
+    "title": "Japan’s Largest Banks Get Greenlight for Stablecoin Trial, Plan March 2026 Launch",
+    "link": "https://decrypt.co/347792/japans-largest-banks-get-greenlight-for-stablecoin-trial-plan-march-2026-launch",
+    "pubDate": "Fri, 07 Nov 2025 12:55:29 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The banks expect their stablecoins to be in practical use by March 2026, Nikkei reported earlier this month."
+  },
+  {
     "title": "Tether Buys the Dip With $97M Bitcoin Purchase",
     "link": "https://decrypt.co/347793/tether-buys-the-dip-with-97m-bitcoin-purchase",
     "pubDate": "Fri, 07 Nov 2025 12:18:31 +0000",
     "source": "Decrypt",
     "contentSnippet": "Tether's Bitcoin buy amid a market pullback signals confidence, some experts suggest, while others indicate it could be portfolio rebalancing."
-  },
-  {
-    "title": "Risk Assets Lose Appeal: Crypto Daybook Americas",
-    "link": "https://www.coindesk.com/daybook-us/2025/11/07/risk-assets-lose-appeal-crypto-daybook-americas",
-    "pubDate": "Fri, 07 Nov 2025 12:15:00 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Your day-ahead look for Nov. 7, 2025"
-  },
-  {
-    "title": "Crypto Markets Today: Bitcoin Holds $100K as Altcoins Extend Losses, AI Tokens Defy Trend",
-    "link": "https://www.coindesk.com/markets/2025/11/07/crypto-markets-today-bitcoin-holds-usd100k-as-altcoins-extend-losses-ai-tokens-defy-trend",
-    "pubDate": "Fri, 07 Nov 2025 11:30:00 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Bitcoin’s slide to $100,600 caps another week of losses due to renewed Fed caution. Ether and most altcoins are struggling, though AI-linked tokens are seeing outsized gains."
-  },
-  {
-    "title": "U.S. Bitcoin ETF Flows Turn Positive After Six Days of Outflows",
-    "link": "https://www.coindesk.com/markets/2025/11/07/u-s-bitcoin-etf-flows-turn-positive-after-six-days-of-outflows",
-    "pubDate": "Fri, 07 Nov 2025 11:17:14 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "U.S. bitcoin ETFs record $240 million in inflows as market sentiment faces pressure from the ongoing government shutdown."
   },
   {
     "title": "Crypto Tracing Leads to Arrest in Global Child Abuse Network Takedown",
@@ -35,32 +140,11 @@
     "contentSnippet": "The dark web platforms had 350,000 registered users before blockchain analysis exposed the alleged administrator hiding in Brazil."
   },
   {
-    "title": "Bitcoin Minder IREN Posts Record First-Quarter Earnings, Looks to Growth in AI ",
-    "link": "https://www.coindesk.com/markets/2025/11/07/iren-shares-rise-in-pre-market-trading-on-earnings-report-ai-growth-outlook",
-    "pubDate": "Fri, 07 Nov 2025 10:00:23 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "The company is targeting $3.4 billion in AI Cloud ARR by end of 2026 with expansion to 140,000 GPUs and strengthened financing position."
-  },
-  {
-    "title": "Filecoin Soars 70% After Breaking Through $2 as DePIN Sector Rallies",
-    "link": "https://www.coindesk.com/markets/2025/11/07/filecoin-soars-70-after-breaking-through-usd2-as-depin-sector-rallies",
-    "pubDate": "Fri, 07 Nov 2025 09:59:32 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Technical breakout occurred on exceptional volume as decentralized storage tokens demonstrated sector leadership over mixed crypto markets."
-  },
-  {
     "title": "金融審議会・第5回会合、暗号資産レンディングの規制強化について議論　金商法適用案も",
     "link": "https://coinpost.jp/?p=664192",
     "pubDate": "Fri, 07 Nov 2025 18:34:59 +0900",
     "source": "CoinPost",
     "contentSnippet": "金融庁は7日の第5回金融審議会で、暗号資産レンディング事業を金商法の規制対象とする方針を示した。年利10%台のサービスで利用者がリスクを負う一方、事業者に管理義務がない点が問題視された。"
-  },
-  {
-    "title": "Robinhood’s Crypto Revenue Miss Tempers Solid Quarter: JPMorgan",
-    "link": "https://www.coindesk.com/markets/2025/11/07/robinhood-s-crypto-revenue-miss-tempers-solid-quarter-jpmorgan",
-    "pubDate": "Fri, 07 Nov 2025 09:22:29 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "The Wall Street bank lifted its HOOD price target to $130 and reiterated its neutral rating on the stock."
   },
   {
     "title": "米証券大手チャールズ・シュワブ、2026年に仮想通貨取引開始へ",
@@ -77,34 +161,6 @@
     "contentSnippet": "Polymarket（ポリマーケット）とは、未来の確率をUSDCで売買する分散型予測市場。米大統領選で注目を集め、Google Financeにも統合。仕組み、特徴、課題、今後の展望をわかりやすく解説。"
   },
   {
-    "title": "Bitcoin Weakness Sends a Warning to Stocks, but Liquidity May Soon Turn, Citi Says",
-    "link": "https://www.coindesk.com/markets/2025/11/07/bitcoin-weakness-sends-a-warning-to-stocks-but-liquidity-may-soon-turn-citi-says",
-    "pubDate": "Fri, 07 Nov 2025 08:42:54 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "The Wall Street bank said fading crypto momentum could be flagging trouble for equities, though improving liquidity may revive the year-end rally."
-  },
-  {
-    "title": "Market Maker Flowdesk Says Crypto Credit Is Finding a Fragile Balance",
-    "link": "https://www.coindesk.com/markets/2025/11/07/market-maker-flowdesk-says-crypto-credit-is-finding-a-fragile-balance",
-    "pubDate": "Fri, 07 Nov 2025 08:04:09 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "DeFi lenders are deleveraging but not retreating, with borrowing demand for majors like SOL and BTC staying firm and yields compressing across Maple and JitoSOL."
-  },
-  {
-    "title": "Elon Musk’s $1 Trillion Pay Vote Sparks ‘TRILLIONS’ Token Frenzy",
-    "link": "https://www.coindesk.com/markets/2025/11/07/elon-musk-s-usd1-trillion-pay-vote-sparks-trillions-token-frenzy",
-    "pubDate": "Fri, 07 Nov 2025 07:54:27 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Tesla’s shareholder approval — with over 75% support — follows months of debate over Musk’s expanding influence across Tesla, xAI, SpaceX, and X (formerly Twitter)."
-  },
-  {
-    "title": "Zcash Breaks Into Top-20 Crypto List, Hits $600 for First Time Since 2018",
-    "link": "https://www.coindesk.com/markets/2025/11/07/zcash-breaks-into-top-20-crypto-list-hits-usd600-for-first-time-since-2018",
-    "pubDate": "Fri, 07 Nov 2025 07:34:49 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Daily trading volume has jumped to over $1.8 billion, with liquidity deepening across major venues such as Binance, Hyperliquid, and Bybit."
-  },
-  {
     "title": "ロビンフッド幹部、ビットコイン財務戦略は「検討中」",
     "link": "https://coinpost.jp/?p=664324",
     "pubDate": "Fri, 07 Nov 2025 16:18:51 +0900",
@@ -112,32 +168,11 @@
     "contentSnippet": "米ロビンフッドがビットコイン財務戦略導入を検討。第3四半期の仮想通貨収益は300%超急増の約413億円を記録。上場企業のBTC保有トレンドが加速する可能性。"
   },
   {
-    "title": "Google Threat Report Links AI-powered Malware to DPRK Crypto Theft",
-    "link": "https://decrypt.co/347781/google-threat-report-links-ai-powered-malware-to-dprk-crypto-theft",
-    "pubDate": "Fri, 07 Nov 2025 07:16:03 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "New research from Google’s threat unit shows hackers are using LLMs to mutate malware and study how to steal from crypto wallets."
-  },
-  {
-    "title": "Can Bitcoin End Q4 on a Positive Note? Here's What the Experts Think",
-    "link": "https://decrypt.co/347778/bitcoin-end-q4-positive-note-experts-think",
-    "pubDate": "Fri, 07 Nov 2025 05:54:26 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Bitcoin’s sideways drift has deepened concerns about year-end performance as macro risks weigh on sentiment and liquidity."
-  },
-  {
     "title": "著名投資家ダリオ、FRBの量的緩和再開はバブル加速への引き金　更なるインフレリスクを警告",
     "link": "https://coinpost.jp/?p=664268",
     "pubDate": "Fri, 07 Nov 2025 14:05:41 +0900",
     "source": "CoinPost",
     "contentSnippet": "ブリッジウォーター創設者レイ・ダリオ氏が、FRBの量的緩和再開は従来と異なり「バブルへの刺激」になると警告している。現在の状況下でのQE拡大は、実質金利の低下や株価収益率の上昇につながり、テック/AI/グロース株や、金などの価格を押し上げる可能性がある。"
-  },
-  {
-    "title": "Microsoft Apologizes to Australian 365 Users on AI Pricing, Offers Refund",
-    "link": "https://decrypt.co/347776/microsoft-apologize-australian-365-users-ai-pricing-offers-refund",
-    "pubDate": "Fri, 07 Nov 2025 04:44:49 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The apology arrives 10 days after Australia's competition watchdog sued the tech giant for allegedly concealing cheaper alternatives."
   },
   {
     "title": "ビットワイズ、ドージコインETFの20日以内上場を目指す動き＝ETF専門家",
@@ -168,45 +203,10 @@
     "contentSnippet": "ビットコインが6月以来初めて10万ドルを割り込み、10月高値から20%超の急落。長期保有者による416億ドルの大量売却と、ETFからの9億ドル流出で市場は動揺している。個人投資家のセンチメントは過去最悪レベルに落ち込む一方、Bitwise幹部は機関投資家の投資意欲は旺盛で、年末の最高値更新もあり得ると指摘した。"
   },
   {
-    "title": "Seoul Considers Sanctions on North Korea Following US Crypto Crackdown",
-    "link": "https://decrypt.co/347758/seoul-sanctions-north-korea-us-crypto-crackdown",
-    "pubDate": "Fri, 07 Nov 2025 02:18:04 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Vice Foreign Minister Kim Ji-na says South Korea could adjust its sanctions posture if needed, citing threats from North Korean crypto theft."
-  },
-  {
     "title": "テザー、新たな提携でトークン化証券市場を加速",
     "link": "https://coinpost.jp/?p=664171",
     "pubDate": "Fri, 07 Nov 2025 11:05:16 +0900",
     "source": "CoinPost",
     "contentSnippet": "ステーブルコイン大手テザーが資産運用会社クレインシェアーズ、ビットフィネックス・セキュリティーズと戦略提携。トークン化証券市場は2030年に約1500兆円規模へ急拡大の見込み。"
-  },
-  {
-    "title": "Man Clones Best Friend: Tom Brady’s New Pup Is a Copy of the Original",
-    "link": "https://decrypt.co/347749/man-clones-best-friend-tom-bradys-new-pup-copy-original",
-    "pubDate": "Fri, 07 Nov 2025 01:05:38 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Colossal Bioscience has cloned former NFL star Tom Brady's dog, drawing the ire from some who are calling for a moratorium on pet cloning."
-  },
-  {
-    "title": "Microsoft Gave AI Agents Fake Money to Buy Things Online. They Spent It All on Scams",
-    "link": "https://decrypt.co/347709/microsoft-ai-agents-fake-money-buy-online-they-spent-scams",
-    "pubDate": "Fri, 07 Nov 2025 00:02:32 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Microsoft built a simulated economy with hundreds of AI agents acting as buyers and sellers, then watched them fail at basic tasks."
-  },
-  {
-    "title": "Your AI Trading Bot Might Have a Gambling Problem",
-    "link": "https://decrypt.co/347623/your-ai-trading-bot-gambling-problem",
-    "pubDate": "Thu, 06 Nov 2025 23:20:12 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "New research shows AI models can develop genuine gambling addiction, with some going broke 48% of the time—and the prompts traders use make it dramatically worse."
-  },
-  {
-    "title": "Spanish Council Aims to Sell Bitcoin After 1,000x Jump, Could Fuel Quantum Research",
-    "link": "https://decrypt.co/347692/spanish-council-aims-sell-bitcoin-1000x-jump-could-fuel-quantum-research",
-    "pubDate": "Thu, 06 Nov 2025 23:00:04 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Tenerife's Technological and Renewable Energy Institute bought 97 Bitcoin in 2012—and now wants to sell them after a 1,000x price increase."
   }
 ]
