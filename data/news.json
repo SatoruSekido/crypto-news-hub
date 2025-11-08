@@ -1,5 +1,47 @@
 [
   {
+    "title": "JPモルガンのビットコインETF保有量、3ヶ月間で64%増",
+    "link": "https://coinpost.jp/?p=664609",
+    "pubDate": "Sat, 08 Nov 2025 13:55:20 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "JPモルガンが第3四半期にブラックロックのビットコインETFを207万株追加し、保有総数は528万株となった。6月から64%増加。"
+  },
+  {
+    "title": "XRP Outperforms Bitcoin as ETF Filings Enter 20-Day Window, Setting up Breakout Trade to $2.80",
+    "link": "https://www.coindesk.com/markets/2025/11/08/xrp-outperforms-bitcoin-as-etf-filings-gain-steam-setting-up-breakout-trade-to-usd2-80",
+    "pubDate": "Sat, 08 Nov 2025 04:39:20 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "XRP's price action shows strong institutional interest, with significant volume increases and new wallet creations."
+  },
+  {
+    "title": "イーサリアムのバリデータ参加待ちが増加　将来性への信頼高まり示すか",
+    "link": "https://coinpost.jp/?p=664576",
+    "pubDate": "Sat, 08 Nov 2025 13:30:35 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "仮想通貨イーサリアムのバリデータ参加待ちが増加している。The Blockが長期視点の投資家増加が示唆されると指摘した。ステーブルコインのインフラとしての期待も高まっている。"
+  },
+  {
+    "title": "「ビットコインは重要なサポートレベル付近で推移」CryptoQuantレポート",
+    "link": "https://coinpost.jp/?p=664554",
+    "pubDate": "Sat, 08 Nov 2025 11:30:19 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "CryptoQuantが最新市場レポートで、仮想通貨ビットコインが10万ドル付近の重要サポートレベルで推移していると指摘した。複数の指標から現在の状況を分析している。"
+  },
+  {
+    "title": "ストラテジー、STRE優先株を1株80ユーロで価格設定　1100億円調達予定",
+    "link": "https://coinpost.jp/?p=664574",
+    "pubDate": "Sat, 08 Nov 2025 11:20:53 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "ストラテジーが10%利回りのSTRE優先株を1株80ユーロで発行し、7億1500万ドルを調達する予定。当初計画の2倍超となる775万株を発行し、資金はビットコイン取得に充てられる見込みだ。"
+  },
+  {
+    "title": "ビットコイン再び10万ドル割れ、USDXデペッグがDeFiに波及し信用不安広がる｜仮想NISHI",
+    "link": "https://coinpost.jp/?p=664561",
+    "pubDate": "Sat, 08 Nov 2025 10:12:55 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "仮想通貨ビットコインは5日以来、再び一時10万ドルを割り込んだ。ステーブルコイン「USDX」の担保不足によるデペッグ（乖離）が複数のDeFiプロトコルに波及し、市場全体に信用不安を広げた。"
+  },
+  {
     "title": "トランプメディア、第3四半期に84億円の赤字、保有ビットコインの価値は73億円減",
     "link": "https://coinpost.jp/?p=664562",
     "pubDate": "Sat, 08 Nov 2025 09:50:48 +0900",
@@ -49,32 +91,11 @@
     "contentSnippet": "The Federal Reserve governor argued that stablecoins' increasing demand for dollar-tied assets such as Treasuries will force monetary policy decisions."
   },
   {
-    "title": "コインベース、Asterなど上場検討",
-    "link": "https://coinpost.jp/?p=664522",
-    "pubDate": "Sat, 08 Nov 2025 06:20:57 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "米大手仮想通貨取引所コインベースが複数の銘柄を同社の上場ロードマップに新たに追加した。"
-  },
-  {
-    "title": "ジーキャッシュ連日高騰、時価総額100億ドル突破　1カ月で約4倍上昇",
-    "link": "https://coinpost.jp/?p=664514",
-    "pubDate": "Sat, 08 Nov 2025 05:55:28 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "プライバシー仮想通貨Zcashが過去1カ月で3倍上昇し時価総額100億ドルを突破。アーサー・ヘイズ氏らの支持やグレースケール関連商品の人気拡大が上昇を後押ししている。"
-  },
-  {
     "title": "Privacy Coin Zcash Continues Historic Surge, Nearing 8-Year High Price",
     "link": "https://decrypt.co/347871/privacy-coin-zcash-continues-historic-surge-nearing-8-hear-high-price",
     "pubDate": "Fri, 07 Nov 2025 20:40:22 +0000",
     "source": "Decrypt",
     "contentSnippet": "Over $51 million worth of Zcash short positions were liquidated Friday due to the price surge, with the privacy coin up 74% this week alone."
-  },
-  {
-    "title": "リップルのロング社長、IPOの予定なしと再度表明",
-    "link": "https://coinpost.jp/?p=664512",
-    "pubDate": "Sat, 08 Nov 2025 05:35:29 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "リップル社のモニカ・ロング社長が株式公開の計画はないと再び明言した。同社は企業価値400億ドルで5億ドルの資金調達を完了し、十分な資本があると説明している。"
   },
   {
     "title": "OpenAI Sought Government Loan Guarantees Days Before Sam Altman's Denial",
@@ -187,26 +208,5 @@
     "pubDate": "Fri, 07 Nov 2025 15:42:56 +0000",
     "source": "CoinDesk",
     "contentSnippet": "BNB's ability to stay above its key $930 support may reflect confidence in the network's adoption, but a break above $975 could be needed to reopen the path toward recent highs."
-  },
-  {
-    "title": "Bitcoin Defi Gets Another Institutional Boost Through Anchorage Digital Custody ",
-    "link": "https://www.coindesk.com/tech/2025/11/07/bitcoin-defi-gets-another-institutional-boost-through-anchorage-digital-custody",
-    "pubDate": "Fri, 07 Nov 2025 15:04:22 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Anchorage Digital is opening institutional pathways into Bitcoin-native DeFi, providing a regulated gateway to BOB’s hybrid Bitcoin–Ethereum ecosystem."
-  },
-  {
-    "title": "金融審議会・第5回会合、暗号資産レンディングの規制強化について議論　金商法適用案も",
-    "link": "https://coinpost.jp/?p=664192",
-    "pubDate": "Fri, 07 Nov 2025 18:34:59 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "金融庁は7日の第5回金融審議会で、暗号資産レンディング事業を金商法の規制対象とする方針を示した。年利10%台のサービスで利用者がリスクを負う一方、事業者に管理義務がない点が問題視された。"
-  },
-  {
-    "title": "米証券大手チャールズ・シュワブ、2026年に仮想通貨取引開始へ",
-    "link": "https://coinpost.jp/?p=664291",
-    "pubDate": "Fri, 07 Nov 2025 18:16:53 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "米証券大手チャールズ・シュワブが2026年上半期にビットコインとイーサリアムの現物取引を開始。顧客資産約1800兆円を持つ同社の参入で仮想通貨市場の主流化が加速へ。"
   }
 ]
