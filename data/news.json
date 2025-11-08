@@ -1,10 +1,136 @@
 [
   {
-    "title": "JPMorgan Boosts Bitcoin ETF Holdings by 64% in Latest Filing",
+    "title": "トランプメディア、第3四半期に84億円の赤字、保有ビットコインの価値は73億円減",
+    "link": "https://coinpost.jp/?p=664562",
+    "pubDate": "Sat, 08 Nov 2025 09:50:48 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "トランプメディアが第3四半期に5480万ドルの純損失を計上し、3四半期連続の赤字となった。保有ビットコインの価値は4800万ドル減少したが、オプション収入で1530万ドルを獲得。"
+  },
+  {
+    "title": "カザフ、最大10億ドルの仮想通貨準備基金設立へ　2026年初頭立ち上げ予定",
+    "link": "https://coinpost.jp/?p=664552",
+    "pubDate": "Sat, 08 Nov 2025 09:35:51 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "カザフスタンが最大10億ドル規模の国家仮想通貨準備基金を2026年初頭までに設立する。押収資産と国営マイニング収益を原資としてETFや関連企業に投資する方針だ。"
+  },
+  {
+    "title": "XRP保有企業エバーノース、約120億円の含み損に　仮想通貨財務企業に圧力",
+    "link": "https://coinpost.jp/?p=664541",
+    "pubDate": "Sat, 08 Nov 2025 08:25:15 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "仮想通貨XRPを企業の財務資産として保有するエバーノースが約2週間半で7900万ドルの含み損を抱えている。メタプラネットなど他の仮想通貨保有企業も大幅な含み損に直面している。"
+  },
+  {
+    "title": "Trump Brothers' American Bitcoin Boosts BTC Holdings to $415 Million–Stock Seesaws",
+    "link": "https://decrypt.co/347879/trump-american-bitcoin-boosts-btc-holdings-415-million-stock",
+    "pubDate": "Fri, 07 Nov 2025 22:26:39 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The Nasdaq-listed BTC miner is now the 25th largest Bitcoin treasury."
+  },
+  {
+    "title": "片山金融相「3メガバンクのステーブルコイン共同発行を支援する」",
+    "link": "https://coinpost.jp/?p=664525",
+    "pubDate": "Sat, 08 Nov 2025 07:20:35 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "片山さつき金融相は、3メガバンクやプログマらが行うステーブルコイン発行の実証実験を金融庁がサポートすることが決定したと話した。決済高度化プロジェクトの設置にも言及している。"
+  },
+  {
+    "title": "米FRB理事がドルステーブルコイン市場の成長を評価、一方で合成型USDXは大幅デペグで0.6ドルに",
+    "link": "https://coinpost.jp/?p=664524",
+    "pubDate": "Sat, 08 Nov 2025 07:10:11 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "米FRBのミラン理事がドル連動型ステーブルコインを巨大な成長分野と評価した。一方で合成型ステーブルコインUSDXが大幅デペグを起こしバランサー攻撃の影響で連鎖的な危機が広がっている。"
+  },
+  {
+    "title": "U.S. Fed's Miran Says Policy Needs to Adjust to Stablecoin Boom That Could Reach $3T",
+    "link": "https://www.coindesk.com/policy/2025/11/07/u-s-fed-s-miran-says-policy-needs-to-adjust-to-stablecoin-boom-that-could-reach-usd3t",
+    "pubDate": "Fri, 07 Nov 2025 21:58:13 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "The Federal Reserve governor argued that stablecoins' increasing demand for dollar-tied assets such as Treasuries will force monetary policy decisions."
+  },
+  {
+    "title": "コインベース、Asterなど上場検討",
+    "link": "https://coinpost.jp/?p=664522",
+    "pubDate": "Sat, 08 Nov 2025 06:20:57 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "米大手仮想通貨取引所コインベースが複数の銘柄を同社の上場ロードマップに新たに追加した。"
+  },
+  {
+    "title": "ジーキャッシュ連日高騰、時価総額100億ドル突破　1カ月で約4倍上昇",
+    "link": "https://coinpost.jp/?p=664514",
+    "pubDate": "Sat, 08 Nov 2025 05:55:28 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "プライバシー仮想通貨Zcashが過去1カ月で3倍上昇し時価総額100億ドルを突破。アーサー・ヘイズ氏らの支持やグレースケール関連商品の人気拡大が上昇を後押ししている。"
+  },
+  {
+    "title": "Privacy Coin Zcash Continues Historic Surge, Nearing 8-Year High Price",
+    "link": "https://decrypt.co/347871/privacy-coin-zcash-continues-historic-surge-nearing-8-hear-high-price",
+    "pubDate": "Fri, 07 Nov 2025 20:40:22 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Over $51 million worth of Zcash short positions were liquidated Friday due to the price surge, with the privacy coin up 74% this week alone."
+  },
+  {
+    "title": "リップルのロング社長、IPOの予定なしと再度表明",
+    "link": "https://coinpost.jp/?p=664512",
+    "pubDate": "Sat, 08 Nov 2025 05:35:29 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "リップル社のモニカ・ロング社長が株式公開の計画はないと再び明言した。同社は企業価値400億ドルで5億ドルの資金調達を完了し、十分な資本があると説明している。"
+  },
+  {
+    "title": "OpenAI Sought Government Loan Guarantees Days Before Sam Altman's Denial",
+    "link": "https://decrypt.co/347866/openai-sought-government-loan-guarantees-sam-altman-denial",
+    "pubDate": "Fri, 07 Nov 2025 20:24:33 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "OpenAI's letter to the White House requested federal loan guarantees for AI infrastructure, contradicting CEO Sam Altman's claim that the company doesn't want government support."
+  },
+  {
+    "title": "Crypto Markets Manage Modest Move Higher Friday, Trimming Weekly Losses",
+    "link": "https://www.coindesk.com/markets/2025/11/07/crypto-markets-manage-modest-move-higher-friday-trimming-weekly-losses",
+    "pubDate": "Fri, 07 Nov 2025 20:18:46 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Fully satiated shorts were likely booking some profits, but there was a bit of bullish news on the tape as well."
+  },
+  {
+    "title": "A Quarter of Polymarket Volume May Be Wash Trading, Columbia Study Finds",
+    "link": "https://decrypt.co/347842/columbia-study-25-polymarket-volume-wash-trading",
+    "pubDate": "Fri, 07 Nov 2025 19:59:18 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Researchers say a quarter of trades on the prediction platform show signs of artificial activity."
+  },
+  {
+    "title": "'Final Fantasy' Maker Square Enix Confirms Layoffs as AI Takes Over Game Development",
+    "link": "https://decrypt.co/347824/final-fantasy-maker-square-enix-layoffs-ai-game-development",
+    "pubDate": "Fri, 07 Nov 2025 19:17:32 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Square Enix says it plans to have generative AI handle 70% of QA and debugging work, slashing more jobs as it embraces automation."
+  },
+  {
+    "title": "Pope Leo Presses Tech Leaders to Build AI That Respects Human Dignity",
+    "link": "https://decrypt.co/347831/pope-leo-presses-tech-leaders-build-ai-respects-human-dignity",
+    "pubDate": "Fri, 07 Nov 2025 18:30:15 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Pope Leo urges AI builders to embed moral discernment as the tech reshapes human identity."
+  },
+  {
+    "title": "Another Day, Another DOGE: Bitwise Dogecoin ETF May Debut in November After SEC Filing",
+    "link": "https://decrypt.co/347830/doge-bitwise-dogecoin-etf-debut-november-sec-filing",
+    "pubDate": "Fri, 07 Nov 2025 18:29:42 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "DOGE was recently trading up more than 13%."
+  },
+  {
+    "title": "SUI Surges 7% to Break Key Resistance as Broader Market Slips",
+    "link": "https://www.coindesk.com/markets/2025/11/07/sui-surges-7-to-break-key-resistance-as-broader-market-slips",
+    "pubDate": "Fri, 07 Nov 2025 18:22:22 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Low trading volume suggests ‘targeted accumulation’ by whales or institutional players as SUI defies the CD5 index."
+  },
+  {
+    "title": "JPMorgan Clients Lifted Spot Bitcoin ETF Holdings in Q3",
     "link": "https://www.coindesk.com/markets/2025/11/07/jpmorgan-boosts-bitcoin-etf-holdings-by-64-in-latest-filing",
     "pubDate": "Fri, 07 Nov 2025 18:06:16 +0000",
     "source": "CoinDesk",
-    "contentSnippet": "The bank disclosed a $343 million stake in iShares Bitcoin Trust, signaling continued institutional demand for bitcoin exposure"
+    "contentSnippet": "The bank disclosed ownership of nearly 5.3 million shares of IBIT as of September 30, up 64% from the previous quarter."
   },
   {
     "title": "Polymarket’s Trading Volume May Be 25% Fake, Columbia Study Finds",
@@ -42,13 +168,6 @@
     "contentSnippet": "The company’s latest preferred share is denominated in Euros."
   },
   {
-    "title": "ZEC Goes Higher! Google x Polymarket integration announced! Virtuals Protocol interview with EverythingEmpty!",
-    "link": "https://decrypt.co/videos/interviews/QbxzHhFh/zec-goes-higher-google-x-polymarket-integration-announced-virtuals-protocol-interview-with-everythingempty",
-    "pubDate": "Fri, 07 Nov 2025 16:30:57 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Crypto markets turned red, with major tokens falling sharply — Bitcoin dropped 3% to $99,800, Ethereum slipped 4% to $3,210, Binance Coin declined 1% to $933, and Solana fell 3% to $152. Among top mov"
-  },
-  {
     "title": "HBAR Edges Lower 2.3% to $0.164 Amid Bearish Outlook",
     "link": "https://www.coindesk.com/markets/2025/11/07/hbar-edges-lower-2-3-to-usd0-164-amid-bearish-outlook",
     "pubDate": "Fri, 07 Nov 2025 16:21:40 +0000",
@@ -77,69 +196,6 @@
     "contentSnippet": "Anchorage Digital is opening institutional pathways into Bitcoin-native DeFi, providing a regulated gateway to BOB’s hybrid Bitcoin–Ethereum ecosystem."
   },
   {
-    "title": "CoinDesk 20 Performance Update: AAVE Falls 3.5% as Index Trades Lower",
-    "link": "https://www.coindesk.com/coindesk-indices/2025/11/07/coindesk-20-performance-update-aave-falls-3-5-as-index-trades-lower",
-    "pubDate": "Fri, 07 Nov 2025 14:19:30 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Solana (SOL) was also among the underperformers, declining 2.4% from Thursday."
-  },
-  {
-    "title": "Strategy Adds Europe to Capital Raising Efforts, Securing $715M in Newest Preferred Offering",
-    "link": "https://www.coindesk.com/markets/2025/11/07/strategy-adds-europe-to-capital-raising-efforts-securing-usd715m-in-newest-preferred-offering",
-    "pubDate": "Fri, 07 Nov 2025 14:12:45 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Dubbed \"stream,\" STRE is the company's latest preferred series as Michael Saylor and team begin raising funds overseas for more bitcoin purchases."
-  },
-  {
-    "title": "Bitcoin Dips Below $100K in 'Mid-Cycle Shakeout' Amid Bond Market Volatility",
-    "link": "https://decrypt.co/347791/bitcoin-dips-below-100k-in-mid-cycle-shakeout-amid-bond-market-volatility",
-    "pubDate": "Fri, 07 Nov 2025 14:09:50 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Bitcoin dropped below $100K for the second time this week Friday morning, but analysts see it as rotation rather than capitulation."
-  },
-  {
-    "title": "Japan Regulator to Support Country's 3 Largest Banks in Stablecoin Issuance",
-    "link": "https://www.coindesk.com/policy/2025/11/07/japan-regulator-to-support-country-s-3-largest-banks-in-stablecoin-issuance",
-    "pubDate": "Fri, 07 Nov 2025 13:53:58 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Japan's financial regulator, FSA, said the venture will see MUFG, SMBC and Mizuho  explore the joint issuance of a stablecoin as an electronic payment instrument."
-  },
-  {
-    "title": "Bitcoin ETFs Snap Six-Day Negative Streak as Dip Buyers Return",
-    "link": "https://decrypt.co/347818/bitcoin-etfs-snap-six-day-negative-streak-as-dip-buyers-return",
-    "pubDate": "Fri, 07 Nov 2025 13:43:27 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The cryptocurrency looks like a \"more attractive buying opportunity again\" after sellers get flushed out, an analyst told Decrypt."
-  },
-  {
-    "title": "Morning Minute: Fomo's $17M Raise and The Rise of the 'Everything Apps'",
-    "link": "https://decrypt.co/347810/morning-minute-fomos-17m-raise-and-the-rise-of-the-everything-apps",
-    "pubDate": "Fri, 07 Nov 2025 13:30:49 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Fomo's raise highlights an important new trend in trading apps. Master UX, and then expand."
-  },
-  {
-    "title": "Japan’s Largest Banks Get Greenlight for Stablecoin Trial, Plan March 2026 Launch",
-    "link": "https://decrypt.co/347792/japans-largest-banks-get-greenlight-for-stablecoin-trial-plan-march-2026-launch",
-    "pubDate": "Fri, 07 Nov 2025 12:55:29 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The banks expect their stablecoins to be in practical use by March 2026, Nikkei reported earlier this month."
-  },
-  {
-    "title": "Tether Buys the Dip With $97M Bitcoin Purchase",
-    "link": "https://decrypt.co/347793/tether-buys-the-dip-with-97m-bitcoin-purchase",
-    "pubDate": "Fri, 07 Nov 2025 12:18:31 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Tether's Bitcoin buy amid a market pullback signals confidence, some experts suggest, while others indicate it could be portfolio rebalancing."
-  },
-  {
-    "title": "Crypto Tracing Leads to Arrest in Global Child Abuse Network Takedown",
-    "link": "https://decrypt.co/347789/crypto-tracing-leads-to-arrest-in-global-child-abuse-network-takedown",
-    "pubDate": "Fri, 07 Nov 2025 11:08:12 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The dark web platforms had 350,000 registered users before blockchain analysis exposed the alleged administrator hiding in Brazil."
-  },
-  {
     "title": "金融審議会・第5回会合、暗号資産レンディングの規制強化について議論　金商法適用案も",
     "link": "https://coinpost.jp/?p=664192",
     "pubDate": "Fri, 07 Nov 2025 18:34:59 +0900",
@@ -152,61 +208,5 @@
     "pubDate": "Fri, 07 Nov 2025 18:16:53 +0900",
     "source": "CoinPost",
     "contentSnippet": "米証券大手チャールズ・シュワブが2026年上半期にビットコインとイーサリアムの現物取引を開始。顧客資産約1800兆円を持つ同社の参入で仮想通貨市場の主流化が加速へ。"
-  },
-  {
-    "title": "Polymarket（ポリマーケット）とは？仕組みや将来性をわかりやすく解説",
-    "link": "https://coinpost.jp/?p=548606",
-    "pubDate": "Fri, 07 Nov 2025 18:00:36 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "Polymarket（ポリマーケット）とは、未来の確率をUSDCで売買する分散型予測市場。米大統領選で注目を集め、Google Financeにも統合。仕組み、特徴、課題、今後の展望をわかりやすく解説。"
-  },
-  {
-    "title": "ロビンフッド幹部、ビットコイン財務戦略は「検討中」",
-    "link": "https://coinpost.jp/?p=664324",
-    "pubDate": "Fri, 07 Nov 2025 16:18:51 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "米ロビンフッドがビットコイン財務戦略導入を検討。第3四半期の仮想通貨収益は300%超急増の約413億円を記録。上場企業のBTC保有トレンドが加速する可能性。"
-  },
-  {
-    "title": "著名投資家ダリオ、FRBの量的緩和再開はバブル加速への引き金　更なるインフレリスクを警告",
-    "link": "https://coinpost.jp/?p=664268",
-    "pubDate": "Fri, 07 Nov 2025 14:05:41 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "ブリッジウォーター創設者レイ・ダリオ氏が、FRBの量的緩和再開は従来と異なり「バブルへの刺激」になると警告している。現在の状況下でのQE拡大は、実質金利の低下や株価収益率の上昇につながり、テック/AI/グロース株や、金などの価格を押し上げる可能性がある。"
-  },
-  {
-    "title": "ビットワイズ、ドージコインETFの20日以内上場を目指す動き＝ETF専門家",
-    "link": "https://coinpost.jp/?p=664244",
-    "pubDate": "Fri, 07 Nov 2025 13:35:27 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "ビットワイズがドージコインETFで「8(a)手続き」を採用。ブルームバーグアナリストによると、11月6日の予備目論見書提出から20日後の11月26日頃に自動承認される可能性。SECの介入がなければ上場実現へ。"
-  },
-  {
-    "title": "サークルとコインベース、ステーブルコイン規制「ジーニアス法」施行で重要な提言",
-    "link": "https://coinpost.jp/?p=664242",
-    "pubDate": "Fri, 07 Nov 2025 13:10:26 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "サークル社とコインベースが米財務省にジーニアス法施行に関する提言を提出した。ステーブルコインの公平な競争条件の確保や利回りをめぐる過剰規制の回避などを求めている。"
-  },
-  {
-    "title": "日本3メガバンク共同でステーブルコイン発行へ、金融庁が「FinTech実証実験ハブ・決済高度化プロジェクト」を支援　",
-    "link": "https://coinpost.jp/?p=664260",
-    "pubDate": "Fri, 07 Nov 2025 13:01:45 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "金融庁が決済分野に特化したプロジェクトを新設し、みずほ・三菱UFJ・三井住友の3メガバンクによる共同ステーブルコイン発行を初の支援案件として承認した。信託型の枠組みで100万円の送金上限が撤廃され、円建てに加え米ドル建ても視野に。片山財務相も支援を表明し、国を挙げた金融イノベーション推進が本格始動する。"
-  },
-  {
-    "title": "仮想通貨市場の投資家心理は最低水準、10万ドル節目の攻防続く",
-    "link": "https://coinpost.jp/?p=664210",
-    "pubDate": "Fri, 07 Nov 2025 11:41:18 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "ビットコインが6月以来初めて10万ドルを割り込み、10月高値から20%超の急落。長期保有者による416億ドルの大量売却と、ETFからの9億ドル流出で市場は動揺している。個人投資家のセンチメントは過去最悪レベルに落ち込む一方、Bitwise幹部は機関投資家の投資意欲は旺盛で、年末の最高値更新もあり得ると指摘した。"
-  },
-  {
-    "title": "テザー、新たな提携でトークン化証券市場を加速",
-    "link": "https://coinpost.jp/?p=664171",
-    "pubDate": "Fri, 07 Nov 2025 11:05:16 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "ステーブルコイン大手テザーが資産運用会社クレインシェアーズ、ビットフィネックス・セキュリティーズと戦略提携。トークン化証券市場は2030年に約1500兆円規模へ急拡大の見込み。"
   }
 ]
