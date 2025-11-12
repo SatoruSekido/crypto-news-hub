@@ -1,5 +1,82 @@
 [
   {
+    "title": "Bitcoin Miners Must Own Power—or Die Trying Before Next Halving, MARA CEO Says",
+    "link": "https://www.coindesk.com/markets/2025/11/11/bitcoin-miners-must-own-power-or-die-trying-before-next-halving-mara-ceo-says",
+    "pubDate": "Wed, 12 Nov 2025 00:00:51 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "With block rewards set to plunge, only miners with energy control or AI pivots are likely to survive, Thiel argues."
+  },
+  {
+    "title": "User Revolt Erupts on X as Character AI Quit Posts Go Viral",
+    "link": "https://decrypt.co/348249/user-revolt-erupts-character-ai-quit-posts-go-viral",
+    "pubDate": "Tue, 11 Nov 2025 23:30:41 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "User defections from Character.AI surged after a viral screenshot highlighted the app’s emotionally charged account-deletion prompt."
+  },
+  {
+    "title": "Pro-XRP Lawyer John Deaton Is Running for Senate in Massachusetts—Again",
+    "link": "https://decrypt.co/348240/pro-xrp-lawyer-john-deaton-running-senate-massachusetts-again",
+    "pubDate": "Tue, 11 Nov 2025 22:25:02 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Crypto-focused lawyer John Deaton is taking on Democrat Ed Markey after losing by 20 points to industry foil Elizabeth Warren last year."
+  },
+  {
+    "title": "Bitcoin User Pays Over $105,000 in BTC to Send Just $10",
+    "link": "https://decrypt.co/348233/bitcoin-user-pays-105000-btc-send-just-10",
+    "pubDate": "Tue, 11 Nov 2025 21:56:41 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "One expert called the event a \"non-standard way of crafting a transaction.\""
+  },
+  {
+    "title": "Ethereum Is ‘The Infrastructure’ for Wall Street, Says Former BlackRock Executive",
+    "link": "https://www.coindesk.com/business/2025/11/11/ethereum-is-the-infrastructure-for-wall-street-says-former-blackrock-executive",
+    "pubDate": "Tue, 11 Nov 2025 21:53:34 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Joseph Chalom is betting his next act on Ethereum, calling it the only chain institutions can trust to digitize finance."
+  },
+  {
+    "title": "Coinbase Abandons $2 Billion Acquisition of Stablecoin Firm BVNK: Fortune",
+    "link": "https://decrypt.co/348230/coinbase-abandons-2-billion-acquisition-stablecoin-firm-bvnk-fortune",
+    "pubDate": "Tue, 11 Nov 2025 20:28:38 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "American crypto exchange Coinbase has scrapped plans to acquire stablecoin firm BVNK, according to a report Tuesday."
+  },
+  {
+    "title": "MegaETH Revokes $1 Million Token Sale Allotment After Influencer Posts Trading Plans",
+    "link": "https://decrypt.co/348216/megaeth-revokes-tokens-hedging-influencer-loses-1m",
+    "pubDate": "Tue, 11 Nov 2025 20:08:09 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Crypto influencer IcoBeast had their $1 million MEGA token allocation revoked due to a social media post about hedging their bag."
+  },
+  {
+    "title": "Elon Musk and Novelist Joyce Carol Oates Clash in Viral X Spat Over Meaning and Money",
+    "link": "https://decrypt.co/348128/elon-musk-and-novelist-joyce-carol-oates-clash-in-viral-x-spat-over-meaning-and-money",
+    "pubDate": "Tue, 11 Nov 2025 19:29:10 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "A viral clash between novelist Joyce Carol Oates and Elon Musk over “soul” in the algorithmic age became a referendum on empathy, ego, and what it means to be human."
+  },
+  {
+    "title": "SoFi Rolls Out Crypto Trading With Bitcoin, Ethereum, Solana and More",
+    "link": "https://decrypt.co/348184/sofi-rolls-out-crypto-trading-bitcoin-ethereum-solana",
+    "pubDate": "Tue, 11 Nov 2025 18:47:32 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Financial services firm SoFi is rolling out access to crypto trading, allowing users to buy and sell Bitcoin, Ethereum, and other assets."
+  },
+  {
+    "title": "Monad v MegaETH, Shutdown Fakeout, UNI Switch!",
+    "link": "https://decrypt.co/videos/interviews/fO8NxjwW/monad-v-megaeth-shutdown-fakeout-uni-switch",
+    "pubDate": "Tue, 11 Nov 2025 18:34:24 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Crypto majors are trading in the red after an overnight dip, with Bitcoin (BTC) down 1% at $104,800, Ethereum (ETH) down 1% at $3,550, Binance Coin (BNB) down 2% at $978, and Solana (SOL) down 3% at $"
+  },
+  {
+    "title": "HBAR Declines 2.1% to $0.183 as Volume Spike Signals Technical Breakdown",
+    "link": "https://www.coindesk.com/markets/2025/11/11/hbar-declines-2-1-to-usd0-183-as-volume-spike-signals-technical-breakdown",
+    "pubDate": "Tue, 11 Nov 2025 18:33:03 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Price action retreats from resistance as institutional selling emerges at key levels."
+  },
+  {
     "title": "Bitcoin Miner CleanSpark Extends Stock Slump After Upsizing Notes Offering to $1.15 Billion",
     "link": "https://decrypt.co/348182/bitcoin-miner-cleanspark-stock-slump-upsizing-notes-offering-1-15-billion",
     "pubDate": "Tue, 11 Nov 2025 18:07:10 +0000",
@@ -35,13 +112,6 @@
     "contentSnippet": "ClearToken won authorization from the U.K.’s FCA to roll out CT Settle, a delivery-versus-payment settlement system for crypto, stablecoins and fiat currency."
   },
   {
-    "title": "Monad Share Tokenomics! US Treasury issue ETF Guidance! Coinbase announce ICO platform! ",
-    "link": "https://decrypt.co/videos/interviews/0IOiNFK6/monad-share-tokenomics-us-treasury-issue-etf-guidance-coinbase-announce-ico-platform",
-    "pubDate": "Tue, 11 Nov 2025 16:16:17 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Crypto majors are trading in the red after an overnight dip, with Bitcoin (BTC) down 1% at $104,800, Ethereum (ETH) down 1% at $3,550, Binance Coin (BNB) down 2% at $978, and Solana (SOL) down 3% at $"
-  },
-  {
     "title": "Lighter Raises $68M at $1.5B Valuation to Take on Decentralized Derivatives Rivals: Report",
     "link": "https://www.coindesk.com/business/2025/11/11/lighter-raises-usd68m-at-usd1-5b-valuation-to-take-on-decentralized-derivatives-rivals",
     "pubDate": "Tue, 11 Nov 2025 16:05:51 +0000",
@@ -54,20 +124,6 @@
     "pubDate": "Tue, 11 Nov 2025 15:53:06 +0000",
     "source": "CoinDesk",
     "contentSnippet": "The solar energy storage firm has tapped Stellar and Taurus to tokenize debt to finance hybrid solar projects, starting with a pilot in Spain."
-  },
-  {
-    "title": "Chinese Cybersecurity Watchdog Alleges US Stole $13.2B in Bitcoin Five Years Ago",
-    "link": "https://decrypt.co/348109/chinese-cybersecurity-watchdog-alleges-us-stole-13-2b-in-bitcoin-five-years-ago",
-    "pubDate": "Tue, 11 Nov 2025 15:45:03 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Beijing claims the U.S. seized Bitcoin from a 2020 mining-pool hack and rebranded it as proceeds from crime."
-  },
-  {
-    "title": "Fraudster Behind UK's Largest Bitcoin Seizure Gets 11-Year Jail Sentence",
-    "link": "https://decrypt.co/348087/fraudster-behind-uks-largest-bitcoin-seizure-gets-11-year-jail-sentence",
-    "pubDate": "Tue, 11 Nov 2025 15:16:24 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The case resulted in the UK's largest ever seizure of cryptocurrency, with 61,000 BTC, currently worth $6.3 billion, forfeited."
   },
   {
     "title": "BNB Slips Below $1,000 as Selling Pressure Pushes Token Into Bearish Territory",
@@ -84,129 +140,73 @@
     "contentSnippet": "The upgrade aims to make Injective a go-to platform by combining Ethereum compatibility with Injective’s existing high-speed infrastructure."
   },
   {
-    "title": "CoinDesk 20 Performance Update: Uniswap (UNI) Jumps 13.5% as Index Declines ",
-    "link": "https://www.coindesk.com/coindesk-indices/2025/11/11/coindesk-20-performance-update-uniswap-uni-jumps-13-5-as-index-declines",
-    "pubDate": "Tue, 11 Nov 2025 14:13:35 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Internet Computer (ICP) fell 5.8% and NEAR Protocol (NEAR) dropped 5.9%, leading the index lower."
-  },
-  {
-    "title": "Morning Minute: Coinbase Leans in to ICOs, Monad Up First",
-    "link": "https://decrypt.co/348100/morning-minute-coinbase-leans-in-to-icos-monad-up-first",
-    "pubDate": "Tue, 11 Nov 2025 14:08:47 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "ICO season is back—and Coinbase is kicking off with one of the biggest token launches of the year."
-  },
-  {
-    "title": "Brazil’s Central Bank Sets Crypto Rules, Establishes up to $7M Capital Bar for Firms",
-    "link": "https://www.coindesk.com/policy/2025/11/11/brazil-s-central-bank-sets-crypto-rules-establishes-up-to-usd7m-capital-bar-for-firms",
-    "pubDate": "Tue, 11 Nov 2025 13:34:08 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "The rules classify crypto activities as subject to foreign exchange and capital market rules, and require reporting of international transactions."
-  },
-  {
-    "title": "Bullish Upgraded to Buy by ClearStreet as Exchange Gains Market Share, Expands Into U.S.",
-    "link": "https://www.coindesk.com/markets/2025/11/11/bullish-upgraded-to-buy-by-clearstreet-as-exchange-gains-market-share-expands-into-u-s",
-    "pubDate": "Tue, 11 Nov 2025 13:28:56 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Analyst Owen Lau cites Bullish’s global growth, new options platform and improving sentiment despite a lower price target."
-  },
-  {
-    "title": "SoftBank Dumps Entire $5.8B Nvidia Stake to Double Down on OpenAI Bet",
-    "link": "https://decrypt.co/348089/softbank-dumps-entire-5-8b-nvidia-stake-to-double-down-on-openai-bet",
-    "pubDate": "Tue, 11 Nov 2025 12:35:09 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The Japanese giant is betting $40 billion on OpenAI's path to profitability as Wall Street questions whether AI spending will pay off."
-  },
-  {
-    "title": "メインネット3周年迎えたAptosのCEOが語る次世代ブロックチェーンの未来｜独占インタビュー",
-    "link": "https://coinpost.jp/?p=659994",
-    "pubDate": "Tue, 11 Nov 2025 19:00:54 +0900",
+    "title": "ステーブルコインの正式認可を背景に、通貨の新時代をテーマとした金融カンファレンス「MoneyX（マネーエックス）」開催決定",
+    "link": "https://coinpost.jp/?p=664343",
+    "pubDate": "Mon, 10 Nov 2025 18:00:33 +0900",
     "source": "CoinPost",
-    "contentSnippet": "Aptos Labs創業者Avery Ching氏独占インタビュー。3周年を迎え、世界最速85msのブロックタイムを誇る技術、グローバル・トレーディング・エンジン構想、Jio Platformsとの提携について詳しく聞く。"
+    "contentSnippet": "MoneyX 2026年2月27日開催、日本円建ステーブルコインの社会実装を議論する次世代金融カンファレンスが発表された。WebX実行委員会主催、JPYC・Progmat・SBI・CoinPost企画運営。参加無料、オフライン限定。"
   },
   {
-    "title": "スターテイル、スーパーアプリ公開　ソニーBSLのL2「Soneium」対応",
-    "link": "https://coinpost.jp/?p=665242",
-    "pubDate": "Tue, 11 Nov 2025 18:00:55 +0900",
+    "title": "メタマスクのガス代とは？初心者向けに仕組みと節約方法をわかりやすく解説",
+    "link": "https://coinpost.jp/?p=664373",
+    "pubDate": "Mon, 10 Nov 2025 17:45:00 +0900",
     "source": "CoinPost",
-    "contentSnippet": "Startale GroupがSoneium向けスーパーアプリ「Startale App」を発表。SNSアカウントでログインするだけで、ガス代や秘密鍵管理不要でオンチェーンアプリにアクセス可能に。"
+    "contentSnippet": "メタマスクで暗号資産を送金する際に必要な「ガス代」を初心者向けに解説。イーサリアム、Polygon、Solanaなど各ネットワークで必要なトークンの違いや、リアルタイム確認方法、手数料を節約するコツまで図解付きでわかりやすく紹介します。"
   },
   {
-    "title": "堀田丸正、Bitcoin Japanへ社名変更　株価も反応",
-    "link": "https://coinpost.jp/?p=665200",
-    "pubDate": "Tue, 11 Nov 2025 18:00:21 +0900",
+    "title": "イーサリアムのバリデータ参加待ちが増加　将来性への信頼高まり示すか",
+    "link": "https://coinpost.jp/?p=664576",
+    "pubDate": "Sat, 08 Nov 2025 13:30:35 +0900",
     "source": "CoinPost",
-    "contentSnippet": "堀田丸正はBitcoin Japanへ商号変更。BTCレンディングと1%以上の配当を組み込むビットコイン財務戦略の詳細を発表。Bakkt黒字転換を背景に経営刷新と日本市場戦略が本格始動。"
+    "contentSnippet": "仮想通貨イーサリアムのバリデータ参加待ちが増加している。The Blockが長期視点の投資家増加が示唆されると指摘した。ステーブルコインのインフラとしての期待も高まっている。"
   },
   {
-    "title": "ファンプラ（FPL）、公募価格下回る展開　コインチェックIEO4例目",
-    "link": "https://coinpost.jp/?p=665274",
-    "pubDate": "Tue, 11 Nov 2025 16:49:00 +0900",
+    "title": "片山金融相「3メガバンクのステーブルコイン共同発行を支援する」",
+    "link": "https://coinpost.jp/?p=664525",
+    "pubDate": "Sat, 08 Nov 2025 07:20:35 +0900",
     "source": "CoinPost",
-    "contentSnippet": "コインチェックIEOのファンプラ（FPL）は初回板寄せ1.495円で価格形成後、まもなく公募価格1円を下回って推移。応募倍率9.06倍、過去IEOとの比較、初日価格推移を速報で解説。"
+    "contentSnippet": "片山さつき金融相は、3メガバンクやプログマらが行うステーブルコイン発行の実証実験を金融庁がサポートすることが決定したと話した。決済高度化プロジェクトの設置にも言及している。"
   },
   {
-    "title": "Institutional Investors Shift From Speculation to Diversification: Sygnum",
-    "link": "https://decrypt.co/348010/institutional-investors-shift-from-speculation-to-diversification-sygnum",
-    "pubDate": "Tue, 11 Nov 2025 07:01:02 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Portfolio diversification now outweighs short-term profit as the main driver of institutional crypto investment, according to a new report."
-  },
-  {
-    "title": "ユニスワップが収益モデルを刷新、プロトコル収益でUNIを焼却へ",
-    "link": "https://coinpost.jp/?p=665229",
-    "pubDate": "Tue, 11 Nov 2025 15:06:51 +0900",
+    "title": "JPモルガンのダイモンCEOがステーブルコイン事業参入を表明、他行との共同構築も検討",
+    "link": "https://coinpost.jp/?p=664164",
+    "pubDate": "Fri, 07 Nov 2025 10:05:07 +0900",
     "source": "CoinPost",
-    "contentSnippet": "分散型取引所 ユニスワップ（Uniswap）は、手数料の一部をプロトコルが徴収し UNI トークンの焼却に充てる「フィースイッチ」機構を導入する「UNIfication提案」を発表。実現への期待から UNI 価格は30％前後急騰した。"
+    "contentSnippet": "JPモルガン・チェースのジェイミー・ダイモンCEOがステーブルコインの将来は不透明としながらも事業参入を表明した。他の銀行との共同構築も検討している。"
   },
   {
-    "title": "Ethereum Spot Order Activity Hints at Institutional Re-Entry, Analysts Claim",
-    "link": "https://decrypt.co/348073/ethereum-spot-order-activity-institutional-re-entry",
-    "pubDate": "Tue, 11 Nov 2025 06:01:05 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "On-chain data shows Ethereum whales are accumulating, signaling a potential local bottom as the Fusaka upgrade nears."
-  },
-  {
-    "title": "Senate Agriculture Leaders Push to Put Crypto Spot Trading Under CFTC Watch",
-    "link": "https://decrypt.co/348071/senate-proposal-cftc-reach-crypto-spot-markets",
-    "pubDate": "Tue, 11 Nov 2025 05:05:09 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The bipartisan discussion draft mandates exchange oversight and wallet protections while deferring decisions on DeFi regulation."
-  },
-  {
-    "title": "ブロックチェーンゲーム「コインムスメ ドリームレース!」、12月26日にサービス終了",
-    "link": "https://coinpost.jp/?p=665213",
-    "pubDate": "Tue, 11 Nov 2025 14:02:03 +0900",
+    "title": "キリフダ、企業の売掛債権に1万円から投資できるトークン化債権サービス開始へ",
+    "link": "https://coinpost.jp/?p=663829",
+    "pubDate": "Thu, 06 Nov 2025 08:45:49 +0900",
     "source": "CoinPost",
-    "contentSnippet": "ブロックチェーンゲーム「コインムスメ ドリームレース!」が12月26日にサービス終了。売上によるトークン買い支えモデルの継続が困難になったことや、外部要因への対応コストが影響。約2年半の運営に幕。MSMトークンはDEX上で存続予定。"
+    "contentSnippet": "キリフダは企業の売掛債権に1口1万円から投資できるトークン化債権マーケットプレイス「おカネのこづち」を年内公開する。企業の資金繰り支援と個人投資家の社会貢献ニーズを結びつけるプラットフォームだ。"
   },
   {
-    "title": "英中銀、「システム上重要な」ステーブルコイン規制案で意見募集　保有上限を設定",
-    "link": "https://coinpost.jp/?p=665159",
-    "pubDate": "Tue, 11 Nov 2025 13:35:05 +0900",
+    "title": "JPYCの買い方・使い方まとめ｜何ができる？今後の活用法・注意点を徹底解説",
+    "link": "https://coinpost.jp/?p=643693",
+    "pubDate": "Mon, 03 Nov 2025 07:00:17 +0900",
     "source": "CoinPost",
-    "contentSnippet": "イングランド銀行は、ポンド建てシステム上重要なステーブルコインの規制案を公表。個人に2万ポンド（約390万円）、企業に1000万ポンド（約19億5000万円）の一時的な保有上限を設定し、銀行預金の急速な流出リスクを管理する。"
+    "contentSnippet": "JPYCが資金移動業ライセンスを取得し、日本初の円建てステーブルコイン「JPYC EX」を発行へ。特徴や将来性を徹底解説。"
   },
   {
-    "title": "今後の仮想通貨市場、レバレッジ崩壊後の回復見込みは？＝コインベース分析",
-    "link": "https://coinpost.jp/?p=665158",
-    "pubDate": "Tue, 11 Nov 2025 13:10:41 +0900",
+    "title": "週刊仮想通貨ニュース｜Bybitの日本人新規登録停止や日本初のステーブルコインJPYC始動に高い関心",
+    "link": "https://coinpost.jp/?p=662727",
+    "pubDate": "Sun, 02 Nov 2025 11:00:08 +0900",
     "source": "CoinPost",
-    "contentSnippet": "コインベースが10月清算イベント後の仮想通貨市場について最新の分析を発表。レバレッジが解消され今後数か月はゆるやかに上昇すると予想している。"
+    "contentSnippet": "今週は、日本初のステーブルコインJPYC始動、SBIインシュアランスグループによる株主優待へのXRP導入、仮想通貨取引所Bybitによる日本人の新規登録停止に関する記事が関心を集めた。"
   },
   {
-    "title": "金持ち父さん著者キヨサキ、ビットコイン・金・銀の価格予想を公開　「売らずに買い続ける」",
-    "link": "https://coinpost.jp/?p=665137",
-    "pubDate": "Tue, 11 Nov 2025 11:05:27 +0900",
+    "title": "チェンジHD、JPYCで地方創生へ　ふるさと納税・インバウンド決済に円ステーブルコイン導入検討",
+    "link": "https://coinpost.jp/?p=662740",
+    "pubDate": "Sat, 01 Nov 2025 09:50:33 +0900",
     "source": "CoinPost",
-    "contentSnippet": "『金持ち父さん貧乏父さん』著者のロバート・キヨサキ氏が2026年のビットコイン価格を25万ドルと予想した。金や銀にも強気の見通しを示し、米国の債務拡大を理由に実物資産への投資を推奨。"
+    "contentSnippet": "チェンジホールディングスが日本円ステーブルコインJPYCを活用した地方創生に着手する。「ふるさとチョイス」での決済導入検討やインバウンド事業での実証実験を計画している。"
   },
   {
-    "title": "ランブル、テザー支援でノーザンデータ買収へ　AI・HPC事業を強化",
-    "link": "https://coinpost.jp/?p=665120",
-    "pubDate": "Tue, 11 Nov 2025 10:35:23 +0900",
+    "title": "万博ウォレットがリニューアル、JPYC対応開始＆総額1億円配布へ",
+    "link": "https://coinpost.jp/?p=662576",
+    "pubDate": "Fri, 31 Oct 2025 18:41:17 +0900",
     "source": "CoinPost",
-    "contentSnippet": "動画プラットフォームRumbleが、ステーブルコイン大手テザーの支援を受けてAI企業ノーザンデータを買収する。欧州最大級のGPU事業獲得でクラウド事業を強化する。"
+    "contentSnippet": "EXPO2025デジタルウォレットが「HashPort Wallet」としてリニューアル。JPYC対応を開始し、総額1億円プレゼントキャンペーンを開催。Ethereum・Polygon対応も。"
   }
 ]
