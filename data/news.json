@@ -1,5 +1,61 @@
 [
   {
+    "title": "Running for the Exits: Crypto Daybook Americas",
+    "link": "https://www.coindesk.com/daybook-us/2025/11/14/running-for-the-exits-crypto-daybook-americas",
+    "pubDate": "Fri, 14 Nov 2025 12:15:00 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Your day-ahead look for Nov. 14, 2025"
+  },
+  {
+    "title": "Crypto Markets Today: Bitcoin Breaches $98K as Liquidations Top $1.1B",
+    "link": "https://www.coindesk.com/markets/2025/11/14/crypto-markets-today-bitcoin-breaches-usd98k-as-liquidations-top-usd1-1b",
+    "pubDate": "Fri, 14 Nov 2025 11:05:01 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "A sharp liquidity crunch sent bitcoin and altcoins plunging, triggering over a billion dollars in derivatives liquidations as traders brace for a potential trend reversal."
+  },
+  {
+    "title": "Community Bankers Ask OCC to Block Sony's Crypto Bank Ambitions",
+    "link": "https://decrypt.co/348659/community-bankers-ask-occ-to-block-sonys-crypto-bank-ambitions",
+    "pubDate": "Fri, 14 Nov 2025 10:41:27 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The banking group warned that Sony's stablecoin charter could undermine consumer protections and bypass rules."
+  },
+  {
+    "title": "Bitcoin, Ethereum ETFs Shed Over $1 Billion in Assets as XRP Fund Soars",
+    "link": "https://decrypt.co/348651/bitcoin-ethereum-etfs-shed-1-billion-assets-xrp-fund-soars",
+    "pubDate": "Fri, 14 Nov 2025 09:39:56 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "BlackRock’s iShares Bitcoin Trust totaled more than a quarter billion in investments, in the worst day of Bitcoin ETF outflows since February."
+  },
+  {
+    "title": "3 Key Charts to Track as Ether Strengthens Against Bitcoin",
+    "link": "https://www.coindesk.com/markets/2025/11/14/3-key-charts-to-track-as-ether-strengthens-against-bitcoin",
+    "pubDate": "Fri, 14 Nov 2025 08:29:32 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Ether strengthens against bitcoin, raising hopes of a bullish breakout."
+  },
+  {
+    "title": "米ビットコイン現物ETF、過去2番目の規模の純流出　リスクオフが加速",
+    "link": "https://coinpost.jp/?p=666396",
+    "pubDate": "Fri, 14 Nov 2025 17:19:22 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "11月13日、ビットコイン現物ETFは8.7億ドル（約1,340億円）の純流出を記録し、過去2番目の規模に。イーサリアムETFも3日連続で流出。FRB当局者の慎重発言を受け、仮想通貨と米国株が同時に下落。専門家は健全な調整との見方も。"
+  },
+  {
+    "title": "Aptos Labs CBOが語る日本戦略｜独占インタビュー",
+    "link": "https://coinpost.jp/?p=660616",
+    "pubDate": "Fri, 14 Nov 2025 16:46:50 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "Aptos Labs CBO Solomon Tesfaye氏独占インタビュー。日本の大手金融機関との協議、ステーブルコインUSD1の展開、グローバル戦略を語る。"
+  },
+  {
+    "title": "ビットコインのみ投資へ　欧州初のルクセンブルク国家ファンドがETF経由で1%配分",
+    "link": "https://coinpost.jp/?p=666419",
+    "pubDate": "Fri, 14 Nov 2025 16:32:36 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "ルクセンブルク財務相が、国家ファンドFSILが他の仮想通貨ではなくビットコインのみに1%配分したことを明言。欧州初の国家レベルでのビットコイン投資となる。"
+  },
+  {
     "title": "ヴィタリック、分散化の原則を強化する「トラストレス宣言」を発表　中央集権化に警鐘",
     "link": "https://coinpost.jp/?p=666361",
     "pubDate": "Fri, 14 Nov 2025 15:06:29 +0900",
@@ -21,7 +77,7 @@
     "contentSnippet": "Investors have pulled out $2.64 billion over three weeks"
   },
   {
-    "title": "Tether Dominance Surges to Highest Since April. What Does it Mean?",
+    "title": "Tether Dominance Surges to Highest Since April. What Does It Mean?",
     "link": "https://www.coindesk.com/markets/2025/11/14/tether-dominance-surges-to-highest-since-april",
     "pubDate": "Fri, 14 Nov 2025 05:21:33 +0000",
     "source": "CoinDesk",
@@ -35,7 +91,7 @@
     "contentSnippet": "Brutal selloff breaks psychological $2.30 floor, erasing recent gains as distribution overwhelms historic XRPC debut."
   },
   {
-    "title": "Bitcoin Plunges Under $98,000, ETH, SOL, ADA Down 8% as $880M in Bullish Bets Liquidated",
+    "title": "Bitcoin Plunges Under $97,000, ETH, SOL, ADA Down 8% as $880M in Bullish Bets Liquidated",
     "link": "https://www.coindesk.com/markets/2025/11/14/bitcoin-plunges-under-usd98-000-eth-sol-ada-down-8-as-usd880m-in-bullish-bets-liquidated",
     "pubDate": "Fri, 14 Nov 2025 05:00:02 +0000",
     "source": "CoinDesk",
@@ -126,32 +182,11 @@
     "contentSnippet": "Nearly a quarter of adults might own crypto, but ease of use and access remain limiting factors, the report, produced by CoinDesk and Protocol Theory said."
   },
   {
-    "title": "グレースケールのIPO登録書類が公開　トランプ政権下で上場申請続く",
-    "link": "https://coinpost.jp/?p=666215",
-    "pubDate": "Fri, 14 Nov 2025 09:54:24 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "仮想通貨資産運用企業グレースケールは、IPO登録届出書を米SECに提出。市場が構築されれば株式のトークン化も検討していく意向を示した。"
-  },
-  {
     "title": "Blue Origin Marks First Ocean Landing of New Glenn Booster After Second Attempt",
     "link": "https://decrypt.co/348630/blue-origin-marks-first-ocean-landing-of-new-glenn-booster-after-second-attempt",
     "pubDate": "Fri, 14 Nov 2025 00:48:40 +0000",
     "source": "Decrypt",
     "contentSnippet": "Blue Origin has landed its New Glenn booster at sea after launching NASA’s ESCAPADE Mars mission."
-  },
-  {
-    "title": "米国でXRP現物ETF上場、初日取引高は90億円を記録",
-    "link": "https://coinpost.jp/?p=666212",
-    "pubDate": "Fri, 14 Nov 2025 09:32:56 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "カナリー・キャピタルの仮想通貨XRP現物ETFが米国で上場。初日取引高90億円を記録した。2025年に上場したETF中でトップの数字となった。政府機関再開でさらなる承認も期待される。"
-  },
-  {
-    "title": "チェコの中銀、試験的にビットコインを購入　ステーブルコインやトークン化預金も保有へ",
-    "link": "https://coinpost.jp/?p=666199",
-    "pubDate": "Fri, 14 Nov 2025 09:18:41 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "チェコの中央銀行は、歴史上初めてデジタル資産を購入したと発表。購入したのは仮想通貨ビットコインで、他にも米ドルステーブルコインとトークン化預金も保有すると説明している。"
   },
   {
     "title": "Google DeepMind’s New AI Agent Learns, Adapts and Plays Games Like a Human",
@@ -173,40 +208,5 @@
     "pubDate": "Thu, 13 Nov 2025 23:07:01 +0000",
     "source": "Decrypt",
     "contentSnippet": "Brock Pierce spoke about Bitcoin with Larry Summers at Jeffrey Epstein’s Manhattan townhouse, emails from the financier’s estate indicate."
-  },
-  {
-    "title": "Myriad Moves: Traders Flip on Gold vs Ethereum, Solana Sentiment Sinks",
-    "link": "https://decrypt.co/348583/myriad-moves-traders-flip-gold-ethereum-solana-sentiment-sinks",
-    "pubDate": "Thu, 13 Nov 2025 22:18:51 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Top markets on Myriad this week include predictions on gold and ETH racing to $5,000, a new Solana all-time high, and whether the Fed will cut rates again this year."
-  },
-  {
-    "title": "Dogecoin Treasury Firm CleanCore's Stock Hits New Low as DOGE Dives",
-    "link": "https://decrypt.co/348589/dogecoin-treasury-firm-cleancore-stock-new-low-doge-dives",
-    "pubDate": "Thu, 13 Nov 2025 21:55:28 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "CleanCore Solutions has amassed 733 Million Dogecoin, but the firm’s stock is plunging, hitting a new bottom on Thursday."
-  },
-  {
-    "title": "Solana Slides 5% to $145 as Technical Breakdown Overshadows ETF Momentum",
-    "link": "https://www.coindesk.com/markets/2025/11/13/solana-slides-5-to-usd145-as-technical-breakdown-overshadows-etf-momentum",
-    "pubDate": "Thu, 13 Nov 2025 20:27:31 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "The token fell through key support despite elevated trading volume and continued institutional inflows into spot ETFs."
-  },
-  {
-    "title": "Strategy Plunges to Weakest in 13 Months, but Still Trades at Premium to Bitcoin Holdings",
-    "link": "https://www.coindesk.com/markets/2025/11/13/strategy-plunges-to-weakest-in-13-months-but-still-trades-at-premium-to-bitcoin-holdings",
-    "pubDate": "Thu, 13 Nov 2025 19:34:10 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Alongside bitcoin's tumble back to $98,000, MSTR is lower by another 6.6% on Thursday, bringing its year-to-date decline to 30%."
-  },
-  {
-    "title": "Retail Mood Sours Amid Crypto Selloff, Flashing Short-Term Bottom Signals for BTC, ETH, XRP ",
-    "link": "https://www.coindesk.com/markets/2025/11/13/retail-mood-sours-amid-crypto-selloff-flashing-short-term-bottom-signals-for-btc-eth-xrp",
-    "pubDate": "Thu, 13 Nov 2025 19:06:18 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "A fresh wave of pessimism is sweeping across crypto markets, but the mood shift may be doing more good than harm."
   }
 ]
