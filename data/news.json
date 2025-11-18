@@ -1,10 +1,45 @@
 [
   {
-    "title": "「ビットコイン下落の背景は米ドル流動性低下」アーサー・ヘイズが年末までの市場予想",
-    "link": "https://coinpost.jp/?p=667095",
-    "pubDate": "Tue, 18 Nov 2025 09:50:25 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "アーサー・ヘイズ氏が仮想通貨ビットコイン下落の原因を米ドル流動性縮小と分析した。ETF資金流出の背景や今後の下落および急騰シナリオを解説している。"
+    "title": "Mt. Gox Moves $956M Worth of BTC As Prices Tank",
+    "link": "https://www.coindesk.com/markets/2025/11/18/mt-gox-moves-usd956m-worth-of-btc-as-prices-tank",
+    "pubDate": "Tue, 18 Nov 2025 05:59:57 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "The latest on-chain move comes as BTC's spot price continues to slide."
+  },
+  {
+    "title": "What Next For Bitcoin as BTC RSI Flashes Oversold Signal?",
+    "link": "https://www.coindesk.com/markets/2025/11/18/what-next-for-bitcoin-as-btc-rsi-flashes-oversold-signal",
+    "pubDate": "Tue, 18 Nov 2025 04:36:17 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "BTC looks oversold, according to the 14-day RSI indicator."
+  },
+  {
+    "title": "Two Technical Signals Hinting at a Bitcoin Bear Market",
+    "link": "https://decrypt.co/349034/two-technical-signals-hinting-at-a-bitcoin-bear-market",
+    "pubDate": "Tue, 18 Nov 2025 04:10:10 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Bitcoin's bear market outlook firms as 80% of key on-chain metrics flash red, with derivatives and options traders betting on more downside."
+  },
+  {
+    "title": "TD Cowen Says Strategy's Bitcoin-Buying Engine Remains Intact Despite Market Volatility",
+    "link": "https://decrypt.co/349032/td-cowen-strategys-bitcoin-buying-engine-remains-intact",
+    "pubDate": "Tue, 18 Nov 2025 04:00:11 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "TD Cowen kept its $535 target, citing strong preferred-share demand and rising Bitcoin per share despite a narrowing NAV premium."
+  },
+  {
+    "title": "Bitcoin Crashes Under $90K as Death Cross Creates 'Extreme Fear' Sentiment",
+    "link": "https://www.coindesk.com/markets/2025/11/18/bitcoin-crashes-under-usd90k-as-death-cross-creates-extreme-fear-sentiment",
+    "pubDate": "Tue, 18 Nov 2025 03:44:13 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "The drop to $89,420 — its lowest level since February — comes just six weeks after prices topped out at a record $126,250, marking a sharp reversal."
+  },
+  {
+    "title": "FDT Welcomes Dubai’s $456M Freeze as Techteryx Seeks to Recover TrueUSD Reserves from Aria",
+    "link": "https://www.coindesk.com/markets/2025/11/18/fdt-welcomes-dubai-s-usd456m-freeze-as-techteryx-seeks-to-recover-trueusd-reserves-from-aria",
+    "pubDate": "Tue, 18 Nov 2025 00:49:24 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "In a statement to CoinDesk, FDT's Vincent Chok said his company \"welcomes any steps that assist Techteryx in pursuing recovery of its funds from the Aria entities.\""
   },
   {
     "title": "Asia Morning Briefing: Even Prediction Markets Didn’t See Bitcoin’s Selloff Coming",
@@ -14,32 +49,11 @@
     "contentSnippet": "A fast reset in downside odds mirrors QCP’s warning of flat-footed pro desks, with Glassnode highlighting oversold momentum and moderating ETF outflows."
   },
   {
-    "title": "自称「IQ276」のキム・ヨンフン、ビットコインは今後45日間で22万ドルまで上昇すると予想",
-    "link": "https://coinpost.jp/?p=667089",
-    "pubDate": "Tue, 18 Nov 2025 09:30:24 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "自称IQ276のキム・ヨンフン氏は、仮想通貨ビットコインの価格は今後45日間で22万ドルに到達すると予想。明確な根拠は示していないが、世界最高のIQ記録保持者として価格を予想すると主張した。"
-  },
-  {
-    "title": "Cboeが無期限型ビットコイン・イーサリアム先物を12月15日に開始、米国規制下で提供",
-    "link": "https://coinpost.jp/?p=667093",
-    "pubDate": "Tue, 18 Nov 2025 09:20:30 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "Cboeが仮想通貨ビットコインとイーサリアムの無期限先物取引を12月15日に開始する。米国規制下でポジションのロールオーバーを不要にする。"
-  },
-  {
     "title": "Bitcoin, Ethereum Dive Deeper Amid AI and Macro Angst",
     "link": "https://decrypt.co/348973/bitcoin-ethereum-dive-ai-macro-angst",
     "pubDate": "Mon, 17 Nov 2025 23:26:02 +0000",
     "source": "Decrypt",
     "contentSnippet": "Bitcoin dropped to its lowest level in six months. Ethereum dipped below $3,000, its lowest point since mid summer."
-  },
-  {
-    "title": "米政権、海外仮想通貨口座の税務報告規則を審査中",
-    "link": "https://coinpost.jp/?p=667086",
-    "pubDate": "Tue, 18 Nov 2025 08:15:56 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "米ホワイトハウスが海外仮想通貨口座に関する税務報告規則案の審査を開始した。国際的な仮想通貨資産報告枠組みCARFへの参加を実現し、租税回避を取り締まる狙いだ。"
   },
   {
     "title": "Google Unveils New AI Weather Model With Faster, More Accurate Forecasts",
@@ -63,25 +77,11 @@
     "contentSnippet": "Hive Digital Technologies began rebounding Monday after an earnings win and Dell deal to power the Bitcoin miner’s growing AI ambitions."
   },
   {
-    "title": "グレースケールのドージコインETF、11月24日取引開始見通し　新たなソラナETFも上場",
-    "link": "https://coinpost.jp/?p=667081",
-    "pubDate": "Tue, 18 Nov 2025 07:45:12 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "グレースケールのドージコインETFが11月24日にも取引開始となる見通しだ。ヴァンエックは17日にソラナETFの提供を開始した。"
-  },
-  {
     "title": "Ethereum Is the Opposite of Sam Bankman-Fried's FTX, Says Vitalik Buterin",
     "link": "https://decrypt.co/348991/ethereum-opposite-sam-bankman-fried-ftx-vitalik-buterin-says",
     "pubDate": "Mon, 17 Nov 2025 22:38:52 +0000",
     "source": "Decrypt",
     "contentSnippet": "Ethereum is decentralized, \"can’t be evil,\" and is a community—everything that FTX wasn’t, ETH founder Vitalik Buterin said Monday."
-  },
-  {
-    "title": "仮想通貨投資商品、先週の資金純流出額が2月以降最大　約3100億円規模＝CoinShares",
-    "link": "https://coinpost.jp/?p=667063",
-    "pubDate": "Tue, 18 Nov 2025 07:10:59 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "仮想通貨投資企業CoinSharesは、ETFなどのデジタル資産投資商品全体の先週における資金フローは約3,100億円超の純流出だったと報告。今回もビットコインとイーサリアムが流出を主導した。"
   },
   {
     "title": "DappRadar Shuts Down, Citing ‘Financially Unsustainable’ Market",
@@ -91,32 +91,11 @@
     "contentSnippet": "Launched in 2018, the platform had grown into one of the most prominent analytics hubs for on-chain activity."
   },
   {
-    "title": "ビットコインの25%下落は「浅い調整」と米投資銀行が分析、トム・リーはイーサリアムのスーパーサイクルを予測",
-    "link": "https://coinpost.jp/?p=667072",
-    "pubDate": "Tue, 18 Nov 2025 06:55:35 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "投資銀行バーンスタインがビットコインの約25%下落は大幅な下落の始まりではなく短期的な調整だと分析した。ビットコインETFの機関投資家保有率は2024年末の20%から現在28%に上昇。"
-  },
-  {
     "title": "Bitcoin Treasury KindlyMD Extends Stock Collapse After Earnings Delay",
     "link": "https://decrypt.co/348979/bitcoin-treasury-kindlymd-extends-stock-collapse-earnings-delay",
     "pubDate": "Mon, 17 Nov 2025 21:43:22 +0000",
     "source": "Decrypt",
     "contentSnippet": "KindlyMD shares dropped another 10% after missing its Q3 earnings deadline, with the company citing merger accounting complexity and warning of major losses ahead."
-  },
-  {
-    "title": "95%のビットコインが採掘済み、2140年に完全流通へ",
-    "link": "https://coinpost.jp/?p=667061",
-    "pubDate": "Tue, 18 Nov 2025 06:25:08 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "ビットコインのマイニング済みコイン数が1,995万BTCを超え、固定上限2,100万BTCの95%に達した。残りの5%は極めてゆっくりと放出され、2140年頃に最後の端数が採掘される見込みだ。"
-  },
-  {
-    "title": "ビットコインが今年の上昇分を帳消しに、新規投資家が14.8万BTC損切り　流動性悪化と日本債券ショックも影響か",
-    "link": "https://coinpost.jp/?p=667049",
-    "pubDate": "Tue, 18 Nov 2025 06:00:17 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "ビットコインが約7カ月ぶりに9万3,000ドルを下回り、2025年の上昇分をすべて失った。新規投資家が14万8,000BTCを損切りし、流動性逼迫も下落要因となっている。"
   },
   {
     "title": "Grayscale Poised to Debut Dogecoin ETF as VanEck's Solana Fund Starts Trading",
@@ -131,20 +110,6 @@
     "pubDate": "Mon, 17 Nov 2025 20:14:13 +0000",
     "source": "Decrypt",
     "contentSnippet": "The Trump Organization is tokenizing the development of its latest real estate venture, a collection of luxury villas in the Maldives."
-  },
-  {
-    "title": "Bitcoin Just Erased All of Its 2025 Gains—And the 'Picture Remains Fragile', Says Analyst",
-    "link": "https://decrypt.co/348954/bitcoin-erased-2025-gains-picture-remains-fragile-analyst",
-    "pubDate": "Mon, 17 Nov 2025 19:28:50 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Bitcoin dropped below $93,000 on Monday, wiping out 2025 gains as analysts warn of breaking key support levels amid delayed cycle concerns."
-  },
-  {
-    "title": "The 5 Biggest 'Tells' That Something Was Written By AI",
-    "link": "https://decrypt.co/348923/5-biggest-tells-something-written-ai",
-    "pubDate": "Mon, 17 Nov 2025 18:59:43 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "A growing body of recent research shows that AI writing carries its own fingerprints, from structural tics to shifting vocabulary trends. Here’s how to spot them."
   },
   {
     "title": "Bitcoin Slips Below $93K as Crypto Weakness Worsens, but Local Bottom Could Be Near, Analysts Say",
@@ -173,40 +138,5 @@
     "pubDate": "Mon, 17 Nov 2025 18:18:42 +0000",
     "source": "CoinDesk",
     "contentSnippet": "Complex post-merger accounting prompts a late filing while losses mount and the shares slip further."
-  },
-  {
-    "title": "Figure Stock Jumps as Druckenmiller Invests $77M, Analysts Raise Price Targets",
-    "link": "https://www.coindesk.com/markets/2025/11/17/figure-stock-jumps-as-druckenmiller-invests-usd77m-analysts-raise-price-targets",
-    "pubDate": "Mon, 17 Nov 2025 17:39:36 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Analysts cited Figure’s shift to ‘capital-light’ model and stablecoin launch on the Provenance blockchain."
-  },
-  {
-    "title": "Trump’s Maldives Hotel Will Be a Tokenized Real Estate Project",
-    "link": "https://www.coindesk.com/business/2025/11/17/trump-s-maldives-hotel-will-be-a-tokenized-real-estate-project",
-    "pubDate": "Mon, 17 Nov 2025 17:12:22 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "The Trump International Hotel Maldives, developed with Dar Global, will be tokenized to allow investors to buy digital shares in the development."
-  },
-  {
-    "title": "Cboe to Debut Bitcoin, Ether ‘Perpetual-Style’ Crypto Futures on Dec. 15",
-    "link": "https://www.coindesk.com/markets/2025/11/17/cboe-to-debut-bitcoin-ether-perpetual-style-crypto-futures-on-dec-15",
-    "pubDate": "Mon, 17 Nov 2025 17:11:16 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "The contracts will offer long-term crypto exposure without rollovers, tailored for institutions avoiding offshore risk."
-  },
-  {
-    "title": "Stellar Slips as Key Support Breaks, Signaling Mounting Bearish Momentum",
-    "link": "https://www.coindesk.com/markets/2025/11/17/stellar-slips-as-key-support-breaks-signaling-mounting-bearish-momentum",
-    "pubDate": "Mon, 17 Nov 2025 16:38:51 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "A sharp volume-driven breakdown below XLM’s ascending trendline and critical support at $0.2527 has shifted the market structure bearish, setting sights on the $0.2500 zone"
-  },
-  {
-    "title": "暗号資産の金商法移行が本格化、分離課税実現へ最終局面＝ブロックチェーン議連",
-    "link": "https://coinpost.jp/?p=666979",
-    "pubDate": "Mon, 17 Nov 2025 20:08:01 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "金融庁が暗号資産を金商法に位置づけ、インサイダー取引規制を整備する方向を明示。業界団体は20%申告分離課税を要望。来年の通常国会での法整備を目指す。第31回ブロックチェーン推進議員連盟で議論。"
   }
 ]
