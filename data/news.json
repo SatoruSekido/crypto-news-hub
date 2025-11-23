@@ -1,5 +1,61 @@
 [
   {
+    "title": "What Is a Layer-1 Blockchain? The Base Layer Powering Bitcoin and Crypto",
+    "link": "https://decrypt.co/resources/what-is-layer-1-blockchain-base-layer-powering-bitcoin-crypto",
+    "pubDate": "Sun, 23 Nov 2025 17:47:36 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Layer-1 blockchains are the base networks that secure and record every crypto transaction, powering Bitcoin, Ethereum, and beyond."
+  },
+  {
+    "title": "More Ready Than Bitcoin? How Zcash Developers Are Preparing for the Quantum Threat",
+    "link": "https://decrypt.co/349642/more-ready-bitcoin-how-zcash-developers-preparing-quantum-threat",
+    "pubDate": "Sun, 23 Nov 2025 15:01:02 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Quantum computers could threaten much more than just Bitcoin, but developers behind the surging Zcash say they aren't panicking. Here's why."
+  },
+  {
+    "title": "Sunrise Debut Streamlines Solana Token Imports as Monad Goes Live",
+    "link": "https://www.coindesk.com/tech/2025/11/23/sunrise-debut-streamlines-solana-token-imports-as-monad-goes-live",
+    "pubDate": "Sun, 23 Nov 2025 15:00:00 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "The platform introduces a unified gateway that allows issuers and users to move tokens from any ecosystem into Solana."
+  },
+  {
+    "title": "Bitcoin Rebounds From 'Extreme Oversold' Levels; XRP Jumps 7%, ZEC Surges 14%",
+    "link": "https://www.coindesk.com/markets/2025/11/23/bitcoin-rebounds-from-extreme-oversold-levels-xrp-jumps-7-zec-surges-14",
+    "pubDate": "Sun, 23 Nov 2025 14:16:34 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Bitcoin and major altcoins bounced Sunday after an oversold RSI reading and more than $200M in liquidations signaled seller exhaustion amid thin weekend liquidity."
+  },
+  {
+    "title": "Could Stablecoins Spark a New Contagion? BIS Warns, Coinbase Pushes Back",
+    "link": "https://www.coindesk.com/business/2025/11/23/could-stablecoins-spark-a-new-contagion-bis-warns-coinbase-pushes-back",
+    "pubDate": "Sun, 23 Nov 2025 14:00:00 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Not all agree with some recent sentiment that stablecoins pose a threat to global financial stability."
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 23 Nov 2025 13:22:29 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
+  },
+  {
+    "title": "On-Chain Stocks Could Misprice Over Weekends, Triggering Arbitrage Risks: RedStone",
+    "link": "https://www.coindesk.com/business/2025/11/23/on-chain-stocks-could-misprice-over-weekends-triggering-arbitrage-risks-redstone",
+    "pubDate": "Sun, 23 Nov 2025 13:00:00 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "This gap could create a \"price dislocation\" between on-chain and traditional markets, leading to potential losses or arbitrage opportunities."
+  },
+  {
+    "title": "Cardano Temporarily Splits Into Two Chains After Attacker Uses AI-Generated Script to Exploit a Known Bug",
+    "link": "https://www.coindesk.com/markets/2025/11/23/cardano-temporarily-splits-into-two-chains-after-attacker-uses-ai-generated-script-to-exploit-a-known-bug",
+    "pubDate": "Sun, 23 Nov 2025 12:30:00 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "The divergence emerged when newer nodes accepted a malformed transaction that older nodes rejected."
+  },
+  {
     "title": "Grayscale calls Chainlink the ‘crictical connective tissue’ of tokenized finance",
     "link": "https://cointelegraph.com/news/grayscale-chainlink-critical-connective-tissue-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sun, 23 Nov 2025 11:40:10 +0000",
@@ -70,13 +126,6 @@
     "contentSnippet": "Grayscale's report comes shortly after it filed to convert its Chainlink Trust into an exchange-traded fund (ETF) that would trade on NYSE Arca."
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 22 Nov 2025 22:31:21 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
-  },
-  {
     "title": "Bitcoin OG's selling to 'weak' hands will deepen selloffs: Peter Schiff",
     "link": "https://cointelegraph.com/news/bitcoin-og-selling-weak-hand-deep-selloff-schiff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sat, 22 Nov 2025 22:15:52 +0000",
@@ -133,32 +182,11 @@
     "contentSnippet": "Institutional BTC investors may explore whether bitcoin-native yield, collateral and liquidity opportunities could offer the next stage of strategic deployment."
   },
   {
-    "title": "Coinbase to Add 24/7 Trading for SHIB, Bitcoin Cash, Dogecoin, and Others",
-    "link": "https://www.coindesk.com/markets/2025/11/23/coinbase-derivatives-to-add-24-7-trading-for-shib-bitcoin-cash-dogecoin-and-others",
-    "pubDate": "Sat, 22 Nov 2025 18:47:15 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "The exchange plans to introduce U.S. perpetual-style futures for altcoins, settling on a five-year expiry."
-  },
-  {
-    "title": "Hobbyist Miner Beats \"1 in 180 Million Odds\" to Win $265K Bitcoin Block Using Just One Old ASIC",
-    "link": "https://www.coindesk.com/markets/2025/11/23/hobbyist-miner-wins-usd265k-bitcoin-block-using-just-one-old-asic",
-    "pubDate": "Sat, 22 Nov 2025 18:36:04 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "The winning miner controls just 0.0000007% of Bitcoin’s total network hashpower, which recently hit a record 855.7 exahashes per second."
-  },
-  {
     "title": "Bitcoin ETFs Just Had One of Their Worst Weeks on Record, Bleeding $1.2 Billion",
     "link": "https://decrypt.co/349681/bitcoin-etfs-worst-weeks-bleeding-1-2-billion",
     "pubDate": "Sat, 22 Nov 2025 18:26:17 +0000",
     "source": "Decrypt",
     "contentSnippet": "Spot Bitcoin funds are closing in on $4 billion of outflows so far in November, with investors cashing out as the price of BTC dives."
-  },
-  {
-    "title": "Is Strategy Stock the Preferred Hedge Against Crypto Losses? Tom Lee Thinks So",
-    "link": "https://www.coindesk.com/markets/2025/11/22/is-strategy-stock-the-preferred-hedge-against-crypto-losses-tom-lee-thinks-so",
-    "pubDate": "Sat, 22 Nov 2025 17:00:00 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Strategy’s 650,000 BTC holdings make it a ‘pressure valve’ for the broader market, said the Bitmine Immersion chairman."
   },
   {
     "title": "Coinbase crypto exchange executes internal wallet migration",
@@ -168,25 +196,11 @@
     "contentSnippet": "The crypto exchange said the planned internal migration is a normal, \"best practice\" in the industry to maintain cybersecurity standards."
   },
   {
-    "title": "'Liquidity Crisis': $12B in DeFi Liquidity Sits Idle as 95% of Capital Goes Unused",
-    "link": "https://www.coindesk.com/web3/2025/11/22/liquidity-crisis-usd12b-in-defi-liquidity-sits-idle-as-95-of-capital-goes-unused",
-    "pubDate": "Sat, 22 Nov 2025 16:07:58 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "This inefficiency disproportionately affects retail liquidity providers, with 50% losing money due to impermanent loss, and net deficits exceeding $60 million, a new report finds."
-  },
-  {
     "title": "Europe Will Get Risky 3x Leveraged Bitcoin, Ethereum ETFs as Crypto Markets Melt Down",
     "link": "https://decrypt.co/349630/europe-risky-3x-leveraged-bitcoin-ethereum-etfs-crypto-markets-melt-down",
     "pubDate": "Sat, 22 Nov 2025 15:59:06 +0000",
     "source": "Decrypt",
     "contentSnippet": "Investors in Europe can soon take a gamble on 3x leveraged Bitcoin and Ethereum ETFs thanks to LeverageShares."
-  },
-  {
-    "title": "Coinbase 'Negative Premium' at Widest Level since Q1, Signalling Weak U.S. Demand",
-    "link": "https://www.coindesk.com/markets/2025/11/22/coinbase-negative-premium-at-widest-level-since-q1-signalling-weak-u-s-demand",
-    "pubDate": "Sat, 22 Nov 2025 15:51:40 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Bitcoin is on track for its worst weekly performance since March, while U.S. demand indicators weaken as the Coinbase premium declines and spot ETFs reach a record volume."
   },
   {
     "title": "Spot Bitcoin ETFs pull $238M as Ether funds snap 8-day outflow streak",
@@ -264,19 +278,5 @@
     "pubDate": "Fri, 21 Nov 2025 21:10:59 +0000",
     "source": "Decrypt",
     "contentSnippet": "A powerful nonprofit hosted a dinner with lawmakers this week focused on crypto taxes, while groups backing the nonprofit pushed the Trump administration on related policies."
-  },
-  {
-    "title": "Bitcoin in a Death Cross: How Low Will We Go?",
-    "link": "https://decrypt.co/349657/bitcoin-death-cross-how-low-will-btc-price-go",
-    "pubDate": "Fri, 21 Nov 2025 20:49:50 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Bitcoin is falling, dragging nearly every other crypto asset along with it. The charts suggest this could get uglier."
-  },
-  {
-    "title": "Strategy's $55 Billion Bitcoin Bet Undeterred by Index Delisting Concerns, Says Michael Saylor",
-    "link": "https://decrypt.co/349633/strategys-55-billion-bitcoin-undeterred-index-delisting-concerns-saylor",
-    "pubDate": "Fri, 21 Nov 2025 19:34:29 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The company’s shares have plunged 43% over the past month."
   }
 ]
