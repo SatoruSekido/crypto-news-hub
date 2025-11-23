@@ -1,5 +1,33 @@
 [
   {
+    "title": "今週の主要仮想通貨材料まとめ、ヴィタリック紹介のイーサリアム新ツールやXRPのステーキング導入案など",
+    "link": "https://coinpost.jp/?p=668126",
+    "pubDate": "Sun, 23 Nov 2025 14:00:05 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "前週比で振り返る仮想通貨市場の最新動向。ビットコインやイーサリアム、XRP、ソラナなど主要銘柄の騰落率や注目材料を一挙紹介。市場トレンドと関連ニュースを詳しく解説する。"
+  },
+  {
+    "title": "Crypto conditions signal unlikely chance of ‘major capitulation’: Lyn Alden",
+    "link": "https://cointelegraph.com/news/crypto-market-euphoria-lacking-major-capitulation-lyn-alden-economist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 23 Nov 2025 04:58:34 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "The crypto market hasn’t reached “euphoric levels,” which means less reason to expect a major landslide, according to Lyn Alden."
+  },
+  {
+    "title": "ビットコイン売られ過ぎでも反転せず、12月FOMCの据え置きが現実味を増す｜bitbankアナリスト寄稿",
+    "link": "https://coinpost.jp/?p=668254",
+    "pubDate": "Sun, 23 Nov 2025 11:30:56 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "今週のBTC対円相場は1400万円割れまで下落。ヌビディア好決算後も1400万円割れが続き、米雇用統計の強弱まちまちな内容が見通し悪化を助長。12月FOMCでの金利据え置き観測が強まる。"
+  },
+  {
+    "title": "週刊仮想通貨ニュース｜金融庁の暗号資産規制方針やビットコイン採掘割合の95%到達に高い関心",
+    "link": "https://coinpost.jp/?p=668419",
+    "pubDate": "Sun, 23 Nov 2025 11:00:53 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "今週は、金融庁の仮想通貨規制方針、ビットコイン採掘割合の95%到達、ビットコインとイーサリアムの市況分析に関する記事が関心を集めた。"
+  },
+  {
     "title": "BlackRock’s Bitcoin clients aren’t ‘underwriting’ the case for global payments",
     "link": "https://cointelegraph.com/news/blackrock-bitcoin-clients-global-payment-case-digital-gold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sun, 23 Nov 2025 01:06:43 +0000",
@@ -203,13 +231,6 @@
     "contentSnippet": "スコット・ベセント米財務長官がビットコインバー「Pubkey DC」を訪問し、仮想通貨コミュニティで話題になっている。業界関係者の反応と今後の影響を解説する。"
   },
   {
-    "title": "Bitcoiners perk up as odds of a December Fed rate cut almost double",
-    "link": "https://cointelegraph.com/news/bitcoiners-us-federal-reserve-rate-cut-odds-surge-december-btc-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 22 Nov 2025 00:01:07 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Some Bitcoiners are speculating that the significant surge in the odds of a Fed rate cut in December may lead to Bitcoin finding a price “bottom here for now.”"
-  },
-  {
     "title": "Cardano Network Disrupted by 'Poisoned' Transaction Attack",
     "link": "https://decrypt.co/349694/cardano-network-disrupted-poisoned-transaction-attack",
     "pubDate": "Fri, 21 Nov 2025 23:39:08 +0000",
@@ -238,32 +259,11 @@
     "contentSnippet": "日本取引所グループの山道CEOは、ビットコインなどを保有する仮想通貨財務企業への規制強化は現時点では検討していないと説明。一方で、事業の大幅変更については対応を考える必要があるとも述べている。"
   },
   {
-    "title": "個人マイナーがビットコイン採掘に成功、1億8000万分の1の確率を克服",
-    "link": "https://coinpost.jp/?p=668409",
-    "pubDate": "Sat, 22 Nov 2025 07:05:00 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "極めて小規模な個人マイナーがわずか6TH/sのパワーでビットコインブロックの採掘に成功し、約26万5000ドル相当を獲得した。確率は1億8000万分の1で、近年最も幸運なソロ採掘となった。"
-  },
-  {
-    "title": "トム・リー率いるビットマイン、初の配当実施もイーサリアム保有の含み損は6250億円超　",
-    "link": "https://coinpost.jp/?p=668405",
-    "pubDate": "Sat, 22 Nov 2025 06:25:47 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "イーサリアム最大の企業保有者ビットマイン・イマージョン・テクノロジーズが11月21日、2025年8月期通期で純利益3億2816万ドルを計上し、大手仮想通貨企業として初めて配当を実施すると発表した。しかしイーサリアム価格下落で含み損は40億ドル超に達している。"
-  },
-  {
     "title": "Crypto Industry Makes Tax Policy Push With Private Dinner for Lawmakers",
     "link": "https://decrypt.co/349645/crypto-industry-tax-policy-private-dinner-lawmakers",
     "pubDate": "Fri, 21 Nov 2025 21:10:59 +0000",
     "source": "Decrypt",
     "contentSnippet": "A powerful nonprofit hosted a dinner with lawmakers this week focused on crypto taxes, while groups backing the nonprofit pushed the Trump administration on related policies."
-  },
-  {
-    "title": "金持ち父さん著者キヨサキ、3.5億円分ビットコインを売却し広告事業投資へ　以前の姿勢から一転",
-    "link": "https://coinpost.jp/?p=668399",
-    "pubDate": "Sat, 22 Nov 2025 06:02:41 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "『金持ち父さん貧乏父さん』の著者ロバート・キヨサキ氏が11月22日、約225万ドル相当のビットコインを売却し、外科センターと看板広告事業に投資すると発表した。以前の「売らずに買い続ける」発言から一転した。"
   },
   {
     "title": "Bitcoin in a Death Cross: How Low Will We Go?",
