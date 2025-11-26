@@ -1,17 +1,171 @@
 [
   {
+    "title": "U.S. Investigated Bitcoin Miner Manufacturer Bitmain as National Security Risk: Report",
+    "link": "https://decrypt.co/350063/u-s-investigated-bitcoin-miner-manufacturer-bitmain-as-national-security-risk-report",
+    "pubDate": "Wed, 26 Nov 2025 12:31:02 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The DHS has reportedly investigated whether Bitmain can remotely control Bitcoin miners—though experts say it would be hard to do undetected."
+  },
+  {
+    "title": "FCA trials crypto transparency templates as UK shapes new rulebook",
+    "link": "https://cointelegraph.com/news/uk-fca-eunice-crypto-disclosure-sandbox-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 26 Nov 2025 12:30:36 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Eunice will trial standardized crypto disclosure templates with major exchanges, feeding real-world data into the UK’s evolving 2026 rulebook."
+  },
+  {
+    "title": "Bonds Outshine: Crypto Daybook Americas",
+    "link": "https://www.coindesk.com/daybook-us/2025/11/26/bonds-outshine-crypto-daybook-americas",
+    "pubDate": "Wed, 26 Nov 2025 12:15:00 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Your day-ahead look for Nov. 26, 2025"
+  },
+  {
+    "title": "Trump-backed WLFI ramps up buybacks as token stays nearly 50% below launch price",
+    "link": "https://cointelegraph.com/news/trump-wlfi-token-buybacks-50-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 26 Nov 2025 12:03:12 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "The Trump family-backed WLFI purchased nearly $8 million worth of tokens, aiming to mitigate the downtrend of the token by artificially reducing the outstanding supply."
+  },
+  {
+    "title": "KakaoBank Pushes Forward With Korean Won-Backed Stablecoin Plans",
+    "link": "https://decrypt.co/350068/kakaobank-pushes-forward-with-korean-won-backed-stablecoin-plans",
+    "pubDate": "Wed, 26 Nov 2025 11:38:53 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The bank is ramping up technical work on a Korean won stablecoin after trademarks were filed ahead of forthcoming digital asset rules."
+  },
+  {
+    "title": "Crypto Markets Today: Altcoins Remain Subdued, MON Surges on Upbit Listing",
+    "link": "https://www.coindesk.com/markets/2025/11/26/crypto-markets-today-altcoins-remain-subdued-mon-surges-on-upbit-listing",
+    "pubDate": "Wed, 26 Nov 2025 11:33:07 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Crypto markets held steady Wednesday, remaining in “extreme fear,” with bitcoin unchanged, altcoins muted and Korean traders driving a rare standout rally in newly listed token MON."
+  },
+  {
+    "title": "KR1 Stakes 'Blue-Chip' Ambition With London Stock Exchange Debut",
+    "link": "https://www.coindesk.com/markets/2025/11/24/kr1-stakes-blue-chip-ambition-with-london-stock-exchange-debut",
+    "pubDate": "Wed, 26 Nov 2025 11:31:04 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "The Isle of Man-based contrasted its active staking and investment strategy with a more passive digital-asset treasury approach."
+  },
+  {
+    "title": "Smaller Turkey for Bitcoin Holders as Holiday Price Comes In Lower Year Over Year",
+    "link": "https://www.coindesk.com/markets/2025/11/26/smaller-turkey-for-bitcoin-holders-as-holiday-price-comes-in-lower-year-over-year",
+    "pubDate": "Wed, 26 Nov 2025 11:20:13 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Bitcoin’s Thanksgiving level looks set to trail 2024, echoing prior cooldown years."
+  },
+  {
+    "title": "Bipartisan Legislation Targets Rising Threat of AI-Powered Impersonation and Fraud",
+    "link": "https://decrypt.co/350065/bipartisan-legislation-targets-rising-threat-of-ai-powered-impersonation-and-fraud",
+    "pubDate": "Wed, 26 Nov 2025 11:19:04 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The bipartisan bill seeks to combat rising AI fraud threat with harsh penalties for wire fraud, money laundering, impersonation."
+  },
+  {
+    "title": "Edel Finance-linked wallets reportedly ‘snipe’ 30% of token supply: Bubblemaps",
+    "link": "https://cointelegraph.com/news/edel-finance-wallets-snipe-30-token-11m-bubblemaps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 26 Nov 2025 10:53:14 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Bubblemaps shared blockchain data indicating that team-related wallets had purchased 30% of the token supply, but Edel’s co-founder said the acquisition was part of its token rollout plans."
+  },
+  {
+    "title": "Naver to acquire Upbit operator Dunamu in $10.3B all-stock deal",
+    "link": "https://cointelegraph.com/news/naver-financial-acquires-dunamu-upbit-10b-stock-swap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 26 Nov 2025 10:42:58 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Naver Financial plans to acquire Dunamu in a $10.3 billion stock-swap deal, issuing 87.56 million new shares and making the crypto giant a wholly owned subsidiary."
+  },
+  {
+    "title": "BIS taps IMF digital money chief and CBDC backer as new head of Innovation Hub",
+    "link": "https://cointelegraph.com/news/bis-appoints-tommaso-mancini-griffoli-to-lead-innovation-hub?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 26 Nov 2025 10:12:57 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "The Bank for International Settlements is advancing major digital currency pilots, testing cross-border CBDCs, tokenized deposits and real-time payment rails."
+  },
+  {
+    "title": "Altcoins HYPE, WLFI, and ENA are Soaring as Bitcoin Cools",
+    "link": "https://decrypt.co/350060/altcoins-hype-wlfi-and-ena-are-soaring-as-bitcoin-cools",
+    "pubDate": "Wed, 26 Nov 2025 10:02:09 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "As Bitcoin stabilizes, coins like ENA and a Trump-linked token have surged on selective capital rotation into altcoins."
+  },
+  {
+    "title": "AIOZ Network to ‘Empower’ Decentralized AI Devs with Open Models and Challenges",
+    "link": "https://decrypt.co/349805/aioz-network-to-empower-decentralized-ai-devs-with-open-models-and-challenges",
+    "pubDate": "Wed, 26 Nov 2025 10:01:02 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The platform’s open approach is designed around efficiency, security and accessibility—and to catalyze AI's development."
+  },
+  {
+    "title": "Bitcoin eyes rebound to $96K from current ‘discount’ zone: Analysis",
+    "link": "https://cointelegraph.com/news/bitcoin-eyes-rebound-96k-from-discount-zone-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 26 Nov 2025 09:55:45 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "A Bitcoin bull flag on the price charts projected a rebound to $96,000 as the Puell Multiple indicator suggested that BTC is undervalued at current prices."
+  },
+  {
+    "title": "Spain’s junior ruling party proposes 47% crypto tax in ‘attack against Bitcoin’",
+    "link": "https://cointelegraph.com/news/spain-crypto-tax-proposal-bitcoin-risk-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 26 Nov 2025 09:29:21 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Spain’s Sumar party reportedly wants to raise crypto taxes to 47%, classify all digital assets as seizable and introduce a “risk traffic light” system."
+  },
+  {
+    "title": "Deutsche Börse locks in third euro stablecoin amid broader EU adoption",
+    "link": "https://cointelegraph.com/news/deutsche-borse-allunity-eurau-stablecoin-integration-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 26 Nov 2025 09:18:47 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Deutsche Börse is integrating AllUnity’s EURAU stablecoin into its market infrastructure — its third euro-pegged stablecoin — signaling a full-spectrum push."
+  },
+  {
+    "title": "Bitcoin price bottom due ‘this week’ with BTC down 20% in November",
+    "link": "https://cointelegraph.com/news/bitcoin-price-bottom-this-week-btc-down-20-percent-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 26 Nov 2025 09:10:12 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Bitcoin losses remained near 20% for November, risking its worst 11th month since the 2018 bear market, but AI predicted a bottom coming this week."
+  },
+  {
+    "title": "Ark Adds $9.1M in Circle and Bullish as Crypto Stocks Keep Sliding",
+    "link": "https://www.coindesk.com/markets/2025/11/26/ark-adds-usd9-1m-in-circle-crcl-and-bullish-blsh-as-crypto-stocks-keep-sliding",
+    "pubDate": "Wed, 26 Nov 2025 07:33:40 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "The Nov. 25 buys included $7.6 million in Circle and $1.5 million in Bullish, with both stocks down on the day as BTC trades around $87,500."
+  },
+  {
+    "title": "MEXC、毎月の準備金監査を導入　Hackenを独立監査人に任命",
+    "link": "https://coinpost.jp/?p=668790",
+    "pubDate": "Wed, 26 Nov 2025 16:30:18 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "暗号資産取引所MEXCがブロックチェーンセキュリティ企業Hackenを独立監査人に任命し、毎月の準備金監査を導入。初回報告は11月末に公開予定。マークルツリー方式による検証の仕組みも解説。"
+  },
+  {
+    "title": "Bitcoin Depot Contests $18.5M Award as Subsidiary Faces Dual Legal Battles",
+    "link": "https://decrypt.co/350058/bitcoin-depot-contests-award-subsidiary-faces-dual-legal-battles",
+    "pubDate": "Wed, 26 Nov 2025 07:27:48 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Cash Cloud’s bankruptcy case in Nevada cites similar claims mentioned in the Canada arbitral proceedings, according to Bitcoin Depot."
+  },
+  {
+    "title": "Bitcoin Dip in 2026, Surge in 2028: JPMorgan’s IBIT-Linked Structured Note Fits Halving Cycles",
+    "link": "https://www.coindesk.com/markets/2025/11/26/bitcoin-dip-in-2026-surge-in-2028-jpmorgan-s-ibit-linked-structured-note-fits-halving-cycles",
+    "pubDate": "Wed, 26 Nov 2025 07:06:57 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "JPMorgan Chase has introduced a structured note linked to BlackRock's IBIT that matches BTC's four-year halving cycle."
+  },
+  {
+    "title": "ロビンフッド、予測市場向けデリバティブ取引所を新設　2026年運営開始",
+    "link": "https://coinpost.jp/?p=669167",
+    "pubDate": "Wed, 26 Nov 2025 15:35:33 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "ロビンフッドがサスケハナと提携し、CFTC認可の先物取引所を買収。予測市場事業を強化し、2026年の独自取引所運営を目指す。市場規模は2035年までに955億ドルに達する見込み。"
+  },
+  {
     "title": "Prediction markets are Robinhood’s fastest-growing money maker",
     "link": "https://cointelegraph.com/news/robinhood-prediction-markets-growth-derivatives-exchange-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Wed, 26 Nov 2025 06:13:57 +0000",
     "source": "Cointelegraph",
     "contentSnippet": "Since Robinhood launched its prediction markets in March, nine billion contracts have been traded by more than one million users, according to the platform."
-  },
-  {
-    "title": "Crypto-friendly Trump adviser Hassett top pick for Fed chair: Report",
-    "link": "https://cointelegraph.com/news/crypto-friendly-trump-adviser-kevin-hassett-top-fed-chair-pick-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 26 Nov 2025 06:08:14 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Kevin Hassett, who was central to the president’s crypto working group, has sprung up as a frontrunner to take over the Federal Reserve, Bloomberg reports."
   },
   {
     "title": "XRP Tests Crucial $2.20 Pivot After $164M ETF Debut Fails to Offset Liquidations",
@@ -28,18 +182,11 @@
     "contentSnippet": "DOGE is in a bullish consolidation phase, with technical indicators suggesting potential for upward movement if resistance at $0.154 is surpassed."
   },
   {
-    "title": "Bitcoin looks red again this month, but demand may stir soon: Bitfinex",
-    "link": "https://cointelegraph.com/news/bitcoin-price-november-red-month-demand-resurgence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 26 Nov 2025 05:54:58 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Bitcoin has broken character for two consecutive months and now faces two possible paths: a resurgence in demand or a deeper accumulation phase."
-  },
-  {
-    "title": "Coinbase reveals 9 crypto ideas it wants to bankroll in 2026",
-    "link": "https://cointelegraph.com/news/coinbase-venture-arm-shares-9-crypto-innovations-it-seeks-support-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 26 Nov 2025 05:43:50 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Coinbase Ventures outlined nine investment priorities for 2026, spanning RWA perpetuals, specialized exchanges, DeFi composability and AI-powered development tools."
+    "title": "日本の暗号資産規制、具体的な方向性は？──金融審議会WG",
+    "link": "https://coinpost.jp/?p=669123",
+    "pubDate": "Wed, 26 Nov 2025 14:50:21 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "金融審議会WGが暗号資産規制の報告書案を取りまとめ。資金決済法から金商法へ移管し、インサイダー取引規制や課徴金制度を新設する。銀行子会社の参入も解禁。座長は「お墨付きを与えるものではない」と強調した。"
   },
   {
     "title": "Essential Bitcoin Price Points Traders Should Track Now",
@@ -49,6 +196,13 @@
     "contentSnippet": "Major moving averages on price charts are likely to act as key battlegrounds where bulls and bears fight for control."
   },
   {
+    "title": "仮想通貨企業のベンチャー投資、価格上昇でも活動は低調＝レポート",
+    "link": "https://coinpost.jp/?p=669133",
+    "pubDate": "Wed, 26 Nov 2025 14:12:10 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "仮想通貨金融大手ギャラクシーデジタルは、2025年第3四半期（Q3）の仮想通貨ベンチャーキャピタル（の現状について、市場心理は改善し活動も増加しているものの、以前の強気相場の水準には大きく及ばないと指摘した。"
+  },
+  {
     "title": "Nevada Just Shattered Prediction Markets’ Favorite Theory in Kalshi Ruling",
     "link": "https://www.coindesk.com/policy/2025/11/26/nevada-just-shattered-prediction-markets-favorite-theory-in-kalshi-ruling",
     "pubDate": "Wed, 26 Nov 2025 04:40:47 +0000",
@@ -56,11 +210,11 @@
     "contentSnippet": "Nevada’s ruling says sports outcome contracts on a federally regulated exchange are not swaps, opening the door for state gambling laws to apply."
   },
   {
-    "title": "Bitcoin final leverage flush below $80K is possible, warns analyst",
-    "link": "https://cointelegraph.com/news/analyst-warns-more-leverage-liquidations-could-push-btc-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 26 Nov 2025 04:29:15 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "An analyst has warned that Bitcoin’s recent liquidation event may not be finished, with remaining leverage potentially pushing prices somewhere between the $70,000 to $80,000 zone."
+    "title": "F・テンプルトン、ソラナETFの最終上場手続きを完了　まもなく取引開始へ",
+    "link": "https://coinpost.jp/?p=669116",
+    "pubDate": "Wed, 26 Nov 2025 13:35:28 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "運用資産255兆円を誇るフランクリン・テンプルトンがソラナETFのForm 8-Aを提出。取引開始が目前に迫る中、既存のソラナETFは20日連続で純流入を記録し、累計858億円の資金が流入している。"
   },
   {
     "title": "Three Signals Bitcoin Options Traders Are Looking For to Time a 'Genuine Low'",
@@ -70,32 +224,11 @@
     "contentSnippet": "Options traders are signaling a capped Bitcoin rebound, with volatility gauges pointing to a range-bound 2025 rather than a year-end surge."
   },
   {
-    "title": "DeFi is already 30% of the way to mass adoption: Chainlink founder",
-    "link": "https://cointelegraph.com/news/defi-global-adoption-regulation-institutional-funds-chainlink-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 26 Nov 2025 03:51:13 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Chainlink’s Sergey Nazarov has shared a potential roadmap for how DeFi could reach 100% adoption in four years, noting that a big part of this hinges on regulation."
-  },
-  {
-    "title": "Texas buys the Bitcoin dip, acquiring $5M of BlackRock’s IBIT",
-    "link": "https://cointelegraph.com/news/texas-snaps-5m-blackrock-bitcoin-etf-amid-btc-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 26 Nov 2025 03:13:41 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Texas has also allocated an additional $5 million for direct, self-custodied Bitcoin, signaling growing state-level adoption in the US."
-  },
-  {
-    "title": "‘Institutions have arrived’ — US Bancorp launches stablecoin pilot on Stellar network",
-    "link": "https://cointelegraph.com/news/us-bancorp-stablecoin-pilot-pwc-stellar-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 26 Nov 2025 03:10:44 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "The ability to freeze assets and unwind transactions was a key consideration when selecting the blockchain for the pilot, according to Mike Villano from US Bank."
-  },
-  {
-    "title": "Grayscale spot Dogecoin ETF falls under volume expectations on debut",
-    "link": "https://cointelegraph.com/news/america-s-first-spot-dogecoin-etf-falls-under-volume-expectations-on-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 26 Nov 2025 03:06:19 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Trading volume on the debut of Grayscale's first US spot Dogecoin ETF came in under an analyst’s expectation, with Bitwise soon to launch its own fund."
+    "title": "米CFTC、民間企業CEOにイノベーション評議会への参加を呼びかけ　仮想通貨にも対処　",
+    "link": "https://coinpost.jp/?p=669098",
+    "pubDate": "Wed, 26 Nov 2025 13:10:11 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "米CFTCのファム代理委員長が「CEOイノベーション・カウンシル」参加者の候補者推薦を呼びかけた。仮想通貨や予測市場の規制策定に向け、業界リーダーを募集している。"
   },
   {
     "title": "Monad Hit With Spoofed Token Transfers Days After Mainnet Launch",
@@ -105,6 +238,20 @@
     "contentSnippet": "Fake ERC-20 transfers appeared within 48 hours of MON’s debut as attackers targeted users during the network’s first wave of activity."
   },
   {
+    "title": "VanEck、BNB現物ETFのステーキング計画を撤回　方針転換に",
+    "link": "https://coinpost.jp/?p=669069",
+    "pubDate": "Wed, 26 Nov 2025 11:15:11 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "VanEckが米SECに提出したBNB現物ETFの修正届出書で、当初予定していたステーキング機能を撤回。BNBの有価証券分類をめぐる規制リスクが背景にあるとみられる。"
+  },
+  {
+    "title": "米上場のリライアンス社、デジタル資産トレジャリーをジーキャッシュ（ZEC）に一本化",
+    "link": "https://coinpost.jp/?p=669066",
+    "pubDate": "Wed, 26 Nov 2025 11:05:40 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "ナスダック上場のリライアンス・グローバル・グループがデジタル資産トレジャリーを仮想通貨ジーキャッシュ（ZEC）に統合した。プライバシー機能を持つ仮想通貨への需要が高まる中、サイファーパンク・テクノロジーズも追加購入を発表している。"
+  },
+  {
     "title": "JPMorgan's Bitcoin Structured Notes Offer Potentially Massive Returns—If BTC Surges by 2028",
     "link": "https://decrypt.co/350018/jpmorgan-bitcoin-structured-notes-potentially-massive-returns-btc-surges-2028",
     "pubDate": "Wed, 26 Nov 2025 02:05:26 +0000",
@@ -112,11 +259,18 @@
     "contentSnippet": "The bank has an idea for a product that would allow investors to make big gains if the leading cryptocurrency soars."
   },
   {
-    "title": "Asia Morning Briefing: Asia Wakes Up to an AI BTC-Nvidia Tailwind That’s Already Starting to Sputter",
-    "link": "https://www.coindesk.com/markets/2025/11/26/asia-morning-briefing-asia-wakes-up-to-an-ai-btc-nvidia-tailwind-that-s-already-starting-to-sputter",
-    "pubDate": "Wed, 26 Nov 2025 02:04:21 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Yesterday’s Amazon-driven risk rally is colliding with a sharp wobble in Nvidia, putting the AI-BTC-beta trade that lifted crypto back under scrutiny."
+    "title": "予測市場ポリマーケット、CFTC承認受け米国市場に正式復帰",
+    "link": "https://coinpost.jp/?p=669051",
+    "pubDate": "Wed, 26 Nov 2025 10:25:23 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "予測市場大手ポリマーケットが米CFTCの承認を受け、3年ぶりに米国市場に正式復帰。2022年の罰金処分後、QCX買収とICEからの投資を経て、完全規制下での事業再開へ。"
+  },
+  {
+    "title": "スタンダードチャータード銀行、21Sharesの仮想通貨カストディアンに選定",
+    "link": "https://coinpost.jp/?p=669042",
+    "pubDate": "Wed, 26 Nov 2025 10:10:21 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "スタンダードチャータード銀行が21Sharesの仮想通貨カストディアンに選定された。機関投資家の需要に対応し安全な保管サービスを提供。様々な仮想通貨企業とも提携を進めている。"
   },
   {
     "title": "Saudi Arabia's First Quantum Computer: Can It Break Bitcoin?",
@@ -124,96 +278,5 @@
     "pubDate": "Tue, 25 Nov 2025 22:56:20 +0000",
     "source": "Decrypt",
     "contentSnippet": "Saudi Arabia has deployed its first quantum computer, renewing questions about the future of blockchain security."
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 25 Nov 2025 22:32:03 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
-  },
-  {
-    "title": "Monad Rises After Airdrop While Bitcoin and Ethereum Droop",
-    "link": "https://decrypt.co/350029/monad-rises-after-airdrop-bitcoin-ethereum-droop",
-    "pubDate": "Tue, 25 Nov 2025 21:59:06 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The price of Monad’s native cryptocurrency rose on Tuesday, following an anticipated airdrop that initially underwhelmed some speculators."
-  },
-  {
-    "title": "Bitwise Dogecoin ETF Debut Imminent After Quiet Start for Grayscale DOGE Fund",
-    "link": "https://decrypt.co/350019/bitwise-dogecoin-etf-debut-imminent-quiet-start-grayscale-doge-fund",
-    "pubDate": "Tue, 25 Nov 2025 21:29:25 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Bitwise's Dogecoin ETF, BWOW, was certified by NYSE Arca, signaling investors will soon be able to start trading the meme coin fund."
-  },
-  {
-    "title": "Texas Buys $5M in BTC ETF as States Edge Toward First Government Crypto Reserves",
-    "link": "https://www.coindesk.com/policy/2025/11/25/texas-buys-usd5m-in-btc-etf-as-states-edge-toward-first-government-crypto-reserves",
-    "pubDate": "Tue, 25 Nov 2025 21:05:59 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "The effort is starting small, but Texas made an opening foray into a state-based crypto reserve — getting closer to the first government stockpile in the U.S."
-  },
-  {
-    "title": "US Bank Is Testing a Stablecoin on Stellar Network",
-    "link": "https://decrypt.co/350011/us-bank-testing-stablecoin-stellar-network",
-    "pubDate": "Tue, 25 Nov 2025 20:49:51 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "U.S. Bank joins the growing list of traditional banking institutions working on stablecoins, testing its own on the Stellar blockchain."
-  },
-  {
-    "title": "MoonPay Granted New York Trust Charter, Joining Coinbase and Ripple",
-    "link": "https://decrypt.co/350004/moonpay-wins-new-york-trust-charter-joining-coinbase-ripple",
-    "pubDate": "Tue, 25 Nov 2025 20:26:08 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Crypto payments firm MoonPay has gained regulatory approval in New York to safeguard customers’ digital assets and facilitate OTC trades."
-  },
-  {
-    "title": "Kraken Launches Bitcoin Rewards Debit Mastercard Ahead of Planned IPO",
-    "link": "https://decrypt.co/349996/kraken-launches-bitcoin-rewards-debit-mastercard-planned-ipo",
-    "pubDate": "Tue, 25 Nov 2025 20:16:14 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Kraken unveiled a Bitcoin rewards Mastercard debit card that links to its peer-to-peer payments app, Krak."
-  },
-  {
-    "title": "Polymarket Set for US Return Following Approval From CFTC",
-    "link": "https://decrypt.co/350003/polymarket-set-us-return-following-approval-cftc",
-    "pubDate": "Tue, 25 Nov 2025 19:34:07 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The popular prediction market says it now has permission to directly onboard U.S. customers, brokerages, and market intermediaries."
-  },
-  {
-    "title": "Stellar Rallies 2.3% Breaking Key Resistance on Volume Surge",
-    "link": "https://www.coindesk.com/markets/2025/11/25/stellar-rallies-2-3-breaking-key-resistance-on-volume-surge",
-    "pubDate": "Tue, 25 Nov 2025 19:00:48 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Stellar breaks through critical $0.2460 level as institutional flows drive measured accumulation above seven-day averages."
-  },
-  {
-    "title": "U.S. Crypto Regulator, CFTC, Seeking Names for New 'CEO Innovation Council' ",
-    "link": "https://www.coindesk.com/policy/2025/11/25/u-s-crypto-regulator-cftc-seeking-names-for-new-ceo-innovation-council",
-    "pubDate": "Tue, 25 Nov 2025 18:51:06 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Acting Chairman Caroline Pham said the group will help usher in a new era of market structure, including a focus on digital assets."
-  },
-  {
-    "title": "Filecoin Spikes 9% as Downtrend Breaks",
-    "link": "https://www.coindesk.com/markets/2025/11/25/filecoin-spikes-9-as-downtrend-breaks",
-    "pubDate": "Tue, 25 Nov 2025 18:32:50 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "The strong price action occurred on below-average volume."
-  },
-  {
-    "title": "U.S Bank Tests Custom Stablecoin Issuance on Stellar Network",
-    "link": "https://www.coindesk.com/business/2025/11/25/u-s-bank-tests-custom-stablecoin-issuance-on-stellar-network",
-    "pubDate": "Tue, 25 Nov 2025 18:29:53 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "The nation's fifth-largest commercial bank explores how a bank can issue stablecoins on a public blockchain."
-  },
-  {
-    "title": "新たなICOプラットフォームとして注目を集めるStellar社に独占インタビュー",
-    "link": "https://coinpost.jp/?p=13651",
-    "pubDate": "Thu, 08 Feb 2018 06:30:06 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "最近いくつかのスタートアップ企業がICOでStellarネットワークを利用し始めています。Lumenトークンの流動性を増やすべく、Stellar社は取引所への新規上場や、企業とのパートナーシップの強化に力を注いでいます。"
   }
 ]
