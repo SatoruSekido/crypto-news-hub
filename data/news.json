@@ -1,5 +1,180 @@
 [
   {
+    "title": "Bitcoin and S&P 500 Year-End Bull Run Loading? Vol Metrics Say Yes",
+    "link": "https://www.coindesk.com/markets/2025/11/28/bitcoin-and-s-and-p-500-year-end-bull-run-loading-vol-metrics-say-yes",
+    "pubDate": "Fri, 28 Nov 2025 06:24:35 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Implied volatility indices tied to bitcoin and the S&P 500 have erased the recent spike, offering bullish price signals."
+  },
+  {
+    "title": "UK takes ‘meaningful step forward’ with proposed DeFi tax overhaul",
+    "link": "https://cointelegraph.com/news/uk-crypto-tax-reform-no-gain-no-loss-defi-lending-liquidity-pools?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 28 Nov 2025 06:20:54 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "The UK has proposed a “no gain, no loss” approach to decentralized finance transactions, scrapping capital gains taxes on deposits to crypto lending platforms."
+  },
+  {
+    "title": "Bitcoin set for ‘promising new year’ as it faces worst November in 7 years",
+    "link": "https://cointelegraph.com/news/bitcoin-likely-on-track-worst-november-in-7-years-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 28 Nov 2025 06:00:19 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Bitcoin is down nearly 17% this month and is tracking toward its worst November since at least 2019, but LVRG’s Nick Ruck says that sets it up for a good 2026."
+  },
+  {
+    "title": "How the Fusaka upgrade fits into Ethereum’s long-term roadmap",
+    "link": "https://cointelegraph.com/explained/how-the-fusaka-upgrade-fits-into-ethereum-s-long-term-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 28 Nov 2025 05:44:05 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "A clear look at how Ethereum’s Fusaka upgrade advances scaling, data efficiency and validator usability across the next phase of the roadmap."
+  },
+  {
+    "title": "ブータン政府が320ETHをステーキング、BTC保有と併せ仮想通貨準備金戦略を拡大",
+    "link": "https://coinpost.jp/?p=669912",
+    "pubDate": "Fri, 28 Nov 2025 14:30:22 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "ブータン政府はFigmentを通じて320ETH（約1.5億円）をステーキングした。世界初となる国民デジタルIDのイーサリアム統合、6,154BTC（876億円相当）の保有、観光業へのバイナンスペイ導入など、小国ながら先進的なブロックチェーン戦略を展開している。"
+  },
+  {
+    "title": "South Korea Suspects North Korea-Linked Lazarus Behind $36M Upbit Hack",
+    "link": "https://www.coindesk.com/markets/2025/11/28/south-korea-suspects-north-korea-linked-lazarus-behind-usd36m-upbit-hack",
+    "pubDate": "Fri, 28 Nov 2025 05:18:56 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "On Thursday, South Korea's largest digital asset exchange, Upbit, suspended deposits and withdrawals after detecting unusual activity in the Solana network tokens."
+  },
+  {
+    "title": "Monad Token Extends Slide Amid Profit-Taking, Spoofed Transaction Concerns",
+    "link": "https://decrypt.co/350306/monad-token-extends-slide-profit-taking-spoofed-transactions",
+    "pubDate": "Fri, 28 Nov 2025 05:18:21 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Monad’s token slipped on Thursday as possible profit-taking and a recent spoofing issue pressured prices despite brisk on-chain activity."
+  },
+  {
+    "title": "Solana Traders Hit by Months-Long Browser Malware That Skimmed Every Swap",
+    "link": "https://www.coindesk.com/markets/2025/11/28/solana-traders-hit-by-months-long-browser-malware-that-skimmed-every-swap",
+    "pubDate": "Fri, 28 Nov 2025 05:03:13 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Wallet interfaces typically summarize instructions as a single swap, and the bundled transaction executes atomically—meaning users unknowingly sign off on both."
+  },
+  {
+    "title": "Crypto sentiment recovers to levels when Bitcoin last traded over $100K",
+    "link": "https://cointelegraph.com/news/crypto-market-sentiment-levels-bitcoin-price-industry-anticipation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 28 Nov 2025 04:59:56 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Despite Bitcoin remaining below $100,000, crypto sentiment is improving as the cryptocurrency has climbed above $90,000."
+  },
+  {
+    "title": "Upbit Hack Attributed to North Korea's Lazarus as Seoul Opens Probe: Report",
+    "link": "https://decrypt.co/350303/upbit-hack-north-koreas-lazarus-seoul-opens-probe",
+    "pubDate": "Fri, 28 Nov 2025 04:41:22 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The breach has prompted a formal review of Upbit’s systems as regulators examine the Solana hot-wallet theft."
+  },
+  {
+    "title": "トム・リー率いるビットマイン、押し目買いで70億円相当のイーサリアムを追加購入",
+    "link": "https://coinpost.jp/?p=669901",
+    "pubDate": "Fri, 28 Nov 2025 13:30:22 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "ビットマイン・イマージョンが27日、70億円相当のイーサリアムを追加購入した。これは同社の毎週の購入パターンと一致。先週まで保有するETHは363万枚を超え供給量の3%に到達。"
+  },
+  {
+    "title": "DOGE Underperforms Majors as Support Failure Confirms Bearish Shift",
+    "link": "https://www.coindesk.com/markets/2025/11/28/doge-underperforms-majors-as-support-failure-confirms-bearish-shift",
+    "pubDate": "Fri, 28 Nov 2025 04:24:52 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "The $0.150 level is now a critical support point, with further declines likely if it is breached."
+  },
+  {
+    "title": "South Africa’s central bank says no ‘strong immediate need’ for CBDC",
+    "link": "https://cointelegraph.com/news/south-africa-central-bank-no-strong-immediate-need-for-cbdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 28 Nov 2025 04:11:34 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "The South African Reserve Bank found no short-term need for a retail CBDC, saying wholesale or cross-border uses should be explored instead."
+  },
+  {
+    "title": "途上国インフレが仮想通貨の促進要因に　今年のチェイナリシス「グローバル仮想通貨採用指標」",
+    "link": "https://coinpost.jp/?p=669846",
+    "pubDate": "Fri, 28 Nov 2025 13:10:30 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "チェイナリシスの2025年仮想通貨採用指標でインドが首位に。各国でインフレがステーブルコインなど仮想通貨の需要を喚起している。日本はAPAC地域で最高成長率を記録した。"
+  },
+  {
+    "title": "XRP Faces Downside Risk as Historical Patterns Point to $1.50",
+    "link": "https://www.coindesk.com/markets/2025/11/28/xrp-faces-downside-risk-as-historical-patterns-point-to-usd1-50",
+    "pubDate": "Fri, 28 Nov 2025 03:50:41 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "XRP needs to reclaim $2.20 and break $2.23–$2.24 to regain upward momentum, as technical indicators remain bearish."
+  },
+  {
+    "title": "トム・リー氏、ビットコイン年末25万ドル予想を軟化　史上最高値更新は「可能性ある」",
+    "link": "https://coinpost.jp/?p=669881",
+    "pubDate": "Fri, 28 Nov 2025 12:46:39 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "ビットマインのトム·リー会長が年末25万ドルという強気予想を初めて軟化。10月に200万口座が消滅した史上最大の清算イベント後、年末10万ドル突破は「非常に可能性が高い」と予想を下方修正したが、楽観的な見方は維持している。"
+  },
+  {
+    "title": "MegaETH’s $500M Pre-Deposit Turns Into a Full Rewind After Missteps Pile Up",
+    "link": "https://www.coindesk.com/markets/2025/11/28/megaeth-s-usd500m-pre-deposit-turns-into-a-full-rewind-after-missteps-pile-up",
+    "pubDate": "Fri, 28 Nov 2025 03:30:28 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "The issues began immediately at launch, when transactions failed because the contract contained an incorrect SaleUUID, requiring a 4-of-6 multisig update."
+  },
+  {
+    "title": "Switzerland delays crypto tax info sharing until 2027",
+    "link": "https://cointelegraph.com/news/switzerland-delays-crypto-tax-info-sharing-until-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 28 Nov 2025 03:25:35 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Switzerland will enshrine a global crypto tax sharing framework into law on Jan. 1, but will delay implementing it until at least 2027."
+  },
+  {
+    "title": "Animoca eyes stablecoins, AI, DePIN as it expands focus in 2026: Exec",
+    "link": "https://cointelegraph.com/news/animoca-brands-gaming-stablecoins-ai-depin-investments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 28 Nov 2025 02:55:14 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Animoca Brands’ Keyvan Peymani says the Web3 gaming company is exploring all segments of the crypto industry, including DePIN, DeFi and AI."
+  },
+  {
+    "title": "Decentralized exchange volumes soar on memecoin trading rush: CoinGecko",
+    "link": "https://cointelegraph.com/news/dex-trading-volumes-onchain-growth-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 28 Nov 2025 02:35:35 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "In June, the DEX to CEX spot ratio hit an all-time peak of 37.4%, largely due to “a spike in PancakeSwap’s volumes,” says CoinGecko analyst Yuqian Lim."
+  },
+  {
+    "title": "欧州最大級の資産運用会社アムンディ、イーサリアム上で初のトークン化ファンドを運用開始",
+    "link": "https://coinpost.jp/?p=669843",
+    "pubDate": "Fri, 28 Nov 2025 11:35:12 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "欧州最大級の資産運用会社アムンディが、マネーマーケットファンドの初のトークン化シェアをイーサリアムブロックチェーン上で開始した。24時間365日の運用が可能になり、投資家は従来型とトークン化の両方でファンドにアクセスできる。"
+  },
+  {
+    "title": "Visa、中東欧・中東・アフリカでステーブルコイン決済を拡大　Aquanowと提携",
+    "link": "https://coinpost.jp/?p=669839",
+    "pubDate": "Fri, 28 Nov 2025 11:26:39 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "決済大手Visaが27日、Aquanowと提携し中東欧・中東・アフリカ地域でステーブルコイン決済を拡大すると発表。USDCを活用し、コスト削減と決済時間短縮を実現。世界のステーブルコイン市場は5年で10倍に成長。"
+  },
+  {
+    "title": "Asia Morning Briefing: Bitcoin Steadies Near $90,000 Even as ETF Outflows Cap Upside",
+    "link": "https://www.coindesk.com/markets/2025/11/28/asia-morning-briefing-bitcoin-steadies-near-usd90-000-even-as-etf-outflows-cap-upside",
+    "pubDate": "Fri, 28 Nov 2025 02:24:26 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Flowdesk and QCP see short covering and dip buying supporting BTC around $90,000, while prediction markets assign low odds of a push toward $96,000."
+  },
+  {
+    "title": "USDT発行のテザー、ウルグアイのBTCマイニング施設を閉鎖　高コストで採算合わず",
+    "link": "https://coinpost.jp/?p=669772",
+    "pubDate": "Fri, 28 Nov 2025 10:25:23 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "ステーブルコインUSDT発行のテザー社がウルグアイでのBTCマイニング事業を停止した。電力コストが折り合わなかったことを理由としている。7月にはブラジルでの計画を発表していた。"
+  },
+  {
+    "title": "ETH whales uneasy as onchain, derivatives data reduce chance for rally to $4K",
+    "link": "https://cointelegraph.com/news/eth-whales-cautious-as-data-shows-slim-chance-of-rally-to-dollar4k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 28 Nov 2025 01:20:49 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "ETH investor sentiment wavers as onchain activity and bearish derivatives positioning leave whales unconvinced, reducing the odds for a rally to $4,000."
+  },
+  {
     "title": "ヴィタリック、計1億円超相当のイーサリアムをプライバシー領域のプロジェクトに寄付",
     "link": "https://coinpost.jp/?p=669764",
     "pubDate": "Fri, 28 Nov 2025 09:45:16 +0900",
@@ -35,60 +210,11 @@
     "contentSnippet": "ネイバーとアップビット運営のドゥナムが、AIとブロックチェーンを組み合わせた次世代金融インフラ構築に向け、今後5年間で1兆円超を投資する計画を発表した。韓国ウォン連動型ステーブルコイン発行も視野に入れている。"
   },
   {
-    "title": "Bhutan stakes $970K ETH via Figment in validator push",
-    "link": "https://cointelegraph.com/news/bhutan-stakes-eth-figment-validator?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 27 Nov 2025 22:15:43 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "The small nation’s Ether staking adds to its expanding blockchain activity as it remains one of the few governments holding Bitcoin."
-  },
-  {
-    "title": "イーサリアム、ブロックのガスリミットを6000万ユニットに引き上げ　処理能力が向上",
-    "link": "https://coinpost.jp/?p=669749",
-    "pubDate": "Fri, 28 Nov 2025 07:10:45 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "仮想通貨イーサリアムは、ブロックのガスリミットが6000万ユニットに引き上げられた。これにより、フサカアップグレードの前にトランザクション処理能力が向上した。"
-  },
-  {
-    "title": "Bitcoiners accuse JPMorgan of rigging the game against Strategy, DATs",
-    "link": "https://cointelegraph.com/news/bitcoiners-accuse-jpmorgan-rigging-strategy-dats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 27 Nov 2025 21:54:20 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "The financial services giant has filed with the US Securities and Exchange Commission to launch a leveraged BTC financial product."
-  },
-  {
     "title": "Balancer DAO Starts Discussing $8M Recovery Plan After $110M Exploit Cut TVL by Two-Thirds",
     "link": "https://www.coindesk.com/web3/2025/11/27/balancer-dao-starts-discussing-usd8m-recovery-plan-after-usd110m-exploit-cut-tvl-by-two-thirds",
     "pubDate": "Thu, 27 Nov 2025 21:39:14 +0000",
     "source": "CoinDesk",
     "contentSnippet": "The recovered tokens, spanning multiple networks and assets, will be paid out in the same tokens as originally provided, with a claim mechanism being developed."
-  },
-  {
-    "title": "アップビットのハッキング後に一部のソラナ系銘柄で大幅なキムチプレミアム発生、Orcaは50%超の価格乖離",
-    "link": "https://coinpost.jp/?p=669746",
-    "pubDate": "Fri, 28 Nov 2025 06:35:02 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "韓国のアップビットで27日にハッキングが発生し入出金が停止された後、ソラナ系トークンで大幅な価格乖離が発生した。オルカは国際価格と比較して51%のプレミアムを記録し、Meteoraも40%のプラス乖離を示している。"
-  },
-  {
-    "title": "ビットワイズがアバランチETF申請を更新、最大70%のステーキング機能導入へ",
-    "link": "https://coinpost.jp/?p=669742",
-    "pubDate": "Fri, 28 Nov 2025 05:56:49 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "ビットワイズが米証券取引委員会に提出したアバランチ現物ETFの申請書類を更新した。ティッカーはBAVAに変更され、保有AVAXの最大70%をステーキングできる仕組みを導入する。"
-  },
-  {
-    "title": "ソラナミームコインBONKの現物ETP、スイス証券取引所に上場",
-    "link": "https://coinpost.jp/?p=669738",
-    "pubDate": "Fri, 28 Nov 2025 05:40:33 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "ソラナミームコインBONKがスイスのSIX証券取引所で取引を開始した。ビットコイン・キャピタルが発行するETPにより、投資家は従来の証券口座を通じてBONKへのエクスポージャーを得られるようになった。"
-  },
-  {
-    "title": "Amundi brings euro money market fund onchain with first tokenized share",
-    "link": "https://cointelegraph.com/news/amundi-tokenized-euro-money-market-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 27 Nov 2025 20:23:33 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "The asset manager’s hybrid rollout enables investors to choose between the traditional fund and a new blockchain-based version recorded on Ethereum."
   },
   {
     "title": "Toncoin Lags Broader Crypto Rebound as Derivatives Data Shows Cautious Optimism",
@@ -105,13 +231,6 @@
     "contentSnippet": "The company is on its third CEO in six weeks, with Tony Isaac appointed as Acting CEO, and has named Steven Plumb as its new CFO."
   },
   {
-    "title": "ETH traders ramp up positioning, setting a price target at $3.4K",
-    "link": "https://cointelegraph.com/news/eth-traders-ramp-up-positioning-setting-a-price-target-at-dollar3-4k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 27 Nov 2025 20:04:43 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Ethereum traders ramped up leverage as futures dominance surged and key technical levels came into play. Will ETH bulls succeed in catalyzing a rally to $3,400?"
-  },
-  {
     "title": "Malware Chrome Extension Secretly Siphoned Fees From Solana Traders for Months",
     "link": "https://decrypt.co/350240/malware-chrome-extension-secretly-siphoned-fees-from-solana-traders-for-months",
     "pubDate": "Thu, 27 Nov 2025 20:01:02 +0000",
@@ -126,46 +245,11 @@
     "contentSnippet": "Ethereum co-founder Vitalik Buterin supported two privacy messaging apps that are looking to break past sector leaders Signal and Telegram."
   },
   {
-    "title": "Bitcoin trades above $90K: Here’s what bulls must do to extend the rally",
-    "link": "https://cointelegraph.com/news/bitcoin-trades-above-dollar90k-here-s-what-bulls-must-do-to-extend-the-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 27 Nov 2025 19:00:40 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Bitcoin bulls need to pump more volume into the spot and futures market in order for the current BTC bounce to hold above $90,000."
-  },
-  {
-    "title": "Balancer community proposes plan to distribute funds recovered from hack",
-    "link": "https://cointelegraph.com/news/balancer-community-distribute-recovered-assets-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 27 Nov 2025 18:26:26 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "The proposal details how roughly $8 million recovered from the $116 million November hack would be distributed to victims."
-  },
-  {
     "title": "US AI and Data Firms to Testify in Chinese AI Espionage Probe",
     "link": "https://decrypt.co/350213/us-ai-and-data-firms-to-testify-in-chinese-ai-espionage-probe",
     "pubDate": "Thu, 27 Nov 2025 18:00:02 +0000",
     "source": "Decrypt",
     "contentSnippet": "The U.S. is probing how Chinese operators used AI in a cyber-espionage campaign as experts warn similar tools could hit on-chain finance."
-  },
-  {
-    "title": "Avalanche ETF Race Heats Up as Bitwise Becomes First to Add Staking",
-    "link": "https://www.coindesk.com/business/2025/11/27/avalanche-etf-race-heats-up-as-bitwise-becomes-first-to-add-staking",
-    "pubDate": "Thu, 27 Nov 2025 17:49:40 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Bitwise moves its Avalanche ETF closer to market with updated SEC filing and becomes first issuer to include staking."
-  },
-  {
-    "title": "BONK memecoin debuts as ETP on Switzerland’s SIX exchange",
-    "link": "https://cointelegraph.com/news/solana-bonk-exchange-traded-product-six-swiss-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 27 Nov 2025 17:44:26 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "The listing brings the Solana-based token into one of Europe’s largest stock markets, even as memecoin valuations continue to slide in 2025."
-  },
-  {
-    "title": "Bitcoin has a 75% chance of short-term rally, says trader Alessio Rastani",
-    "link": "https://cointelegraph.com/news/bitcoin-short-term-rally-trader-alessio-rastani-video?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 27 Nov 2025 17:13:36 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Veteran trader Alessio Rastani breaks down his bullish outlook for Bitcoin in the coming months in a new Cointelegraph interview."
   },
   {
     "title": "Crypto Holiday Gift Guide 2025",
@@ -175,53 +259,11 @@
     "contentSnippet": "At a loss for what to buy the crypto fan in your life this festive season? Look no further than Decrypt’s holiday gift guide."
   },
   {
-    "title": "Trump-linked ALT5 Sigma shakes up leadership amid WLFI scrutiny",
-    "link": "https://cointelegraph.com/news/trump-alt5-sigma-leadership-shakeup-wlfi-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 27 Nov 2025 16:40:43 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "The crypto treasury firm, which holds Trump-linked World Liberty Financial (WLFI) tokens on its balance sheet, has replaced two senior executives."
-  },
-  {
-    "title": "Hash Ribbon Flashes Signal That Often Marks Cyclical Bottoms for Bitcoin Price",
-    "link": "https://www.coindesk.com/markets/2025/11/27/hash-ribbon-flashes-signal-that-often-marks-cyclical-bottoms-for-bitcoin-price",
-    "pubDate": "Thu, 27 Nov 2025 16:12:08 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "A historically reliable bottom signal appears after bitcoin’s 35% correction."
-  },
-  {
-    "title": "Crypto for Advisors: Crypto’s Role in Portfolios\t",
-    "link": "https://www.coindesk.com/coindesk-indices/2025/11/26/crypto-for-advisors-crypto-s-role-in-portfolios",
-    "pubDate": "Thu, 27 Nov 2025 16:00:00 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Crypto's role in diversified portfolios: managing volatility, setting clear mandates, risk discipline, and the case for active investing and broader diversification."
-  },
-  {
-    "title": "UK Proposes ‘No Gain, No Loss’ Tax Rule for DeFi in 'Major Win' for Users",
-    "link": "https://www.coindesk.com/policy/2025/11/27/uk-proposes-no-gain-no-loss-tax-rule-for-defi-in-major-win-for-users",
-    "pubDate": "Thu, 27 Nov 2025 15:49:53 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "The proposal, with input from major industry players, aims to bring tax rules in line with how DeFi works, reducing outcomes that don't reflect reality."
-  },
-  {
     "title": "Spot Solana ETFs Post First Red Day Since Launch",
     "link": "https://decrypt.co/350250/spot-solana-etfs-post-first-red-day-since-launch",
     "pubDate": "Thu, 27 Nov 2025 15:31:12 +0000",
     "source": "Decrypt",
     "contentSnippet": "Solana ETFs recorded their first-ever outflow of $8.1M amid a broader crypto market recovery, breaking a three-week streak of inflows."
-  },
-  {
-    "title": "Justin Sun Doubles Down on First Digital Trust Fraud Allegations, Urges H.K. Regulators to Act  ",
-    "link": "https://www.coindesk.com/policy/2025/11/27/justin-sun-doubles-down-on-first-digital-trust-fraud-allegations-urges-h-k-regulators-to-act",
-    "pubDate": "Thu, 27 Nov 2025 15:15:47 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Sun accused FDT of exploiting gaps in Hong Kong’s trust company regime and urged regulators to act after a Dubai court froze assets linked to the alleged misappropriation."
-  },
-  {
-    "title": "Bitcoin Whales Return to Buying for the First Time Since August as Price Recovers Above $90K",
-    "link": "https://www.coindesk.com/markets/2025/11/27/bitcoin-whales-return-to-buying-for-the-first-time-since-august-as-price-recovers-above-usd90k",
-    "pubDate": "Thu, 27 Nov 2025 15:14:24 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Large holders return to buying after months of distribution, signalling renewed confidence at key support levels."
   },
   {
     "title": "Bonk Teams Up With Bitcoin Capital to Launch ETP in Europe",
@@ -231,52 +273,10 @@
     "contentSnippet": "Investors can now trade Solana meme coin BONK as a regulated product on Switzerland's largest stock exchange."
   },
   {
-    "title": "BNB Holds Below $900 Level as Onchain Activity Slumps, Network Updrages Loom",
-    "link": "https://www.coindesk.com/markets/2025/11/27/bnb-holds-below-usd900-level-as-onchain-activity-slumps-network-updrages-loom",
-    "pubDate": "Thu, 27 Nov 2025 13:09:43 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Price action remains stable, consolidating below $900, amid tension between weak fundamentals and upcoming upgrades."
-  },
-  {
     "title": "'Improving Risk Sentiment' Driving Bitcoin's $90K Retest: QCP",
     "link": "https://decrypt.co/350210/improving-risk-sentiment-driving-bitcoins-90k-retest-qcp",
     "pubDate": "Thu, 27 Nov 2025 11:09:55 +0000",
     "source": "Decrypt",
     "contentSnippet": "Analysts remain cautiously optimistic, with Bitcoin reclaiming $90K as the chances of a December rate cut hit 85%."
-  },
-  {
-    "title": "モブキャストHD、ソラナ財団認定バリデータに選定　ステーキング運用規模を拡大",
-    "link": "https://coinpost.jp/?p=669545",
-    "pubDate": "Thu, 27 Nov 2025 17:20:35 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "モブキャストHDがSolana財団の公式バリデータプログラムに採択。累計3億円・約1.1万SOLの取得実績が評価され、将来的には50万SOL規模の運用を目指す。"
-  },
-  {
-    "title": "韓国大手取引所アップビット、約48億円の不正流出　全額を自社資産で補償へ",
-    "link": "https://coinpost.jp/?p=669560",
-    "pubDate": "Thu, 27 Nov 2025 17:00:41 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "韓国最大の仮想通貨取引所アップビットがソラナネットワークで約48億円の不正流出を発表。24銘柄が流出も全額補償へ。ホットウォレットから未承認送金、入出金サービスは一時停止中。"
-  },
-  {
-    "title": "South Korea’s Upbit Reports $36 Million Loss in Solana Hot-Wallet Breach",
-    "link": "https://decrypt.co/350196/south-koreas-upbit-36-million-loss-solana-hot-wallet-breach",
-    "pubDate": "Thu, 27 Nov 2025 06:28:06 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "South Korea’s largest crypto exchange halted services and shifted assets to cold storage after detecting unauthorized withdrawals."
-  },
-  {
-    "title": "リップル社のステーブルコイン「RLUSD」、アブダビADGMが正式認定",
-    "link": "https://coinpost.jp/?p=669548",
-    "pubDate": "Thu, 27 Nov 2025 15:07:27 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "中東での企業利用が加速へリップル社は27日、同社の米ドル連動型ステーブルコイン「RLUSD」が、アブダビ金融サービス規制庁（FSRA）により「法定通貨参照トークン」として正式に認定されたと発表した。アブダビ国際金融センター（ADGM）の規制..."
-  },
-  {
-    "title": "Australia Moves to Regulate Crypto Platforms Under New Consumer-Protection Law",
-    "link": "https://decrypt.co/350192/australia-regulate-crypto-platforms-new-consumer-protection-law",
-    "pubDate": "Thu, 27 Nov 2025 05:06:17 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The new framework subjects exchanges and custody providers to financial services laws with ASIC as the primary regulator."
   }
 ]
