@@ -1,5 +1,89 @@
 [
   {
+    "title": "Bitcoin's 'Coinbase Premium' Flips Positive After Weeks in the Red",
+    "link": "https://www.coindesk.com/markets/2025/11/29/coinbase-premium-flips-positive-in-hope-for-bitcoin-bulls",
+    "pubDate": "Sat, 29 Nov 2025 06:15:28 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "The premium — which tracks the price spread between Coinbase and the global market — acts as a read on U.S. capital flows in previous cycles."
+  },
+  {
+    "title": "Crypto sentiment moves up from ‘extreme fear’ after 18-day stretch",
+    "link": "https://cointelegraph.com/news/crypto-sentiment-index-extreme-fear-stretch-flips-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 29 Nov 2025 05:19:07 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "The crypto sentiment indicator has moved up from extreme fear, and other social media indicators suggest sentiment is moving more bullish toward Bitcoin."
+  },
+  {
+    "title": "米賭けサイトカルシ、無免許スポーツ賭博運営で提訴",
+    "link": "https://coinpost.jp/?p=670212",
+    "pubDate": "Sat, 29 Nov 2025 13:50:56 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "ブルームバーグによると米賭け市場のカルシが無免許でスポーツ賭博を運営し、マーケットメイキング手法について顧客を誤解させたとして集団訴訟を起こされた。共同創設者は主張を否定。"
+  },
+  {
+    "title": "ブラックロック、債券ファンドでビットコインETF「IBIT」を買い増し",
+    "link": "https://coinpost.jp/?p=670197",
+    "pubDate": "Sat, 29 Nov 2025 13:10:52 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "ブラックロックが7～9月期に債券ファンドで自社ビットコインETF「IBIT」を買い増していた。9月末時点で1.5億ドル相当を保有。ビットコイン現物ETFへの流入はここ数日復活傾向だ。"
+  },
+  {
+    "title": "How a weakening US labor market is putting pressure on Bitcoin and crypto prices",
+    "link": "https://cointelegraph.com/explained/how-a-weakening-us-labor-market-is-putting-pressure-on-bitcoin-and-crypto-prices?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 29 Nov 2025 03:30:00 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Cooling US labor data is shifting growth expectations, rate paths and liquidity, creating new macro pressures for Bitcoin and the broader crypto market."
+  },
+  {
+    "title": "仮想通貨のバイバックとは？2025年注目の6銘柄を解説",
+    "link": "https://coinpost.jp/?p=667803",
+    "pubDate": "Sat, 29 Nov 2025 12:03:26 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "2025年、仮想通貨業界で総額14億ドル規模に達したバイバック。ハイパーリキッド（HYPE）やパンプファン（PUMP）など、実際にバイバックを実施している6銘柄を徹底解説。株式の自社株買いとの違いや投資リスクもわかりやすく紹介します。"
+  },
+  {
+    "title": "24時間・1円から取引可能に　Progmat齊藤達哉氏が語る「トークン化株式」の全貌｜独占インタビュー【前編】",
+    "link": "https://coinpost.jp/?p=669522",
+    "pubDate": "Sat, 29 Nov 2025 12:00:02 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "Progmat代表・齊藤達哉氏に独占取材。1円単位・24時間取引可能な「トークン化株式」の仕組みと、議決権や優待も得られる投資家メリット、リアルタイム株主把握など発行企業メリットを聞いた。"
+  },
+  {
+    "title": "Ethereum tripling its gas limit is the ‘floor, we can go higher’ — Sassano",
+    "link": "https://cointelegraph.com/news/ethereum-gas-limit-increase-transactions-fees-anthony-sassano?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 29 Nov 2025 02:33:07 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Ethereum educator Anthony Sassano said Ethereum’s gas limit could climb beyond three times next year, with some developers pushing for a fivefold increase."
+  },
+  {
+    "title": "アーサー・ヘイズがビットコイン年末25万ドル予測維持、流動性底打ちと量的引き締め終了を根拠に",
+    "link": "https://coinpost.jp/?p=670193",
+    "pubDate": "Sat, 29 Nov 2025 11:30:09 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "ビットメックス共同創設者アーサー・ヘイズ氏が11月27日、ビットコインの年末25万ドル到達予測を堅持した。先週の8万600ドルを底値とみており、米ドル流動性の底打ちと量的引き締め終了が上昇を牽引すると分析。"
+  },
+  {
+    "title": "税率10〜45%の差、アフリカ5カ国の仮想通貨課税の現状を探る",
+    "link": "https://coinpost.jp/?p=664341",
+    "pubDate": "Sat, 29 Nov 2025 11:00:51 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "サハラ以南アフリカで年間30兆円超のオンチェーン取引が発生する中、各国が独自の仮想通貨税制を整備。南アフリカの18〜45%累進課税、ナイジェリアの15%一律課税、ケニアの10%物品税など、主要5カ国の税制アプローチを詳細解説。日本の税制改革案(55%→20%)との比較から見える、成長と規制のバランスとは。"
+  },
+  {
+    "title": "Price predictions 11/28: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, BCH, LINK",
+    "link": "https://cointelegraph.com/news/price-predictions-11-28-btc-eth-xrp-bnb-sol-doge-ada-hype-bch-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 29 Nov 2025 01:43:25 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Bitcoin and several altcoins continue to show strength, but charts suggest that each needs a strong close above a key exponential moving average to continue the uptrend."
+  },
+  {
+    "title": "IMF、資産トークン化のリスクを指摘　「フラッシュクラッシュ」の可能性を警告",
+    "link": "https://coinpost.jp/?p=670182",
+    "pubDate": "Sat, 29 Nov 2025 10:10:11 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "国際通貨基金が資産トークン化のメリットとリスクを解説。自動取引による「フラッシュクラッシュ」の可能性や断片化の問題を指摘した。米SECなどの当局も規制を協議中だ。"
+  },
+  {
     "title": "テザー、中央銀行級の116トンの金を保有　世界最大の民間保有者に",
     "link": "https://coinpost.jp/?p=670179",
     "pubDate": "Sat, 29 Nov 2025 09:35:11 +0900",
@@ -7,7 +91,7 @@
     "contentSnippet": "世界最大のステーブルコイン発行企業テザーが116トンの金を保有し、中央銀行以外で世界最大の金保有者となった。第3四半期に26トンの金を購入し、韓国やハンガリーの国家準備金に匹敵する規模に。"
   },
   {
-    "title": "Bitcoin hasn’t seen this much ‘asymmetric risk-reward’ since COVID: Analyst",
+    "title": "Bitcoin hasn’t seen such ‘asymmetric risk-reward’ since COVID: Analyst",
     "link": "https://cointelegraph.com/news/bitcoin-price-risk-reward-covid-19-setup-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sat, 29 Nov 2025 00:06:44 +0000",
     "source": "Cointelegraph",
@@ -49,13 +133,6 @@
     "contentSnippet": "The UK will require crypto platforms to report all activity from domestic users starting in 2026, as global tax authorities worldwide tighten oversight of digital assets."
   },
   {
-    "title": "仮想通貨関連株が急伸、ビットコイン・イーサリアム価格回復を受け",
-    "link": "https://coinpost.jp/?p=670120",
-    "pubDate": "Sat, 29 Nov 2025 06:35:12 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "ビットコインとイーサリアムの価格回復に伴い、仮想通貨関連株が28日に急伸した。ビットマインは5日間で27%上昇し、クリーンスパークは55%の上昇を記録している。"
-  },
-  {
     "title": "OpenAI Confirms Data Breach—Here's Who Is Impacted",
     "link": "https://decrypt.co/350376/openai-confirms-data-breach-heres-whos-impacted",
     "pubDate": "Fri, 28 Nov 2025 21:04:34 +0000",
@@ -70,25 +147,11 @@
     "contentSnippet": "Analysts expected more Solana ETFs to go live in 2025, as investors chase yield-bearing opportunities through staking and network validation."
   },
   {
-    "title": "アップビットの48億円ハッキング、当局が北朝鮮ラザルス集団の関与を本格調査",
-    "link": "https://coinpost.jp/?p=670106",
-    "pubDate": "Sat, 29 Nov 2025 05:55:42 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "韓国当局が27日に発生したアップビットからの約48億円相当の仮想通貨流出について、北朝鮮のハッキンググループ「ラザルス」の関与を疑っていることが明らかになった。"
-  },
-  {
     "title": "Brazil’s Economic Center São Paulo to Pilot Blockchain-Based Microloans for Farmers",
     "link": "https://www.coindesk.com/business/2025/11/28/brazil-s-economic-center-sao-paulo-to-pilot-blockchain-based-microloans-for-farmers",
     "pubDate": "Fri, 28 Nov 2025 20:46:19 +0000",
     "source": "CoinDesk",
     "contentSnippet": "The project utilizes a blockchain infrastructure developed with Tanssi's technology, enabling predictable transaction fees and reliability, rather than relying on public blockchains."
-  },
-  {
-    "title": "米CME、11時間超の取引停止から復旧　データセンター冷却障害で株式・ビットコイン含む商品先物が一時中断",
-    "link": "https://coinpost.jp/?p=670091",
-    "pubDate": "Sat, 29 Nov 2025 05:45:15 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "世界最大の先物取引所運営会社CMEグループが28日、データセンターの冷却システム障害により11時間以上にわたり先物取引を停止した。株式、債券、商品、通貨の先物取引が中断され、トレーダーからは批判の声が上がっている。"
   },
   {
     "title": "European Asset Manager Amundi Debuts Tokenized Share Class on Ethereum",
@@ -126,13 +189,6 @@
     "contentSnippet": "USDT stablecoin issuer Tether is halting its Bitcoin mining operations in Uruguay due to high energy costs, local media has reported."
   },
   {
-    "title": "Cathie Wood still bullish on $1.5M Bitcoin price target: Finance Redefined",
-    "link": "https://cointelegraph.com/news/cathie-wood-bullish-1-5m-bitcoin-price-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 28 Nov 2025 19:00:00 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Bitcoin recovered after four consecutive weeks in the red, surpassing the key $89,600 flow-weighted cost basis of Bitcoin ETF holders, the most significant cohort driving BTC inflows."
-  },
-  {
     "title": "BitMine and Bitcoin Miners' Stocks Surge as BTC, Ethereum Recover",
     "link": "https://decrypt.co/350363/bitmine-bitcoin-miners-stock-surges-btc-ethereum-recover",
     "pubDate": "Fri, 28 Nov 2025 18:27:58 +0000",
@@ -147,13 +203,6 @@
     "contentSnippet": "Top markets on Myriad this week include predictions on Bitcoin's next price move, whether Brian Armstrong will appear UpOnly, and more."
   },
   {
-    "title": "Chicago Mercantile Exchange halts trading, sparking public outcry",
-    "link": "https://cointelegraph.com/news/chicago-mercantile-exchange-halts-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 28 Nov 2025 17:30:02 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Trading was halted for about 10 hours before being restored on Friday, sparking a public backlash from derivatives and commodities traders."
-  },
-  {
     "title": "HBAR Rises 2.5% as Crypto Market Experiences Post-Thanksgiving Boost",
     "link": "https://www.coindesk.com/markets/2025/11/28/hbar-rises-2-5-as-crypto-market-experiences-post-thanksgiving-boost",
     "pubDate": "Fri, 28 Nov 2025 17:24:45 +0000",
@@ -166,20 +215,6 @@
     "pubDate": "Fri, 28 Nov 2025 17:14:20 +0000",
     "source": "CoinDesk",
     "contentSnippet": "The U.K. released new guidelines that include rules for crypto exchanges to start providing the British tax authority with full customer information on all their digital assets."
-  },
-  {
-    "title": "‘We refused to do an ICO’: The truth behind Canton’s tokenomics",
-    "link": "https://cointelegraph.com/news/behind-canton-network-tokenomics?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 28 Nov 2025 16:46:39 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "As Tharimmune raises $540 million to build a Canton Coin treasury, the story behind the Canton Network shows that ICOs are not the only way to launch new blockchains."
-  },
-  {
-    "title": "Why quantum security is rising on layer-1 roadmaps and which networks are preparing first",
-    "link": "https://cointelegraph.com/explained/why-quantum-security-is-rising-on-layer-1-roadmaps-and-which-networks-are-preparing-first?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 28 Nov 2025 16:29:15 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Quantum security is moving from theory to practice as layer-1 blockchains prepare long-term plans to adopt post-quantum cryptography."
   },
   {
     "title": "Bitcoin in Modest Rally Mode After Thanksgiving as December Fed Rate Gets Locked In",
@@ -217,46 +252,11 @@
     "contentSnippet": "Bitcoin crept back toward $92,000 as markets slowly recovered from last week’s heavy sell-off, but mounting resistance threatens to keep the broader downtrend intact."
   },
   {
-    "title": "BlackRock’s Own Income Fund Boosts Bitcoin ETF Holdings 14% ",
-    "link": "https://www.coindesk.com/markets/2025/11/28/blackrock-s-own-income-fund-boosts-bitcoin-etf-holdings-14",
-    "pubDate": "Fri, 28 Nov 2025 11:08:53 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Strategic Income Opportunities Portfolio expands its allocation to the iShares Bitcoin Trust amid rising institutional demand."
-  },
-  {
     "title": "Trump White House ‘World’s Most Corrupt Crypto Startup Operation’: House Democrats",
     "link": "https://decrypt.co/350315/trump-white-house-worlds-most-corrupt-crypto-startup-operation-house-democrats",
     "pubDate": "Fri, 28 Nov 2025 10:45:23 +0000",
     "source": "Decrypt",
     "contentSnippet": "President Trump and his family made $800 million from sales of cryptocurrencies in the first half of the year, according to a new report."
-  },
-  {
-    "title": "Secured Finance（セキュアード・ファイナンス）とは？JPYCの運用方法を徹底解説",
-    "link": "https://coinpost.jp/?p=669577",
-    "pubDate": "Fri, 28 Nov 2025 19:05:08 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "Secured FinanceでJPYCを使った固定金利運用が可能に。満期と金利が事前確定する仕組み、メタマスクの準備から貸し出し・借り入れの手順、リスクまで初心者向けに詳しく解説。"
-  },
-  {
-    "title": "ゆうちょ銀行のトークン化預金が不動産決済に進出",
-    "link": "https://coinpost.jp/?p=670049",
-    "pubDate": "Fri, 28 Nov 2025 18:47:33 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "シノケングループ、ゆうちょ銀行、ディーカレットDCPの3社がトークン化預金の活用に向けた基本合意書を締結。賃貸管理における月次賃料の支払いをユースケースに、決済の自動化・効率化を検証する。2025年12月末に実証実験を完了し、2026年以降の本格導入を目指す。"
-  },
-  {
-    "title": "価格急騰で注目を集めたジーキャッシュの将来性｜買い方・注目点・リスクを解説",
-    "link": "https://coinpost.jp/?p=669076",
-    "pubDate": "Fri, 28 Nov 2025 18:01:45 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "価格急騰で注目を集めたプライバシー銘柄の仮想通貨ジーキャッシュ（ZEC）の将来性を徹底解説。買い方や技術、注目点、リスクまでわかりやすく説明します。"
-  },
-  {
-    "title": "英国、DeFi預け入れ時の課税を繰り延べへ　売却時まで納税義務を先送り",
-    "link": "https://coinpost.jp/?p=670037",
-    "pubDate": "Fri, 28 Nov 2025 17:29:38 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "英国歳入関税庁が11月27日、DeFi預け入れ時の課税を実質売却時まで繰り延べる税制改革案を発表。アーベやバイナンスなど業界大手32団体が支持。利用者の税務負担軽減へ。"
   },
   {
     "title": "South Korean Police Officers Indicted in $186 Million Crypto-Laundering Case",
