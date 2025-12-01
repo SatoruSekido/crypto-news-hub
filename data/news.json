@@ -1,5 +1,61 @@
 [
   {
+    "title": "Bitcoin, Ether, XRP Slide as December Begins With 'Yearn Incident'",
+    "link": "https://www.coindesk.com/markets/2025/12/01/bitcoin-ether-xrp-slide-as-december-begins-with-yearn-attack",
+    "pubDate": "Mon, 01 Dec 2025 01:17:30 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Major cryptocurrencies traded lower in early Asia as DeFi platform Yearn noted at \"incident\" in its yETH pool."
+  },
+  {
+    "title": "中国人民銀行、仮想通貨取引の厳格取締を改めて要請、ステーブルコインも警戒対象",
+    "link": "https://coinpost.jp/?p=670364",
+    "pubDate": "Mon, 01 Dec 2025 09:15:51 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "中国人民銀行が仮想通貨取引の取締強化を改めて各当局に要請した。仮想通貨関連活動の再活発化が背景にあるとみられ、ステーブルコインも警戒対象としている。"
+  },
+  {
+    "title": "コインシェアーズ、XRP・ソラナ・ライトコインのETF申請を取り下げ",
+    "link": "https://coinpost.jp/?p=670350",
+    "pubDate": "Mon, 01 Dec 2025 09:03:03 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "欧州大手のコインシェアーズが、XRP・ソラナ・ライトコインのETF申請を取り下げた。米国市場での大手運用会社への集中により、差別化や利益率確保が困難になるとの懸念を示し、ナスダック上場を控え、仮想通貨関連株式やアクティブ運用戦略など新商品の投入を計画している。"
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 30 Nov 2025 22:00:27 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
+  },
+  {
+    "title": "What 'mNAV' Really Means for Bitcoin Treasury Companies — and Where It Falls Short",
+    "link": "https://www.coindesk.com/business/2025/11/30/what-mnav-really-tells-you-about-bitcoin-treasury-companies-and-where-it-falls-short",
+    "pubDate": "Sun, 30 Nov 2025 21:45:45 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "NYDIG’s research head questions how mNAV is used to assess bitcoin treasuries, arguing it masks key risks tied to capital structure and equity dilution."
+  },
+  {
+    "title": "Telegram's Pavel Durov: Cocoon decentralized AI network now live",
+    "link": "https://cointelegraph.com/news/telegram-durov-cocoon-decentralized-ai-live?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 30 Nov 2025 21:40:53 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "The privacy-preserving decentralized AI platform is built on top of The Open Network, and users earn TON for renting out computing power."
+  },
+  {
+    "title": "Tether CEO slams S&P ratings agency and influencers spreading USDt FUD",
+    "link": "https://cointelegraph.com/news/tether-ceo-rails-sp-tether-fud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 30 Nov 2025 20:09:51 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "The comments followed S&P's downgrade of USDt's ability to maintain its peg, which cited Tether's Bitcoin and gold reserves as a concern."
+  },
+  {
+    "title": "Priced at Zero: How Brazil’s Méliuz Turned to Bitcoin to Escape a Treasury Trap",
+    "link": "https://www.coindesk.com/business/2025/11/30/priced-at-zero-how-brazil-s-meliuz-turned-to-bitcoin-to-escape-a-treasury-trap",
+    "pubDate": "Sun, 30 Nov 2025 19:00:29 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "The company adopted a bitcoin treasury plan by deploying a strategy inspired by Metaplanet, with 66% shareholder approval, to mitigate negative returns from government bonds."
+  },
+  {
     "title": "The Biggest Games Releasing in December 2025",
     "link": "https://decrypt.co/350400/biggest-games-releasing-december-2025",
     "pubDate": "Sun, 30 Nov 2025 18:01:02 +0000",
@@ -47,13 +103,6 @@
     "pubDate": "Sun, 30 Nov 2025 14:00:00 +0000",
     "source": "CoinDesk",
     "contentSnippet": "A sharp market pullback has exposed which BTC-focused public companies can actually execute, and which were never built for volatility."
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 30 Nov 2025 13:12:15 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
   },
   {
     "title": "Fed rate-cut bets surge: Can Bitcoin finally break $91K to go higher?",
@@ -119,25 +168,11 @@
     "contentSnippet": "Nasdaq’s head of digital assets strategy, Matt Savarese, said the stock exchange is ready to answer any questions the SEC may have for its proposal for tokenized stocks."
   },
   {
-    "title": "BTC mining difficulty forecast to rise in Dec, as hashprice sits near record lows",
-    "link": "https://cointelegraph.com/news/bitcoin-mining-difficulty-increase-hashprice-record-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 29 Nov 2025 21:46:45 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Bitcoin miners caught a break on Thursday as difficulty dropped, but the relief may be short-lived if it rises in December, as forecast."
-  },
-  {
     "title": "Bitcoin ETFs Are Now BlackRock’s Top Revenue Source, Exec Says  ",
     "link": "https://www.coindesk.com/business/2025/11/29/bitcoin-etfs-are-now-blackrock-s-top-revenue-source-exec-says",
     "pubDate": "Sat, 29 Nov 2025 20:49:25 +0000",
     "source": "CoinDesk",
     "contentSnippet": "The firm's US-listed spot bitcoin ETF IBIT, launched in January 2024, reached $70 billion in assets in record time and has generated hundreds of millions in fees."
-  },
-  {
-    "title": "1.75M Hyperliquid tokens unlocked today, but was the price impacted?",
-    "link": "https://cointelegraph.com/news/1-75m-hyperliquid-tokens-unlocked-price-impacted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 29 Nov 2025 20:10:27 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "The Hyperliquid development team provided clarity on Saturday's token unlock in response to community fears of increased selling pressure."
   },
   {
     "title": "Meet the Billion-Dollar Crypto Founder Who Started Trading at 9 Years Old",
@@ -154,32 +189,11 @@
     "contentSnippet": "Phong Le says Strategy has no near-term debt maturity risk and plans to continue using convertibles and equity to grow its bitcoin position over time."
   },
   {
-    "title": "Stablecoins Drive 90% of Brazil’s Crypto Volume, Tax Authority Data Shows",
-    "link": "https://www.coindesk.com/policy/2025/11/30/stablecoins-drive-90-of-brazil-s-crypto-volume-tax-authority-data-shows",
-    "pubDate": "Sat, 29 Nov 2025 17:00:33 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "A new reporting system, DeCripto, will be introduced in July 2025 to track crypto transactions."
-  },
-  {
-    "title": "Crypto Payments Firm Truther to Launch Non-Custodial USDT Visa Card in El Salvador",
-    "link": "https://www.coindesk.com/business/2025/11/29/crypto-payments-firm-truther-to-launch-non-custodial-usdt-visa-card-in-el-salvador",
-    "pubDate": "Sat, 29 Nov 2025 16:42:07 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "The card doesn't require preloading funds or custodial services, and carries a 2% fee on currency conversions, with no IOF tax for Brazilian users."
-  },
-  {
     "title": "UK Budget Confirms New Crypto Reporting Rules from January 1",
     "link": "https://decrypt.co/350341/uk-budget-confirms-new-crypto-reporting-rules-from-january-1",
     "pubDate": "Sat, 29 Nov 2025 15:01:13 +0000",
     "source": "Decrypt",
     "contentSnippet": "The UK government expects to raise $417 million in extra tax as UK-registered crypto exchanges are required to record customer details."
-  },
-  {
-    "title": "State of Crypto: Kalshi and Prediction Markets Face a Setback",
-    "link": "https://www.coindesk.com/policy/2025/11/29/state-of-crypto-kalshi-and-prediction-markets-face-a-setback",
-    "pubDate": "Sat, 29 Nov 2025 15:00:00 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "The court cases will continue for the moment."
   },
   {
     "title": "米賭けサイトカルシ、無免許スポーツ賭博運営で提訴",
@@ -215,20 +229,6 @@
     "pubDate": "Sat, 29 Nov 2025 11:30:09 +0900",
     "source": "CoinPost",
     "contentSnippet": "ビットメックス共同創設者アーサー・ヘイズ氏が11月27日、ビットコインの年末25万ドル到達予測を堅持した。先週の8万600ドルを底値とみており、米ドル流動性の底打ちと量的引き締め終了が上昇を牽引すると分析。"
-  },
-  {
-    "title": "税率10〜45%の差、アフリカ5カ国の仮想通貨課税の現状を探る",
-    "link": "https://coinpost.jp/?p=664341",
-    "pubDate": "Sat, 29 Nov 2025 11:00:51 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "サハラ以南アフリカで年間30兆円超のオンチェーン取引が発生する中、各国が独自の仮想通貨税制を整備。南アフリカの18〜45%累進課税、ナイジェリアの15%一律課税、ケニアの10%物品税など、主要5カ国の税制アプローチを詳細解説。日本の税制改革案(55%→20%)との比較から見える、成長と規制のバランスとは。"
-  },
-  {
-    "title": "IMF、資産トークン化のリスクを指摘　「フラッシュクラッシュ」の可能性を警告",
-    "link": "https://coinpost.jp/?p=670182",
-    "pubDate": "Sat, 29 Nov 2025 10:10:11 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "国際通貨基金が資産トークン化のメリットとリスクを解説。自動取引による「フラッシュクラッシュ」の可能性や断片化の問題を指摘した。米SECなどの当局も規制を協議中だ。"
   },
   {
     "title": "OpenAI Confirms Data Breach—Here's Who Is Impacted",
