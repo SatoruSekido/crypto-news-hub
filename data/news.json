@@ -1,17 +1,122 @@
 [
   {
-    "title": "スターテイルとソニーのソニューム、米ドルステーブルコイン「USDSC」をローンチ　報酬システムも導入",
-    "link": "https://coinpost.jp/?p=671293",
-    "pubDate": "Thu, 04 Dec 2025 10:00:51 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "スターテイルとソニーのソニュームは、米ドルステーブルコインUSDSCと報酬システムSTAR Pointsのローンチを発表。ソニューム上の新時代のブロックチェーン体験を強化すると説明した。"
+    "title": "ADA, ETH, XRP Climb as Bitcoin Zooms Above $93K, But Traders Warn of ‘Fakeout Rally’",
+    "link": "https://www.coindesk.com/markets/2025/12/04/ada-eth-xrp-climb-as-bitcoin-zooms-above-usd93k-but-traders-warn-of-fakeout-rally",
+    "pubDate": "Thu, 04 Dec 2025 06:12:54 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "“The short-term setup has shifted into a choppy pullback, with markets watching whether BTC can stabilize within the $90,000–$91,000 support zone,” one trader said."
   },
   {
-    "title": "ビットコインが1万ドル反発、イーサリアム「フサカアップデート」好感で10万ドル視野に｜仮想NISHI",
-    "link": "https://coinpost.jp/?p=671272",
-    "pubDate": "Thu, 04 Dec 2025 09:45:05 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "仮想通貨ビットコインは反発の勢いを強めている。ETHの「フサカ・アップデート」を好材料とし、2日に付けた8万3,000ドル台から1万ドルの上昇を見せた。"
+    "title": "Citadel causes uproar for urging SEC to regulate DeFi tokenized stocks",
+    "link": "https://cointelegraph.com/news/crypto-community-slams-citadel-for-urging-sec-to-regulate-defi-developers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 04 Dec 2025 06:12:26 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Citadel Securities argued that DeFi platforms offering tokenized US stocks should be regulated under securities laws and not get exemptive relief from the SEC."
+  },
+  {
+    "title": "Ripple CEO's Bold Call: Bitcoin to Hit $180K by End of 2026",
+    "link": "https://www.coindesk.com/markets/2025/12/04/ripple-ceo-s-bold-call-bitcoin-to-hit-usd180k-by-end-of-2026",
+    "pubDate": "Thu, 04 Dec 2025 06:11:35 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Ripple CEO Brad Garlinghouse predicts bitcoin will reach $180,000 by the end of 2026."
+  },
+  {
+    "title": "Bitcoin may see ‘relief bounce’ as stabilization signs emerge: Analysts",
+    "link": "https://cointelegraph.com/news/bitcoin-price-rebound-rally-crypto-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 04 Dec 2025 05:55:56 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Bitfinex says “extreme deleveraging” and other indicators as factors that could help Bitcoin hold its ground and potentially move higher."
+  },
+  {
+    "title": "Ukrainian Police Arrest Two in Alleged Crypto Extortion Murder",
+    "link": "https://decrypt.co/350885/ukrainian-police-arrest-two-in-alleged-crypto-extortion-murder",
+    "pubDate": "Thu, 04 Dec 2025 05:41:19 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Europe accounts for over 30% of nearly 70 wrench attacks documented this year as crypto-fueled violence surges across the continent."
+  },
+  {
+    "title": "Ledger says popular chip used on Solana phones vulnerable to unstoppable attack",
+    "link": "https://cointelegraph.com/news/popular-smartphone-chip-vulnerable-attack-says-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 04 Dec 2025 05:31:15 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Ledger says it was able to gain “full and absolute control” over a smartphone by using electromagnetic pulses to take over its chip."
+  },
+  {
+    "title": "Ethereum Price Swells as Fusaka Upgrade Goes Live",
+    "link": "https://decrypt.co/350883/ethereum-price-swells-as-fusaka-upgrade-goes-live",
+    "pubDate": "Thu, 04 Dec 2025 05:10:52 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Fusaka represents what some describe as Ethereum’s first real step into key data sampling and capacity mechanisms it has sought for a decade."
+  },
+  {
+    "title": "BTC at $100K Back on Table as Volatility Shatters Uptrend, Ether Bulls Grow Bolder",
+    "link": "https://www.coindesk.com/markets/2025/12/04/btc-at-usd100k-back-on-table-as-volatility-shatters-uptrend-ether-bulls-grow-bolder",
+    "pubDate": "Thu, 04 Dec 2025 04:52:06 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "BTC's volatility meltdown offers bullish cues to the spot price."
+  },
+  {
+    "title": "Dogecoin Reclaims Bullish Structure as Whale Activity Hits 2-Month Low",
+    "link": "https://www.coindesk.com/markets/2025/12/04/dogecoin-reclaims-bullish-structure-as-whale-activity-hits-2-month-low",
+    "pubDate": "Thu, 04 Dec 2025 04:26:15 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Retail investors drove the rally, while whale transactions fell to their lowest in two months."
+  },
+  {
+    "title": "XRP Clears Resistance Channel With Traders Eyeing $2.33-$2.40 Zone",
+    "link": "https://www.coindesk.com/markets/2025/12/04/xrp-clears-resistance-channel-with-traders-eyeing-usd2-33-usd2-40-zone",
+    "pubDate": "Thu, 04 Dec 2025 04:13:52 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Maintaining support above $2.204 is crucial for continued upward movement, while a break above $2.22 could lead to further gains."
+  },
+  {
+    "title": "Connecticut orders Robinhood, Crypto.com, Kalshi to stop prediction markets",
+    "link": "https://cointelegraph.com/news/connecticut-robinhood-crypto-com-kalshi-cease-desist-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 04 Dec 2025 04:07:39 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Connecticut has sent cease and desist letters to Robinhood, Crypto.com and Kalshi, claiming the platforms' event contracts are unlicensed sports betting."
+  },
+  {
+    "title": "Bitcoin Short Positions Build Ahead of Potential Fed Rate Cut",
+    "link": "https://decrypt.co/350881/bitcoin-short-positions-build-potential-fed-rate-cut",
+    "pubDate": "Thu, 04 Dec 2025 04:00:47 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Bitcoin is trading in a narrow band ahead of the Fed's rate decision, with more than $6 billion in leveraged positions at risk."
+  },
+  {
+    "title": "Crypto Is Edging Further Into Mainstream Finance, BlackRock and Coinbase Chiefs Say",
+    "link": "https://decrypt.co/350878/crypto-further-mainstream-finance-blackrock-coinbase-chiefs",
+    "pubDate": "Thu, 04 Dec 2025 03:35:18 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "BlackRock and Coinbase executives discussed Bitcoin, U.S. legislation, tokenization, and market trends on during a joint interview."
+  },
+  {
+    "title": "IREN stock rebounds following $3.6B debt and equity fundraising move",
+    "link": "https://cointelegraph.com/news/iren-shares-recover-3-6-billion-capital-raise-ai-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 04 Dec 2025 02:56:04 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "IREN closed trading on Wednesday up nearly 7%, slightly recovering from a major drop on Tuesday after sharing plans for its latest capital raising effort."
+  },
+  {
+    "title": "Asia Morning Briefing: Polymarket Bettors Still Expect Big Strategy Buys Even as Saylor Prepares for a Weak Market",
+    "link": "https://www.coindesk.com/markets/2025/12/04/asia-morning-briefing-prediction-markets-still-expect-big-strategy-buys-even-as-saylor-prepares-for-a-weak-market",
+    "pubDate": "Thu, 04 Dec 2025 02:27:42 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "CryptoQuant’s latest report shows the company preparing for weaker conditions with smaller buys and a growing USD buffer, yet traders continue to price in a playbook built on reflexive accumulation."
+  },
+  {
+    "title": "Solana Mobile to roll out native taken in January",
+    "link": "https://cointelegraph.com/news/solana-mobile-to-roll-out-native-taken-in-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 04 Dec 2025 02:19:33 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Solana Mobile says its SKR token, tied to its Seeker phone, will launch early next year, with a total supply of 10 billion tokens."
+  },
+  {
+    "title": "Connecticut Orders Kalshi, Robinhood, and Crypto.com to Halt 'Unlicensed' Online Gambling",
+    "link": "https://decrypt.co/350874/connecticut-kalshi-robinhood-crypto-com-halt-unlicensed-online-gambling",
+    "pubDate": "Thu, 04 Dec 2025 02:10:30 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "State regulators have issued cease-and-desist letters alleging that the platforms offered illegal sports-event contracts to Connecticut users."
   },
   {
     "title": "Ledger Finds Popular Smartphone Chip Vulnerable to Unpatchable Attacks",
@@ -21,25 +126,11 @@
     "contentSnippet": "A report by the provider of crypto wallets shows that a Mediatek Dimensity 7300 chip could be compromised at its lowest level."
   },
   {
-    "title": "米SECが仮想通貨含む高レバレッジETFを阻止、3倍・5倍商品の審査停止を通告",
-    "link": "https://coinpost.jp/?p=671282",
-    "pubDate": "Thu, 04 Dec 2025 08:55:53 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "米SECが株式や仮想通貨の日次リターンを3倍・5倍に増幅するETFの審査を停止した。プロシェアーズは3倍レバレッジ仮想通貨商品を含む複数の申請を取り下げている。"
-  },
-  {
     "title": "High-Leveraged Crypto ETF Applications on Hold After SEC Warnings",
     "link": "https://decrypt.co/350860/high-leveraged-crypto-etfs-hold-sec-warnings",
     "pubDate": "Wed, 03 Dec 2025 23:26:31 +0000",
     "source": "Decrypt",
     "contentSnippet": "Leveraged crypto and other ETFs already exist for U.S. investors, but the SEC wants issuers to address risk concerns over proposed products."
-  },
-  {
-    "title": "アンソロピックが来年IPO検討か、評価額3000億ドル超目指す＝報道",
-    "link": "https://coinpost.jp/?p=671273",
-    "pubDate": "Thu, 04 Dec 2025 08:02:12 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "AI企業アンソロピックが早ければ来年にもIPOを検討している。マイクロソフトとエヌビディアから合計150億ドルの出資確約を得ており、オープンAIと上場を競う。"
   },
   {
     "title": "BlackRock Remains Risk-on as ‘Mega Forces’ Like AI, Stablecoins Transform Financial Markets",
@@ -56,13 +147,6 @@
     "contentSnippet": "How Ethereum's new PeerDAS feature slashes fees, boosts data capacity and paves the way for lightning-fast user experiences on the network."
   },
   {
-    "title": "Firelight、XRPのステーキング機能をローンチ　DeFiの保険市場構築へ",
-    "link": "https://coinpost.jp/?p=671263",
-    "pubDate": "Thu, 04 Dec 2025 07:35:12 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "DeFiの保険サービスを開発するFirelightは、Firelight Protocolをローンチ。まずは仮想通貨XRPをステーキングできる機能を提供する。"
-  },
-  {
     "title": "Connecticut Orders Kalshi, Robinhood, Crypto.com to Cease Sports Betting ",
     "link": "https://www.coindesk.com/policy/2025/12/03/connecticut-orders-kalshi-robinhood-crypto-com-to-cease-sports-betting",
     "pubDate": "Wed, 03 Dec 2025 22:32:55 +0000",
@@ -77,25 +161,18 @@
     "contentSnippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
   },
   {
-    "title": "BlackRock’s Fink calls Bitcoin an ‘asset of fear’, softens crypto stance",
+    "title": "BlackRock’s Fink calls Bitcoin an ‘asset of fear,’ softens crypto stance",
     "link": "https://cointelegraph.com/news/blackrock-ceo-larry-fink-bitcoin-strategy-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Wed, 03 Dec 2025 22:20:04 +0000",
     "source": "Cointelegraph",
     "contentSnippet": "Larry Fink spoke alongside Coinbase CEO Brian Armstrong, describing how BlackRock's stance on crypto had evolved over the previous eight years."
   },
   {
-    "title": "Strategy Bitcoin buys collapse, company bracing for bear market: Analyst",
+    "title": "Strategy Bitcoin buys collapse, company braces for bear market: Analyst",
     "link": "https://cointelegraph.com/news/strategy-bitcoin-buy-collapse-bracing-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Wed, 03 Dec 2025 22:14:27 +0000",
     "source": "Cointelegraph",
     "contentSnippet": "Strategy's monthly BTC buys contracted significantly in the second half of 2025 amid a broad downturn in the crypto treasury market."
-  },
-  {
-    "title": "イーサリアム「フサカ」実装完了、レイヤー2取引手数料削減",
-    "link": "https://coinpost.jp/?p=671034",
-    "pubDate": "Thu, 04 Dec 2025 07:00:43 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "仮想通貨イーサリアムの「フサカ」アップグレードが実施された。PeerDAS技術の導入によりバリデーターの処理負担が軽減され、レイヤー2の取引速度向上と手数料削減が実現。次期アップグレード「グラムステルダム」の準備も進行中だ。"
   },
   {
     "title": "Ethereum Activates Fusaka Upgrade, Aiming to Cut Node Costs, Speed Layer-2 Settlements",
@@ -103,34 +180,6 @@
     "pubDate": "Wed, 03 Dec 2025 21:50:54 +0000",
     "source": "CoinDesk",
     "contentSnippet": "At the center of the upgrade is PeerDAS, a system that lets validators check small slices of data rather than entire “blobs,” reducing both costs and computational load for validators and layer-2 netw"
-  },
-  {
-    "title": "Fin lands $17M for stablecoin payments app built by ex-Citadel team: Report",
-    "link": "https://cointelegraph.com/news/fin-capital-stablecoin-payments-app-citadel-team-fortune-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 03 Dec 2025 21:48:12 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Fin, founded by two former Citadel engineers, raised capital to launch a stablecoin app for cross-border payments as banks and fintechs expand into digital assets."
-  },
-  {
-    "title": "Crypto bounces but weak US macro data, AI uncertainty threaten the recovery",
-    "link": "https://cointelegraph.com/news/crypto-bounces-as-weak-us-macro-data-ai-uncertainty-threaten-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 03 Dec 2025 21:48:11 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Cryptocurrencies show strength despite investors’ concerns about the AI industry and weak US labor and consumer data. Would an acceleration of money printing boost Bitcoin?"
-  },
-  {
-    "title": "フランクリン・テンプルトンもソラナETFを上場、ステーキング報酬を付与",
-    "link": "https://coinpost.jp/?p=671258",
-    "pubDate": "Thu, 04 Dec 2025 06:35:15 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "米大手資産運用会社フランクリン・テンプルトンがソラナETFをNYSEアーカに上場した。最大100%のステーキングで報酬を付与。コインベースが管理を担当。"
-  },
-  {
-    "title": "Crypto M&A deals hit an all-time high in 2025, blowing past $8.6B",
-    "link": "https://cointelegraph.com/news/crypto-merger-acquisition-deals-8-6b-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 03 Dec 2025 21:29:18 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Crypto deals activity surged to record levels this year, even as the industry continued to face significant market turbulence and macroeconomic headwinds."
   },
   {
     "title": "Fanatics Enters Prediction Markets With App Live in 10 States",
@@ -147,20 +196,6 @@
     "contentSnippet": "Binance Junior accounts will be limited to moving funds back to parent accounts or to other Junior accounts, with on-chain withdrawals unavailable."
   },
   {
-    "title": "Major banks running stablecoin, crypto-trading pilots with Coinbase, Armstrong says",
-    "link": "https://cointelegraph.com/news/major-banks-stablecoin-trading-coinbase-armstrong-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 03 Dec 2025 21:12:30 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "At the DealBook Summit, BlackRock CEO Larry Fink acknowledged Bitcoin’s utility, as Coinbase’s Brian Armstrong said the exchange is running pilots with major US banks."
-  },
-  {
-    "title": "ソラナスマホの独自仮想通貨「SKR」、来年1月発行予定　30%がエアドロップに",
-    "link": "https://coinpost.jp/?p=671254",
-    "pubDate": "Thu, 04 Dec 2025 06:10:49 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "スマホ製造のソラナ・モバイルがネイティブトークンSKRを2026年1月に発行すると発表した。ローンチ時に30%がエアドロップされる。"
-  },
-  {
     "title": "LINK Surges 7% as Grayscale’s Chainlink ETF Sees $37M in First-Day Inflow",
     "link": "https://www.coindesk.com/markets/2025/12/03/link-surges-7-as-grayscale-s-chainlink-etf-sees-usd37m-in-first-day-inflow",
     "pubDate": "Wed, 03 Dec 2025 21:09:53 +0000",
@@ -173,110 +208,5 @@
     "pubDate": "Wed, 03 Dec 2025 21:06:43 +0000",
     "source": "Decrypt",
     "contentSnippet": "French startup Mistral releases a 4-model AI family, challenging DeepSeek with frontier performance and EU data sovereignty for enterprises wary of Chinese alternatives."
-  },
-  {
-    "title": "Bitcoin Hovers Near Production Cost as Bull/Bear Line Tightens ",
-    "link": "https://www.coindesk.com/markets/2025/12/03/bitcoin-hovers-near-production-cost-as-bull-bear-line-tightens",
-    "pubDate": "Wed, 03 Dec 2025 20:48:45 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Difficulty and network valuation models point to BTC hovering around fair value near $90,000."
-  },
-  {
-    "title": "Is Bitcoin Treasury Giant Strategy 'Too Big To Fail'?",
-    "link": "https://decrypt.co/350793/strategy-too-big-fail-no",
-    "pubDate": "Wed, 03 Dec 2025 20:48:22 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Bitcoin treasury company Strategy is not too big to fail, say some company observers, but others disagree."
-  },
-  {
-    "title": "ストラテジーがMSCI指数残留へ協議、ドル準備金確保は弱気相場への備え",
-    "link": "https://coinpost.jp/?p=671250",
-    "pubDate": "Thu, 04 Dec 2025 05:45:59 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "ストラテジーのセイラー会長は指数プロバイダーMSCIとの協議を認めた。同社は14.4億ドルの米ドル準備金を確保しており、クリプトクアントはビットコインの長期的な下落に備えた戦術的転換と分析。"
-  },
-  {
-    "title": "XRP faces ‘now or never’ moment as traders eye rally to $2.50",
-    "link": "https://cointelegraph.com/news/xrp-faces-now-or-never-moment-as-traders-eye-rally-to-dollar2-50?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 03 Dec 2025 20:39:16 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "XRP shows renewed strength as traders crunch the charts to see if a rally into the $2.30 to $2.50 zone is possible. Does the bulk of the move depend on Bitcoin’s short-term performance?"
-  },
-  {
-    "title": "Nvidia CEO Jensen Huang Tells Joe Rogan AI Race Is Real, but It Won’t Have a Clear Winner",
-    "link": "https://www.coindesk.com/tech/2025/12/03/nvidia-ceo-jensen-huang-tells-joe-rogan-ai-race-is-real-but-it-won-t-have-a-clear-winner",
-    "pubDate": "Wed, 03 Dec 2025 20:08:28 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "In a wide-ranging interview, Huang claims AI growth is gradual, powerful and already changing global power dynamics."
-  },
-  {
-    "title": "Solana Mobile to Launch SKR Token in January With 10B Supply",
-    "link": "https://www.coindesk.com/tech/2025/12/03/solana-mobile-to-launch-skr-token-in-january-with-10b-supply",
-    "pubDate": "Wed, 03 Dec 2025 20:01:32 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Distribution is designed to go to the ecosystem, With 30% to airdrops, 25% to growth initiatives, and 10% for liquidity and launch support."
-  },
-  {
-    "title": "Coinbase CEO Armstrong Says Banks That Don't Adapt Stablecoin Will be 'Left Behind'",
-    "link": "https://www.coindesk.com/business/2025/12/03/coinbase-is-partnering-with-major-u-s-banks-on-stablecoin-and-crypto-pilots",
-    "pubDate": "Wed, 03 Dec 2025 19:33:29 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "CEO Brian Armstrong said top banks are \"leaning into this as an opportunity,\" signaling Wall Street’s quiet embrace of crypto infrastructure."
-  },
-  {
-    "title": "Was the Bitcoin Jump a 'Fake Breakout'?",
-    "link": "https://decrypt.co/350787/was-bitcoin-jump-fake-breakout",
-    "pubDate": "Wed, 03 Dec 2025 19:23:40 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Bitcoin surged on Tuesday but lost momentum. Analysts debate whether the rally will last as markets brace for the Federal Reserve's rate decision next week."
-  },
-  {
-    "title": "Polymarket Launches App With CFTC Green Light in U.S. Return",
-    "link": "https://www.coindesk.com/markets/2025/12/03/polymarket-launches-app-with-cftc-green-light-in-u-s-return",
-    "pubDate": "Wed, 03 Dec 2025 19:23:17 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Armed with CFTC approval, Polymarket has launched its mobile platform for sports and proposition markets under federal oversight."
-  },
-  {
-    "title": "Bitcoin’s strongest trading day since May cues possible rally to $107K",
-    "link": "https://cointelegraph.com/news/bitcoin-s-strongest-trading-day-since-may-cues-possible-rally-to-dollar107k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 03 Dec 2025 19:17:49 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Bitcoin posted its strongest daily gain since May as buy-side flows, a sharp adjustment in investor sentiment and a return of the Coinbase premium hint at a potential rally above $100,000."
-  },
-  {
-    "title": "Crypto UP 7-10%, Bank of America recommends crypto, Kalshi raise $11B",
-    "link": "https://decrypt.co/videos/interviews/kLKB13oZ/crypto-up-7-10-bank-of-america-recommends-crypto-kalshi-raise-11b",
-    "pubDate": "Wed, 03 Dec 2025 18:32:48 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Crypto majors are sharply higher, climbing 6–10% following Vanguard’s crypto debut and supportive commentary from Bank of America, with BTC up 6% to $92,900, ETH up 9% to $3,070, BNB up 7% to $899, an"
-  },
-  {
-    "title": "Filecoin Gains 2% Alongside Crypto Rally",
-    "link": "https://www.coindesk.com/markets/2025/12/03/filecoin-gains-2-alongside-crypto-rally",
-    "pubDate": "Wed, 03 Dec 2025 17:38:53 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "The token tracked broader crypto sentiment on below-average volume, establishing an ascending trend."
-  },
-  {
-    "title": "Eric Trump’s American Bitcoin Steadies After ‘First Major Unlock' of Shares",
-    "link": "https://decrypt.co/350775/eric-trumps-american-bitcoin-steadies-unlock",
-    "pubDate": "Wed, 03 Dec 2025 16:24:12 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The stock was volatile after insiders took profits."
-  },
-  {
-    "title": "Bitcoin back above $92K, BlackRock bullish on a tokenized future, Kalshi raise $11B - Daily Crypto Recap",
-    "link": "https://decrypt.co/videos/interviews/ImN1EVr6/bitcoin-back-above-92k-blackrock-bullish-on-a-tokenized-future-kalshi-raise-11b-daily-crypto-recap",
-    "pubDate": "Wed, 03 Dec 2025 14:32:33 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Your Decrypt daily recap with @tyler_did_it for December 3rd 2025\n\nToday’s headlines: BTC jumps back above $92K, BlackRock bullish on tokenized assets, Kalshi raise $11B, & more"
-  },
-  {
-    "title": "XRP現物ETF、2週間弱で約1200億円規模に到達　仮想通貨ETF史上2番目の速さ",
-    "link": "https://coinpost.jp/?p=671135",
-    "pubDate": "Wed, 03 Dec 2025 17:03:21 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "XRP現物ETFが上場13日で8億ドル超の流入を達成し、ビットコインETFに次ぐ史上2番目の速さを記録。ソラナETFを大きく上回るペースで、アナリストは最大1兆円超の市場規模を予測。"
   }
 ]
