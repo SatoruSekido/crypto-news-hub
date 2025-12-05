@@ -1,17 +1,227 @@
 [
   {
+    "title": "年末にかけての下落リスクを軽減する価格帯は？　ビットコイン最新市場分析＝Glassnode",
+    "link": "https://coinpost.jp/?p=671764",
+    "pubDate": "Fri, 05 Dec 2025 10:05:25 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "Glassnodeが仮想通貨ビットコイン市場の最新週間レポートを発表。需要低迷と含み損拡大の中、年末の下落リスクを抑える価格帯などを分析している。"
+  },
+  {
+    "title": "JPモルガンがストラテジーのビットコイン売却回避能力を評価、「マイナーの動きより重要」",
+    "link": "https://coinpost.jp/?p=671760",
+    "pubDate": "Fri, 05 Dec 2025 08:55:42 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "JPモルガンのアナリストが、ストラテジーのビットコイン売却回避能力がBTC価格の短期見通しにおいてマイナー活動より重要だと分析した。"
+  },
+  {
+    "title": "21シェアーズ、米国初のスイ（SUI）連動2倍レバレッジETFを上場",
+    "link": "https://coinpost.jp/?p=671749",
+    "pubDate": "Fri, 05 Dec 2025 08:20:24 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "21シェアーズが米国証券取引委員会の承認を得て、スイ(SUI)の価格に連動する初のレバレッジETFをナスダックに上場した。日次リターンの2倍を提供する商品で、スイエコシステムに関連する初のETFとなる。"
+  },
+  {
+    "title": "「政府系ファンドは相場下落時にビットコインを買い増し」ブラックロックのフィンクCEOが明かす",
+    "link": "https://coinpost.jp/?p=671734",
+    "pubDate": "Fri, 05 Dec 2025 08:10:25 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "ブラックロックのラリー・フィンクCEOは、複数の政府系ファンドが仮想通貨ビットコインを購入していると明かした。相場下落時に買い増ししている様子も伝えている。"
+  },
+  {
+    "title": "Stablecoin Adoption Could Stifle Central Bank Control, IMF Warns",
+    "link": "https://decrypt.co/350996/stablecoin-adoption-could-stifle-central-bank-control-imf-warns",
+    "pubDate": "Thu, 04 Dec 2025 22:58:18 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Stablecoins have the potential to broaden individuals’ access to financial services, but that may come at the cost of central banks, per IMF."
+  },
+  {
+    "title": "ソラナとベース間ブリッジが稼働開始、チェーンリンクとコインベースが安全性確保",
+    "link": "https://coinpost.jp/?p=671740",
+    "pubDate": "Fri, 05 Dec 2025 07:25:00 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "レイヤー2ベースチェーンがソラナとのブリッジをメインネットで正式稼働。チェーンリンクCCIPを採用し、両チェーン間でのトークン移動と取引が可能になった。"
+  },
+  {
+    "title": "Ripple CEO Brad Garlinghouse Expects Bitcoin to Hit $180K Next Year",
+    "link": "https://decrypt.co/350988/ripple-ceo-brad-garlinghouse-expects-bitcoin-180k-next-year",
+    "pubDate": "Thu, 04 Dec 2025 22:04:45 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Ripple CEO Brad Garlinghouse thinks Bitcoin will be trading at $180,000 at the close of 2026, nearly double the current price."
+  },
+  {
+    "title": "メタがメタバース予算を最大30%削減検討、VR・ホライゾン・ワールズが対象＝報道",
+    "link": "https://coinpost.jp/?p=671727",
+    "pubDate": "Fri, 05 Dec 2025 07:02:30 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "ザッカーバーグのメタ社がメタバース関連事業の予算を来年最大30%削減する検討を進めている。投資家から歓迎され株価が上昇した。"
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 04 Dec 2025 21:50:53 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
+  },
+  {
+    "title": "Myriad Moves: Bitcoin and Ethereum Recovery Odds Rise as Traders Flip Bullish",
+    "link": "https://decrypt.co/350986/myriad-moves-bitcoin-ethereum-recovery-odds-rise-traders-flip-bullish",
+    "pubDate": "Thu, 04 Dec 2025 21:36:01 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Top markets on Myriad this week include predictions on where Bitcoin and Ethereum are headed next, plus odds of another major liquidation event."
+  },
+  {
+    "title": "Hua Xia state-linked Chinese bank tokenizes $600M in yuan bonds",
+    "link": "https://cointelegraph.com/news/hua-xia-china-bank-tokenizes-600m-yuan-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 04 Dec 2025 21:35:08 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "The bond was auctioned off to holders of the digital yuan, a central bank digital currency (CBDC) developed by the Chinese government."
+  },
+  {
+    "title": "Former Binance.US CEO launches stablecoin platform ahead of L1 network",
+    "link": "https://cointelegraph.com/news/brian-shroder-1money-launch-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 04 Dec 2025 21:31:06 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "After securing $20 million in seed funding for the project in January, Brian Shroder announced a step toward 1Money’s planned stablecoin network."
+  },
+  {
+    "title": "Solana and Ethereum Network Base Are Now Connected Thanks to Coinbase and Chainlink",
+    "link": "https://decrypt.co/350987/solana-ethereum-network-base-connected-coinbase-chainlink",
+    "pubDate": "Thu, 04 Dec 2025 21:25:56 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Solana and Base are now connected thanks to a new bridge secured by Chainlink's interoperability protocol and crypto exchange Coinbase."
+  },
+  {
+    "title": "ロシアが仮想通貨マイニング収益の公式統計反映を検討、隠れた輸出として年間数千億円規模か",
+    "link": "https://coinpost.jp/?p=671716",
+    "pubDate": "Fri, 05 Dec 2025 06:25:55 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "ロシア大統領府のオレシュキン副長官が仮想通貨マイニング収益を貿易収支に計上すべきだと提案した。マイニング収益は1日約10億ルーブルに達し、隠れた輸出として外国為替市場に影響を与えているという。"
+  },
+  {
+    "title": "CNBC taps Kalshi to bring real-time prediction data into financial coverage",
+    "link": "https://cointelegraph.com/news/kalshi-prediction-markets-partnership-cnbc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 04 Dec 2025 21:22:47 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Kalshi will provide real-time prediction data across CNBC’s TV, digital and subscription platforms beginning in 2026 as part of a mult-year partnership."
+  },
+  {
+    "title": "Canton Network Creator Snags Strategic Investment from Wall Street Giants",
+    "link": "https://www.coindesk.com/business/2025/12/04/canton-network-creator-snags-strategic-investment-from-wall-street-giants",
+    "pubDate": "Thu, 04 Dec 2025 21:12:22 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "BNY, Nasdaq, iCapital and S&P Global invested in Digital Assets, powering blockchain infrastructure for tokenized real-world assets."
+  },
+  {
+    "title": "Ether outpaces Bitcoin’s trend change: Is ETH on track for a 20% rally?",
+    "link": "https://cointelegraph.com/news/ether-outpaces-btc-is-a-20percent-eth-rally-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 04 Dec 2025 21:03:58 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "ETH outperformed Bitcoin in terms of spot ETF flows and short-term returns. Technical charts suggest traders are positioning for a 20% upmove."
+  },
+  {
+    "title": "ソフトバンクなど出資のビットコイン企業「21キャピタル」、12月9日から「XXI」で取引開始",
+    "link": "https://coinpost.jp/?p=671698",
+    "pubDate": "Fri, 05 Dec 2025 06:02:11 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "ビットコイン特化企業の21キャピタルとカンター・エクイティ・パートナーズの事業統合が株主承認を得た。ティッカーシンボル「XXI」として株式の取引を開始。"
+  },
+  {
+    "title": "In wake of crypto’s leverage wipeout, SEC approves ‘SUI-on-steroids’ ETF",
+    "link": "https://cointelegraph.com/news/sec-approves-sui-on-steroids-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 04 Dec 2025 20:47:30 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "The SEC approved a 2x leveraged ETF tied to SUI as regulators warn that excessive leverage continues to amplify volatility across crypto markets."
+  },
+  {
+    "title": "Kraken Partners With Deutsche Börse as Europe Looks to Rival Wall Street in Crypto",
+    "link": "https://www.coindesk.com/business/2025/12/04/kraken-partners-with-deutsche-boerse-as-europe-looks-to-rival-wall-street-in-crypto",
+    "pubDate": "Thu, 04 Dec 2025 20:38:59 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Deutsche Börse Group (DBG) and Kraken announced a strategic partnership signalling acceleration of crypto adoption across Europe and a clear intention to compete with Wall Street."
+  },
+  {
+    "title": "CFTCが仮想通貨現物取引を連邦規制市場で初承認、米国で取引開始へ",
+    "link": "https://coinpost.jp/?p=671675",
+    "pubDate": "Fri, 05 Dec 2025 05:35:52 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "米CFTCが仮想通貨現物商品取引の許可を発表した。CFTC登録先物取引所で初めて取引が可能となり、厳格な監督と投資家保護の下で安全に取引できる環境が整った。"
+  },
+  {
+    "title": "Peter Schiff fails to authenticate gold bar during onstage test with CZ",
+    "link": "https://cointelegraph.com/news/peter-schiff-gold-bar-bitcoin-tokenization-cz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 04 Dec 2025 20:35:25 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Gold advocate Peter Schiff faced Binance co-founder Changpeng \"CZ\" Zhao during an event panel in Dubai, arguing that tokenized gold is a better store-of-value asset than Bitcoin."
+  },
+  {
+    "title": "Privacy-First 'Alien' Identity System Aims to Prove Users Are Human in the Age of AI",
+    "link": "https://decrypt.co/350974/privacy-first-alien-identity-system-prove-users-human-age-ai",
+    "pubDate": "Thu, 04 Dec 2025 20:29:25 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Alien’s privacy-focused decentralized app verifies users without storing biometrics or government IDs. Here's how it works."
+  },
+  {
+    "title": "After Faking Death, Zerebro Founder Unveils AI-Penned Manifesto and New Solana Coin",
+    "link": "https://decrypt.co/350928/faking-death-zerebro-founder-unveils-ai-manifesto-solana-coin",
+    "pubDate": "Thu, 04 Dec 2025 20:22:37 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The manifesto argues for a future in which AI and humans will converge biologically, chemically, and surgically in a new form of humanity."
+  },
+  {
+    "title": "Bitcoin Could Continue Chopping Below $95K Into Year-End and Altcoins Could Benefit, Analyst Says",
+    "link": "https://www.coindesk.com/daybook-us/2025/12/04/bitcoin-could-continue-chopping-below-usd95k-into-year-end-as-altcoins-may-outperform-analyst-says",
+    "pubDate": "Thu, 04 Dec 2025 20:20:03 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Low-liquidity in December may cap bitcoin's recovery rally, but rangebound trading for the largest crypto could benefit smaller digital assets, Wincent's Paul Howard said."
+  },
+  {
+    "title": "Bitcoin price action, investor sentiment point to bullish December",
+    "link": "https://cointelegraph.com/news/bitcoin-price-action-investor-sentiment-point-to-bullish-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 04 Dec 2025 19:47:12 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "An emerging bullish Bitcoin trend challenges a decade-long bearish seasonal pattern. Will BTC hit new highs before the end of 2025?"
+  },
+  {
+    "title": "IMF lays out guidelines for addressing stablecoin risks, beyond regulations",
+    "link": "https://cointelegraph.com/news/imf-guidelines-stablecoin-risks-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 04 Dec 2025 19:43:08 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "The fund identified “strong macro-policies and robust institutions” as a response to the potential risks of stablecoins, above a patchwork of global regulations."
+  },
+  {
+    "title": "CFTC Gives Green Light to Spot Crypto Trading as Bitnomial Exchange Readies for Launch",
+    "link": "https://decrypt.co/350957/cftc-gives-green-light-spot-crypto-trading-bitnomial-exchange",
+    "pubDate": "Thu, 04 Dec 2025 19:19:40 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Acting CFTC Chair Caroline Pham described the move as unprecedented."
+  },
+  {
+    "title": "Coinbase, Chainlink Introduce Base-Solana Bridge to Link Ecosystems",
+    "link": "https://www.coindesk.com/web3/2025/12/04/coinbase-chainlink-introduce-base-solana-bridge-to-link-ecosystems",
+    "pubDate": "Thu, 04 Dec 2025 19:00:00 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "The bridge, secured by Chainlink's Cross-Chain Interoperability Protocol, allows users to trade and interact with Solana-based tokens on Base-based dapps."
+  },
+  {
+    "title": "How an AI Wiz Used ChatGPT to Turn the Tables on a Scammer",
+    "link": "https://decrypt.co/350935/how-ai-wiz-used-chatgpt-turn-tables-scammer",
+    "pubDate": "Thu, 04 Dec 2025 18:41:11 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "An IT worker claims he \"vibe coded\" a phishing page via AI to unmask a would-be scammer in Delhi, prompting panicked pleas for mercy."
+  },
+  {
+    "title": "Twenty One Capital eyes Tuesday debut following Cantor Equity Partners merger",
+    "link": "https://cointelegraph.com/news/twenty-one-capital-dec-9-listing-cantor-equity-partners-merger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 04 Dec 2025 18:30:44 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Bitcoin-focused Twenty One Capital is set to go public on the NYSE after winning shareholder approval for its merger with Cantor Equity Partners."
+  },
+  {
     "title": "Bitcoin’s Negative Correlation With Nasdaq Persists, and History Suggests a Bottom May Be Forming",
     "link": "https://www.coindesk.com/markets/2025/12/04/bitcoin-s-negative-correlation-with-nasdaq-persists-and-history-suggests-a-bottom-may-be-forming",
     "pubDate": "Thu, 04 Dec 2025 18:23:21 +0000",
     "source": "CoinDesk",
     "contentSnippet": "Historical patterns show that bitcoin often bottoms when its correlation with the Nasdaq 100 breaks down, a dynamic now appearing for the fourth time in five years."
-  },
-  {
-    "title": "Solmate looks beyond SOL treasury model with RockawayX acquisition",
-    "link": "https://cointelegraph.com/news/solmate-rockawayx-solana-infrastructure-treasury-abu-dhabi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 04 Dec 2025 18:03:51 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "The deal would fold RockawayX’s infrastructure, liquidity and asset-management businesses into Solmate, widening revenue streams for the SOL-focused treasury company."
   },
   {
     "title": "Crypto Investor Donates $12M to UK's Reform Party",
@@ -56,13 +266,6 @@
     "contentSnippet": "The token is trading in a sideways range, holding above recent lows near $896, while a breakout above $920-$928 resistance could push BNB toward $1,000."
   },
   {
-    "title": "Malaysia Cracks Down on Bitcoin Miners Behind $1.1B Electricity Theft",
-    "link": "https://decrypt.co/350941/malaysia-cracks-down-on-bitcoin-miners-behind-1-1b-electricity-theft",
-    "pubDate": "Thu, 04 Dec 2025 16:55:22 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "A new taskforce is using drones and sensors to find power thieves, after 14,000 illicit mining operations have been uncovered over five years."
-  },
-  {
     "title": "Meta Plans 30% Cut to Metaverse Budget as Reality Becomes Less Virtual: Bloomberg",
     "link": "https://www.coindesk.com/markets/2025/12/04/meta-plans-30-cut-to-metaverse-budget-as-reality-becomes-less-virtual-bloomberg",
     "pubDate": "Thu, 04 Dec 2025 16:32:57 +0000",
@@ -70,213 +273,10 @@
     "contentSnippet": "Horizon Worlds and Quest are facing layoffs as Meta retreats further from its $70 billion bet on virtual reality, people familiar with the matter told Bloomberg."
   },
   {
-    "title": "What Triggered Recent $4B Bitcoin ETF Outflows?",
-    "link": "https://www.coindesk.com/markets/2025/12/04/usd4b-bitcoin-etf-outflows-in-oct-nov-reflect-basis-trade-unwind-not-capitulation-research-analyst",
-    "pubDate": "Thu, 04 Dec 2025 16:28:01 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Recent outflows from U.S.-listed spot bitcoin ETFs were driven by specific arbitrage trade closures, not widespread institutional panic."
-  },
-  {
-    "title": "CFTC greenlights spot crypto trading on US exchanges",
-    "link": "https://cointelegraph.com/news/cftc-spot-crypto-trading-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 04 Dec 2025 16:26:47 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Acting CFTC Chair Caroline Pham said the move was intended to drive trading activity to US exchanges, rather than offshore ones “that lack basic safeguards.”"
-  },
-  {
-    "title": "BONK Edges Higher as Narrow-Range Trading Holds Above Key Support",
-    "link": "https://www.coindesk.com/markets/2025/12/04/bonk-edges-higher-as-narrow-range-trading-holds-above-key-support",
-    "pubDate": "Thu, 04 Dec 2025 16:21:30 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "The Solana meme token posted a modest gain while repeated resistance tests and shifting volume patterns kept price action confined to a tight band."
-  },
-  {
-    "title": "ICP Rises as Cross-Chain Narratives Gain Attention",
-    "link": "https://www.coindesk.com/markets/2025/12/04/icp-rises-as-cross-chain-narratives-gain-attention",
-    "pubDate": "Thu, 04 Dec 2025 16:20:11 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Internet Computer edged higher as broader market consolidation kept price action pinned to key support and resistance levels."
-  },
-  {
-    "title": "BlackRock is RISK On! Polymarket launches US App! Crypto still Green!",
-    "link": "https://decrypt.co/videos/interviews/rPR1y1Fb/blackrock-is-risk-on-polymarket-launches-us-app-crypto-still-green",
-    "pubDate": "Thu, 04 Dec 2025 16:06:55 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Crypto majors traded slightly higher, with ETH leading gains post-Fusaka as BTC rose 1% to $93,000, ETH jumped 4% to $3,190, and BNB and SOL each added 1% to reach $909 and $143, respectively. Among t"
-  },
-  {
-    "title": "Bitcoin Treasury Twenty One Set to Begin Trading on NYSE With $4 Billion BTC Stash",
-    "link": "https://decrypt.co/350938/bitcoin-treasury-twenty-one-begin-trading-nyse-4-billion-stash",
-    "pubDate": "Thu, 04 Dec 2025 16:01:58 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Twenty One Capital is set to begin trading as XXI on the New York Stock Exchange on December 9, launching with $4 billion worth of Bitcoin."
-  },
-  {
-    "title": "Blockdaemon, VerifiedX Join Forces to Deliver Mass-Market, Self-Custodial DeFi",
-    "link": "https://www.coindesk.com/business/2025/12/04/blockdaemon-and-verifiedx-join-forces-to-deliver-mass-market-self-custodial-defi",
-    "pubDate": "Thu, 04 Dec 2025 16:00:00 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "The experience, which is designed to feel like Venmo or Cash App, allows users to earn yield on bitcoin (BTC) and stablecoins and borrow against their holdings."
-  },
-  {
-    "title": "Bitcoin rejects at key $93.5K as Fed rate-cut bets meet 'strong' bear case",
-    "link": "https://cointelegraph.com/news/bitcoin-rejects-key-93-5k-fed-rate-cut-ignore-strong-jobs-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 04 Dec 2025 15:22:46 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Bitcoin price action fell back toward $90,000 on strong US jobs data as BTC ignored Fed rate-cut  optimism, failing to flip the yearly open to support."
-  },
-  {
-    "title": "Exclusive data from EigenPhi reveals that sandwich attacks on Ethereum have waned",
-    "link": "https://cointelegraph.com/news/exclusive-data-from-eigenphi-reveals-that-sandwich-attacks-on-ethereum-have-waned?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 04 Dec 2025 15:00:00 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Exclusive data shows that MEV attacks hit hundreds of traders on Ethereum each month and continue to result in millions in losses."
-  },
-  {
-    "title": "Pepe memecoin website exploited, redirecting users to malware: Blockaid",
-    "link": "https://cointelegraph.com/news/pepe-memecoin-site-hacked?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 04 Dec 2025 14:57:38 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "The website of the Pepe memecoin has been hit with a front-end attack, and users are encouraged to stay clear of the website."
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 04 Dec 2025 14:50:37 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
-  },
-  {
-    "title": "BlackRock stays risk-on into 2026, Binance Launches ‘Binance Junior’ for Kids, Kalshi Partners with CNN - Daily Crypto Recap",
-    "link": "https://decrypt.co/videos/interviews/eX3XwJr8/blackrock-stays-risk-on-into-2026-binance-launches-binance-junior-for-kids-kalshi-partners-with-cnn-daily-crypto-recap",
-    "pubDate": "Thu, 04 Dec 2025 14:43:57 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Decrypt's daily crypto news recap with @tyler_did_it. Your crypto round-up for December 4th 2025"
-  },
-  {
-    "title": "EU plan boosts ESMA powers over crypto and capital markets",
-    "link": "https://cointelegraph.com/news/eu-proposal-centralize-crypto-financial-markets-esma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 04 Dec 2025 14:33:30 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "The European Commission plans to expand ESMA oversight of MiCA crypto companies and trading venues, aiming to streamline EU markets and narrow the gap with the US."
-  },
-  {
-    "title": "Bitcoin looks increasingly like it did in 2022: Can BTC price avoid $68K?",
-    "link": "https://cointelegraph.com/news/bitcoin-looks-increasingly-like-it-did-in-2022-can-btc-price-avoid-68k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 04 Dec 2025 14:29:10 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Onchain data points to a major Bitcoin price drop in the making, while a bearish technical structure projected a drop to $68,000."
-  },
-  {
-    "title": "Argentine state-owned energy giant weighs crypto payments for fuel: Report",
-    "link": "https://cointelegraph.com/news/argentina-ypf-considers-crypto-fuel-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 04 Dec 2025 14:21:43 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Argentina’s state oil company, YPF, is reportedly exploring crypto payments at its fuel stations as adoption of digital assets rises, following the recent rollout of US dollar transactions."
-  },
-  {
-    "title": "Portal to Bitcoin raises $25M and launches atomic OTC desk",
-    "link": "https://cointelegraph.com/news/portal-to-bitcoin-25m-funding-atomic-otc-desk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 04 Dec 2025 14:08:29 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Portal to Bitcoin raised $25 million and launched an HTLC-based atomic OTC desk aimed at enabling trustless, crosschain large trade settlement."
-  },
-  {
-    "title": "Thailand Busts $8.6M Bitcoin Mining Operations Funding 'Chinese Scam Networks'",
-    "link": "https://decrypt.co/350913/thailand-busts-8-6m-bitcoin-mining-operations-funding-chinese-scam-networks",
-    "pubDate": "Thu, 04 Dec 2025 14:01:02 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Southeast Asian nations are ramping up enforcement as illegal mining operations drain power grids and bankroll cybercrime networks."
-  },
-  {
-    "title": "Morning Minute: BlackRock Goes Risk-On for 2026",
-    "link": "https://decrypt.co/350911/morning-minute-blackrock-goes-risk-on-for-2026",
-    "pubDate": "Thu, 04 Dec 2025 13:20:08 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The investment giant is pointing to AI and digital assets like stablecoins as big forces driving change and growth in the economy."
-  },
-  {
-    "title": "Solana ETFs See Record Outflow as 21Shares' TSOL Bleeds $42M",
-    "link": "https://decrypt.co/350908/solana-etfs-see-record-outflow-as-21shares-tsol-bleeds-42m",
-    "pubDate": "Thu, 04 Dec 2025 12:38:19 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Solana ETFs saw a record $32M outflow as 21Shares' fund bled $42M, contradicting a $321M on-chain capital influx to the network."
-  },
-  {
-    "title": "Bitcoin ATM Operator Coinme Ordered to Return Over $8M to Customers",
-    "link": "https://decrypt.co/350905/coinme-ordered-to-return-over-8m-to-customers-in-washington-state-crackdown",
-    "pubDate": "Thu, 04 Dec 2025 10:59:28 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The Seattle-based Bitcoin ATM operator faces revocation of its license after allegedly claiming unredeemed customer vouchers as income."
-  },
-  {
     "title": "MUFGグループ、トークン化MMFの商品化へ Progmatと協業開始",
     "link": "https://coinpost.jp/?p=671436",
     "pubDate": "Thu, 04 Dec 2025 16:49:56 +0900",
     "source": "CoinPost",
     "contentSnippet": "2026年に機関投資家向け提供を目指す三菱UFJアセットマネジメント、三菱UFJモルガン・スタンレー証券、三菱UFJ信託銀行の3社は4日、Progmat（プログマ）との協業を発表した。日本初となるトークン化投資信託の商品化に向け、基盤整備を..."
-  },
-  {
-    "title": "FRB利下げと流動性回復、2026年の仮想通貨市場に追い風か＝Delphi Digitalレポート",
-    "link": "https://coinpost.jp/?p=671509",
-    "pubDate": "Thu, 04 Dec 2025 16:49:28 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "仮想通貨リサーチ企業Delphi Digitalは、FRBの利下げ継続とQT終了、TGA取り崩し、RRP枯渇により、2026年に仮想通貨市場にとって追い風となる流動性環境が生まれると分析。ビットコインやイーサリアムなどデジタル資産に有利との見方を示した。"
-  },
-  {
-    "title": "ランボルギーニとレジャー、限定ウォレット発表　「いつランボ買える」ミームに呼応",
-    "link": "https://coinpost.jp/?p=671438",
-    "pubDate": "Thu, 04 Dec 2025 15:09:59 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "仮想通貨ハードウェアウォレット大手レジャーとイタリア高級車ランボルギーニが提携し、限定版「Ledger Stax」を2026年初頭に発売。フェラーリやポルシェなど高級ブランドのWeb3参入が加速する中、24万人超の仮想通貨ミリオネア増加が背景に。"
-  },
-  {
-    "title": "米コネチカット州がロビンフッドなど3社に停止命令、無免許でスポーツ賭博提供と主張",
-    "link": "https://coinpost.jp/?p=671415",
-    "pubDate": "Thu, 04 Dec 2025 13:25:01 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "コネチカット州消費者保護局がロビンフッド、クリプトドットコム、カルシに無免許オンライン賭博運営の停止命令を発行した。3社は州法に違反してスポーツ賭博を提供しており、利用者の資金や情報にリスクをもたらしているという。"
-  },
-  {
-    "title": "チャールズ・シュワブ、2026年前半に仮想通貨取引開始へ　既存取引所に手数料圧力か",
-    "link": "https://coinpost.jp/?p=671392",
-    "pubDate": "Thu, 04 Dec 2025 12:26:33 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "米大手証券チャールズ・シュワブが2026年前半にビットコインとイーサリアムのスポット取引を開始。低手数料戦略で既存取引所に圧力か。バンガードやバンク・オブ・アメリカも参入し、ウォール街で仮想通貨の主流化が加速。"
-  },
-  {
-    "title": "メタマスク、最大1万ドルの損失を補償する「トランザクション・シールド」開始　",
-    "link": "https://coinpost.jp/?p=671356",
-    "pubDate": "Thu, 04 Dec 2025 11:15:26 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "仮想通貨ウォレット「メタマスク」が有料補償サービス「トランザクション・シールド」を開始。対象となる取引について月額9.99ドルで最大1万ドルの損失を補償する。"
-  },
-  {
-    "title": "NTT Digital、仮想通貨ソラナのバリデータを運用開始",
-    "link": "https://coinpost.jp/?p=671326",
-    "pubDate": "Thu, 04 Dec 2025 11:02:22 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "NTTドコモグループのNTT DigitalがSolanaバリデータ運用を開始。Dawn Labsが技術支援を担う。国内ではモブキャストHDもソラナ財団認定を取得するなど、企業参入が加速している。"
-  },
-  {
-    "title": "三井物産デジタルAM、デジタル証券ファンドを早期償還",
-    "link": "https://coinpost.jp/?p=671309",
-    "pubDate": "Thu, 04 Dec 2025 10:45:55 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "三井物産デジタル・アセットマネジメントは、デジタル証券ファンド「日本橋・人形町」を早期償還し、当初予想3.0%を上回る年5.0%の利回りを達成。累計利益分配金は25億円を突破した。"
-  },
-  {
-    "title": "「バイナンス・ジュニア」、キッズ向け仮想通貨口座導入　安全性に関する議論も",
-    "link": "https://coinpost.jp/?p=671285",
-    "pubDate": "Thu, 04 Dec 2025 10:30:33 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "バイナンスが6～17歳向けの仮想通貨プログラム「バイナンス・ジュニア」を開始した。親の監督下でシンプルアーンによる資産運用などが可能となる。"
-  },
-  {
-    "title": "イーサリアム保有企業購入量、ピークから80%急減　ビットワイズが指摘",
-    "link": "https://coinpost.jp/?p=671330",
-    "pubDate": "Thu, 04 Dec 2025 10:26:50 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "ビットワイズの報告によると、イーサリアム保有企業の11月購入量は8月比81%減の37万ETHに急減。一方、ビットマイン社は12月に1.5億ドル相当を追加購入し、フサカアップグレードへの期待を示した。"
   }
 ]
