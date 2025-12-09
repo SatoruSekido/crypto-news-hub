@@ -1,5 +1,131 @@
 [
   {
+    "title": "OCC Chief: Banks Blocking Crypto Custody Is 'Recipe for Irrelevance'",
+    "link": "https://decrypt.co/351598/occ-chief-banks-blocking-crypto-custody-is-recipe-for-irrelevance",
+    "pubDate": "Tue, 09 Dec 2025 12:19:52 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Comptroller of the Currency Jonathan Gould warned that restricting national trust banks from digital assets would stifle innovation."
+  },
+  {
+    "title": "No Direction: Crypto Daybook Americas",
+    "link": "https://www.coindesk.com/daybook-us/2025/12/09/no-direction-crypto-daybook-americas",
+    "pubDate": "Tue, 09 Dec 2025 12:19:13 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Your day-ahead look for Dec. 9, 2025"
+  },
+  {
+    "title": "Bitcoin's ‘bear flag pattern’ targets $67K as BTC spot demand slumps",
+    "link": "https://cointelegraph.com/news/bitcoin-bear-flag-pattern-targets-67k-btc-spot-demand-slumps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 09 Dec 2025 12:15:00 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "The absence of new buyers and weakening ETF demand are factors likely to keep the Bitcoin price pinned below $93,000 as a bear flag targets $67,000."
+  },
+  {
+    "title": "VeChain Unveils New 'Hayabusa' Consensus and Tokenomics Upgrade",
+    "link": "https://decrypt.co/351589/vechain-unveils-new-hayabusa-consensus-and-tokenomics-upgrade",
+    "pubDate": "Tue, 09 Dec 2025 12:01:02 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "With more than 5.5 million app users in the last year, VeChain is focusing on tangible use cases for crypto that “you can hold in your hands.”"
+  },
+  {
+    "title": "Tassat Wins U.S. Patent for 'Yield-in-Transit' Onchain Settlement Tech",
+    "link": "https://www.coindesk.com/tech/2025/12/09/tassat-wins-u-s-patent-for-yield-in-transit-onchain-settlement-tech",
+    "pubDate": "Tue, 09 Dec 2025 12:00:00 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "The IP covers intraday, block-by-block interest accrual during 24/7 settlement and underpins Lynq, an institutional network Tassat co-launched in July."
+  },
+  {
+    "title": "‘Elite’ traders hunt dopamine-seeking retail on prediction markets: 10x Research",
+    "link": "https://cointelegraph.com/news/prediction-markets-polymarket-retail-insider-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 09 Dec 2025 11:43:33 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Rising retail participation incentivizes data-driven, “elite” traders to use “information asymmetry” and spreads caused by casual investors seeking a quick buck, 10x said."
+  },
+  {
+    "title": "Crypto Markets Today: Bitcoin Slips Back Toward Danger Zone Ahead of Fed Decision",
+    "link": "https://www.coindesk.com/markets/2025/12/09/crypto-markets-today-bitcoin-slips-back-toward-danger-zone-ahead-of-fed-decision",
+    "pubDate": "Tue, 09 Dec 2025 11:30:46 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Bitcoin surrendered gains from earlier in the week, fell back toward $90,000 as traders braced for Wednesday’s Federal Reserve rate decision."
+  },
+  {
+    "title": "Polygon deploys Madhugiri hard fork, aims for 33% throughput boost",
+    "link": "https://cointelegraph.com/news/polygon-madhugiri-hardfork-throughput-stablecoins-rwa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 09 Dec 2025 11:28:47 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Polygon’s hard fork cuts consensus time to one second, supports Fusaka EIPs and lays the groundwork for stablecoin and RWA-focused scaling."
+  },
+  {
+    "title": "Plume Secures ADGM Commercial License, Eyes Middle East RWA Expansion",
+    "link": "https://www.coindesk.com/markets/2025/12/09/plume-secures-adgm-commercial-license-eyes-middle-east-rwa-expansion",
+    "pubDate": "Tue, 09 Dec 2025 11:00:00 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Plume Network has received a commercial license from the Abu Dhabi Global Market, allowing expansion into the Middle East."
+  },
+  {
+    "title": "HashKey Seeks $215 Million in Hong Kong IPO While Racing Against Its Cash Burn Rate",
+    "link": "https://www.coindesk.com/markets/2025/12/09/hashkey-seeks-usd215-million-in-hong-kong-ipo-while-racing-against-its-cash-burn-rate",
+    "pubDate": "Tue, 09 Dec 2025 10:58:28 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "HashKey's prospectus highlights surging institutional volume, expanding staking and tokenization pipelines and more than 1.44 million users, while losses and a US$5.2 million monthly burn rate loom ov"
+  },
+  {
+    "title": "HashKey crypto exchange opens Hong Kong IPO subscription, targets $215M",
+    "link": "https://cointelegraph.com/news/hashkey-crypto-launches-hong-kong-ipo-215-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 09 Dec 2025 10:46:17 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "HashKey opens IPO subscriptions as it seeks to raise $214.7 million, valuing Hong Kong’s biggest crypto exchange at about $2.5 billion."
+  },
+  {
+    "title": "ASIC Expands Digital Asset Relief For Stablecoin Intermediaries",
+    "link": "https://decrypt.co/351586/asic-expands-digital-asset-relief-for-stablecoin-intermediaries",
+    "pubDate": "Tue, 09 Dec 2025 10:42:52 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The Australian regulator indicated the framework could expand as additional stablecoin and wrapped token issuers secure AFS licences."
+  },
+  {
+    "title": "Will Zcash's ZEC return to $500 or higher before 2026?",
+    "link": "https://cointelegraph.com/news/will-zcash-zec-return-500-dollars-or-higher-before-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 09 Dec 2025 10:26:40 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Bullish reversal signals and rising whale demand increase ZEC’s chances of hitting $500 in December, though some caution remains warranted."
+  },
+  {
+    "title": "SGX's Crypto Futures Draw New Liquidity, Not Diverted Cash, Exchange's President Says",
+    "link": "https://www.coindesk.com/markets/2025/12/09/sgx-s-crypto-futures-draw-new-liquidity-not-diverted-cash-exchange-boss-says",
+    "pubDate": "Tue, 09 Dec 2025 09:49:58 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Institutions are pursuing cash-and-carry arbitrage, not outright bullish plays, Syn said."
+  },
+  {
+    "title": "Saylor Says Strategy Will Not Issue Preferred Equity in Japan, Giving Metaplanet a 12 Month Head Start",
+    "link": "https://www.coindesk.com/markets/2025/12/09/saylor-says-strategy-will-not-issue-preferred-equity-in-japan-giving-metaplanet-a-12-month-headstart",
+    "pubDate": "Tue, 09 Dec 2025 09:38:02 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "MSTR executive chairman shuts down idea of near term expansion of perpetual preferreds in Japan."
+  },
+  {
+    "title": "Circle gets Abu Dhabi greenlight amid UAE stablecoin and crypto push",
+    "link": "https://cointelegraph.com/news/circle-adgm-license-abu-dhabi-stablecoin-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 09 Dec 2025 08:53:37 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Circle has secured a license in Abu Dhabi, enabling it to operate as a licensed Money Services Provider as the UAE accelerates its rollout of crypto regulations."
+  },
+  {
+    "title": "NFT winter deepens: Monthly sales hit lowest point of the year",
+    "link": "https://cointelegraph.com/news/nft-sales-hit-lowest-level-2025-market-cap-down-66-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 09 Dec 2025 08:08:46 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "NFT sales fell to $320 million in November — their lowest this year — with early December off to a weak start as top collections slide across the board."
+  },
+  {
+    "title": "Bitcoin retail inflows to Binance ‘collapse’ to 400 BTC record low in 2025",
+    "link": "https://cointelegraph.com/news/bitcoin-retail-inflows-binance-collapse-400-btc-record-low-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 09 Dec 2025 07:59:44 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Bitcoin retail investors have been sending fewer BTC to Binance per day than at any time in history, despite the new highs of the 2025 bull market."
+  },
+  {
     "title": "Crypto index funds ‘a big deal’ as market complexity grows: Bitwise CIO",
     "link": "https://cointelegraph.com/news/crypto-index-funds-big-deal-market-complexity-grows-bitwise-cio?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Tue, 09 Dec 2025 05:52:41 +0000",
@@ -49,81 +175,11 @@
     "contentSnippet": "Bitcoin is drifting back toward the price where ETF buyers break even, as inflows slow and investors look to the Fed’s decision this week."
   },
   {
-    "title": "ETH, ADA, SOL Steady as Timezone Data Shows Europe Drove Deepest Bitcoin Selloff Since 2018",
+    "title": "ETH, ADA, SOL Steady as Time Zone Data Shows Europe Drove Deepest Bitcoin Sell-Off Since 2018",
     "link": "https://www.coindesk.com/markets/2025/12/09/eth-ada-sol-steady-as-timezone-data-shows-europe-drove-deepest-bitcoin-selloff-since-2018",
     "pubDate": "Tue, 09 Dec 2025 04:49:54 +0000",
     "source": "CoinDesk",
     "contentSnippet": "The broader market held its recent rebound, though liquidity remained thin ahead of Wednesday’s Federal Reserve decision."
-  },
-  {
-    "title": "Tether deepens AI bet, backs Italian firm’s humanoid robots",
-    "link": "https://cointelegraph.com/news/tether-backs-funding-round-italian-humanoid-robots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 09 Dec 2025 04:41:34 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "The funding will support the development of humanoid robots for industrial use, aiming for “industrial scale performance.”"
-  },
-  {
-    "title": "米XRP現物ETF、全期間で純流入を記録　約1459億円に到達",
-    "link": "https://coinpost.jp/?p=672764",
-    "pubDate": "Tue, 09 Dec 2025 13:35:18 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "米XRP現物ETFが上場以来全期間で純流入を記録し、約1,459億円に到達。仮想通貨ETF史上2番目の速さで8億ドルを突破し、機関投資家の継続的な買いが続いている"
-  },
-  {
-    "title": "Dogecoin Holds $0.14 Floor as Network Activity Hits 3-Month High",
-    "link": "https://www.coindesk.com/markets/2025/12/09/dogecoin-holds-usd0-14-floor-as-network-activity-hits-3-month-high",
-    "pubDate": "Tue, 09 Dec 2025 04:29:51 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Rising active addresses and tightening volatility indicate an impending directional move, with $0.16 as a critical breakout threshold."
-  },
-  {
-    "title": "Bitcoin Traders Target $20K Bitcoin Strike as Deep Out of the Money Options Gain Traction",
-    "link": "https://www.coindesk.com/markets/2025/12/08/bitcoin-traders-target-usd20k-bitcoin-strike-as-deep-out-of-the-money-options-gain-traction",
-    "pubDate": "Tue, 09 Dec 2025 04:28:09 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "These flows represent a bullish bet on volatility rather than a downside hedge or outright bearish position."
-  },
-  {
-    "title": "XRP Traders Eyes Breakout Above $2.11 as U.S. ETFs Cross $1B Milestone",
-    "link": "https://www.coindesk.com/markets/2025/12/09/xrp-traders-eyes-breakout-above-usd2-11-as-u-s-etfs-cross-usd1b-milestone",
-    "pubDate": "Tue, 09 Dec 2025 04:24:27 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "A breakout above $2.11 is needed to trigger momentum towards higher resistance levels, while failure to hold $2.00 could lead to a retest of $1.95."
-  },
-  {
-    "title": "カナダ税務当局、仮想通貨利用者の4割が未申告と推定",
-    "link": "https://coinpost.jp/?p=672756",
-    "pubDate": "Tue, 09 Dec 2025 13:20:48 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "カナダ歳入庁が過去3年間で仮想通貨関連監査により1億カナダドル以上を徴収したが、2020年以降刑事告発は行われていない。同庁は仮想通貨プラットフォーム利用者の40%が未申告または高リスクだと推定している。"
-  },
-  {
-    "title": "Polymarket trading figures are being double-counted: Paradigm",
-    "link": "https://cointelegraph.com/news/polymarket-trading-volume-double-counted-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 09 Dec 2025 04:02:43 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Paradigm researchers found that major analytics dashboards are double-counting Polymarket’s trading volume due to redundant blockchain events."
-  },
-  {
-    "title": "『ガス先物市場』、ヴィタリックがイーサリアム手数料を安定させるアイデアを披露",
-    "link": "https://coinpost.jp/?p=672717",
-    "pubDate": "Tue, 09 Dec 2025 12:50:54 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "仮想通貨イーサリアムの共同創設者ヴィタリック・ブテリン氏がガス代先物市場を提案した。将来の手数料をヘッジ可能にする構想であり、コミュニティ内で議論が活発化している。"
-  },
-  {
-    "title": "米大手銀行CEO、上院議員と仮想通貨市場構造法案を協議予定　ステーブルコインの利息付与に反対表明へ＝報道",
-    "link": "https://coinpost.jp/?p=672708",
-    "pubDate": "Tue, 09 Dec 2025 11:45:01 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "バンク・オブ・アメリカ、シティグループ、ウェルズ・ファーゴのCEOが9日、上院議員と会談し仮想通貨市場法案を協議する。銀行側はステーブルコインへの利息付与に反対し、仮想通貨分野での競争能力確保を求める姿勢だ。"
-  },
-  {
-    "title": "テザーのUSDT、アブダビで「法定通貨参照トークン」認定範囲が拡大　9チェーン追加",
-    "link": "https://coinpost.jp/?p=672712",
-    "pubDate": "Tue, 09 Dec 2025 11:23:28 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "テザーのUSDT、アブダビで法定通貨参照トークンの認定範囲を拡大。新たに9つのブロックチェーンで規制業務が可能に。USDC、USD1、RLUSDも承認済み。UAEがステーブルコイン規制拠点として台頭。"
   },
   {
     "title": "ChatGPT Helps Expose a $1 Million Crypto 'Pig-Butchering' Scam",
@@ -133,81 +189,11 @@
     "contentSnippet": "An online romance led a Bay Area woman to drain her retirement accounts, only for an AI assistant to later warn her it was a scam."
   },
   {
-    "title": "Asia Morning Briefing: BTC Steadies Around 90k With Liquidity Drained and a Fed Cut Fully Priced In",
-    "link": "https://www.coindesk.com/markets/2025/12/09/asia-morning-briefing-btc-steadies-around-90k-with-liquidity-drained-and-a-fed-cut-fully-priced-in",
-    "pubDate": "Tue, 09 Dec 2025 02:14:07 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "QCP notes participation has collapsed while Polymarket sees a shallow easing path, putting the focus on guidance and cross central bank signals."
-  },
-  {
-    "title": "OCC boss says ‘no justification’ to judge banks and crypto differently",
-    "link": "https://cointelegraph.com/news/occ-jonathan-gould-banks-crypto-shouldnt-be-treated-differently?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 09 Dec 2025 01:58:05 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Office of the Comptroller of the Currency’s Jonathan Gould says crypto companies should have a path to supervision in the banking system, which can evolve to embrace blockchain."
-  },
-  {
     "title": "HashKey Files for Hong Kong IPO, Aims to Be City’s First Listed Crypto Exchange",
     "link": "https://decrypt.co/351569/hashkey-hong-kong-ipo-citys-first-listed-crypto-exchange",
     "pubDate": "Tue, 09 Dec 2025 01:57:17 +0000",
     "source": "Decrypt",
     "contentSnippet": "Hashkey's filing shows its push to anchor institutional crypto infrastructure in Hong Kong as the city bolsters its digital assets oversight."
-  },
-  {
-    "title": "CFTC pilot opens path for crypto as collateral in derivative markets",
-    "link": "https://cointelegraph.com/news/cftc-pilot-crypto-collateral-derivative-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 09 Dec 2025 01:42:20 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "The pilot program allows futures commission merchants to accept Bitcoin, Ether and USDC for margin collateral, provided strict reporting criteria are followed."
-  },
-  {
-    "title": "Fitch Ratings flags risk for US banks with high crypto exposure",
-    "link": "https://cointelegraph.com/news/fitch-ratings-warns-reassess-banks-with-high-crypto-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 09 Dec 2025 01:38:44 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "While crypto offers banks an opportunity to generate new sources of revenue, Fitch warns it could bring risks that could lead to rating revisions."
-  },
-  {
-    "title": "マイケル・セイラー氏、国家主導のビットコイン銀行システムを提案",
-    "link": "https://coinpost.jp/?p=672669",
-    "pubDate": "Tue, 09 Dec 2025 10:22:16 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "ストラテジー社のマイケル・セイラー会長がアブダビで、ビットコイン担保型の高利回りデジタル銀行システムを各国政府に提案。20兆〜50兆ドルの資本流入を見込むが、価格変動性への懸念も。中東の全政府系ファンドと会談を実施。"
-  },
-  {
-    "title": "ハイパーリキッド・ストラテジーズ、最大約47億円規模の自社株買い実施へ",
-    "link": "https://coinpost.jp/?p=672648",
-    "pubDate": "Tue, 09 Dec 2025 10:00:31 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "仮想通貨ハイパーリキッドの財務企業ハイパーリキッド・ストラテジーズは、最大約47億円規模の自社株買いを実施すると発表。延期や中止の可能性もあるが最大で12カ月間実施する計画である。"
-  },
-  {
-    "title": "アルゼンチン中銀、民間銀行による仮想通貨取引の解禁を検討か＝報道",
-    "link": "https://coinpost.jp/?p=672649",
-    "pubDate": "Tue, 09 Dec 2025 09:40:47 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "ビットコイン支持のミレイ政権下で、アルゼンチン中央銀行が民間銀行による仮想通貨取引サービスの許可を検討中だと伝えられる。実現すれば普及が促進される可能性もある。"
-  },
-  {
-    "title": "UAE初、イスラム系銀行ルヤがビットコイン投資サービスを開始",
-    "link": "https://coinpost.jp/?p=672655",
-    "pubDate": "Tue, 09 Dec 2025 09:35:37 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "UAE拠点のイスラム銀行ルヤが8日、仮想通貨インフラプロバイダーのフューズと提携し、モバイルアプリを通じてビットコイン投資サービスを開始した。イスラム系銀行として初めて顧客にBTCの売買を可能にする。"
-  },
-  {
-    "title": "Bitcoin catches a bid, but data shows pro traders skeptical of rally above $92K",
-    "link": "https://cointelegraph.com/news/bitcoin-bulls-bid-range-lows-but-dollar92k-remains-resistance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 08 Dec 2025 23:16:20 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Bitcoin's rejection at the short-term range highs is caused by macroeconomic uncertainty, liquidations and stagnant spot ETF flows. Will clearer signals from the US economy boost BTC volumes?"
-  },
-  {
-    "title": "PLUMEとJUPITERがコインベースに新規上場、機関投資家向けアクセスも提供",
-    "link": "https://coinpost.jp/?p=672631",
-    "pubDate": "Tue, 09 Dec 2025 08:15:57 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "米コインベースが12月9日にプルームとジュピターの現物取引を開始する。RWAトークン化のプルームとソラナ系DEXアグリゲーターのジュピターが新規上場し、機関投資家向けアクセスも利用可能になる。"
   },
   {
     "title": "Tether Invests in Italian Robotics Startup Generative Bionics Amid Humanoid Hype",
@@ -224,59 +210,10 @@
     "contentSnippet": "The CFTC has introduced a pilot allowing Bitcoin, Ethereum, and USDC to be used as margin, while updating rules to support tokenized assets."
   },
   {
-    "title": "Crypto, TradFi sentiment improves: Will Bitcoin traders clear shorts above $93K?",
-    "link": "https://cointelegraph.com/news/improving-bitcoin-investor-mood-backs-bid-for-rally-to-dollar93k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 08 Dec 2025 22:03:25 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Improving retail crypto and TradFi investor sentiment align with a recent uptick in Bitcoin price, but sell orders and short positions in the $93,000 range threaten to cap the rally."
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 08 Dec 2025 22:01:49 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
-  },
-  {
-    "title": "CFTC Launches Digital Assets Pilot Allowing Bitcoin, Ether and USDC as Collateral",
-    "link": "https://www.coindesk.com/policy/2025/12/08/cftc-launches-digital-assets-pilot-allowing-bitcoin-ether-usdc-as-collateral",
-    "pubDate": "Mon, 08 Dec 2025 21:55:13 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Acting Chair Caroline Pham has unveiled a first-of-its-kind U.S. program to permit tokenized collateral in derivatives markets, citing \"clear guardrails\" for firms."
-  },
-  {
-    "title": "Crypto Markets Flash Green, But Bitcoin and Ethereum Are in a Death Cross: Analysis",
-    "link": "https://decrypt.co/351519/crypto-markets-flash-green-bitcoin-ethereum-death-cross-analysis",
-    "pubDate": "Mon, 08 Dec 2025 20:54:00 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Markets open in green after a week of recovery, but the movement isn't enough to call it bullish yet. The death cross looms large over both Bitcoin and Ethereum."
-  },
-  {
-    "title": "Bitcoin Treads Water Near $90K as Bitfinex Warns of 'Fragile Setup' to Shocks",
-    "link": "https://www.coindesk.com/markets/2025/12/08/bitcoin-treads-water-near-usd90k-as-bitfinex-warns-of-fragile-setup-to-shocks",
-    "pubDate": "Mon, 08 Dec 2025 20:47:44 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "BTC's relative weakness compared to stocks points to tepid spot demand, making the largest crypto vulnerable to macro volatility, Bitfinex analysts said."
-  },
-  {
-    "title": "U.S. Regulator Pushes Back on Banks Fighting Crypto's Pursuit of Trust Charters ",
-    "link": "https://www.coindesk.com/policy/2025/12/08/u-s-regulator-pushes-back-on-banks-fighting-crypto-s-pursuit-of-trust-charters",
-    "pubDate": "Mon, 08 Dec 2025 20:20:19 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Comptroller of the Currency Jonathan Gould spoke at an industry event in Washington, arguing that the OCC won't resist crypto because of banker complaints."
-  },
-  {
-    "title": "Binance Suspends Employee That Used Official X Account to Promote BNB Chain Token",
-    "link": "https://decrypt.co/351503/binance-suspends-employee-used-official-x-account-promote-bnb-chain-token",
-    "pubDate": "Mon, 08 Dec 2025 19:45:39 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Crypto exchange Binance has disciplined an employee after they used a brand account to promote the launch of a meme coin they helped create."
-  },
-  {
-    "title": "Bitcoin ETF Giant BlackRock Files to Launch Ethereum Staking ETF",
-    "link": "https://decrypt.co/351469/bitcoin-etf-giant-blackrock-files-launch-ethereum-staking-etf",
-    "pubDate": "Mon, 08 Dec 2025 18:15:12 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Investment firm BlackRock filed the S-1 registration statement for a new Ethereum staking ETF, ETHB, separate from its existing ETHA fund."
+    "title": "[Vol.2]チームALISに聞く、トークンエコノミーの未来・日本ICO業界について",
+    "link": "https://coinpost.jp/?p=14100",
+    "pubDate": "Mon, 12 Feb 2018 13:00:35 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "安氏と水澤氏にALISチームが考えるトークンエコノミーの未来について聞きました。またICOを行った日本からの先駆者としてICOについて詳しくインタビューさせていただきました。日本でのICOで成功させるためにはどうすべきか、今後ICOを控える企業にも必見です。"
   }
 ]
