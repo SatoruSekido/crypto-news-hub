@@ -1,5 +1,187 @@
 [
   {
+    "title": "ハイパーリキッド・ストラテジーズ、最大約47億円規模の自社株買い実施へ",
+    "link": "https://coinpost.jp/?p=672648",
+    "pubDate": "Tue, 09 Dec 2025 10:00:31 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "仮想通貨ハイパーリキッドの財務企業ハイパーリキッド・ストラテジーズは、最大約47億円規模の自社株買いを実施すると発表。延期や中止の可能性もあるが最大で12カ月間実施する計画である。"
+  },
+  {
+    "title": "アルゼンチン中銀、民間銀行による仮想通貨取引の解禁を検討か＝報道",
+    "link": "https://coinpost.jp/?p=672649",
+    "pubDate": "Tue, 09 Dec 2025 09:40:47 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "ビットコイン支持のミレイ政権下で、アルゼンチン中央銀行が民間銀行による仮想通貨取引サービスの許可を検討中だと伝えられる。実現すれば普及が促進される可能性もある。"
+  },
+  {
+    "title": "UAE初、イスラム系銀行ルヤがビットコイン投資サービスを開始",
+    "link": "https://coinpost.jp/?p=672655",
+    "pubDate": "Tue, 09 Dec 2025 09:35:37 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "UAE拠点のイスラム銀行ルヤが8日、仮想通貨インフラプロバイダーのフューズと提携し、モバイルアプリを通じてビットコイン投資サービスを開始した。イスラム系銀行として初めて顧客にBTCの売買を可能にする。"
+  },
+  {
+    "title": "Bitcoin catches a bid, but data shows pro traders skeptical of rally above $92K",
+    "link": "https://cointelegraph.com/news/bitcoin-bulls-bid-range-lows-but-dollar92k-remains-resistance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 08 Dec 2025 23:16:20 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Bitcoin's rejection at the short-term range highs is caused by macroeconomic uncertainty, liquidations and stagnant spot ETF flows. Will clearer signals from the US economy boost BTC volumes?"
+  },
+  {
+    "title": "PLUMEとJUPITERがコインベースに新規上場、機関投資家向けアクセスも提供",
+    "link": "https://coinpost.jp/?p=672631",
+    "pubDate": "Tue, 09 Dec 2025 08:15:57 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "米コインベースが12月9日にプルームとジュピターの現物取引を開始する。RWAトークン化のプルームとソラナ系DEXアグリゲーターのジュピターが新規上場し、機関投資家向けアクセスも利用可能になる。"
+  },
+  {
+    "title": "Tether Invests in Italian Robotics Startup Generative Bionics Amid Humanoid Hype",
+    "link": "https://decrypt.co/351560/tether-invests-italian-humanoid-robotics-startup-generative-bionics",
+    "pubDate": "Mon, 08 Dec 2025 23:02:39 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Stablecoin issuer Tether has joined an $81 million round as humanoid robotics draws increasing investor interest."
+  },
+  {
+    "title": "SECがOndoへの捜査を訴追なしで終了、トークン化証券のハードルをクリア",
+    "link": "https://coinpost.jp/?p=672616",
+    "pubDate": "Tue, 09 Dec 2025 07:55:44 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "トークン化プラットフォームのオンド・ファイナンスが、バイデン政権下で開始されたSECの捜査が訴追なしで終了したと発表した。トークン化証券が米国資本市場の中核となる時期が到来したと同社は期待。"
+  },
+  {
+    "title": "CFTC to Pilot Tokenized Collateral in Derivatives Markets Starting With Bitcoin, Ethereum and USDC",
+    "link": "https://decrypt.co/351552/cftc-pilot-tokenized-collateral-derivatives-markets-bitcoin-ethereum-usdc",
+    "pubDate": "Mon, 08 Dec 2025 22:28:16 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The CFTC has introduced a pilot allowing Bitcoin, Ethereum, and USDC to be used as margin, while updating rules to support tokenized assets."
+  },
+  {
+    "title": "「市場心理は改善を継続」仮想通貨投資商品、先週は1110億円超の資金が純流入＝CoinShares",
+    "link": "https://coinpost.jp/?p=672599",
+    "pubDate": "Tue, 09 Dec 2025 07:15:01 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "仮想通貨投資企業CoinSharesは、デジタル資産投資商品全体の先週の資金フローは約1,116億円の純流入だったと報告。ビットコイン、XRP、チェーンリンクの投資商品の需要が高かった。"
+  },
+  {
+    "title": "Crypto, TradFi sentiment improves: Will Bitcoin traders clear shorts above $93K?",
+    "link": "https://cointelegraph.com/news/improving-bitcoin-investor-mood-backs-bid-for-rally-to-dollar93k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 08 Dec 2025 22:03:25 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Improving retail crypto and TradFi investor sentiment align with the recent uptick in Bitcoin price, but sell orders and short positions in the $93,000 range threaten to cap the rally."
+  },
+  {
+    "title": "ビットコイン担保をデリバティブ市場で使用、米CFTCがトークン化パイロットプログラムを開始",
+    "link": "https://coinpost.jp/?p=672609",
+    "pubDate": "Tue, 09 Dec 2025 07:02:24 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "米CFTCがビットコイン、イーサリアム、USDCなどのデジタル資産をデリバティブ市場で担保として使用するパイロットプログラムを開始した。トークン化担保に関する新たなガイダンスも発行している。"
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 08 Dec 2025 22:01:49 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
+  },
+  {
+    "title": "CFTC Launches Digital Assets Pilot Allowing Bitcoin, Ether and USDC as Collateral",
+    "link": "https://www.coindesk.com/policy/2025/12/08/cftc-launches-digital-assets-pilot-allowing-bitcoin-ether-usdc-as-collateral",
+    "pubDate": "Mon, 08 Dec 2025 21:55:13 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Acting Chair Caroline Pham has unveiled a first-of-its-kind U.S. program to permit tokenized collateral in derivatives markets, citing \"clear guardrails\" for firms."
+  },
+  {
+    "title": "Saylor pitches Bitcoin-backed banking system to nation-states",
+    "link": "https://cointelegraph.com/news/michael-saylor-countries-bitcoin-backed-digital-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 08 Dec 2025 21:51:01 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Speaking in Abu Dhabi, the Strategy CEO said nations could use Bitcoin reserves and tokenized credit markets to offer regulated accounts with higher yields."
+  },
+  {
+    "title": "ストラテジーが約1500億円でビットコイン押し目買い、7月以来の規模に",
+    "link": "https://coinpost.jp/?p=672576",
+    "pubDate": "Tue, 09 Dec 2025 06:25:01 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "マイケル・セイラー率いるストラテジーが先週約10億ドルで10624BTCを追加購入した。7月以来の大口購入となった。"
+  },
+  {
+    "title": "リップルの780億円資金調達、異例の年10%リターン保証で株式売却　投資家ヘッジに応じて＝報道",
+    "link": "https://coinpost.jp/?p=672569",
+    "pubDate": "Tue, 09 Dec 2025 06:02:49 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "ブルームバーグによると、リップルが11月に実施した5億ドルの株式売却で、投資家に3〜4年後に最低10%の年間リターン保証で未上場株式を売却する権利を提供していた。企業価値は400億ドルと評価されている。"
+  },
+  {
+    "title": "Crypto Markets Flash Green, But Bitcoin and Ethereum Are in a Death Cross: Analysis",
+    "link": "https://decrypt.co/351519/crypto-markets-flash-green-bitcoin-ethereum-death-cross-analysis",
+    "pubDate": "Mon, 08 Dec 2025 20:54:00 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Markets open in green after a week of recovery, but the movement isn't enough to call it bullish yet. The death cross looms large over both Bitcoin and Ethereum."
+  },
+  {
+    "title": "CoreWeave plans $2B note offering to scale AI business while managing dilution",
+    "link": "https://cointelegraph.com/news/coreweave-2-billion-convertible-notes-ai-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 08 Dec 2025 20:52:57 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "CoreWeave plans a $2 billion convertible note offering as it scales AI infrastructure, following a yearlong pursuit of Core Scientific for added power capacity."
+  },
+  {
+    "title": "Bitcoin Treads Water Near $90K as Bitfinex Warns of 'Fragile Setup' to Shocks",
+    "link": "https://www.coindesk.com/markets/2025/12/08/bitcoin-treads-water-near-usd90k-as-bitfinex-warns-of-fragile-setup-to-shocks",
+    "pubDate": "Mon, 08 Dec 2025 20:47:44 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "BTC's relative weakness compared to stocks points to tepid spot demand, making the largest crypto vulnerable to macro volatility, Bitfinex analysts said."
+  },
+  {
+    "title": "ブラックロックもステーキング商品提供へ、イーサリアム現物ETFで",
+    "link": "https://coinpost.jp/?p=672567",
+    "pubDate": "Tue, 09 Dec 2025 05:35:13 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "世界最大の資産運用会社ブラックロックがステーキング機能を備えたイーサリアムETFの登録届出書をSECに提出した。グレースケールやフィデリティなど他の発行体も仮想通貨ETFにステーキング機能を追加している。"
+  },
+  {
+    "title": "U.S. Regulator Pushes Back on Banks Fighting Crypto's Pursuit of Trust Charters ",
+    "link": "https://www.coindesk.com/policy/2025/12/08/u-s-regulator-pushes-back-on-banks-fighting-crypto-s-pursuit-of-trust-charters",
+    "pubDate": "Mon, 08 Dec 2025 20:20:19 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Comptroller of the Currency Jonathan Gould spoke at an industry event in Washington, arguing that the OCC won't resist crypto because of banker complaints."
+  },
+  {
+    "title": "US judge asks for clarification on Do Kwon’s foreign charges",
+    "link": "https://cointelegraph.com/news/judge-do-kwon-south-korea-montenegro-charges-sentencing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 08 Dec 2025 20:16:37 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "The Terraform Labs co-founder could face up to 40 years in prison in South Korea, but a judge questioned whether the country would ignore his US sentence."
+  },
+  {
+    "title": "StableChain launches mainnet with USDT gas fees, dedicated governance token",
+    "link": "https://cointelegraph.com/news/stablechain-mainnet-stable-governance-foundation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 08 Dec 2025 19:53:52 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "The USDT-powered network launches with support from Bitfinex, Hack VC, Tether executives and other investors following a $28 million seed round."
+  },
+  {
+    "title": "Binance Suspends Employee That Used Official X Account to Promote BNB Chain Token",
+    "link": "https://decrypt.co/351503/binance-suspends-employee-used-official-x-account-promote-bnb-chain-token",
+    "pubDate": "Mon, 08 Dec 2025 19:45:39 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Crypto exchange Binance has disciplined an employee after they used a brand account to promote the launch of a meme coin they helped create."
+  },
+  {
+    "title": "Watchdog asks for crypto industry feedback on UK investment reforms",
+    "link": "https://cointelegraph.com/news/uk-fca-watchdog-crypto-investment-reforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 08 Dec 2025 19:10:01 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "The Financial Conduct Authority asked for companies linked to digital assets to weigh in on policy proposals in February and March 2026."
+  },
+  {
+    "title": "XRP needs a Solana-style strategy to keep up: Ripple executive",
+    "link": "https://cointelegraph.com/news/xrp-needs-a-solana-style-strategy-to-keep-up-ripple-executive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 08 Dec 2025 18:40:00 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Luke Judges highlights how XRP Ledger’s tech and developer tools could take cues from Solana to stay competitive among layer-1 networks."
+  },
+  {
     "title": "Bitcoin ETF Giant BlackRock Files to Launch Ethereum Staking ETF",
     "link": "https://decrypt.co/351469/bitcoin-etf-giant-blackrock-files-launch-ethereum-staking-etf",
     "pubDate": "Mon, 08 Dec 2025 18:15:12 +0000",
@@ -28,25 +210,11 @@
     "contentSnippet": "Canada’s tax agency says legal gaps limit its ability to track crypto-related income as it recovers $100 million through audits and pushes for tighter regulation."
   },
   {
-    "title": "Tether's USDt awarded key regulatory status in Abu Dhabi",
-    "link": "https://cointelegraph.com/news/usdt-recognized-fiat-referenced-token-adgm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 08 Dec 2025 17:44:14 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "ADGM’s recognition of USDT as an accepted fiat-referenced token lets licensed companies offer regulated custody, marking a step for stablecoins in the UAE."
-  },
-  {
     "title": "Script to Nuke AI Features from Windows 11 Goes Viral Amid Privacy Backlash",
     "link": "https://decrypt.co/351462/script-nuke-ai-features-windows-11-viral-privacy-backlash",
     "pubDate": "Mon, 08 Dec 2025 17:10:56 +0000",
     "source": "Decrypt",
     "contentSnippet": "A GitHub script that disables Copilot, Recall, and other AI components in Windows 11 is going viral, echoing ongoing concerns about Microsoft’s push."
-  },
-  {
-    "title": "The easiest and safest methods for gifting crypto at Christmas in 2025",
-    "link": "https://cointelegraph.com/explained/the-easiest-and-safest-methods-for-gifting-crypto-at-christmas-in-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 08 Dec 2025 17:00:00 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Discover safe ways to give crypto in 2025. Learn about gift cards, exchanges, hardware wallets and essential security and tax guidance."
   },
   {
     "title": "Bitcoin ETFs Pull in $352 Million to Extend Rebound While XRP Funds Remain Hot",
@@ -56,13 +224,6 @@
     "contentSnippet": "Bitcoin ETFs capture $352 million as bearish bets retreat, hinting investor pessimism may have reached its low point."
   },
   {
-    "title": "BlackRock files for listing staked Ether ETF",
-    "link": "https://cointelegraph.com/news/blackrock-sec-staked-ether-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 08 Dec 2025 16:53:49 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "The fund, if approved by the SEC, would give BlackRock investors indirect exposure to staked Ether — one of the industry’s first following the 2024 approval of spot Ether ETFs."
-  },
-  {
     "title": "Tom Lee’s BitMine Buys $429 Million in Ethereum as ETH Rebounds",
     "link": "https://decrypt.co/351466/tom-lee-bitmine-buys-429-million-ethereum-eth-rebounds",
     "pubDate": "Mon, 08 Dec 2025 16:28:33 +0000",
@@ -70,32 +231,11 @@
     "contentSnippet": "Ethereum is up nearly 11% on the week, and top ETH treasury firm BitMine is still adding to its $12 billion stash."
   },
   {
-    "title": "Bitcoin gives up $90K at US open as two-week exchange outflows near 35K BTC",
-    "link": "https://cointelegraph.com/news/bitcoin-gives-up-90k-us-open-two-week-exchange-outflows-35k-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 08 Dec 2025 16:20:28 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Bitcoin failed to successfully retest the yearly open after US sell-side pressure reentered to start the week, keeping volatility firmly in control."
-  },
-  {
     "title": "ICP Rises, Keeping Price Above Key Support Levels",
     "link": "https://www.coindesk.com/markets/2025/12/08/icp-rises-keeping-price-above-key-support-levels",
     "pubDate": "Mon, 08 Dec 2025 16:15:20 +0000",
     "source": "CoinDesk",
     "contentSnippet": "Internet Computer rose, keeping the price above the $3.40 support zone, with early session volume spikes failing to produce a sustained breakout."
-  },
-  {
-    "title": "Wall Street piles in: How Ripple’s quiet pivot led to a $40B valuation",
-    "link": "https://cointelegraph.com/news/ripple-500m-raise-wall-street-protected-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 08 Dec 2025 16:09:29 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Ripple’s $500 million raise shows its post-SEC shift is working, as Wall Street piles in under a deal reportedly offering rare protections and guaranteed returns."
-  },
-  {
-    "title": "Ripple’s big Singapore win: What the expanded license allows now",
-    "link": "https://cointelegraph.com/news/ripple-s-big-singapore-win-what-the-expanded-license-allows-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 08 Dec 2025 16:09:01 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Singapore’s MAS has widened Ripple’s MPI license scope, enabling regulated token services, end-to-end payments and major growth across Asia-Pacific."
   },
   {
     "title": "UK’s Anti-Corruption Strategy Targets Crypto Sanctions Evasion",
@@ -110,13 +250,6 @@
     "pubDate": "Mon, 08 Dec 2025 15:48:30 +0000",
     "source": "CoinDesk",
     "contentSnippet": "Though remaining sharply higher than their IPO price, shares have struggled over the past six months, losing 50%."
-  },
-  {
-    "title": "Strategy Drops Nearly $1 Billion on Bitcoin, Marking Largest BTC Buy in Months",
-    "link": "https://decrypt.co/351461/strategy-drops-1-billion-bitcoin-largest-buy-months",
-    "pubDate": "Mon, 08 Dec 2025 15:40:36 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Strategy unveiled its largest Bitcoin purchase in over 100 days, but the company's stock price was little changed on Monday."
   },
   {
     "title": "Digital Assets to Shift From Disruption to Integration in 2026, CoinShares Says",
@@ -145,138 +278,5 @@
     "pubDate": "Mon, 08 Dec 2025 15:00:00 +0000",
     "source": "CoinDesk",
     "contentSnippet": "The platform aims to make locked Solana staking positions tradable via an onchain marketplace."
-  },
-  {
-    "title": "Most Influential: Donald Trump",
-    "link": "https://www.coindesk.com/policy/2025/12/08/most-influential-donald-trump",
-    "pubDate": "Mon, 08 Dec 2025 15:00:00 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Without the turnaround of Donald Trump on crypto, the road toward a U.S. governmental embrace of the new technology would likely have been a steeper climb."
-  },
-  {
-    "title": "Most Influential: Rep. French Hill",
-    "link": "https://www.coindesk.com/policy/2025/12/08/most-influential-rep-french-hill",
-    "pubDate": "Mon, 08 Dec 2025 15:00:00 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Rep. French Hill's name may or may not end up on any of the final legislation that becomes crypto law in the U.S., but he was the one driving it forward."
-  },
-  {
-    "title": "Most Influential: Ross Ulbricht",
-    "link": "https://www.coindesk.com/policy/2025/12/08/most-influential-ross-ulbricht",
-    "pubDate": "Mon, 08 Dec 2025 15:00:00 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Silk Road founder Ross Ulbricht was pardoned by U.S. President Donald Trump — kicking off a wave of pardons among some of the crypto industry’s biggest names."
-  },
-  {
-    "title": "New DePIN protocol rolls out ZK-proof processing marketplace",
-    "link": "https://cointelegraph.com/news/depin-marketplace-decentralized-depin-zk-proofs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 08 Dec 2025 14:56:31 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Brevis has launched ProverNet, a ZK-proof marketplace where provers can earn by computing proofs and apps can buy proving capacity."
-  },
-  {
-    "title": "XRP bulls grow louder: What will spark the breakout toward $2.65?",
-    "link": "https://cointelegraph.com/news/xrp-bulls-grow-louder-what-will-spark-breakout-2-65?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 08 Dec 2025 14:34:06 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "XRP analysts highlighted the potential to rebound to $2.65 as institutional demand increased and derivatives traders flipped bullish."
-  },
-  {
-    "title": "Strategy’s Bitcoin treasury swells past 660,000 BTC after fresh $962M buy",
-    "link": "https://cointelegraph.com/news/strategy-bitcoin-treasury-buy-billion-stock-decline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 08 Dec 2025 14:18:44 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Michael Saylor said that he pitched Bitcoin as “digital capital” to wealth funds and banks, calling it the foundation for a new yield-bearing credit asset class."
-  },
-  {
-    "title": "Zcash Founder Helped to Create This Anonymous Phone Service",
-    "link": "https://decrypt.co/351444/zcash-founder-helped-to-create-this-anonymous-phone-service",
-    "pubDate": "Mon, 08 Dec 2025 13:57:40 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Zooko Wilcox consulted with new anonymous phone service Phreeli on implementing a zero-knowledge proof system to preserve user privacy."
-  },
-  {
-    "title": "Morning Minute: Beeple Goes Mega-Viral with Robot Dogs",
-    "link": "https://decrypt.co/351436/morning-minute-beeple-goes-mega-viral-with-robot-dogs",
-    "pubDate": "Mon, 08 Dec 2025 13:31:13 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Does this mean we're going to run back the 2021 digital art mania kicked off after Beeple's last viral moment?"
-  },
-  {
-    "title": "Robinhood Expands Crypto Offerings With Futures, Staking, and Stock Tokens",
-    "link": "https://decrypt.co/351434/robinhood-expands-crypto-offerings-with-futures-staking-and-stock-tokens",
-    "pubDate": "Mon, 08 Dec 2025 13:00:03 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The financial services company is growing its product suite as it looks to push deeper into global crypto markets."
-  },
-  {
-    "title": "マクロン仏大統領、米仮想通貨規制緩和に警鐘　「金融不安定化のリスク」と指摘",
-    "link": "https://coinpost.jp/?p=672494",
-    "pubDate": "Mon, 08 Dec 2025 16:57:27 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "フランスのマクロン大統領が米国のステーブルコイン規制緩和について警告を発し、金融不安定化のリスクを指摘。欧州中央銀行に金融政策の見直しを求め、欧州の金融主権維持を主張。ステーブルコイン市場は3000億ドル超に急拡大。"
-  },
-  {
-    "title": "決済データDePINのSyFu、Finverseと提携しアジア5カ国のオープンバンキング展開へ",
-    "link": "https://coinpost.jp/?p=672476",
-    "pubDate": "Mon, 08 Dec 2025 16:42:04 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "決済データ活用プロジェクトSyFuが、オープンバンキングプラットフォームFinverseと提携。香港、シンガポールなどアジア5カ国の約40金融機関と接続し、日常の支払いデータをトークンやNFTに変換できる仕組みを構築。欧州とアジアで世界規模のネットワークを確立。"
-  },
-  {
-    "title": "トランプ大統領支援者所有の米Monet Bank、仮想通貨サービス事業に参入",
-    "link": "https://coinpost.jp/?p=672401",
-    "pubDate": "Mon, 08 Dec 2025 14:58:29 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "トランプ大統領支援者アンディ・ビール氏所有のモネ銀行が仮想通貨特化型金融サービスに参入する。トランプ政権下での規制緩和により、エレボール銀行やN3XTなど仮想通貨対応銀行が相次いで誕生する中、資産60億ドルの小規模地域銀行がデジタル資産の保管・融資を提供開始する。"
-  },
-  {
-    "title": "トランプ政権の国家安全保障戦略、仮想通貨に言及せず　AI・量子技術を優先",
-    "link": "https://coinpost.jp/?p=672414",
-    "pubDate": "Mon, 08 Dec 2025 14:23:18 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "トランプ政権が発表した最新の国家安全保障戦略で仮想通貨への言及がゼロ。AI・量子技術を重視する一方、「仮想通貨大統領」を公言してきた経緯との整合性をめぐり議論が起きている。"
-  },
-  {
-    "title": "FOMC控え不安定な展開続くビットコイン、前週末は大口の協調売りか",
-    "link": "https://coinpost.jp/?p=672318",
-    "pubDate": "Mon, 08 Dec 2025 11:44:53 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "暗号資産（仮想通貨）市場ではビットコインが一時9万ドル割れで3.4億ドル規模の大量清算発生。クジラによる協調売りの可能性が浮上し、週末の薄い板で2000ドルの乱高下が見られた。一方でマイナー降伏を示すハッシュリボン反転で底打ちサインも。FOMC利下げ観測と円キャリー巻き戻しが市場を揺さぶる。"
-  },
-  {
-    "title": "ソラナDEX「ジュピター」の再担保に関する議論　「伝染リスクゼロ」主張を疑問視",
-    "link": "https://coinpost.jp/?p=672335",
-    "pubDate": "Mon, 08 Dec 2025 11:30:29 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "仮想通貨ソラナ基盤のジュピターが「伝染リスクゼロ」と主張したことについて、競合Kaminoなどが再担保の実施を指摘し批判した。ソラナ財団プレジデントは両者に協力を呼びかけている。"
-  },
-  {
-    "title": "フランスの大手銀行BPCE、仮想通貨4銘柄の取引サービス開始",
-    "link": "https://coinpost.jp/?p=672307",
-    "pubDate": "Mon, 08 Dec 2025 09:11:00 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "フランスの大手銀行BPCEが約200万人の顧客向けに仮想通貨取引サービスを開始する。ビットコインなど4銘柄が銀行アプリで売買可能になる。"
-  },
-  {
-    "title": "韓国、取引所に無過失損害賠償責任を導入へ　アップビットのハッキング事件を受け",
-    "link": "https://coinpost.jp/?p=672297",
-    "pubDate": "Mon, 08 Dec 2025 08:54:44 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "韓国金融当局が仮想通貨取引所に無過失損害賠償責任を導入へ。アップビットの445億ウォン不正アクセス事件を受け、2段階立法で規制強化。課徴金も売上高3%まで引き上げの方針。"
-  },
-  {
-    "title": "「ビットコインを価値の橋渡し役に」Bitcoin Japan CEO、繊維業からの大転換とAI戦略を語る",
-    "link": "https://coinpost.jp/?p=671886",
-    "pubDate": "Sun, 07 Dec 2025 20:40:42 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "東証上場の堀田丸正から「ビットコインジャパン」へ大胆に転換したフィリップ・ロード（Phillip Lord）CEOが、CoinPost独占インタビューでビットコイン準備金戦略とAIインフラ投資の詳細を明かした。「日本の品質×米国の規模」で2030年までに500MW規模のデータセンター投資を目指す。"
-  },
-  {
-    "title": "ハイパーリキッドの将来性・HYPEの買い方｜注意点まで徹底解説",
-    "link": "https://coinpost.jp/?p=634063",
-    "pubDate": "Sun, 07 Dec 2025 17:00:55 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "HYPEトークンの買い方から注目理由まで完全解説。手数料収益による自動買い戻し、機関投資家参入、ステーキング機能など、急成長するDEX「Hyperliquid（ハイリキ）」の魅力を詳しく紹介します。"
   }
 ]
