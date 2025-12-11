@@ -1,5 +1,180 @@
 [
   {
+    "title": "Crypto Drop Wipes Out $370M in Bullish Bets as BTC, ETH Give Back Gains",
+    "link": "https://www.coindesk.com/markets/2025/12/11/crypto-drop-wipes-out-usd370m-in-bullish-bets-as-btc-eth-give-back-gains",
+    "pubDate": "Thu, 11 Dec 2025 06:21:42 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Binance, Hyperliquid, and Bybit were the most affected exchanges, comprising 72% of all forced unwinds."
+  },
+  {
+    "title": "Satoshi Nakamoto statue lands on NYSE in sign of changing times",
+    "link": "https://cointelegraph.com/news/satoshi-nakamoto-statue-nyse-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 11 Dec 2025 06:13:26 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "There are five other Satoshi statues made by Valentina Picozzi located around the world in Switzerland, El Salvador, Japan, Vietnam, and Miami, in the US State of Florida."
+  },
+  {
+    "title": "Gemini Gets CFTC Approval to Launch Prediction Markets in US",
+    "link": "https://decrypt.co/351936/gemini-cftc-approval-prediction-markets-us",
+    "pubDate": "Thu, 11 Dec 2025 06:01:17 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The CFTC license will let Gemini offer event contracts in the U.S., joining Kalshi and Polymarket in a booming market."
+  },
+  {
+    "title": "仮想通貨業界トップ、米CFTC新設諮問会議に参加へ",
+    "link": "https://coinpost.jp/?p=673532",
+    "pubDate": "Thu, 11 Dec 2025 14:58:37 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "米CFTCが「CEOイノベーション評議会」を設立し、クラーケンやジェミナイなど仮想通貨業界トップが参加。デリバティブ市場の構造変化やトークン化について議論。仮想通貨担保のパイロットプログラムも開始。"
+  },
+  {
+    "title": "Australian regulator eases rules for stablecoins and wrapped tokens",
+    "link": "https://cointelegraph.com/news/australian-regulator-eases-rules-stablecoins-wrapped-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 11 Dec 2025 05:42:00 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Australia’s securities regulator has removed licensing requirements for stablecoin intermediaries and approved omnibus accounts, reducing compliance costs."
+  },
+  {
+    "title": "GOP hardliners vexed as defense bill advances without CBDC ban",
+    "link": "https://cointelegraph.com/news/gop-conservatives-angered-defense-bill-no-cbdc-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 11 Dec 2025 05:40:23 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Conservatives in the Republican Party are frustrated that a promised ban on central bank digital currencies didn’t make it into a must-pass defense bill that’s now on its way to the Senate."
+  },
+  {
+    "title": "XRP Slides as Traders Take Bitcoin Profits, With ETF Flows Still Strong",
+    "link": "https://www.coindesk.com/markets/2025/12/11/xrp-slides-as-traders-take-bitcoin-profits-with-etf-flows-still-strong",
+    "pubDate": "Thu, 11 Dec 2025 05:18:32 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Institutional flows surged 54% above the weekly average, indicating strategic selling rather than retail panic."
+  },
+  {
+    "title": "レイヤーゼロ（ZRO）とは？スターゲートの使い方・バイバックの仕組みを解説",
+    "link": "https://coinpost.jp/?p=670432",
+    "pubDate": "Thu, 11 Dec 2025 14:06:47 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "レイヤーゼロ（LayerZero）の仕組みやZROトークンのバイバック、スターゲートを使ったブリッジ方法を初心者向けに解説。Stargate買収の背景やリスクまでわかりやすく紹介します。"
+  },
+  {
+    "title": "Bhutan Launches Sovereign Gold-Backed Token on Solana",
+    "link": "https://decrypt.co/351928/bhutan-launches-sovereign-gold-backed-token-solana",
+    "pubDate": "Thu, 11 Dec 2025 04:58:24 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The launch adds to Bhutan’s broader blockchain push, including Bitcoin reserves, Binance Pay integration and hydro-powered BTC mining."
+  },
+  {
+    "title": "A16z Crypto opens office in South Korea as it bets on Asia",
+    "link": "https://cointelegraph.com/news/crypto-venture-capital-giant-a16z-crypto-expands-into-asia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 11 Dec 2025 04:48:28 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "A16z Crypto has opened its first Asian office in Seoul, South Korea, led by former Polygon Labs executive SungMo Park, with the venture capital firm noting the region’s dominance in global adoption."
+  },
+  {
+    "title": "MSCI’s Bitcoin snub is like penalizing Chevron for oil: Strategy CEO",
+    "link": "https://cointelegraph.com/news/msci-bitcoin-restriction-like-penalizing-chevron-for-oil-strategy-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 11 Dec 2025 04:34:12 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "The MSCI Index is consulting on whether to exclude Bitcoin and other digital asset treasury companies that have a balance sheet with more than 50% of their assets in crypto."
+  },
+  {
+    "title": "Why is Bitcoin Trading Lower Today?",
+    "link": "https://www.coindesk.com/markets/2025/12/11/why-is-bitcoin-trading-lower-today",
+    "pubDate": "Thu, 11 Dec 2025 04:32:05 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Market uncertainty persists due to internal Fed divisions and unclear future rate paths until 2026."
+  },
+  {
+    "title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+    "link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+    "pubDate": "Thu, 11 Dec 2025 04:09:05 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Bitcoin options traders are tempering expectations for a Santa rally and are now looking to $130,000 and $180,000 strikes in Q1, 2026."
+  },
+  {
+    "title": "CFTC Innovation Council adds prediction market, exchange CEOs",
+    "link": "https://cointelegraph.com/news/cftc-innovation-council-adds-prediction-markets-crypto-and-stock-exchange-ceos?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 11 Dec 2025 04:01:58 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "The CFTC's new CEO Innovation Council includes leaders from crypto exchanges like Kraken and traditional stock exchanges such as Nasdaq to discuss market structure reforms."
+  },
+  {
+    "title": "U.S. Senate's Crypto Market Structure Bill Gets Messy as Calendar Weighs Down",
+    "link": "https://www.coindesk.com/policy/2025/12/10/u-s-senate-s-crypto-market-structure-bill-gets-messy-as-calendar-weighs-down",
+    "pubDate": "Thu, 11 Dec 2025 03:35:18 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "The White House has shut down proposals, and lawmakers are circulating the Democrats' asks in what had been a close negotiation, revealing 11th-hour pressure."
+  },
+  {
+    "title": "イーロンのスペースX、146億円相当のビットコイン移動　IPO関連か？",
+    "link": "https://coinpost.jp/?p=673482",
+    "pubDate": "Thu, 11 Dec 2025 12:05:35 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "イーロン・マスク氏率いるスペースXが約146億円相当のビットコインを移動した。10月から毎週大規模な送金を継続しており、IPO計画との関連が注目されている。"
+  },
+  {
+    "title": "トム・リー氏、「イーサリアムは既に底打ち」　先週690億円相当を購入",
+    "link": "https://coinpost.jp/?p=673469",
+    "pubDate": "Thu, 11 Dec 2025 11:49:44 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "ビットマイン会長トム·リー氏が、イーサリアムは既に底入れしたと発言。同社は先週、約4億6,000万ドル相当のETHを購入し、10月以来最大規模の買い増しを実施。今後10~15年間、ビットコインよりもイーサリアムの将来性に期待を寄せている。"
+  },
+  {
+    "title": "FRBの慎重姿勢でビットコイン反落　2026年の利下げは限定的か",
+    "link": "https://coinpost.jp/?p=673431",
+    "pubDate": "Thu, 11 Dec 2025 11:49:35 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "FRBは25bpの利下げを決定したが、パウエル議長の慎重姿勢を受けビットコインは下落した。2026年の追加利下げは1回との見方が広がる中、グラスノードのデータは実現損失が1日5.5億ドルとFTX崩壊時並みの高水準を示す。機関投資家の本格参入で4年サイクル終焉論も加速。"
+  },
+  {
+    "title": "Payments giant Stripe acquires team from crypto wallet app Valora",
+    "link": "https://cointelegraph.com/news/stripe-acquires-self-custody-crypto-wallet-app?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 11 Dec 2025 02:31:09 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Stripe has hired Valora’s builders to work on its crypto initiatives, as the wallet’s app shifts ownership back to Celo’s cLabs."
+  },
+  {
+    "title": "Asia Morning Briefing: Fed Cut Brings Little Volatility as Bitcoin Waits for Japan",
+    "link": "https://www.coindesk.com/markets/2025/12/11/asia-morning-briefing-fed-cut-brings-little-volatility-as-bitcoin-waits-for-japan",
+    "pubDate": "Thu, 11 Dec 2025 02:17:47 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "CryptoQuant data shows seller exhaustion as whales pull back from exchanges, while traders prepare for a closely watched BOJ meeting that could influence global liquidity."
+  },
+  {
+    "title": "米大手9行が仮想通貨企業を排除　通貨監督庁が是正へ",
+    "link": "https://coinpost.jp/?p=673449",
+    "pubDate": "Thu, 11 Dec 2025 11:04:59 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "米通貨監督庁（OCC）は、JPモルガンなど大手9行が2020-23年に仮想通貨企業を含む合法事業者へのサービスを業種理由で制限していたと発表。「金融の武器化」と批判し、違法行為には司法省照会も検討。トランプ政権下で「デバンキング」問題の是正が加速。"
+  },
+  {
+    "title": "ビットコイン9.4万ドル急騰からの反落、FOMC利下げ後に軟調な動き｜仮想NISHI",
+    "link": "https://coinpost.jp/?p=673438",
+    "pubDate": "Thu, 11 Dec 2025 11:00:03 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "FRBの25bp利下げを受け、ビットコインは一時9万4000ドルまで上昇したものの、その後反落。X-Bankアナリストの仮想NISHI氏によると、デリバティブ市場でのロング解消による売り圧力が現物買いを上回っている。欧米機関投資家のクリスマス休暇入りを控え、年末にかけて軟調基調となるリスクを指摘。"
+  },
+  {
+    "title": "Bhutan Debuts TER Gold-Backed Token on Solana",
+    "link": "https://www.coindesk.com/business/2025/12/10/bhutan-debuts-ter-gold-backed-token-on-solana",
+    "pubDate": "Thu, 11 Dec 2025 02:00:00 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "The Himalayan kingdom introduced TER, a Solana-based token backed by physical gold and issued through Gelephu Mindfulness City."
+  },
+  {
+    "title": "Hong Kong Cardinal Calls AI a 'Gift From God' as Asian Bishops Mull Ethical Challenges",
+    "link": "https://decrypt.co/351917/hong-kong-cardinal-calls-ai-gift-god-asian-bishops-mull-ethical-challenges",
+    "pubDate": "Thu, 11 Dec 2025 01:58:53 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Regional church leaders met to establish guidelines for the use of AI in ministry, education, and content."
+  },
+  {
+    "title": "Gemini soars 14% as new license opens door to US prediction markets",
+    "link": "https://cointelegraph.com/news/gemini-nabs-us-license-offer-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 11 Dec 2025 01:33:43 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "An affiliate of the crypto exchange Gemini received a designated contract market license, and it now plans to offer prediction markets in the US."
+  },
+  {
     "title": "Crypto among sectors ‘debanked’ by 9 major banks: US regulator",
     "link": "https://cointelegraph.com/news/crypto-among-sectors-debanked-major-banks-occ?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Thu, 11 Dec 2025 01:08:44 +0000",
@@ -70,32 +245,11 @@
     "contentSnippet": "Elon Musk's private aerospace company SpaceX moved more of its Bitcoin holdings on Wednesday ahead of reported blockbuster IPO plans."
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 10 Dec 2025 22:15:33 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
-  },
-  {
     "title": "Crypto Debanking and Efforts to 'Weaponize Finance' Must End, Says Top US Banking Regulator",
     "link": "https://decrypt.co/351895/crypto-debanking-efforts-weaponize-finance-must-end-us-banking-regulator",
     "pubDate": "Wed, 10 Dec 2025 22:11:55 +0000",
     "source": "Decrypt",
     "contentSnippet": "Major U.S. banks denied services to crypto and other lawful businesses based on industry rather than risk, an OCC preliminary report finds."
-  },
-  {
-    "title": "Fed slashes interest rates, but issues mixed forward guidance",
-    "link": "https://cointelegraph.com/news/fed-slashes-interest-rates-mixed-guidance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 10 Dec 2025 22:11:49 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "A lack of clarity on future interest rate cuts under Jerome Powell's leadership has placed a damper on a Bitcoin price rally, analysts say."
-  },
-  {
-    "title": "Fed rate cut may pump stocks but Bitcoin options call sub-$100K in January",
-    "link": "https://cointelegraph.com/news/fed-rate-cut-qe-could-pump-stocks-but-bitcoin-options-call-sub-100k-in-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 10 Dec 2025 22:08:38 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Federal Reserve monetary policy could benefit stocks, but BTC options show the short-term odds of Bitcoin rallying to $100,000 remain slim."
   },
   {
     "title": "Stripe Acqui-Hires Crypto Payments Startup Valora, Venturing Further Into Stablecoins ",
@@ -112,13 +266,6 @@
     "contentSnippet": "The stablecoin giant is using its cash surplus to fund a disparate string of side ventures, from humanoid robots to calorie-counting AI."
   },
   {
-    "title": "Pantera, Coinbase back Surf’s $15M push to build crypto-native AI models",
-    "link": "https://cointelegraph.com/news/surf-15m-build-crypto-ai-model-pantera-coinbase-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 10 Dec 2025 21:38:32 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "The funding will support Surf’s next AI model aimed at delivering deeper onchain analysis and automating research for crypto companies and traders."
-  },
-  {
     "title": "A Startup Is Trying to Take the Twitter Name From Elon Musk by Force—And It Might Work",
     "link": "https://decrypt.co/351879/startup-twitter-name-elon-musk-force",
     "pubDate": "Wed, 10 Dec 2025 21:30:08 +0000",
@@ -131,152 +278,5 @@
     "pubDate": "Wed, 10 Dec 2025 21:23:19 +0000",
     "source": "CoinDesk",
     "contentSnippet": "The Office of the Comptroller of the Currency probed debanking of certain industries, including digital assets, and said it'll pursue any repeat of such activity."
-  },
-  {
-    "title": "GameStop Q3 earnings miss estimates, pressured by soft sales and lower BTC gains",
-    "link": "https://cointelegraph.com/news/gamestop-misses-q3-estimates-519m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 10 Dec 2025 21:23:18 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Falling sales and diminished Bitcoin gains pressured earnings, with the stock continuing to retrace its brief rally in March."
-  },
-  {
-    "title": "'National Security' at Risk If MSCI Excludes Crypto Treasuries, Warns Bitcoin Giant Strategy",
-    "link": "https://decrypt.co/351880/national-security-risk-msci-excludes-crypto-treasuries-warns-bitcoin-strategy",
-    "pubDate": "Wed, 10 Dec 2025 21:08:26 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Bitcoin treasury leader Strategy argued to MSCI that excluding a crypto-buying firms from its indices would hurt America’s national security."
-  },
-  {
-    "title": "Tether launches privacy-focused health platform with on-device AI",
-    "link": "https://cointelegraph.com/news/tether-privacy-health-platform-device-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 10 Dec 2025 20:50:03 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Tether says the system is designed to give users control over biometric data by keeping analysis and storage off the cloud."
-  },
-  {
-    "title": "Bitcoin Swings Wildly as Fed's Powell Straddles Labor Market and Inflation Issues",
-    "link": "https://www.coindesk.com/markets/2025/12/10/bitcoin-volatile-near-usd94k-as-fed-s-powell-straddles-labor-market-and-inflation-issues",
-    "pubDate": "Wed, 10 Dec 2025 20:37:45 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "\"Powell is threading the needle between their two mandates,\" said one analyst."
-  },
-  {
-    "title": "ChronoForge to shut down amid funding collapse and Web3 gaming turmoil",
-    "link": "https://cointelegraph.com/news/chronoforge-shut-down-collapse-web3-gaming-turmoil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 10 Dec 2025 20:20:46 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "ChronoForge’s shutdown highlights mounting financial strain across Web3 gaming as shrinking budgets and dismal market sentiment take their toll."
-  },
-  {
-    "title": "GameStop Stock Falls After Bitcoin Holdings Lose Value, Firm Says It Could Sell BTC",
-    "link": "https://decrypt.co/351849/gamestop-stock-falls-bitcoin-holdings-lose-value-firm-could-sell-btc",
-    "pubDate": "Wed, 10 Dec 2025 20:19:51 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Markets haven’t reacted well to GameStop’s latest earnings call, where it revealed sinking Bitcoin value and retail sales alike."
-  },
-  {
-    "title": "A16z Crypto to Open Seoul Office, Hire Sungmo Park to Lead Asia Efforts",
-    "link": "https://www.coindesk.com/business/2025/12/10/a16z-crypto-to-open-seoul-office-hire-sungmo-park-to-lead-asia-efforts",
-    "pubDate": "Wed, 10 Dec 2025 20:00:00 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Andreessen Horowitz's crypto venture capital unit pointed to high levels of crypto ownership in South Korea and Singapore, and growing onchain activity in Japan."
-  },
-  {
-    "title": "Consumer Groups Join Unions Trying to Derail U.S. Crypto Market Structure Bill ",
-    "link": "https://www.coindesk.com/policy/2025/12/10/consumer-groups-join-unions-trying-to-derail-u-s-crypto-market-structure-bill",
-    "pubDate": "Wed, 10 Dec 2025 19:50:10 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Political progressives have joined forces to oppose current versions of the industry-backed legislative effort in the Senate."
-  },
-  {
-    "title": "Conflicted Fed cuts rates but Bitcoin’s ‘fragile range’ pins BTC under $100K",
-    "link": "https://cointelegraph.com/news/conflicted-fed-cuts-rates-but-bitcoin-s-fragile-range-pins-btc-under-100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 10 Dec 2025 19:36:41 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "A divided Federal Reserve approved a 0.25% rate cut, but concerns over inflation and growth, as well as Glassnode data highlighting BTC’s “fragile range,” may keep it under $100,000."
-  },
-  {
-    "title": "Paxful Pleads Guilty to Aiding Crime, Ignoring AML Laws",
-    "link": "https://www.coindesk.com/policy/2025/12/10/paxful-pleads-guilty-to-aiding-crime-ignoring-aml-laws",
-    "pubDate": "Wed, 10 Dec 2025 19:20:36 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "The DOJ said the firm knowingly facilitated illicit trades tied to sex work, sanctions evasion, and fraud, earning millions in fees while ignoring U.S. law."
-  },
-  {
-    "title": "Bitcoin, Ethereum Waver as Fed Delivers Third Rate Cut",
-    "link": "https://decrypt.co/351847/bitcoin-ethereum-federal-reserve-cuts-rates",
-    "pubDate": "Wed, 10 Dec 2025 19:18:12 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The central bank’s move was widely expected, with the Federal Reserve announcing the third rate cut for 2025."
-  },
-  {
-    "title": "Federal Reserve Cuts Rates 25 Basis Points, With Two Members Voting for Steady Policy",
-    "link": "https://www.coindesk.com/markets/2025/12/10/federal-reserve-cuts-rates-25-basis-points-as-expected",
-    "pubDate": "Wed, 10 Dec 2025 18:51:13 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "The anticipated move comes as policymakers are still operating without several key economic data releases that remain delayed or suspended due to the U.S. government shutdown."
-  },
-  {
-    "title": "Elon Musk Says DOGE Flagged Billions in Federal 'Zombie Payments'",
-    "link": "https://decrypt.co/351840/elon-musk-doge-billions-federal-zombie-payments",
-    "pubDate": "Wed, 10 Dec 2025 18:50:53 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "In a new interview, Musk detailed how the short-lived government efficiency effort identified improper federal spending and drew political pushback."
-  },
-  {
-    "title": "The Protocol: Stripe’s Tempo Testnet Goes Live",
-    "link": "https://www.coindesk.com/tech/2025/12/10/the-protocol-stripe-s-tempo-testnet-goes-live",
-    "pubDate": "Wed, 10 Dec 2025 17:21:16 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Also: ZKSync Lite to Sunset, Blockstream App Update, Axelar’s AgentFlux"
-  },
-  {
-    "title": "JPYC株式会社、次世代金融カンファレンスMoneyX 2026の企画・運営として参画決定",
-    "link": "https://coinpost.jp/?p=672677",
-    "pubDate": "Wed, 10 Dec 2025 18:00:08 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "JPYC株式会社が、2026年2月27日に東京都内で開催される次世代金融カンファレンス「MoneyX」に共催企業として参画。ステーブルコインやデジタル証券など「通貨の進化と社会実装」をテーマに、産官学のリーダーが議論を行う。"
-  },
-  {
-    "title": "仮想通貨のインサイダー規制導入、市場成熟へ　IEO投資上限も提案｜金融審議会",
-    "link": "https://coinpost.jp/?p=673218",
-    "pubDate": "Wed, 10 Dec 2025 17:48:02 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "2025年12月10日公表の最新の金融審議会報告書で暗号資産（仮想通貨）が金商法の規制対象になることが明記された。IEO投資上限のほか、コード監査義務化、インサイダー取引規制など投資家保護を抜本強化する。交換業者への影響と今後の展望を詳解"
-  },
-  {
-    "title": "シルクロード関連ウォレット、10年ぶりに突如活動　4.7億円相当ビットコインを送金",
-    "link": "https://coinpost.jp/?p=673200",
-    "pubDate": "Wed, 10 Dec 2025 17:11:20 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "10年以上休眠していたシルクロード関連の仮想通貨ウォレット約312個が突如活動を再開し、約4.7億円相当のビットコインを送金。今年は5月にも大規模な移動が確認されている。米政府は押収資産を戦略準備金として保有する方針を示すも、売却疑惑も浮上。"
-  },
-  {
-    "title": "SEC委員長、2026年に仮想通貨規制の大幅進展を予告　トークン分類制度など導入加速",
-    "link": "https://coinpost.jp/?p=673184",
-    "pubDate": "Wed, 10 Dec 2025 14:59:35 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "SEC委員長が2026年の仮想通貨規制大幅進展を予告。トークン分類制度で3カテゴリーを非証券化、1月にイノベーション免除導入へ。前政権の法執行重視から明確なルール制定へ転換。"
-  },
-  {
-    "title": "著名投資家レイ・ダリオ「中東は資本家のシリコンバレー」：国家によるAI・デジタル資産戦略を絶賛",
-    "link": "https://coinpost.jp/?p=673167",
-    "pubDate": "Wed, 10 Dec 2025 14:10:21 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "著名投資家レイ・ダリオ氏がAIのハブとして急速に成長する中東を高く評価し、「資本家のためのシリコンバレーになりつつある」と述べた。一方、マイケル・セイラー氏は中東がビットコイン担保型デジタル銀行システムによって「21世紀のスイス」になる可能性を指摘した。"
-  },
-  {
-    "title": "「ビットコイン・アフターダークETF」申請　夜間取引時間の高パフォーマンスに着目",
-    "link": "https://coinpost.jp/?p=673131",
-    "pubDate": "Wed, 10 Dec 2025 11:05:21 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "ニコラス・ウェルスが米国夜間取引時間のみ仮想通貨ビットコインを保有する新たなETFを申請した。夜間の高リターン傾向に注目したものだ。ヘッジ型ETFも同時申請した。"
-  },
-  {
-    "title": "プライバシー重視のステーブルコイン「USDCx」、Aleoのテストネットでローンチ",
-    "link": "https://coinpost.jp/?p=673099",
-    "pubDate": "Wed, 10 Dec 2025 09:50:24 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "仮想通貨のステーブルコインUSDCを発行するサークルは、プライバシー機能を持つL1ブロックチェーンAleoのテストネットでUSDCxがローンチされたことを発表。ユースケースなどを説明した。"
   }
 ]
