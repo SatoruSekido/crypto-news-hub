@@ -1,5 +1,180 @@
 [
   {
+    "title": "CFTC gives prediction markets leeway on data and record-keeping rules",
+    "link": "https://cointelegraph.com/news/cftc-prediction-markets-event-contracts-relief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 12 Dec 2025 06:11:56 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "The CFTC gave “no-action” letters to a group of prediction markets, including Polymarket US, exempting them from swap data reporting and record-keeping regulations."
+  },
+  {
+    "title": "Animoca Brands Japan、ビットコイン分散型金融「Solv Protocol」とMOU締結",
+    "link": "https://coinpost.jp/?p=673919",
+    "pubDate": "Fri, 12 Dec 2025 15:10:07 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "アニモカジャパンはSolv ProtocolとMOUを締結し、企業のビットコイン保有・運用を支援するDAT領域で協力を拡大。BTCFi活用による財務戦略の高度化を目指す。"
+  },
+  {
+    "title": "Web3 gaming shifts to sustainability as confidence returns: BGA",
+    "link": "https://cointelegraph.com/news/blockchain-gaming-sentiment-rebounds-after-painful-correction-phase-bga?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 12 Dec 2025 06:02:49 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "The Blockchain Game Alliance reports industry confidence rose to 66% as developers pivoted from speculation to sustainable models following a funding collapse since 2021."
+  },
+  {
+    "title": "米CFTC、ポリマーケットなど4社にデータ規制で柔軟対応",
+    "link": "https://coinpost.jp/?p=673913",
+    "pubDate": "Fri, 12 Dec 2025 14:57:42 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "米CFTCが予測市場運営4社にノーアクションレターを発行し、特定の記録保管要件を免除。業界全体の取引高は2025年1-10月で279億ドル（約4兆2000億円）に達し、急成長が続いている。"
+  },
+  {
+    "title": "Dogecoin Hovers Near Key Support as Fed Easing Fails to Spark Risk Rally",
+    "link": "https://www.coindesk.com/markets/2025/12/12/dogecoin-hovers-near-key-support-as-fed-easing-fails-to-spark-risk-rally",
+    "pubDate": "Fri, 12 Dec 2025 05:45:24 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Despite elevated trading activity, Dogecoin faces resistance near $0.1425, and its future movement is likely dependent on broader market sentiment."
+  },
+  {
+    "title": "Stablecoins Get Backing From Cross-Party UK Lawmakers Urging Pro-Innovation Rules",
+    "link": "https://www.coindesk.com/markets/2025/12/12/stablecoins-get-backing-from-cross-party-uk-lawmakers-urging-pro-innovation-rules",
+    "pubDate": "Fri, 12 Dec 2025 05:43:19 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "The group calls for a forward-looking framework to maintain the U.K.'s fintech leadership and attract international investment."
+  },
+  {
+    "title": "YouTube Now Lets US Creators Take Earnings in PayPal's Stablecoin: Report",
+    "link": "https://decrypt.co/352125/youtube-us-creators-take-earnings-paypals-stablecoin",
+    "pubDate": "Fri, 12 Dec 2025 05:37:31 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "YouTube has reportedly adopted the feature shortly after PayPal enabled PYUSD as a payout method for recipients in the third quarter."
+  },
+  {
+    "title": "CFTC pulls ‘actual delivery’ crypto guidance, giving flexibility to exchanges",
+    "link": "https://cointelegraph.com/news/cftc-withdraws-crypto-actual-delivery-guidance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 12 Dec 2025 05:20:26 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "The CFTC has scrapped its guidance on how crypto is delivered in a transaction, giving “way more flexibility for exchanges,” says StarkWare's Katherine Kirkpatrick Bos."
+  },
+  {
+    "title": "YouTube enables PYUSD stablecoin payouts for US creators: Report",
+    "link": "https://cointelegraph.com/news/youtube-enables-pyusd-stablecoin-payouts-for-us-creators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 12 Dec 2025 04:59:30 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Fortune reported that YouTube is allowing creators to be paid in PayPal's stablecoin, a potential boon for adoption due to the platform's size."
+  },
+  {
+    "title": "Elliptic Flags Global Crypto Pivot as Banks, Stablecoins and Asian Hubs Take the Lead",
+    "link": "https://decrypt.co/352121/elliptic-global-crypto-pivot-banks-stablecoins-asian-hubs",
+    "pubDate": "Fri, 12 Dec 2025 04:58:52 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Elliptic noted a worldwide pivot toward innovation, highlighting U.S. shifts, stablecoin adoption, and APAC–Middle East regulatory momentum."
+  },
+  {
+    "title": "コインベース、予測市場とトークン化株式ローンチ予定＝ブルームバーグ",
+    "link": "https://coinpost.jp/?p=673888",
+    "pubDate": "Fri, 12 Dec 2025 13:55:32 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "米最大手仮想通貨取引所コインベースが12月17日に予測市場とトークン化株式を発表予定。ジェミニのCFTCライセンス取得やDTCCのトークン化承認など、業界の競争激化と規制進展が加速している。"
+  },
+  {
+    "title": "XRP Lands on Solana, Ethereum and Others, in Boost for Ripple Ecosystem",
+    "link": "https://www.coindesk.com/markets/2025/12/12/xrp-lands-on-solana-ethereum-and-others-in-boost-for-ripple-ecosystem",
+    "pubDate": "Fri, 12 Dec 2025 04:45:00 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "Wrapped XRP will be tradable on Solana, Ethereum and other chains, allowing exposure across DeFi applications without unregulated third-party bridges."
+  },
+  {
+    "title": "Bitcoin's Persistent Long-Term Buyers Step In as Market Struggles For Liquidity",
+    "link": "https://decrypt.co/352113/bitcoins-persistent-long-term-buyers-market-struggles-liquidity",
+    "pubDate": "Fri, 12 Dec 2025 04:39:16 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Experts remain cautiously optimistic as macro hurdles clear amid Bitcoin whale accumulation and liquidity drying up ahead of the holidays."
+  },
+  {
+    "title": "テラフォームラボのド・クォン創業者に懲役15年の判決　ステーブルコインUST崩壊背景に",
+    "link": "https://coinpost.jp/?p=673865",
+    "pubDate": "Fri, 12 Dec 2025 13:20:57 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "テラフォームラボのド・クォン創業者に米国地裁で懲役15年の判決。2022年のアルゴリズム型ステーブルコインUST崩壊により数兆円の被害をもたらしていた。"
+  },
+  {
+    "title": "YouTube、クリエイター報酬でペイパルのステーブルコイン支払いに対応",
+    "link": "https://coinpost.jp/?p=673881",
+    "pubDate": "Fri, 12 Dec 2025 13:10:18 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "フォーチューン誌によると、ユーチューブが動画プラットフォームのクリエイターに対し、ペイパルのステーブルコインPYUSDでの報酬受け取りを選択できるようにした。現在は米国ユーザーのみに適用される。"
+  },
+  {
+    "title": "Bitcoin bounces on Fed rate cut with bigger rally ahead predicted",
+    "link": "https://cointelegraph.com/news/crypto-markets-bounce-fed-rate-cut-analysts-predict-bigger-rally-ahead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 12 Dec 2025 04:05:08 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Crypto markets rebounded after the Fed’s third rate cut this year, with analysts predicting a larger bounce following the typical post-cut pattern."
+  },
+  {
+    "title": "Binance cozies up to Trump’s crypto platform with USD1 stablecoin links",
+    "link": "https://cointelegraph.com/news/binance-cozies-trumps-crypto-platform-adding-usd1-pairs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 12 Dec 2025 03:08:07 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Binance added a host of zero-fee trading pairs for the Trump family’s stablecoin and used it to back its own stablecoin collateral."
+  },
+  {
+    "title": "ビットコイン9万ドル割れから反発、売り圧力後退も流入資金は半減",
+    "link": "https://coinpost.jp/?p=673823",
+    "pubDate": "Fri, 12 Dec 2025 11:53:32 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "12日の暗号資産市場でビットコイン（BTC）はFOMC後に一時9万ドルを割り込んだが米国時間にかけて反発した。ただアナリストは売り圧力減少による反発と指摘し、ステーブルコイン流入が8月比50%減の760億ドルまで縮小した。新たな流動性回復まで上昇は限定的で、週足9万3000ドル確保が強気継続の条件に。"
+  },
+  {
+    "title": "Trump’s New AI Order Sets Up Federal Fight With US States Over Industry Regulation",
+    "link": "https://decrypt.co/352093/trumps-new-ai-order-sets-up-federal-fight-states-over-regulations",
+    "pubDate": "Fri, 12 Dec 2025 02:49:05 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The White House has directed the DOJ to challenge state AI laws and highlighted Colorado’s algorithmic discrimination statute."
+  },
+  {
+    "title": "SEC clears DTCC to offer securities market tokenization service",
+    "link": "https://cointelegraph.com/news/sec-clears-dtcc-to-offer-tokenization-service?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 12 Dec 2025 02:46:38 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "The Depository Trust and Clearing Corporation plans to tokenize stocks, ETFs and US Treasurys next year after receiving an SEC no-action letter."
+  },
+  {
+    "title": "Stablecoins Gain Ground in Blockchain Gaming as Studios Tighten Spending, Study Finds",
+    "link": "https://decrypt.co/352092/stablecoins-gain-ground-blockchain-gaming-studios-tighten-spending",
+    "pubDate": "Fri, 12 Dec 2025 02:39:01 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "New industry data shows developers leaning on stablecoins and disciplined business models as blockchain studios adjust to cooling markets."
+  },
+  {
+    "title": "コインベース、ソラナ系トークンの直接取引を開始　上場審査不要で即時売買",
+    "link": "https://coinpost.jp/?p=673855",
+    "pubDate": "Fri, 12 Dec 2025 11:35:33 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "米仮想通貨取引所大手コインベースが、アプリ内でソラナ系トークンをDEX経由で直接取引できる新機能を発表。従来の上場審査なしで数百万種類のトークンに即座にアクセス可能。1.2億ユーザーに順次展開予定。"
+  },
+  {
+    "title": "国税庁が調査結果を発表、暗号資産取引の追徴税額46億円に",
+    "link": "https://coinpost.jp/?p=673813",
+    "pubDate": "Fri, 12 Dec 2025 11:04:40 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "国税庁が令和6事務年度の調査結果を公表。暗号資産取引に対する追徴税額は46億円で前年比31%増、1件当たり745万円と全体平均の2.5倍に。政府は分離課税導入に向け調整を進めている。"
+  },
+  {
+    "title": "Bitcoin miners could boost corporate adoption as crypto treasury buys slow",
+    "link": "https://cointelegraph.com/news/bitcoin-miners-corporate-adoption-treasury-buying-slowdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 12 Dec 2025 01:42:04 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Bitcoin miners Marathon Digital Holdings, Riot Platforms and Hut 8 are already in the top ten largest public companies holding Bitcoin."
+  },
+  {
+    "title": "OpenAI Launches GPT-5.2 Amid Expanded Major Contracts",
+    "link": "https://decrypt.co/352081/gpt-5-2-launched-as-openai-expanded-major-contracts",
+    "pubDate": "Fri, 12 Dec 2025 01:20:57 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "OpenAI unveiled GPT-5.2, featuring upgrades for scientific, mathematical, and software tasks, as employers mull AI for technical work."
+  },
+  {
     "title": "米上院銀行委員会長、仮想通貨「クラリティ法案」で銀行幹部らと協議",
     "link": "https://coinpost.jp/?p=673780",
     "pubDate": "Fri, 12 Dec 2025 10:02:09 +0900",
@@ -21,39 +196,11 @@
     "contentSnippet": "米CFTCが仮想通貨の「現物引き渡し」に関する2020年ガイダンスを撤回。ファム委員長代行は「時代遅れで過度に複雑」と指摘し、規制簡素化へ。12月には現物取引承認やパイロットプログラム開始など、トランプ政権下で仮想通貨規制の整備が加速。"
   },
   {
-    "title": "コインベース、チェーンリンクのクロスチェーン技術を採用　ラップドトークンのサービス拡充へ",
-    "link": "https://coinpost.jp/?p=673776",
-    "pubDate": "Fri, 12 Dec 2025 09:35:01 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "仮想通貨取引所コインベースはチェーンリンクのクロスチェーン技術を採用。ビットコインのcbBTCやイーサリアムのcbETHなどラップドトークンの送金に活用する。"
-  },
-  {
-    "title": "米決済機関DTCCがトークン化サービス開始へ、SECから許可",
-    "link": "https://coinpost.jp/?p=673774",
-    "pubDate": "Fri, 12 Dec 2025 09:25:41 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "米預託信託決済機構DTCCの子会社DTCがSECから無措置書簡を取得し、DTC管理下の実世界資産をトークン化する新サービスの提供が承認された。2026年後半にサービス展開を開始する予定だ。"
-  },
-  {
-    "title": "ビットコイン、年末サンタ・ラリーの可能性低下　FRB利下げ後＝アナリスト分析",
-    "link": "https://coinpost.jp/?p=673743",
-    "pubDate": "Fri, 12 Dec 2025 08:20:24 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "FRBが25ベーシスポイントの利下げを実施した後、ビットコインが約9万ドルまで下落した。アナリストは年末のサンタ・ラリーが起こりにくいと分析しており、強気の確信は2026年初頭に先送りされている。"
-  },
-  {
     "title": "CFTC Gives No-Action Leeway to Polymarket, Gemini, PredictIt, LedgerX Over Data Rules",
     "link": "https://www.coindesk.com/policy/2025/12/11/cftc-gives-no-action-leeway-to-polymarket-gemini-predictit-ledgerx-over-data-rules",
     "pubDate": "Thu, 11 Dec 2025 22:36:24 +0000",
     "source": "CoinDesk",
     "contentSnippet": "The CFTC granted the operators of Polymarket, PredictIt, Gemini and LedgerX permission to skip certain recordkeeping requirements."
-  },
-  {
-    "title": "ステート・ストリートとギャラクシー、トークン化キャッシュ運用ファンドをローンチへ　まずはソラナに対応",
-    "link": "https://coinpost.jp/?p=673737",
-    "pubDate": "Fri, 12 Dec 2025 07:35:11 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "ステート・ストリートとギャラクシーは、トークン化したキャッシュ運用ファンドのローンチ計画を発表。まずは仮想通貨ソラナのブロックチェーンに対応し、将来的にはステラやイーサリアムなどにも拡大するとした。"
   },
   {
     "title": "Google's New Browser Promises to End the Tyranny of the Tab",
@@ -84,25 +231,11 @@
     "contentSnippet": "The Terraform Labs co-founder pleaded guilty to conspiracy and wire fraud in August."
   },
   {
-    "title": "米大手銀バンク・オブ・アメリカ、ビットコイン担保融資の準備進める＝報道",
-    "link": "https://coinpost.jp/?p=673731",
-    "pubDate": "Fri, 12 Dec 2025 06:55:28 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "資産規模1.7兆ドルのバンク・オブ・アメリカがビットコイン担保融資商品の準備を進めていると報じられた。主要米銀行による仮想通貨担保融資の提供は、仮想通貨と伝統金融の統合における重要な一歩となる。"
-  },
-  {
     "title": "Bitcoin, blockchain should form Pakistan’s new financial rail, minister says",
     "link": "https://cointelegraph.com/news/bitcoin-blockchain-pakistan-new-financial-rail-minister-mena-conference?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Thu, 11 Dec 2025 21:47:52 +0000",
     "source": "Cointelegraph",
     "contentSnippet": "The remarks signal Pakistan’s push to turn its grassroots crypto activity into a compliant, innovation-driven sector anchored by Bitcoin and digital-asset regulation."
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 11 Dec 2025 21:41:39 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
   },
   {
     "title": "Save the Children Launches Bitcoin Fund as Aid Groups Look for Faster Crisis Payments",
@@ -112,13 +245,6 @@
     "contentSnippet": "Save the Children introduced a Bitcoin fund aimed at speeding cash assistance during emergencies and expanding its use of crypto tools."
   },
   {
-    "title": "XRP buy signal flashes as funding rate turns deeply negative: Will bulls step in?",
-    "link": "https://cointelegraph.com/news/xrp-funding-rate-turns-negative-will-bulls-step-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 11 Dec 2025 21:40:00 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "XRP’s slide below $2 pushed its funding rates to extreme lows, an occurrence that generally incentivizes bulls to pile in. What’s holding traders back this time?"
-  },
-  {
     "title": "U.S. Financial-Risk Watchdog, FSOC, Erased Digital Assets as a Potential Hazard",
     "link": "https://www.coindesk.com/policy/2025/12/11/u-s-financial-risk-watchdog-fsoc-erased-digital-assets-as-a-potential-hazard-area",
     "pubDate": "Thu, 11 Dec 2025 21:31:14 +0000",
@@ -126,74 +252,11 @@
     "contentSnippet": "From Donald Trump's crypto-friendly regulators, the yearly report that once flagged financial-stability risks is no longer issuing \"vulnerability\" warnings."
   },
   {
-    "title": "Netflix teases comedy movie about missing $35M crypto password",
-    "link": "https://cointelegraph.com/news/netflix-comedy-movie-missing-crypto-password?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 11 Dec 2025 21:30:00 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "The film, titled \"One Attempt Remaining,\" about a couple trying to regain access to millions of dollars worth of crypto, mirrors real-world crypto dilemmas."
-  },
-  {
     "title": "Bitcoin Rebounds to $93K From Post-Fed Lows, but Altcoins Remain Under Pressure",
     "link": "https://www.coindesk.com/markets/2025/12/11/bitcoin-rebounds-to-usd93k-from-post-fed-lows-but-altcoins-remain-under-pressure",
     "pubDate": "Thu, 11 Dec 2025 21:24:11 +0000",
     "source": "CoinDesk",
     "contentSnippet": "Downward pressure on bitcoin is losing steam, with the market stabilizing but not yet out of the woods, said one analyst."
-  },
-  {
-    "title": "英上場企業サツマ・テクノロジー、保有BTCの約半数を売却　社債返済目的で",
-    "link": "https://coinpost.jp/?p=673713",
-    "pubDate": "Fri, 12 Dec 2025 06:15:56 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "英国のビットコイン関連技術企業サツマ・テクノロジーが11日、保有する1199BTCのうち579BTCを売却し、約4000万ポンドの純収入を得たと発表した。売却後も620BTCを保有し現金約9000万ポンドを確保している。"
-  },
-  {
-    "title": "HIVE tests investor appetite for AI-Bitcoin infrastructure in Andean markets",
-    "link": "https://cointelegraph.com/news/hive-listing-colombia-ai-bitcoin-infrastructure-andean-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 11 Dec 2025 21:10:00 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "HIVE’s Colombia listing provides Andean investors with access to the growing digital infrastructure sector as Bitcoin miners shift their focus toward AI and HPC."
-  },
-  {
-    "title": "Xiaomi to pre-install Sei crypto wallet on millions of phones in global rollout",
-    "link": "https://cointelegraph.com/news/xiaomi-pre-install-sei-crypto-wallet-smartphones?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 11 Dec 2025 20:55:19 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "The partnership gives Sei direct mobile distribution across key crypto markets and includes plans to pilot stablecoin payments in 2026."
-  },
-  {
-    "title": "21シェアーズがXRP現物ETFを上場、「TOXR」で取引開始",
-    "link": "https://coinpost.jp/?p=673696",
-    "pubDate": "Fri, 12 Dec 2025 05:55:03 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "スイスの資産運用会社21シェアーズが11日、XRP現物ETFを米CBOE取引所に上場した。コインベース、アンカレッジ・デジタル・バンク、ビットゴーがカストディアンを務める。"
-  },
-  {
-    "title": "Myriad Moves: Will Santa Bring a Pump or Dump for Bitcoin, Ethereum and Solana?",
-    "link": "https://decrypt.co/352057/myriad-moves-santa-bring-pump-dump-bitcoin-ethereum-solana",
-    "pubDate": "Thu, 11 Dec 2025 20:45:08 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Top markets on Myriad this week include predictions on Ethereum's next move, if Bitcoin is headed back to $100K, and Solana’s next milestone."
-  },
-  {
-    "title": "Ether price trend forecasts triple-digit rally as ETH ETF inflows resume",
-    "link": "https://cointelegraph.com/news/ether-price-trend-predicts-mega-rally-as-etf-inflows-resume?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 11 Dec 2025 20:41:08 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Spot ETH ETF inflows resumed, while demand for taker volume improved. Will Ether’s futures markets follow the trend and kickstart a rally toward new all-time highs?"
-  },
-  {
-    "title": "JPモルガンがソラナ上で初の債券発行を実施、77億円相当のコマーシャルペーパー",
-    "link": "https://coinpost.jp/?p=673685",
-    "pubDate": "Fri, 12 Dec 2025 05:35:47 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "JPモルガン・チェースが11日、ギャラクシー・デジタル向けに5000万ドルのコマーシャルペーパーを初めてソラナブロックチェーン上で発行したと発表した。"
-  },
-  {
-    "title": "J.P. Morgan taps Solana for Galaxy’s tokenized corporate bond issuance",
-    "link": "https://cointelegraph.com/news/jp-morgan-tokenized-galaxy-bond-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 11 Dec 2025 20:35:07 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "The tokenized commercial bond is one of the earliest transactions of its kind in the budding sector of onchain debt and credit instruments."
   },
   {
     "title": "Chainlink's LINK Drops 5% Despite Coinbase Bridge Deal, But Bottoming Signs Emerge",
@@ -215,68 +278,5 @@
     "pubDate": "Thu, 11 Dec 2025 19:52:07 +0000",
     "source": "CoinDesk",
     "contentSnippet": "The updated protocol, x402 V2, allows developers to combine payments, enable secure wallet access, and add new features via a clean, modular design."
-  },
-  {
-    "title": "Do Kwon’s Sentencing Hearing Drags on as Court Weighs Mountain of Victim Testimony",
-    "link": "https://www.coindesk.com/policy/2025/12/11/do-kwon-s-sentencing-hearing-drags-on-as-court-weighs-mountain-of-victim-testimony",
-    "pubDate": "Thu, 11 Dec 2025 19:47:32 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "District Judge Paul Engelmeyer offered the Terraform Labs co-founder the chance to postpone his sentencing date, in light of hundreds of victim impact statements shared with the court in the past 24 h"
-  },
-  {
-    "title": "U.S. Senate Rolls Toward Last Vote on Confirming Crypto Regulators at CFTC, FDIC ",
-    "link": "https://www.coindesk.com/policy/2025/12/11/u-s-senate-rolls-toward-last-vote-on-confirming-crypto-regulators-at-cftc-fdic",
-    "pubDate": "Thu, 11 Dec 2025 19:23:43 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "In the prolonged process of the Senate, two key officials have faced a series of procedural steps on their way to a final vote, possibly early next week."
-  },
-  {
-    "title": "JPMorgan Pushes Deeper Into Tokenization With Galaxy's Debt Issuance on Solana",
-    "link": "https://www.coindesk.com/business/2025/12/11/jpmorgan-pushes-deeper-into-tokenization-with-galaxy-s-debt-issuance-on-solana",
-    "pubDate": "Thu, 11 Dec 2025 19:16:30 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Galaxy’s onchain debt deal, where JP Morgan acted as arranger, was settled in USDC stablecoin and backed by Coinbase and Franklin Templeton."
-  },
-  {
-    "title": "Vote on Trump’s CFTC chair pick could come today, US senator says",
-    "link": "https://cointelegraph.com/news/senate-michael-selig-vote-cftc-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 11 Dec 2025 19:12:02 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Senators could vote on Michael Selig's nomination to head the CFTC, which, if successful, is expected to lead to the departure of acting Chair Caroline Pham."
-  },
-  {
-    "title": "Binance Deepens Ties to Trump-Backed Stablecoin Following Founder’s Pardon",
-    "link": "https://decrypt.co/352035/binance-deepens-ties-trump-backed-stablecoin-following-founders-pardon",
-    "pubDate": "Thu, 11 Dec 2025 18:24:28 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "World Liberty Financial’s USD1 stablecoin is now a part of Binance’s core infrastructure, the President Trump-backed crypto project said."
-  },
-  {
-    "title": "Bitcoin Isn’t Buying What the Fed Is Selling: Here’s What the Charts Suggest Happens Next",
-    "link": "https://decrypt.co/352016/bitcoin-ethereum-price-fed-cut-charts-analysis",
-    "pubDate": "Thu, 11 Dec 2025 18:24:26 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "So much for that post-Fed relief rally. Bitcoin and Ethereum are again trending downwards, and the charts suggest bears are in control."
-  },
-  {
-    "title": "Klarna Teams With Stripe’s Privy to Build Crypto Wallet ‘For the Masses’",
-    "link": "https://decrypt.co/352015/klarna-teams-stripe-privy-build-crypto-wallet-masses",
-    "pubDate": "Thu, 11 Dec 2025 17:54:21 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Swedish fintech firm Klarna is working towards the launch of its own crypto wallet with Stripe-owned wallet infrastructure firm, Privy."
-  },
-  {
-    "title": "Disney Targets Google Over AI Copyright Violations—Alongside $1 Billion OpenAI Deal",
-    "link": "https://decrypt.co/352005/disney-targets-google-over-ai-copyright-violations-1-billion-openai-deal",
-    "pubDate": "Thu, 11 Dec 2025 17:05:04 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Disney says Google’s AI used its characters without permission, as it signed a new deal with OpenAI to allow character generation with Sora."
-  },
-  {
-    "title": "Some Bitcoin Buying Firms Are Selling as Losses Pile Up on Paper: Report",
-    "link": "https://decrypt.co/352002/some-bitcoin-buying-firms-selling-losses-pile-up",
-    "pubDate": "Thu, 11 Dec 2025 15:57:34 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "A report found that most Bitcoin-stacking firms sit on unrealized losses, with a handful selling the asset as its price fell last month."
   }
 ]
