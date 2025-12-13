@@ -1,5 +1,33 @@
 [
   {
+    "title": "Strategy survives first Nasdaq 100 shakeup since entering the index",
+    "link": "https://cointelegraph.com/news/strategy-nasdaq-100-first-rebalancing-bitcoin-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 13 Dec 2025 12:07:05 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Strategy remains in the Nasdaq 100 as MSCI considers excluding firms whose crypto holdings exceed 50% of total assets."
+  },
+  {
+    "title": "U.S. Market Structure Bill May Slide to January as Talks Continue Over Several Points",
+    "link": "https://www.coindesk.com/policy/2025/12/13/u-s-market-structure-bill-may-slide-to-january-as-talks-continue-over-several-points",
+    "pubDate": "Sat, 13 Dec 2025 12:00:00 +0000",
+    "source": "CoinDesk",
+    "contentSnippet": "While legislative language circulates among all four corners of the talks — industry, White House, Republicans and Democrats — the process is still mid-stride."
+  },
+  {
+    "title": "Spot volumes drop 66% in ‘lulls’ that often precede next cycle leg: Bitfinex",
+    "link": "https://cointelegraph.com/news/bitfinex-crypto-spot-volumes-drop-66-market-lull?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 13 Dec 2025 11:05:42 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Bitfinex said the recent 66% slide in spot trading volumes echoes lulls seen before next leg in the cycle."
+  },
+  {
+    "title": "Brazil’s largest private bank advises investors to allocate 3% to Bitcoin in 2026",
+    "link": "https://cointelegraph.com/news/itau-asset-recommends-3-percent-bitcoin-allocation-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 13 Dec 2025 07:30:12 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Brazil’s largest private bank says Bitcoin can improve portfolio diversification and hedge currency risk despite a volatile year for the asset."
+  },
+  {
     "title": "Crypto groups slam Citadel for urging tighter DeFi tokenization rules",
     "link": "https://cointelegraph.com/news/crypto-slams-citadel-call-tighter-defi-tokenization-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sat, 13 Dec 2025 05:37:24 +0000",
@@ -140,20 +168,6 @@
     "contentSnippet": "The US regulator's green light lets Bitnomial’s clearinghouse support prediction markets linked to crypto and economic events, expanding its regulated product and clearing offerings."
   },
   {
-    "title": "Bitcoin miners turn to renewable energy amid profit margin squeeze",
-    "link": "https://cointelegraph.com/news/bitcoin-miners-renewable-energy-profit-squeeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 12 Dec 2025 21:06:00 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Bitcoin mining hash price, a critical metric for determining profit margins in the industry, is hovering near record lows."
-  },
-  {
-    "title": "Crypto Biz: How Ripple quietly convinced Wall Street",
-    "link": "https://cointelegraph.com/news/ripple-40b-valuation-wall-street-xrp-stablecoins-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 12 Dec 2025 21:00:00 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Ripple’s post-SEC rebound is drawing Wall Street backing, including a $40 billion valuation deal with downside protection— and some investors betting on XRP."
-  },
-  {
     "title": "Crypto Firm Tether Says It Wants to Take Over Italian Football Club Juventus",
     "link": "https://www.coindesk.com/business/2025/12/12/crypto-firm-tether-moves-to-take-over-italian-football-club-juventus",
     "pubDate": "Fri, 12 Dec 2025 20:59:57 +0000",
@@ -166,13 +180,6 @@
     "pubDate": "Fri, 12 Dec 2025 20:57:55 +0000",
     "source": "Decrypt",
     "contentSnippet": "Stablecoin firm Tether is making a bid to acquire the famed Serie A Italian soccer club, Juventus, after previously taking a minority share."
-  },
-  {
-    "title": "Hate Ticketmaster? Onchain RWA tickets may succeed where regulators haven’t",
-    "link": "https://cointelegraph.com/news/tix-defi-onchain-settlement-live-event-ticketing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 12 Dec 2025 20:40:09 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "TIX is developing a DeFi-based settlement layer for live events, using onchain tickets to unlock venue financing and simplify payouts."
   },
   {
     "title": "Coinbase Preps Prediction Market, Tokenized Equities Launch for December 17: Report",
@@ -271,12 +278,5 @@
     "pubDate": "Fri, 12 Dec 2025 15:10:39 +0000",
     "source": "CoinDesk",
     "contentSnippet": "Phantom users will be able to chat and trade Kalshi's prediction markets with any Solana-based tokens, CEO said."
-  },
-  {
-    "title": "Most Influential: Changpeng “CZ” Zhao",
-    "link": "https://www.coindesk.com/business/2025/12/12/most-influential-changpeng-cz-zhao",
-    "pubDate": "Fri, 12 Dec 2025 15:00:00 +0000",
-    "source": "CoinDesk",
-    "contentSnippet": "Zhao’s exit from Binance did little to dim his prominence."
   }
 ]
