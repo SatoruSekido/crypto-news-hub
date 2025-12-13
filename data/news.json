@@ -1,5 +1,54 @@
 [
   {
+    "title": "Crypto groups slam Citadel for urging tighter DeFi tokenization rules",
+    "link": "https://cointelegraph.com/news/crypto-slams-citadel-call-tighter-defi-tokenization-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 13 Dec 2025 05:37:24 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "The DeFi Education Fund has led a rebuttal to Citadel Securities’ call for the SEC to bring DeFi platforms under securities laws if dealing in tokenized stocks."
+  },
+  {
+    "title": "米インタラクティブ・ブローカーズ、ステーブルコインでの口座入金を開始",
+    "link": "https://coinpost.jp/?p=674225",
+    "pubDate": "Sat, 13 Dec 2025 14:05:50 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "ステーブルコイン入金を導入ブルームバーグが報じたところによると、オンライン証券大手インタラクティブ・ブローカーズ・グループが、個人証券口座へのステーブルコインによる入金を可能にした。対象となる米国顧客の一部から段階的に導入されているという。..."
+  },
+  {
+    "title": "仮想通貨業界団体ら、シタデルに反論　「DeFiは仲介事業者ではない」",
+    "link": "https://coinpost.jp/?p=674205",
+    "pubDate": "Sat, 13 Dec 2025 13:35:55 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "DeFi教育基金など仮想通貨業界団体らが米SECに書簡を提出した。シタデル・セキュリティーズによるDeFi規制要求に反論し、自律的ソフトウェアは仲介者に該当しないと主張している。"
+  },
+  {
+    "title": "ブラジル金融大手イタウ、3%のビットコイン配分を推奨",
+    "link": "https://coinpost.jp/?p=674214",
+    "pubDate": "Sat, 13 Dec 2025 11:55:55 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "ブラジルの金融機関イタウがポートフォリオの1%から3%をビットコインに配分するよう推奨した。米国のバンク・オブ・アメリカやモルガン・スタンレーも最大4%の配分を提案している。"
+  },
+  {
+    "title": "ファントムウォレットが予測市場機能を導入、カルシと提携",
+    "link": "https://coinpost.jp/?p=674177",
+    "pubDate": "Sat, 13 Dec 2025 11:20:55 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "主要仮想通貨ウォレットのファントムが予測市場プラットフォームのカルシと提携し、ウォレット内で政治、スポーツ、文化イベントの契約を可能にする新機能を発表した。"
+  },
+  {
+    "title": "Pyth Network、トークンの買い戻しメカニズム「PYTH Reserve」を導入",
+    "link": "https://coinpost.jp/?p=674146",
+    "pubDate": "Sat, 13 Dec 2025 10:25:52 +0900",
+    "source": "CoinPost",
+    "contentSnippet": "分散型オラクルPyth Networkが、収益の一部で仮想通貨PYTHを毎月買い戻す新メカニズムを導入する。DAOの資金残高の3分の1程度を購入に充てる予定だ。"
+  },
+  {
+    "title": "Stablecoin giant Tether makes $1B bid to buy Juventus FC",
+    "link": "https://cointelegraph.com/news/tether-makes-1-billion-bid-buy-juventus-fc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 13 Dec 2025 01:11:57 +0000",
+    "source": "Cointelegraph",
+    "contentSnippet": "Tether says it will buy the controlling stake Exor has in Juventus, along with all remaining shares, an offer Exor has reportedly rebuffed."
+  },
+  {
     "title": "テザー、イタリアサッカー名門ユベントス買収を提案",
     "link": "https://coinpost.jp/?p=674138",
     "pubDate": "Sat, 13 Dec 2025 09:20:12 +0900",
@@ -91,13 +140,6 @@
     "contentSnippet": "The US regulator's green light lets Bitnomial’s clearinghouse support prediction markets linked to crypto and economic events, expanding its regulated product and clearing offerings."
   },
   {
-    "title": "米ムーディーズがステーブルコイン格付けフレームワークを提案、準備資産評価へ",
-    "link": "https://coinpost.jp/?p=674062",
-    "pubDate": "Sat, 13 Dec 2025 06:10:00 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "米大手格付け会社ムーディーズがステーブルコインを評価するための新たなフレームワークを提案した。ステーブルコインを裏付ける準備資産プールの各適格資産タイプを評価し、信用力に基づいて格付けを付与。"
-  },
-  {
     "title": "Bitcoin miners turn to renewable energy amid profit margin squeeze",
     "link": "https://cointelegraph.com/news/bitcoin-miners-renewable-energy-profit-squeeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 12 Dec 2025 21:06:00 +0000",
@@ -126,13 +168,6 @@
     "contentSnippet": "Stablecoin firm Tether is making a bid to acquire the famed Serie A Italian soccer club, Juventus, after previously taking a minority share."
   },
   {
-    "title": "リップルやサークルなど5社、米連邦信託銀行免許の条件付き承認を取得",
-    "link": "https://coinpost.jp/?p=674051",
-    "pubDate": "Sat, 13 Dec 2025 05:45:49 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "米通貨監督庁がリップル、サークル、ビットゴー、フィデリティ・デジタル・アセッツ、パクソスの5社に連邦認可信託銀行免許の条件付き承認を付与した。ステーブルコイン発行企業を連邦規制監督下に置く重要な一歩となる。"
-  },
-  {
     "title": "Hate Ticketmaster? Onchain RWA tickets may succeed where regulators haven’t",
     "link": "https://cointelegraph.com/news/tix-defi-onchain-settlement-live-event-ticketing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 12 Dec 2025 20:40:09 +0000",
@@ -140,25 +175,11 @@
     "contentSnippet": "TIX is developing a DeFi-based settlement layer for live events, using onchain tickets to unlock venue financing and simplify payouts."
   },
   {
-    "title": "Short-term Bitcoin traders were profitable for 66% of 2025: Will profits rise in 2026?",
-    "link": "https://cointelegraph.com/news/bitcoin-holders-were-in-profit-for-66percent-of-2025-what-will-next-year-bring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 12 Dec 2025 20:38:38 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "Short-term Bitcoin traders were profitable for 229 days this year despite the recent 30% correction in BTC price. Will this trend carry over into 2026?"
-  },
-  {
     "title": "Coinbase Preps Prediction Market, Tokenized Equities Launch for December 17: Report",
     "link": "https://decrypt.co/352224/coinbase-prediction-market-tokenized-equities-launch-december-17",
     "pubDate": "Fri, 12 Dec 2025 20:33:59 +0000",
     "source": "Decrypt",
     "contentSnippet": "Crypto exchange Coinbase is set to launch its own prediction market as they surge in both popularity and scrutiny."
-  },
-  {
-    "title": "Tools for Humanity expands World app toward super-app model",
-    "link": "https://cointelegraph.com/news/sam-altman-world-super-app-encrypted-messaging-stablecoin-human-id?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 12 Dec 2025 20:20:43 +0000",
-    "source": "Cointelegraph",
-    "contentSnippet": "The release introduces World Chat with end-to-end encryption, DeFi-powered yield via Morpho and QR-code payments at more than one million merchants in Argentina."
   },
   {
     "title": "XRP Is Launching on Ethereum and Solana—Here's Why (and How)",
@@ -257,26 +278,5 @@
     "pubDate": "Fri, 12 Dec 2025 15:00:00 +0000",
     "source": "CoinDesk",
     "contentSnippet": "Zhao’s exit from Binance did little to dim his prominence."
-  },
-  {
-    "title": "ソラナ公式が「XRP登場」を発表　wXRPが同日ローンチ",
-    "link": "https://coinpost.jp/?p=673944",
-    "pubDate": "Fri, 12 Dec 2025 16:19:53 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "ソラナ公式が12日、XRP統合を発表。ヘックス・トラストもwXRPのソラナローンチを同日発表し、1億ドル超のTVLを確保。レイヤーゼロ技術を活用したクロスチェーン機能で、ソラナDeFiでのXRP利用が実現へ。"
-  },
-  {
-    "title": "Animoca Brands Japan、ビットコイン分散型金融「Solv Protocol」とMOU締結",
-    "link": "https://coinpost.jp/?p=673919",
-    "pubDate": "Fri, 12 Dec 2025 15:10:07 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "アニモカジャパンはSolv ProtocolとMOUを締結し、企業のビットコイン保有・運用を支援するDAT領域で協力を拡大。BTCFi活用による財務戦略の高度化を目指す。"
-  },
-  {
-    "title": "米CFTC、ポリマーケットなど4社にデータ規制で柔軟対応",
-    "link": "https://coinpost.jp/?p=673913",
-    "pubDate": "Fri, 12 Dec 2025 14:57:42 +0900",
-    "source": "CoinPost",
-    "contentSnippet": "米CFTCが予測市場運営4社にノーアクションレターを発行し、特定の記録保管要件を免除。業界全体の取引高は2025年1-10月で279億ドル（約4兆2000億円）に達し、急成長が続いている。"
   }
 ]
